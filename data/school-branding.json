@@ -44,11 +44,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
-      "usage_notes": "Army West Point's official identity guide confirms the Athena Shield as the primary mark for all intercollegiate athletics; the Classic A is limited-use secondary and all other former marks were retired. The official image and raw CloudFront asset endpoints both failed to load in this pass, so no direct asset is recorded."
+      "usage_notes": "The official 2015 identity page explicitly names the Athena Shield as the primary mark for all intercollegiate athletics and the Classic A as limited-use secondary. The page's linked Athena Shield JPG resolves to a Sidearm image-conversion endpoint that fails access; the original CloudFront image also could not be opened. No direct asset is recorded. Official primary colors are Army Black, USMA Gold (Pantone 467 C), Gray (Cool Gray 5 C) and White."
     },
     "brand_source_url": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
     "verification_status": "partial",
-    "notes": "Athena Shield is the official primary mark for Army West Point intercollegiate athletics; Classic A remains limited-use secondary. The official article also confirms Army Black, USMA Gold (Pantone 467 C), Gray (Cool Gray 5 C) and White. Current logo hierarchy is confirmed, but direct asset capture remains blocked by the official image endpoint."
+    "notes": "Primary identity hierarchy confirmed: Athena Shield primary, Classic A limited-use secondary, all other former marks retired. Official 2015 athletics release specifies USMA Gold Pantone 467 C, Process Black C and Cool Gray 5 C; White is included in the palette. Official source and current 2025–26 athletics use corroborate identity, but the direct logo image endpoint remains inaccessible, so status stays partial."
   },
   {
     "school_id": "navy",
@@ -78,11 +78,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://cuse.com/news/2005/8/25/2005newlogo",
-      "usage_notes": "Syracuse Athletics officially designated the Block S as its primary athletics mark on August 25, 2005, superseding the 2004 interlocking SU as the department-wide primary mark. The linked 2005 Block S image was opened and visually inspected, but remains a dated historical asset; a current standalone artwork file is not yet captured. The 2025–26 Athletics Fund guide continues to show the Block S."
+      "usage_notes": "The 2005 Block S JPG linked from Syracuse Athletics was opened and visually inspected. The official article explicitly says Block S is the primary athletics mark and the interlocking SU was only retained temporarily during transition. This asset is dated 2005; current official 2025–26 materials continue to display Block S, but a current standalone file has not been captured. Therefore it remains a reference, not a verified current production asset."
     },
     "brand_source_url": "https://cuse.com/news/2005/8/25/2005newlogo",
     "verification_status": "partial",
-    "notes": "Important correction: the interlocking SU was introduced in 2004 but was superseded in August 2005 when Athletics designated the Block S as its primary mark. The 2005 official Block S image was visually inspected as a dated reference; a 2025–26 Athletics Fund guide also displays Block S, supporting continued current use. Do not use the interlocking SU as the primary simulator mark. Current direct standalone artwork and exact HEX palette remain to be captured."
+    "notes": "Identity hierarchy reaffirmed: Block S is the primary athletics mark; interlocking SU was a transition-era mark and should not be used as the primary identifier. The official 2005 standalone Block S image was directly opened and visually inspected, but is historical rather than a current-revision production asset. Current 2025–26 Athletics materials still display Block S; exact current standalone art and HEX palette remain outstanding."
   },
   {
     "school_id": "temple",
@@ -111,12 +111,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://scarletknights.com/documents/2026/9/30/RUA_Visual_Identity_2025_IVM.pdf",
-      "usage_notes": "Rutgers Athletics' official 2020 Visual Identity guide explicitly defines the Block R as the primary athletics identity, the Knight head as secondary, and New Jersey as tertiary; the current 2025/2026 athletics visual identity manual is now available and should supersede the older PDF for production decisions. The current guide's logo artwork was not captured as a clean standalone image. Marks are protected and may not be reproduced except as expressly permitted."
+      "logo_source_page": "https://scarletknights.com/documents/download/2020/10/13/RUA_Visual_Identity_v2_0_1.pdf",
+      "usage_notes": "The official Rutgers Athletics Visual Identity Reference Guide labels the Block R as PRIMARY, Knight head as SECONDARY and New Jersey silhouette as TERTIARY. The official PDF reference board was visually inspected, but it is a composite board rather than a standalone production asset. Rutgers' 2016 athletics identity announcement explicitly says Block R remains the primary athletics logo. Current 2026 athletics materials continue to feature Block R. No clean current standalone asset captured; protected marks require authorization."
     },
     "brand_source_url": "https://scarletknights.com/documents/2026/9/30/RUA_Visual_Identity_2025_IVM.pdf",
     "verification_status": "partial",
-    "notes": "Rutgers Athletics' official identity system defines Block R as primary, Knight head as secondary, and New Jersey silhouette as tertiary. The 2025/2026 athletics identity manual is the current source; the 2020 guide provides explicit hierarchy and colors. Scarlet #CC0033, Black #000000 and White #FFFFFF. No standalone primary artwork captured; trademarks may not be reproduced without authorization."
+    "notes": "Primary Block R / secondary Knight head / tertiary New Jersey hierarchy reaffirmed by official Rutgers Athletics identity guide. 2016 Athletics release explicitly states Block R continues as the primary logo; 2026 official athletics material continues to use Block R. Current 2026 baseball game notes list Scarlet #CF102D, while legacy visual guide uses older scarlet specification; retained database palette pending a current master color spec. Composite reference guide inspected; no clean standalone current asset captured."
   },
   {
     "school_id": "penn-state",
@@ -129,11 +129,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.psu.edu/visual-identity-standards/other-university",
-      "usage_notes": "Penn State's Brand Book confirms the Primary Athletics Mark is the right-facing Nittany Lion head, using Nittany Navy and White Out; it must not be reversed, altered, or used for non-athletics communications. The official primary-mark image was opened and visually inspected, but it is embedded in a guideline-board graphic rather than supplied as a clean standalone production file. Third-party use requires Licensing Programs approval."
+      "usage_notes": "Current Penn State Brand Book explicitly identifies the Primary Athletics Mark as a distinct special-use mark, separate from the institutional Nittany Lion shield and logotype. The official linked image was opened and visually inspected; it is embedded in a guideline-board JPG rather than supplied as a standalone logo file, so no direct asset is recorded. The Lion head must always face right, retain white portions and outline, and not be altered. Non-Athletics use requires Licensing Programs approval."
     },
     "brand_source_url": "https://brand.psu.edu/design-toolkit/design-essentials",
     "verification_status": "partial",
-    "notes": "The official Primary Athletics Mark is the right-facing Nittany Lion head, in Nittany Navy and White Out, distinct from the institutional Nittany Lion shield and logotype. The official guideline-board image was visually inspected, but no clean standalone asset file was retrieved. Third-party use requires Licensing Programs approval; merchandise must be produced by licensed vendors."
+    "notes": "The current Brand Book explicitly confirms the primary athletics mark is the right-facing Nittany Lion head and is separate from the institutional University mark. Official linked image opened and visually inspected as a composite guideline-board image; no standalone asset captured, so remains partial. Athletics mark uses Nittany Navy (Pantone 282) and White Out; never reverse, alter or remove white portions. External use requires Licensing Programs approval."
   },
   {
     "school_id": "pittsburgh",
@@ -163,11 +163,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.uconn.edu/visual-identity/husky-dog-logo/",
-      "usage_notes": "UConn's official Brand Standards page and Quick Brand Guide identify the Husky Dog as the official logo of UConn Division I sports teams, reserved primarily for athletic uniforms and retail merchandise. The official page links to a SharePoint downloads area, but the standalone logo file is not publicly exposed in the accessible page content. The Husky Dog is a registered UConn trademark; do not substitute the institutional UConn wordmark or Oak Leaf."
+      "usage_notes": "UConn's current Brand Standards page links its downloads to an access-controlled SharePoint area. The 2025 UConn Brand Training Guide explicitly states the Husky Dog is the official logo of UConn Division I sports teams and is reserved primarily for athletic uniforms and retail merchandise. No publicly accessible standalone current file could be captured. Do not substitute the institutional wordmark or Oak Leaf. The Husky Dog is a registered trademark."
     },
     "brand_source_url": "https://brand.uconn.edu/visual-identity/guidelines/",
     "verification_status": "partial",
-    "notes": "Confirmed: Husky Dog is the official logo of UConn Division I sports teams; it is reserved primarily for athletic uniforms and retail merchandise. The institutional UConn wordmark is the university's core logo and must not be substituted for the athletics Husky. The official download area is access-controlled and no direct standalone asset could be captured in this pass. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E. Trademark and licensed-vendor restrictions apply."
+    "notes": "Current identity hierarchy reconfirmed: Husky Dog is the official logo for UConn Division I sports teams, reserved primarily for uniforms and retail merchandise; institutional UConn wordmark and Oak Leaf are not substitutes. Current Brand Standards links downloads to SharePoint, and no standalone file was accessible. Palette remains Navy #000E2F, White #FFFFFF and Gray #7C878E. Trademark restrictions apply."
   },
   {
     "school_id": "delaware",
@@ -180,11 +180,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://bluehens.com/news/2013/8/28/209242576",
-      "usage_notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark and requires official artwork from Athletics Communications and/or Trademarks and Licensing. The official 2018 primary-mark JPG is linked from the page but the Sidearm image conversion endpoint returned an inaccessible redirect in this pass, so no direct asset URL is recorded. Do not substitute the institutional university logo."
+      "usage_notes": "Delaware Athletics' official logo usage page confirms a distinct primary athletics mark and wordmark, and says marks must be reproduced from official artwork provided by Athletics Communications and/or Trademarks and Licensing. The official linked 2018 JPG redirects to an inaccessible Sidearm image conversion endpoint; no direct asset recorded. Do not substitute the university institutional mark. Official colors: Delaware Blue #00539F and Yellow-Gold #FFD200."
     },
     "brand_source_url": "https://bluehens.com/news/2013/8/28/209242576",
     "verification_status": "partial",
-    "notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark. Official colors: Delaware Blue #00539F and Delaware Yellow-Gold #FFD200. The official linked primary-mark image (2018 JPG) could not be retrieved because the image handler redirects to an inaccessible CDN conversion endpoint. Official artwork must be requested from Athletics Communications or Trademarks and Licensing. A 2026 vintage-inspired campaign is a separate retro product identity and does not establish the current primary mark."
+    "notes": "Official Athletics source confirms a distinct primary athletics mark and wordmark and requires approved official artwork. Linked primary-mark JPG redirects to inaccessible Sidearm image handler; no direct asset captured. Official RGB/HEX colors confirmed: Delaware Blue #00539F and Yellow-Gold #FFD200. Do not substitute institutional university logo. Retro campaign marks are not proof of current primary identity."
   },
   {
     "school_id": "maryland",
