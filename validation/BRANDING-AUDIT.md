@@ -48,6 +48,21 @@ The following official references and usage restrictions were refreshed in `data
 | North Texas | [UNT Athletics 2025 Branding Guide](https://meangreensports.com/documents/download/2025/8/19/UNT_Athletics_Branding_Guide_2025.pdf) and [Logo Usage](https://meangreensports.com/sports/2018/7/6/ot-logos-html) | UNT Green `#00853E`, White `#FFFFFF`, Black `#000000` | Athletics mark is for Athletics Department use; contact Athletics Communications for permission. |
 | Sam Houston | [Sam Houston Athletics Branding](https://www.shsu.edu/offices-departments/integrated-marketing-communications/athletics-branding) | SHSU Orange `#F56423`, White `#FFFFFF`, Jade `#004853` | Bearkat athletics marks are trademarked and reserved for official athletics business and approved partners; non-athletics use requires written approval. |
 
+## Southwest — batch 3
+
+The following six records were refreshed in `data/school-branding.json`. Official athletics/university identity sources and color references were checked. All six remain **partial** because this pass did not capture and visually inspect a direct PNG/SVG athletics asset.
+
+| School | Official source(s) | Findings |
+|---|---|---|
+| Arizona | [Arizona logo guidance](https://marcom.arizona.edu/brand-guidelines/logos) and [Arizona Athletics identity](https://arizonawildcats.com/sports/2013/4/18/208236680) | Distinguish the Block A from the Wildcat Face athletics mark. The Wildcat Face has approved color restrictions; vintage marks are not general-use substitutes. |
+| Arizona State | [Sun Devil Athletics guidelines](https://brandguide.asu.edu/brand-elements/unit-specific/athletics) and [Spirit marks](https://brandguide.asu.edu/elements-guidelines/logos/spirit) | Athletics pitchfork is the current primary athletics mark, in use since 2011–12; Sparky is a separate spirit mark. Athletics marks are reserved for Sun Devil Athletics and Brand Council approval. |
+| Colorado | [Colorado Athletics official art sheet](https://cubuffs.com/documents/download/2022/1/28/colorado_boulder_art_sheet.pdf) and [CU color guide](https://www.colorado.edu/brand/color) | Art sheet lists Buffalo/OU and CU marks as primary marks. CU Gold is `#CFB87C`, with black and white. Licensing approval is required. |
+| Utah | [Utah Athletics 2023–24 branding guide](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/utahutes.com/documents/2023/8/23/ATH_2023-24_Branding_Guide.pdf) and [Licensing & trademarks](https://utahutes.com/sports/2022/5/26/nil-licensing-trademarks) | Block U and athletics wordmarks are documented; Red `#BE0000`, Grey `#737271`, with Red and White as team colors. Protected marks require licensing approval. |
+| BYU | [BYU logos](https://brand.byu.edu/logos) and [BYU colors](https://brand.byu.edu/colors) | BYU Navy `#002E5D` and White `#FFFFFF`. The monogram/Y is protected and must not be recreated or altered; athletics asset access and licensing still need confirmation. |
+| Texas State | [Texas State Athletics traditions](https://txst.com/sports/2010/7/29/GEN_0729105908.aspx?path=sp) and [official color guide](https://brand.txst.edu/visual-identity/colors.html) | Bobcat is the official athletics mascot. Maroon `#501214`, Dark Gold `#AC9155`, and Bright Gold `#D7BD8A`; current TXST university identity is distinct from historic athletics marks. |
+
+No direct primary-mark asset URL was added for this batch. Current/historical mark distinctions and the licensing notes are preserved; the six records remain partial until actual files are captured, opened and visually checked.
+
 ## Next steps
 
 1. Continue with the next Southwest batch.
