@@ -1874,17 +1874,17 @@
     "school_name": "Rice",
     "colors": {
       "primary": "#00205B",
-      "secondary": "#C1C6C8",
+      "secondary": "#7C7E7F",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://riceowls.com/documents/download/2019/8/19/Rice_Athletics_Brand_Guide.pdf",
-      "usage_notes": "Rice Athletics has a distinct athletics identity system with official marks, wordmarks, typography and color rules. The Athenian Owl is a complementary university mark, not a substitute for the primary Rice identity. Use athletics-approved artwork and contact Rice Athletics for usage permission; commercial use requires licensing."
+      "logo_source_page": "https://riceowls.com/sports/2018/7/17/ot-rice-licensing-html",
+      "usage_notes": "Rice Athletics maintains a distinct athletics identity system; the official athletics brand guide and licensing page direct users to Athletics for logo database access and usage guidance. The university Athenian Owl is complementary and must not be substituted for the primary athletics identity. No direct public athletics PNG/SVG was captured in this pass; commercial use requires licensing."
     },
     "brand_source_url": "https://brand.rice.edu/colors",
     "verification_status": "partial",
-    "notes": "Rice brand palette specifies Rice Blue #00205B, Gray #C1C6C8 and White #FFFFFF. Athletics Owl head and Rice wordmarks are controlled identity assets."
+    "notes": "Rice's current official brand palette specifies Rice University Blue #00205B and Rice University Gray #7C7E7F; white is an approved logo color. Rice Athletics logos are a distinct identity system. Official athletics logo database access is by request; no direct downloadable athletics asset was verified."
   },
   {
     "school_id": "utsa",
@@ -1896,12 +1896,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://goutsa.com/sports/2018/6/11/branding",
-      "usage_notes": "UTSA Roadrunners' athletics identity uses the Roadrunner head mark and block-A marks within a distinct athletics logo system. The correct athletics name is UTSA Roadrunners. Use approved artwork and follow UTSA brand, trademark and licensing requirements; do not recreate logos from screenshots or alternate sources."
+      "logo_source_page": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
+      "usage_notes": "UTSA Athletics identifies the Roadrunner head as its primary logo mark and provides a comprehensive brand/style guide and art-sheet route. The guide restricts use in uniforms, merchandise and venues without prior approval. The official art sheet is the proper route to approved production artwork; no direct downloadable PNG/SVG was captured in this pass."
     },
-    "brand_source_url": "https://www.utsa.edu/identity/",
+    "brand_source_url": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
     "verification_status": "partial",
-    "notes": "UTSA brand identity uses Blue #0C2340 and Orange #F15A22, with White as a support color. Athletics Roadrunner marks and university logos are governed by official identity/licensing standards."
+    "notes": "UTSA Athletics' official identity guide documents the Roadrunner primary mark and controlled use. UTSA legacy athletics colors are Midnight Blue #0C2340 and Orange #F15A22, with white as a support/reverse color. Current UT San Antonio university-wide rebrand does not itself replace the distinct Roadrunners athletics identity."
   },
   {
     "school_id": "texas-tech",
@@ -1914,11 +1914,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
-      "usage_notes": "Texas Tech Athletics' expanded identity system is anchored by the Double T and includes secondary Masked Rider, Raiderland, spirit, sport-specific and wordmark assets. The official page says preview images are reference-only; production artwork must come through approved licensing channels. Never recreate or alter marks. Primary Raider Red #C30020, Rider Black #000000, Ghost White #FFFFFF."
+      "usage_notes": "Texas Tech Athletics' 2026 identity system is anchored by the Double T and includes secondary and sport-specific marks. The official page explicitly states preview images are reference-only and must not be copied, downloaded, recreated or used; production artwork must be obtained through approved Athletics licensing channels. No direct downloadable PNG/SVG is available from the public preview."
     },
     "brand_source_url": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
     "verification_status": "partial",
-    "notes": "Texas Tech Athletics 2026 identity guide specifies Raider Red #C30020, Rider Black #000000 and Ghost White #FFFFFF; Classic White #F1F0D8 is also listed as a distinct white option."
+    "notes": "Texas Tech Athletics' current 2026 identity page specifies Raider Red #C30020, Rider Black #000000 and Ghost White #FFFFFF. The Double T anchors the athletics system. Preview artwork is not production art; obtain approved files through Athletics licensing."
   },
   {
     "school_id": "north-texas",
@@ -1930,29 +1930,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/meangreensports.com/documents/2025/8/19/UNT_Athletics_Branding_Guide_2025.pdf?timestamp=20250819081224",
-      "usage_notes": "UNT Athletics' 2025 branding guide defines official Mean Green marks, wordmarks, colors and usage standards. The athletics logo is specifically for athletics purposes and is not a general university mark; permission is required for other uses. Use original approved artwork and do not reconstruct marks."
+      "logo_source_page": "https://meangreensports.com/sports/2018/7/6/ot-logos-html",
+      "usage_notes": "UNT Athletics states its North Texas athletics logo was designed specifically for the Athletics Department and is not a general university mark; permission must be requested from Athletics Communications. The 2025 athletics branding guide documents official marks and color use. No direct downloadable PNG/SVG was captured in this pass."
     },
-    "brand_source_url": "https://brand.unt.edu/colors",
+    "brand_source_url": "https://meangreensports.com/documents/download/2025/8/19/UNT_Athletics_Branding_Guide_2025.pdf",
     "verification_status": "partial",
-    "notes": "UNT official brand standards identify Green #00853E and White #FFFFFF as core colors, with Black as a supporting neutral. Athletics marks and institutional logos have controlled usage rules."
+    "notes": "UNT Athletics' 2025 branding guide confirms UNT Green #00853E, White #FFFFFF and Black #000000. Athletics marks are specifically for athletics use; non-athletics use requires permission from Athletics Communications. No direct asset file was opened and visually inspected."
   },
   {
     "school_id": "sam-houston",
     "school_name": "Sam Houston",
     "colors": {
-      "primary": "#F76900",
+      "primary": "#F56423",
       "secondary": "#FFFFFF",
-      "accent": "#000000"
+      "accent": "#004853"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gobearkats.com/news/2020/4/16/athletics-faqs-about-new-branding",
-      "usage_notes": "Sam Houston Bearkat Athletics' 2020 identity established the SH-Paw as its primary mark and the Bearkat Paw as a secondary mark. The 2024 Sammy Bearkat sailor-hat design is an alternate mark for limited athletics and retail use, not the primary identity. Athletics logos are trademarked and non-athletics use requires written approval."
+      "logo_source_page": "https://www.shsu.edu/offices-departments/integrated-marketing-communications/athletics-branding",
+      "usage_notes": "Sam Houston Bearkat athletics marks are trademarked property of Sam Houston Athletics and reserved for official athletics business and approved partners. Non-athletics use requires written approval; the current Athletics Branding page links official mark guidelines and permission contacts. No direct downloadable athletics PNG/SVG was captured in this pass."
     },
-    "brand_source_url": "https://www.shsu.edu/dept/marketing/brand-guidelines/",
+    "brand_source_url": "https://www.shsu.edu/offices-departments/integrated-marketing-communications/athletics-branding",
     "verification_status": "partial",
-    "notes": "Sam Houston official identity references Orange #F76900 and White #FFFFFF as school colors; Black is a supporting neutral. Athletics Bearkat marks are protected identity assets."
+    "notes": "Sam Houston's current official brand guide specifies SHSU Orange #F56423 and White #FFFFFF as primary colors, with Jade #004853 as an accent. Athletics marks remain separately controlled and are trademarked; the current Athletics Branding page governs permission and use. The SH-Paw and Sammy head marks are not interchangeable with institutional primary logos."
   },
   {
     "school_id": "boise-state",
