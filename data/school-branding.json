@@ -743,16 +743,16 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://wku.edu/brand/",
+    "verification_status": "partial",
+    "notes": "WKU official university brand resource added as the starting point for athletics identity review. Exact athletics palette HEX/Pantone values and an approved primary athletics logo asset still require confirmation; no colors inferred."
   },
   {
     "school_id": "umass",
     "school_name": "UMass",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
@@ -760,26 +760,26 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.umass.edu/university-relations/sites/default/files/2024-01/UMass_Athletics_Style_Guide-a11y.pdf",
+    "verification_status": "partial",
+    "notes": "UMass Amherst Athletics official style guide specifies Maroon (Pantone Red 202 C), Grey (32% Process Black), Black (Process Black) and White for official marks. No HEX values entered because the athletics guide uses Pantone specifications; check the 2026 updated university digital maroon specification before assigning a HEX."
   },
   {
     "school_id": "middle-tennessee",
     "school_name": "Middle Tennessee",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0066CC",
+      "secondary": "#FFFFFF",
+      "accent": "#F0F0F0"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://goblueraiders.com/documents/download/2025/6/5/mt_athletic_brand_guide_2025.pdf",
+    "verification_status": "partial",
+    "notes": "2025 Middle Tennessee Athletics brand guide specifies Digital & Non-Apparel Blue RGB 0/102/204 (#0066CC), White, Pewter RGB 240/240/240 (#F0F0F0) and Black. Apparel and Nike uniform blues have separate specifications. Official athletics marks must not be altered; use requires compliance with the guide."
   },
   {
     "school_id": "alabama",
