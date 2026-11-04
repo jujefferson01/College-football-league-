@@ -1199,29 +1199,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://arkansasrazorbacks.com/brand-guidelines/",
-      "usage_notes": "Arkansas Razorbacks Athletics' official brand guidelines govern its Razorback head, interlocking UA and wordmarks. The Razorback head is the athletics mascot mark; use approved files and do not alter proportions, colors or lockups. Trademark and licensing approval applies to external/commercial use."
+      "logo_source_page": "https://arkansasrazorbacks.com/wp-content/uploads/2025/11/24-25-Arkansas-Razorbacks-Brand-Style-Guide.pdf",
+      "usage_notes": "The current 2024–25 Arkansas Razorbacks Brand Style Guide defines the full-color One Razorback lockup as the primary full-color lockup (guide page 3). It separately labels the forward-running Razorback as the primary Running Razorback mark (page 5), and Forward Facing Hog as secondary. The One Razorback lockup is used when the Running Razorback mark does not otherwise appear on the collateral; secondary lockup omits the running hog for space or repeated-mark situations. Guide shows composite panels only; no direct standalone asset captured. Colors Cardinal #A41F35, White #FFFFFF, Black #222222 accent. Do not invert or add strokes; licensing applies."
     },
     "brand_source_url": "https://arkansasrazorbacks.com/licensing/",
     "verification_status": "partial",
-    "notes": "Arkansas Razorbacks licensing guide lists Cardinal #A41F35, White #FFFFFF, and Black #222222."
+    "notes": "Updated to current 2024–25 Athletics Brand Style Guide: One Razorback full-color lockup is the primary lockup; Running Razorback is separately the primary standalone mark; Forward Facing Hog is secondary. Do not conflate the full lockup with the standalone hog or use forward-facing hog as primary. Guide panels visually reviewed, no direct standalone asset captured. Cardinal #A41F35, White #FFFFFF, Black #222222 accent. Official trademarks subject to licensing."
   },
   {
     "school_id": "ole-miss",
     "school_name": "Ole Miss",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CE1126",
+      "secondary": "#14213D",
+      "accent": "#747679"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://olemisssports.com/sports/2024/7/1/athletics-brand-guidelines",
-      "usage_notes": "Ole Miss Athletics' official brand guidelines document the Landshark, script Ole Miss and interlocking UM marks and their approved use. Select the official primary athletics mark from the guide, use supplied artwork without modification and follow licensing restrictions."
+      "usage_notes": "Ole Miss Athletics' official legacy Athletics Style Guide explicitly defines the cursive Ole Miss script as its primary logo, with stacked and horizontal script variants. Rebels Script and Ole Miss M are secondary marks; Landshark is a football tradition/mascot and licensed special mark, not the primary athletics logo. The current 2024 guide landing page is official, but the guide file was not accessible in this pass; hierarchy/colors are confirmed in the available official-style guide copy, which may be older. No direct standalone current asset captured. Colors in that guide: Red #CE1126, Navy #14213D, Gray #747679; Red and Navy primary, Gray secondary. Current artwork should be requested from Ole Miss Athletics."
     },
     "brand_source_url": "https://olemisssports.com/sports/2018/7/20/traditions",
     "verification_status": "partial",
-    "notes": "Official Ole Miss Athletics traditions and style guide specify Cardinal Red (PMS 186) and Navy Blue (PMS 2767). Official sources provide Pantone references; HEX values are left null rather than converted or estimated."
+    "notes": "Primary identity corrected: Ole Miss cursive script (stacked/horizontal) is the primary athletics logo. Rebels Script and Ole Miss M are secondary; Landshark is a tradition/mascot/licensed special mark, not primary. Current official 2024 brand guide page located but document inaccessible; legacy official athletics guide specifies Red #CE1126, Navy #14213D, Gray #747679. No standalone asset captured; reconfirm current file from Athletics."
   },
   {
     "school_id": "mississippi-state",
@@ -1233,29 +1233,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://hailstate.com/documents/2023/8/10/MSU_Brand_Guide_2023.pdf",
-      "usage_notes": "Mississippi State Athletics' brand guide documents the primary M-State logo, Bulldogs marks, wordmarks and approved color palette. The primary athletics mark is M-State; use approved artwork and follow brand and trademark licensing rules."
+      "logo_source_page": "https://hailstate.com/documents/2023/8/31/23MSST_BrandGuide.pdf",
+      "usage_notes": "The official 2023 Mississippi State Athletics Identity Standards explicitly label M-State Mark as the primary mark, with Script State and wordmarks as secondary marks (guide page 1). Baseball has its own sport-specific primary M-over-S mark, which must not replace the all-athletics M-State identity. The guide provides composite colorway boards, not a standalone production file; no direct asset captured. Official colors Maroon #5D1725, White #FFFFFF, Gray #C1C6C8; Cool Gray #777777 is also included as a supporting neutral."
     },
     "brand_source_url": "https://hailstate.com/sports/2024/1/25/BrandingPortal",
     "verification_status": "partial",
-    "notes": "Mississippi State Athletics branding portal specifies Maroon #5D1725, White #FFFFFF and Gray #C1C6C8. Athletics identity standards document the primary Bulldog-head/STATE mark and secondary script and wordmarks."
+    "notes": "Corrected identity hierarchy: M-State mark is the all-athletics primary mark; Script State and wordmarks are secondary. Baseball-specific M-over-S is primary only within baseball, not the whole athletics department. Official 2023 guide visually/textually inspected; composite boards only, no standalone direct asset. Colors Maroon #5D1725, White #FFFFFF, Gray #C1C6C8; additional gray #777777."
   },
   {
     "school_id": "southern-miss",
     "school_name": "Southern Miss",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FFC72C",
+      "secondary": "#231F20",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://southernmiss.com/documents/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
-      "usage_notes": "Southern Miss Athletics' 2024 updated branding guide defines official Golden Eagles marks, wordmarks and colors. Use approved official artwork without altering the logo or its proportions; follow university trademark licensing requirements."
+      "logo_source_page": "https://southernmiss.com/documents/download/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
+      "usage_notes": "The official 2024-updated Southern Miss Athletics Branding Guide explicitly identifies the Eagle Head as the primary logo for all Athletics (page 3) and the Southern Miss wordmark as the primary wordmark for most athletics branding/promotional material (page 5). Golden Eagles wordmark is secondary and restricted to apparel/approved licensed material. Both primary identity assets appear in composite reference panels, not direct standalone files; no asset captured. Hub City Gold #FFC72C and Grit/Process Black #231F20; White is used for approved reversals. Eagle Head full-color version requires its white outline and registered mark; follow protected-area rules."
     },
     "brand_source_url": "https://southernmiss.com/documents/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
     "verification_status": "partial",
-    "notes": "Official Southern Miss Athletics Branding Guide (updated 2024; hosted September 2025) documents the primary Southern Miss wordmark and approved gold, black and white treatments. Exact official HEX values have not yet been extracted, so color fields remain null."
+    "notes": "Current 2024-updated guide resolves hierarchy: Eagle Head is the primary athletics logo; Southern Miss Wordmark is primary wordmark; Golden Eagles Wordmark is secondary. Gold #FFC72C and Grit Black #231F20; White for approved reversals. Composite boards only, no direct standalone production file captured. Full-color Eagle Head must retain white outline and ®; use protected clear space."
   },
   {
     "school_id": "tulane",
@@ -1268,28 +1268,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://tulanegreenwave.com/documents/download/2022/7/15/2022-23_Style_Guide_Final.pdf",
-      "usage_notes": "Tulane Athletics' official style guide documents the Green Wave identity, including the Angry Wave athletics mark, T-wave and wordmarks, with approved colors and use rules. Use exact supplied artwork and follow Tulane trademark/licensing restrictions."
+      "usage_notes": "The current official 2022–23 Tulane Athletics Style Guide labels Angry Wave as the PRIMARY MARK (page 3). This supersedes the older 2016 announcement that initially described Angry Wave as secondary while T-Wave remained primary; Tulane's updated branding history says Angry Wave became primary on July 1, 2017. T-Wave is secondary. The official guide shows multiple approved Angry Wave variants in composite panels, but no standalone direct file captured. Official palette is Dark Green PMS 342 and Blue PMS 279; White and Black are accents. No HEX values were supplied, so they remain null. Tulane marks are trademarked and require prior written approval/licensing."
     },
     "brand_source_url": "https://tulanegreenwave.com/sports/2017/8/25/branding-style-guide",
     "verification_status": "partial",
-    "notes": "Official Tulane Athletics guide specifies Pantone 342 Green and Pantone 279 Blue for sport-specific logos, with black, white and two-color versions by request. Official guide establishes mark hierarchy: Angry Wave primary, T-Wave secondary. HEX values are not inferred."
+    "notes": "Corrected outdated hierarchy: Angry Wave is current primary athletics mark per 2022–23 style guide (and official history says effective July 1, 2017); T-Wave is secondary. The 2016 launch announcement was an interim state and is superseded. Approved variants shown in composite guide panels only; no standalone asset captured. Colors Dark Green PMS 342, Blue PMS 279; White/Black accents. Do not infer HEX; licensing approval required."
   },
   {
     "school_id": "louisiana",
     "school_name": "Louisiana",
     "colors": {
-      "primary": null,
+      "primary": "#CE181E",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#F18C21"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://ragincajuns.com/sports/2018/7/2/athletics-brand-guidelines",
-      "usage_notes": "Louisiana Ragin' Cajuns Athletics' official branding guide governs the athletic identity, including the Ragin' Cajuns head and wordmark. Use the athletics-specific marks rather than generic university marks; preserve official proportions and colors and follow licensing restrictions."
+      "logo_source_page": "https://ocm.louisiana.edu/sites/communicationsandmarketing/files/University-of-Louisiana-Lafayette-Brand-Guide.pdf",
+      "usage_notes": "The official University of Louisiana at Lafayette Brand Guide (2015–2020) explicitly labels the circular Louisiana Ragin' Cajuns crest as the Primary athletic logo and the RAGIN' CAJUNS wordmark as the Primary athletic wordmark (page 9). LOUISIANA RAGIN' CAJUNS is the secondary athletic wordmark; interlocked UL Lafayette is a separate interlocked logo. The primary athletics logo incorporates the University's protected fleur-de-lis. The guide shows these as a composite reference strip, not standalone files; no direct asset captured. Official Vermilion #CE181E and White #FFFFFF; Process Black #0A0203 and Gray #C1C5C9 are secondary; Orange #F18C21 is restricted to the primary athletics logo. Logos may not be altered and licensed manufacturers are required for merchandise."
     },
     "brand_source_url": "https://ragincajuns.com/documents/download/2023/11/3/Game_Notes_-_Arkansas_State.pdf",
     "verification_status": "partial",
-    "notes": "Official Louisiana Athletics game notes identify Vermilion (PMS 193) and White as school colors. The university brand guide documents the official athletics logo hierarchy and trademark requirements. Exact HEX for Vermilion was not supplied in the official sources, so it remains null."
+    "notes": "Updated to official UL Lafayette Brand Guide: circular Ragin' Cajuns crest is primary athletic logo; RAGIN' CAJUNS wordmark is primary athletic wordmark; LOUISIANA RAGIN' CAJUNS is secondary wordmark; interlocked UL Lafayette is separate. Do not substitute the academic fleur-de-lis logo for the primary athletics crest. Official Vermilion #CE181E and White #FFFFFF; secondary Black #0A0203 and Gray #C1C5C9; Orange #F18C21 is restricted to the primary athletic logo. Guide is 2015–2020; no direct standalone asset captured."
   },
   {
     "school_id": "louisiana-tech",
