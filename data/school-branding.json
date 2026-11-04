@@ -1967,26 +1967,26 @@
       "logo_source_page": "https://broncosports.com/documents/download/2026/4/16/Boise_State_Athletics_Brand_Standards_RGB_2026.pdf",
       "usage_notes": "Boise State Athletics' 2026 brand standards distinguish the Bronco head athletics mark from the university B signature, which is for academic use. The Bronco head is the athletics identifier; use approved official artwork, preserve clear space and color treatments, and observe trademark licensing restrictions."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.boisestate.edu/brand/visual-identity/logos/",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Boise State Blue #0033A0 and Orange #FA4616. Boise State's university logo page distinguishes the institutional signature from the Bronco athletics mark; the Bronco is athletics-controlled."
+    "notes": "Boise State Athletics' April 2026 standards identify the Bronco head as the athletics mark and explicitly distinguish it from the university B, which is for academic use. The guide prohibits vintage marks and specifies approved orientation, color, outline and background treatments. Blue #0033A0 and Orange #FA4616 are retained from the official Mountain West style guide; use the athletics standards for artwork."
   },
   {
     "school_id": "utah-state",
     "school_name": "Utah State",
     "colors": {
       "primary": "#00263A",
-      "secondary": "#848D8F",
+      "secondary": "#8A8D8F",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://utahstateaggies.com/sports/2018/6/11/branding",
+      "logo_source_page": "https://www.usu.edu/brand/standards/logos/sub-brands/files/USU_Athletics_VIG.pdf",
       "usage_notes": "Utah State Athletics' Aggie identity uses the block A and official Aggies wordmarks. The athletics identity and official university marks are protected; use approved artwork and follow trademark licensing and brand-use requirements. The Mountain West style guide is a conference-level color reference, not a substitute for the school's own artwork."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.usu.edu/brand/standards/logos/sub-brands/",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Utah State Navy #00263A and Silver #848D8F. Official Utah State athletics marks include the STATE U identity; obtain approved assets and follow licensing."
+    "notes": "Utah State Athletics' visual identity guide confirms Aggie Blue #00263A, Silver #8A8D8F and White #FFFFFF as primary colors. The Aggie Blue/State U athletics identity is distinct from general university branding; use approved supplied artwork and licensing rules."
   },
   {
     "school_id": "nevada",
@@ -1998,12 +1998,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://nevadawolfpack.com/sports/2018/6/11/branding",
+      "logo_source_page": "https://nevadawolfpack.com/documents/2024/9/25/Nevada-Branding-Identity-2023-071323-PRINT.pdf",
       "usage_notes": "Nevada Athletics' Wolf Pack identity includes the official wolf-head and Nevada wordmark marks. Use official athletics artwork and approved color variants; university trademarks are protected and third-party uses require licensing approval."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.unr.edu/marketing-communications/brand",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Nevada Blue #041E42 and Silver #8A8D8F for the Wolf Pack."
+    "notes": "Nevada's 2023 Athletics identity guide documents the Wolf Pack graphic system and approved artwork requirements. Important current-brand change: the University unveiled a new unified identity on October 20, 2026, including the Interlocked mark and Nevada Wolf spirit logo, with an implementation rollout over the following year. Do not treat the 2023 Wolf Pack athletics marks as the current university-wide identity; current athletics adoption and color specifications need confirmation."
   },
   {
     "school_id": "unlv",
@@ -2015,12 +2015,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.unlv.edu/brand/logos",
+      "logo_source_page": "https://www.unlv.edu/brand/visual-guide",
       "usage_notes": "UNLV athletics marks are a distinct, trademarked family administered through the university's licensing program. Use official Rebels athletics marks rather than substituting the institutional UNLV logo; do not modify artwork and obtain required approval for third-party use."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.unlv.edu/policies/unlv-graphic-standards-including-logos-and-trademarks",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies UNLV Scarlet #CF0A2C and Gray #CAC8C8. Black is also used in athletics identity applications."
+    "notes": "UNLV's official graphic standards identify Scarlet and Gray as official colors (PMS 186 and PMS 423) and prohibit modifying protected marks; third-party use requires licensing or contract approval. The institutional UNLV monogram is distinct from athletics/Hey Reb! marks; obtain approved athletics artwork rather than substituting the university logo. Digital HEX values for the current athletics palette should be confirmed from the official electronic color specifications."
   },
   {
     "school_id": "san-jose-state",
@@ -2028,16 +2028,16 @@
     "colors": {
       "primary": "#0055A2",
       "secondary": "#E5A823",
-      "accent": "#FFFFFF"
+      "accent": "#939597"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://sjsuspartans.com/sports/2018/6/11/branding",
+      "logo_source_page": "https://gcp-web.sjsu.edu/communications/brand/visual-style/university-marks/index.php",
       "usage_notes": "San José State Athletics' Spartans identity uses official Spartan-head and SJSU athletics marks. Use approved original artwork and color variants; marks are protected by university trademark and licensing rules."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.sjsu.edu/communications/brand/",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies San José State Blue #0055A2 and Gold #E5A823 for the Spartans."
+    "notes": "SJSU's official mark guidance says that, as of September 2018, the university spirit mark and Athletics Spartan helmet were merged into one Spartan Spirit mark ('one Spartan, one spirit'). Use that unified current spirit mark rather than older separate helmet artwork. Primary digital colors are Blue #0055A2 and Gold #E5A823; Gray #939597 is also documented."
   },
   {
     "school_id": "colorado-state",
