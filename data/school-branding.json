@@ -2151,12 +2151,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://communications.uoregon.edu/uo-brand/visual-identity/colors",
+      "logo_source_page": "https://communications.uoregon.edu/sites/default/files/2023-02/UO%20Style%20Guide.pdf",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": "https://communications.uoregon.edu/uo-brand/visual-identity/colors",
+    "brand_source_url": "https://goducks.com/news/2023/9/26/new-logo-captures-breadth-of-beoregons-spirit",
     "verification_status": "partial",
-    "notes": "University of Oregon brand guide specifies UO Green #007030 and UO Yellow #FEE11A as primary colors; Obsidian #000000 is a secondary color. Primary colors must remain present in visual compositions."
+    "notes": "The official UO style guide distinguishes the interlocking UO athletics mark from academic/administrative marks; the Winged O is athletics-only. Oregon Athletics also documents the Soaring Duck in its 2023 BEOREGON identity story. University colors are UO Green #007030 and UO Yellow #FEE11A, with Obsidian #000000 secondary. Direct primary athletics artwork still needs capture and visual inspection."
   },
   {
     "school_id": "washington",
@@ -2168,12 +2168,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gohuskies.com/documents/download/2024/4/4/Week_8B_-_USC.pdf",
+      "logo_source_page": "https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": "https://gohuskies.com/documents/download/2024/4/4/Week_8B_-_USC.pdf",
+    "brand_source_url": "https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf",
     "verification_status": "partial",
-    "notes": "Washington Athletics style guide lists Husky Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C and Gray #D8D9DA. Athletics purple differs from upper-campus purple."
+    "notes": "UW Athletics' 2025–26 brand identity guide identifies the stroked Block W as the primary athletics mark, distinct from the slender upper-campus W. Official palette: Husky Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C and Gray #D8D9DA. The guide says current native artwork is accessed through its linked asset files; older logo references should not override this guide."
   },
   {
     "school_id": "usc",
@@ -2185,12 +2185,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://identity.usc.edu/identity/color/",
+      "logo_source_page": "https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
     "brand_source_url": "https://identity.usc.edu/identity/color/",
     "verification_status": "partial",
-    "notes": "USC official brand guide specifies Cardinal #990000 and Gold #FFCC00; black and white are secondary colors. Approved color combinations and licensed vendor rules apply."
+    "notes": "USC Athletics provides an official Interlock mark in two-color, one-color Cardinal and one-color Gold PNG/EPS variants. USC Cardinal #990000 and Gold #FFCC00 are the two primary identity colors; black and white are secondary. The athletics Interlock is distinct from USC's academic shield/wordmark system. Downloadable artwork is supplied through the athletics logo page; marks remain protected."
   },
   {
     "school_id": "ucla",
@@ -2202,12 +2202,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.ucla.edu/identity/colors",
+      "logo_source_page": "https://uclabruins.com/ucla-athletics-logos-and-wordmarks",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
     "brand_source_url": "https://brand.ucla.edu/identity/colors",
     "verification_status": "partial",
-    "notes": "UCLA official brand guide specifies UCLA Blue #2774AE and UCLA Gold #FFD100. Blue should carry greater visual weight; athletics merchandise color standards are separately administered."
+    "notes": "UCLA Athletics publishes official primary logo and wordmark downloads in approved color treatments; the athletics Script Logo is distinct from the campus logo and its use is restricted to Intercollegiate Athletics. UCLA Blue #2774AE and UCLA Gold #FFD100 are the official primary colors, with blue dominant. Athletics artwork must follow the style guide and must not be altered."
   },
   {
     "school_id": "california",
@@ -2219,12 +2219,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.berkeley.edu/visual-identity/colors/",
+      "logo_source_page": "https://calbears.com/documents/2024/10/17/CAL-BRAND-GUIDELINES.pdf",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": "https://brand.berkeley.edu/visual-identity/colors/",
+    "brand_source_url": "https://static.calbears.com/custompages/uabrand/index.html",
     "verification_status": "partial",
-    "notes": "UC Berkeley brand guide specifies Berkeley Blue #002676 and California Gold #FDB515, with white. The guide notes Pantone specifications have been rolled back pending resolution of color variation; HEX palette is documented."
+    "notes": "Cal Athletics' visual identity identifies the Cal Script as the primary athletics logo, with the Block C/profile Golden Bear combination as a secondary mascot mark. The 2024–25 Cal Athletics Brand Guidelines are the current athletics reference. Berkeley Blue #002676 and California Gold #FDB515 remain the university brand color references; confirm athletics-specific color specs against the PDF before finalizing production values. Marks require express written approval."
   },
   {
     "school_id": "stanford",
@@ -2236,12 +2236,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://identity.stanford.edu/design-elements/color/primary-colors/",
+      "logo_source_page": "https://identity.stanford.edu/visual-identity/stanford-logos/",
       "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
     "brand_source_url": "https://identity.stanford.edu/design-elements/color/primary-colors/",
     "verification_status": "partial",
-    "notes": "Stanford official identity guide specifies Cardinal #8C1515, White #FFFFFF, Black #2E2D29 and Cool Gray #53565A. University-approved logo colors and licensed vendor matching rules apply."
+    "notes": "Stanford's current logo system includes the Block S with Tree, wordmarks and seal; current iterations only should be used, not vintage marks. Official logo colors include Cardinal Red (Pantone 201 C), White and Black; the university guide also documents Palo Alto Green for approved logo applications. Stanford marks are proprietary and third-party use requires licensing or approval."
   },
   {
     "school_id": "oregon-state",
