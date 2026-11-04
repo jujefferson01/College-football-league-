@@ -502,10 +502,10 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://fightingillini.com/sports/2015/11/10/traditions_blockilogo.aspx",
+      "usage_notes": "Illinois Athletics identifies the Block I as the primary athletics logo and the Victory Badge as the secondary logo; the custom Fighting Illini and Illinois wordmarks are part of the athletics identity system. Official colors are Orange #FF5F05 and Navy #13294B. Marks are protected university trademarks; use approved artwork and obtain required licensing or written approval for non-official use."
     },
-    "brand_source_url": "https://fightingillini.com/sports/2015/11/10/traditions_orangeandblue",
+    "brand_source_url": "https://fightingillini.com/sports/2015/11/10/traditions_blockilogo.aspx",
     "verification_status": "partial",
     "notes": "Illinois Athletics identifies official Orange #FF5F05 and Blue #13294B (PMS 1655 and 2767)."
   },
