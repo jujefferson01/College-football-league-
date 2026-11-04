@@ -498,16 +498,16 @@
     "colors": {
       "primary": "#FF5F05",
       "secondary": "#13294B",
-      "accent": null
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://fightingillini.com/sports/2015/11/10/traditions_blockilogo.aspx",
-      "usage_notes": "Illinois Athletics identifies the Block I as the primary athletics logo and the Victory Badge as the secondary logo; the custom Fighting Illini and Illinois wordmarks are part of the athletics identity system. Official colors are Orange #FF5F05 and Navy #13294B. Marks are protected university trademarks; use approved artwork and obtain required licensing or written approval for non-official use."
+      "usage_notes": "Illinois Athletics' current Logos page identifies the primary 'I' / Block I as the main identifying device for athletics and the Victory Badge as secondary. The official current Block I PNG link resolves to a Sidearm image-conversion endpoint that is inaccessible in this pass; no direct asset is recorded. Official colors Orange #FF5F05 and Navy #13294B; White is a supporting color. Do not substitute the Victory Badge as primary."
     },
     "brand_source_url": "https://fightingillini.com/sports/2015/11/10/traditions_blockilogo.aspx",
     "verification_status": "partial",
-    "notes": "Illinois Athletics identifies official Orange #FF5F05 and Blue #13294B (PMS 1655 and 2767)."
+    "notes": "Current official page calls the Block I primary and Victory Badge secondary. The 2025 Block I PNG is linked but its image handler returns inaccessible 500; no standalone asset visually inspected. Orange #FF5F05 and Navy #13294B are primary; White supporting. Remains partial."
   },
   {
     "school_id": "central-michigan",
@@ -519,29 +519,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://cmuchippewas.com/sports/2026/5/1/central-michigan-traditions",
-      "usage_notes": "CMU Athletics identifies the Action C as the primary athletics logo, adopted in 1996. Older Native American imagery was eliminated; do not substitute legacy caricature or mascot marks. Use the Chippewa name respectfully and obtain approved artwork from CMU Athletics."
+      "logo_source_page": "https://cmuchippewas.com/documents/download/2023/8/12/CMUAthletics_IdentityBrandGuide-2023-24.pdf",
+      "usage_notes": "Central Michigan Athletics' official 2023–24 Identity/Brand Guide labels Action C as PRIMARY LOGO and shows approved light/dark colorways. The PDF page was visually inspected, but artwork is presented in a guide layout rather than a standalone production file. The official 2026 traditions page independently confirms Action C adopted as primary athletics logo in 1996. Do not use retired Native American imagery. Official Maroon #6A0032, Gold #FFC82E; Red #EF3340 is an accent."
     },
     "brand_source_url": "https://www.cmich.edu/offices-departments/university-communications/brand-guidelines/visual-language/color-palette",
     "verification_status": "partial",
-    "notes": "Central Michigan official brand palette specifies primary Maroon #6A0032 and Gold #FFC82E. Red #EF3340 is a secondary accent; additional accent colors are listed in the official palette."
+    "notes": "Action C confirmed as primary in official 2023–24 guide and 2026 CMU traditions page. PDF visual inspected, but no standalone current production asset captured. Palette: Maroon #6A0032, Gold #FFC82E, Red #EF3340 accent. Historic/retired Native American imagery is not to be substituted."
   },
   {
     "school_id": "eastern-michigan",
     "school_name": "Eastern Michigan",
     "colors": {
-      "primary": null,
+      "primary": "#006633",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://emueagles.com/documents/download/2013/8/27/Branding_StyleGuide_011413.pdf",
-      "usage_notes": "Eastern Michigan Athletics' official identity guide governs use of its logos, colors and marks. The guide requires adherence to its specifications and direct written consent from EMU Athletics for use representing outside entities. Confirm the current primary Eagles mark and approved artwork with EMU Athletics."
+      "usage_notes": "Eastern Michigan Athletics' official style guide explicitly identifies the Block-E as the primary athletics logo and says it must be used on all materials pertaining to EMU Athletics. Page 6 was opened and visually inspected; it is a guide page, not a standalone downloadable asset. The guide says the University and Athletics use different Block E designs, and the smaller eagle-head E is retired. Colors: Green #006633 and White #FFFFFF; Black may also be used. Written consent is required for use representing outside entities."
     },
     "brand_source_url": "https://emueagles.com/documents/download/2023/9/11/EMU_FB_Notes_03_UMASS.pdf",
     "verification_status": "partial",
-    "notes": "Eastern Michigan Athletics identifies official colors as Green (PMS 349 C) and White. The cited athletics fact sheet does not provide HEX values; no HEX inferred from Pantone."
+    "notes": "Corrected the athletics primary mark to the Block-E, not a generic Eagles mascot mark. Official 2013 style guide page 6 visually inspected; no standalone file captured. Official Green #006633 and White #FFFFFF; Black permitted. Do not use retired E-with-eaglehead mark or institutional Block E. External use requires written consent."
   },
   {
     "school_id": "western-michigan",
@@ -554,11 +554,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://files.wmich.edu/s3fs-public/2025-08/wmu_visual_identity_2025.pdf",
-      "usage_notes": "WMU's June 2025 Visual Identity Guide identifies the Bronco Spirit Mark as the primary NCAA Division I athletics logo and the university Brand Mark as secondary. Contact marcom@wmich.edu for approved creative assets."
+      "usage_notes": "WMU's June 2025 Visual Identity Guide (page 23) explicitly identifies the Bronco Spirit Mark as the primary NCAA Division I athletics logo and the university Brand Mark as secondary. The official guide page was visually inspected; it displays the Spirit Mark combined with WESTERN MICHIGAN wordmark, not a standalone production file. Request approved creative assets from marcom@wmich.edu. Official Brown #532E1F and Gold #F1C500; gold is dominant."
     },
     "brand_source_url": "https://wmich.edu/brand/visualidentity",
     "verification_status": "partial",
-    "notes": "Official WMU June 2025 Visual Identity Guide confirms Gold #F1C500 and Brown #532E1F and explicitly identifies the Bronco Spirit Mark as the primary Division I athletics logo; the university Brand Mark is secondary. Previous direct PNG URL was invalid/blank and has been removed. Official guide is now the source reference; request the approved high-resolution athletics asset from WMU MarCom before using it."
+    "notes": "Current June 2025 WMU Visual Identity guide confirms Bronco Spirit Mark primary for NCAA Division I, Brand Mark secondary. Page 23 visually inspected; composite lockup only, no standalone art captured. Official Brown #532E1F and Gold #F1C500; Gold dominant."
   },
   {
     "school_id": "toledo",
@@ -566,16 +566,16 @@
     "colors": {
       "primary": "#0B2240",
       "secondary": "#FFCD00",
-      "accent": null
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://utrockets.com/sports/2023/3/30/toledo-athletics-branding",
-      "usage_notes": "Toledo Athletics identifies its Primary Athletic Logo and provides official downloadable artwork and approved color/background variations. The secondary logo is used only after the primary has appeared. Do not stretch, distort, rotate, recolor or texture marks. Official colors: Midnight Blue #0B2240 and Athletic Gold #FFCD00."
+      "usage_notes": "Toledo Athletics' official branding page explicitly says the Primary Athletic Logo is used for all Toledo logo needs and offers downloadable PNG variations. The guide graphic itself is a title banner rather than the primary logo, and this pass did not successfully retrieve/open one of the individual PNG download assets. Therefore no direct asset is recorded. Official colors Midnight Blue #0B2240 and Athletic Gold #FFCD00; follow the background-specific approved colorways and never stretch, distort, rotate, recolor or texture the marks."
     },
     "brand_source_url": "https://utrockets.com/sports/2023/3/30/toledo-athletics-branding",
     "verification_status": "partial",
-    "notes": "Toledo Athletics official brand guide specifies Midnight Blue #0B2240 and Athletic Gold #FFCD00. It includes official primary/secondary logo variants and strict rules against altering marks."
+    "notes": "Official Toledo Athletics page identifies primary logo and provides individual PNG downloads, but direct logo file was not captured/visually inspected during this pass. Color specifications confirmed: Midnight Blue #0B2240, Athletic Gold #FFCD00. Secondary mark only after primary has appeared; no alteration permitted."
   },
   {
     "school_id": "ball-state",
@@ -588,11 +588,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://bsu.edu/about/administrativeoffices/marketing-communications/brand-resources/logos",
-      "usage_notes": "Ball State Athletics identifies the Cardinal Head as the official athletics logo for men's and women's intercollegiate athletics. It is reserved for official athletics business. Noncommercial use requires permission from Intercollegiate Athletics; commercial use requires Trademark Licensing."
+      "usage_notes": "Ball State's current official Brand Logos page identifies the Cardinal Head as the men's and women's intercollegiate athletics logo and reserves it for official athletics business. The 2025 Brand Guidelines show the current Cardinal mark in a visual reference page, but the public athletics download is permission-gated; no standalone asset was captured. Do not substitute the vintage Dancing Charlie, which is restricted to limited-run licensed retail. Official colors Cardinal Red #BA0C2F, White #FFFFFF, Dark Gray #54585A."
     },
     "brand_source_url": "https://www.bsu.edu/about/administrativeoffices/marketing-communications/brand-resources/colors",
     "verification_status": "partial",
-    "notes": "Ball State brand palette: Cardinal Red #BA0C2F, White #FFFFFF, Dark Gray #54585A."
+    "notes": "Current Ball State page confirms Cardinal Head as official intercollegiate athletics logo; the 2025 brand guide's visual page was inspected but standalone art is not publicly downloadable without permission. Vintage Dancing Charlie is limited retail-only. Colors Cardinal Red #BA0C2F, White #FFFFFF, Dark Gray #54585A. Official permission required."
   },
   {
     "school_id": "cincinnati",
