@@ -740,8 +740,8 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://wkusports.com/documents/2026/1/21/WesternKentucky_09-15-25__1_.pdf",
+      "usage_notes": "Official WKU Athletics logos PDF dated January 21, 2026 is recorded as the approved asset reference. Confirm specific mark version and permissions for intended use; HEX palette still awaits confirmation."
     },
     "brand_source_url": "https://wku.edu/brand/",
     "verification_status": "partial",
@@ -751,18 +751,18 @@
     "school_id": "umass",
     "school_name": "UMass",
     "colors": {
-      "primary": null,
+      "primary": "#881C1C",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#27251F"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.umass.edu/brand/documents/umass-athletics-style-guide",
+      "usage_notes": "UMass Athletics official style guide shows Power-U and Massachusetts marks in Maroon, Grey, Black and White; all logos are protected and require written permission from UMass System Trademark and Licensing Administration. Check the current Brand Portal digital maroon specification before new digital production because it announced a July 2026 refinement."
     },
-    "brand_source_url": "https://www.umass.edu/university-relations/sites/default/files/2024-01/UMass_Athletics_Style_Guide-a11y.pdf",
+    "brand_source_url": "https://www.umass.edu/brand/documents/umass-athletics-style-guide",
     "verification_status": "partial",
-    "notes": "UMass Amherst Athletics official style guide specifies Maroon (Pantone Red 202 C), Grey (32% Process Black), Black (Process Black) and White for official marks. No HEX values entered because the athletics guide uses Pantone specifications; check the 2026 updated university digital maroon specification before assigning a HEX."
+    "notes": "UMass Athletics official style guide specifies Maroon #881C1C, Grey #B1B3B3, Black #27251F and White #FFFFFF. UMass announced a digital maroon refinement on July 31, 2026; the new exact value is on the Brand Colors page and should supersede this athletics guide value for new digital work once confirmed."
   },
   {
     "school_id": "middle-tennessee",
