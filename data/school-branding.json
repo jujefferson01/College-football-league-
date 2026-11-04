@@ -105,18 +105,18 @@
     "school_id": "rutgers",
     "school_name": "Rutgers",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CC0033",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://communications.rutgers.edu/brand-policies/visual-identity",
+    "verification_status": "partial",
+    "notes": "Rutgers official visual identity resources identify Scarlet #CC0033, Black #000000 and White #FFFFFF as primary palette. University signatures and marks are governed by the official visual identity policy; athletics mark/asset review remains pending."
   },
   {
     "school_id": "penn-state",
@@ -224,25 +224,25 @@
     "school_id": "virginia-tech",
     "school_name": "Virginia Tech",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#6A2C3E",
+      "secondary": "#CF4520",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.vt.edu/identity/color.html",
+    "verification_status": "partial",
+    "notes": "Virginia Tech's official athletics identity guide provides HEX values Chicago Maroon #6A2C3E and Orange #CF4520, plus White #FFFFFF. The current university Brand Center distinguishes its updated university palette; athletics mark assets and licensing still require review."
   },
   {
     "school_id": "west-virginia",
     "school_name": "West Virginia",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#EAAA00",
+      "secondary": "#002855",
       "accent": null
     },
     "logo": {
@@ -250,9 +250,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://universityrelations.wvu.edu/services-capabilities/brand-and-trademark-licensing/protected-indicia",
+    "verification_status": "partial",
+    "notes": "WVU official protected-indicia page lists Gold #EAAA00 and Navy #002855 as official colors. The page also identifies protected marks and restrictions; logo asset/use permission remains pending."
   },
   {
     "school_id": "james-madison",
@@ -267,26 +267,26 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://jmusports.com/documents/download/2023/7/12/JMU_AthIdentity_Guide.pdf",
+    "verification_status": "partial",
+    "notes": "JMU Athletics official identity guide confirms Purple, Gold and White as primary identity colors, with Black and Gray secondary. The available guide uses Pantone references rather than confirmed HEX values; exact HEX values and approved logo assets remain pending."
   },
   {
     "school_id": "old-dominion",
     "school_name": "Old Dominion",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#043657",
+      "secondary": "#98C5EA",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://storage.googleapis.com/odu-prod/2025/06/04/IZ6FVaPDld45Hx21w4Vz5k3Kq8Y1IYbhMW6g8ouI.pdf",
+    "verification_status": "partial",
+    "notes": "Old Dominion Athletics official brand guide lists Monarch Blue #043657 and Hudson Blue #98C5EA as primary colors, with Black #000000, Gray #828A8F and White #FFFFFF as secondary colors."
   },
   {
     "school_id": "liberty",
