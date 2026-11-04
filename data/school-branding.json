@@ -893,12 +893,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://miamihurricanes.com/news/2000/04/13/205550764-2",
+      "usage_notes": "Official Miami Hurricanes historical logo specification identifies the split-U mark and Pantone colors. The athletics department states University intellectual property and official marks/colors require written approval for use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://miamihurricanes.com/news/2000/04/13/205550764-2",
+    "verification_status": "partial",
+    "notes": "Official Miami Hurricanes logo specifications identify Miami Orange (Pantone 1665), Miami Green (Pantone 3435), Miami Storm (Pantone 432) and Miami Grey (Pantone 429). Exact official HEX values were not provided in the located athletics source, so HEX fields remain null. Current athletics coverage confirms the orange-and-green U is a signature mark."
   },
   {
     "school_id": "clemson",
@@ -921,35 +921,35 @@
     "school_id": "south-carolina",
     "school_name": "South Carolina",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#73000A",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.printing.sc.edu/about/offices_and_divisions/communications/toolbox/logos/index.php",
+      "usage_notes": "Official university guidance identifies the Gamecock, alone or with the Block C, as the athletics mark. Use of athletics/spirit symbols requires Trademark Licensing Office approval; commercial merchandise requires licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.sc.edu/about/offices_and_divisions/communications/toolbox/colors/index.php",
+    "verification_status": "partial",
+    "notes": "Official University of South Carolina digital palette: Garnet #73000A, Black #000000 and White #FFFFFF. The university identifies the Gamecock as its athletics symbol, alone or with the traditional Block C. Mark usage is controlled and requires approval."
   },
   {
     "school_id": "tennessee",
     "school_name": "Tennessee",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FF8200",
+      "secondary": "#FFFFFF",
+      "accent": "#4B4B4B"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.utk.edu/logos/",
+      "usage_notes": "Official UT Knoxville logo guidance identifies the Power T plus wordmark as the university logo; Tennessee Athletics identifies the Power T as its primary athletics mark. Logos may only be created by the Office of Communications and Marketing; merchandise requires a licensed vendor."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.utk.edu/colors-new/",
+    "verification_status": "partial",
+    "notes": "UT Knoxville official brand standards specify Tennessee Orange #FF8200, White #FFFFFF and Smokey Gray #4B4B4B. Tennessee Athletics identifies orange and white as official athletics colors and the Power T as its primary athletics mark. Do not use black as a brand palette color."
   },
   {
     "school_id": "vanderbilt",
