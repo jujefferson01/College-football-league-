@@ -1771,188 +1771,188 @@
     "school_id": "arizona",
     "school_name": "Arizona",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#AB0520",
+      "secondary": "#0C234B",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://arizona_ftp.sidearmsports.com/old_site/pdf/genrel/branding-update.pdf",
+      "usage_notes": "Official Arizona Athletics branding summary identifies the block A as the primary university/athletics mark and describes the desert landscape/cactus mark as an athletics-exclusive identity. Use official artwork and follow Athletics licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://arizonawildcats.com/sports/2013/4/18/208236680",
+    "verification_status": "partial",
+    "notes": "Arizona Athletics identifies Navy Blue and Red as official colors. The primary mark is the block A; the desert landscape/cactus mark is an athletics-exclusive identity. Exact current digital HEX specifications need confirmation from the current athletics brand guide."
   },
   {
     "school_id": "arizona-state",
     "school_name": "Arizona State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#8C1D40",
+      "secondary": "#FFC627",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brandguide.asu.edu/elements-guidelines/logos/spirit",
+      "usage_notes": "ASU's current brand guide reserves the athletics pitchfork and Sun Devil Bold font for Sun Devil Athletics; use requires Athletics/Brand Council approval. Sparky must remain in approved poses and treatments."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brandguide.asu.edu/elements-guidelines/unit-specific/athletics",
+    "verification_status": "partial",
+    "notes": "ASU official brand standards specify Maroon #8C1D40, Gold #FFC627, Black #000000 and White #FFFFFF as primary colors. Athletics pitchfork and Sun Devil Bold are exclusive to Sun Devil Athletics; Sparky has strict approved-use rules."
   },
   {
     "school_id": "colorado",
     "school_name": "Colorado",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CFB87C",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.colorado.edu/brand/identity-guidelines/logos",
+      "usage_notes": "CU Boulder official identity guidelines govern the CU Boulder interlocking mark and athletic Buffalo marks. Athletics marks are protected; use official artwork and follow licensing/approval requirements."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.colorado.edu/brand/color",
+    "verification_status": "partial",
+    "notes": "CU Boulder official brand palette specifies CU Gold #CFB87C, Black #000000 and White #FFFFFF. Athletics Buffalo marks are distinct from the university's institutional identity and remain controlled marks."
   },
   {
     "school_id": "utah",
     "school_name": "Utah",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#BE0000",
+      "secondary": "#FFFFFF",
+      "accent": "#737271"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://utahutes.com/sports/2017/6/13/utah-athletics-branding",
+      "usage_notes": "Official Utah Athletics branding guide specifies approved Circle & Feather, Drum and Feather, interlocking U and wordmark identities. Marks must not be distorted or recolored outside approved combinations."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://utahutes.com/sports/2017/6/13/utah-athletics-branding",
+    "verification_status": "partial",
+    "notes": "Utah Athletics brand guide documents Utah Red, White, Black and Grey. Published guide values include Red RGB 190,0,0 (#BE0000) and Grey RGB 115,114,113 (#737271); current athletics quick facts list Red and White as team colors."
   },
   {
     "school_id": "byu",
     "school_name": "BYU",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#002E5D",
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.byu.edu/logos",
+      "usage_notes": "BYU official brand standards document the Y mark and institutional logo rules. Athletics marks are controlled and should be sourced from BYU Athletics/Trademark Licensing; do not alter or reconstruct the Y."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.byu.edu/colors",
+    "verification_status": "partial",
+    "notes": "BYU official brand standards specify BYU Blue #002E5D and White #FFFFFF. The Y mark is a protected institutional identifier; athletics asset and licensing details require review."
   },
   {
     "school_id": "texas-state",
     "school_name": "Texas State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#501214",
+      "secondary": "#8D734A",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.txst.edu/brand-guidelines/logos.html",
+      "usage_notes": "Texas State brand guidelines govern the Bobcat head and institutional marks. Use official artwork without alteration and follow trademark/licensing procedures for merchandise and external use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.txst.edu/brand-guidelines/colors.html",
+    "verification_status": "partial",
+    "notes": "Texas State official brand palette specifies Maroon #501214, Gold #8D734A and White #FFFFFF. Official logo standards document the Bobcat head and university marks."
   },
   {
     "school_id": "rice",
     "school_name": "Rice",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#00205B",
+      "secondary": "#C1C6C8",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://riceowls.com/sports/2018/6/11/athletics-branding.aspx",
+      "usage_notes": "Rice Athletics brand standards document the Owl head and Rice wordmarks. Use approved marks and observe trademark/licensing requirements; university institutional identity and athletics marks have separate contexts."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.rice.edu/colors",
+    "verification_status": "partial",
+    "notes": "Rice brand palette specifies Rice Blue #00205B, Gray #C1C6C8 and White #FFFFFF. Athletics Owl head and Rice wordmarks are controlled identity assets."
   },
   {
     "school_id": "utsa",
     "school_name": "UTSA",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0C2340",
+      "secondary": "#F15A22",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://goutsa.com/sports/2018/6/11/branding.aspx",
+      "usage_notes": "UTSA institutional identity and Roadrunner Athletics marks are distinct approved assets. Use current official files and follow trademark/licensing requirements; do not recreate or modify the Roadrunner mark."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.utsa.edu/identity/",
+    "verification_status": "partial",
+    "notes": "UTSA brand identity uses Blue #0C2340 and Orange #F15A22, with White as a support color. Athletics Roadrunner marks and university logos are governed by official identity/licensing standards."
   },
   {
     "school_id": "texas-tech",
     "school_name": "Texas Tech",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C30020",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
+      "usage_notes": "2026 Texas Tech Athletics identity guide specifies official primary palette and approved logo standards. Licensees/vendors must use official artwork and approved licensing channels."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
+    "verification_status": "partial",
+    "notes": "Texas Tech Athletics 2026 identity guide specifies Raider Red #C30020, Rider Black #000000 and Ghost White #FFFFFF; Classic White #F1F0D8 is also listed as a distinct white option."
   },
   {
     "school_id": "north-texas",
     "school_name": "North Texas",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#00853E",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.unt.edu/logos",
+      "usage_notes": "UNT brand guidelines govern the Eagle mark, university signature and athletics wordmarks. Use only approved artwork; trademarked athletics marks require licensing/approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.unt.edu/colors",
+    "verification_status": "partial",
+    "notes": "UNT official brand standards identify Green #00853E and White #FFFFFF as core colors, with Black as a supporting neutral. Athletics marks and institutional logos have controlled usage rules."
   },
   {
     "school_id": "sam-houston",
     "school_name": "Sam Houston",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#F76900",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://gobearkats.com/sports/2018/6/11/branding.aspx",
+      "usage_notes": "Sam Houston brand guidelines govern Bearkat marks and university wordmarks. Use approved logo files only and follow trademark/licensing approval for external use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.shsu.edu/dept/marketing/brand-guidelines/",
+    "verification_status": "partial",
+    "notes": "Sam Houston official identity references Orange #F76900 and White #FFFFFF as school colors; Black is a supporting neutral. Athletics Bearkat marks are protected identity assets."
   },
   {
     "school_id": "boise-state",
