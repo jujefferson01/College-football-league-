@@ -163,11 +163,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.uconn.edu/visual-identity/husky-dog-logo/",
-      "usage_notes": "UConn's official Brand Standards page identifies the Husky Dog as the official logo of Division I sports teams, reserved primarily for athletic uniforms and retail merchandise. The page links to a restricted SharePoint downloads area; the logo file itself was not publicly retrievable in this pass. Do not substitute the UConn wordmark or Oak Leaf symbol for the athletics Husky mark."
+      "usage_notes": "UConn's official Brand Standards page and Quick Brand Guide identify the Husky Dog as the official logo of UConn Division I sports teams, reserved primarily for athletic uniforms and retail merchandise. The official page links to a SharePoint downloads area, but the standalone logo file is not publicly exposed in the accessible page content. The Husky Dog is a registered UConn trademark; do not substitute the institutional UConn wordmark or Oak Leaf."
     },
     "brand_source_url": "https://brand.uconn.edu/visual-identity/guidelines/",
     "verification_status": "partial",
-    "notes": "The Husky Dog is the official logo of UConn Division I sports teams and is primarily reserved for athletic uniforms and retail merchandise. The UConn wordmark is the university's core institutional logo, not an athletics substitute. Husky Dog artwork remains access-controlled through the official downloads area; no direct image file was captured. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E."
+    "notes": "Confirmed: Husky Dog is the official logo of UConn Division I sports teams; it is reserved primarily for athletic uniforms and retail merchandise. The institutional UConn wordmark is the university's core logo and must not be substituted for the athletics Husky. The official download area is access-controlled and no direct standalone asset could be captured in this pass. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E. Trademark and licensed-vendor restrictions apply."
   },
   {
     "school_id": "delaware",
@@ -180,11 +180,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://bluehens.com/news/2013/8/28/209242576",
-      "usage_notes": "Delaware Athletics confirms a primary athletics mark and wordmark, but states that official artwork must be supplied by Athletics Communications and/or Trademarks and Licensing. The image-handler preview failed to load during this pass, so no direct asset is recorded. Do not substitute institutional university logo artwork."
+      "usage_notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark and requires official artwork from Athletics Communications and/or Trademarks and Licensing. The official 2018 primary-mark JPG is linked from the page but the Sidearm image conversion endpoint returned an inaccessible redirect in this pass, so no direct asset URL is recorded. Do not substitute the institutional university logo."
     },
     "brand_source_url": "https://bluehens.com/news/2013/8/28/209242576",
     "verification_status": "partial",
-    "notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark. Official colors are Delaware Blue #00539F and Delaware Yellow-Gold #FFD200. The primary mark image preview was attempted but the official image handler timed out; approved artwork must be requested from Athletics Communications or Trademarks and Licensing."
+    "notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark. Official colors: Delaware Blue #00539F and Delaware Yellow-Gold #FFD200. The official linked primary-mark image (2018 JPG) could not be retrieved because the image handler redirects to an inaccessible CDN conversion endpoint. Official artwork must be requested from Athletics Communications or Trademarks and Licensing. A 2026 vintage-inspired campaign is a separate retro product identity and does not establish the current primary mark."
   },
   {
     "school_id": "maryland",
@@ -212,13 +212,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://brand.virginia.edu/sites/uva_brand/files/2023-07/36_Ath_800x800.jpg",
       "logo_source_page": "https://brand.virginia.edu/design-assets/athletics",
-      "usage_notes": "Virginia Athletics confirms the V-Sabre is the primary athletics logo and the Cavalier Shield is secondary. The official V-Sabre image was opened and visually inspected, but it is a square preview tile rather than a clean standalone production logo; therefore no primary_mark_url is assigned. All athletics marks are exclusive to Virginia Athletics, affiliated entities and licensed vendors."
+      "usage_notes": "Virginia Athletics identifies the V-Sabre as the primary athletics logo and Cavalier Shield as secondary. The official direct 800x800 V-Sabre JPG was opened and visually inspected; it is a full mark image, not merely a contact-sheet tile. All athletics marks are exclusive to Virginia Athletics, affiliated entities and licensed vendors. UVA Blue #232D4B; Cavalier Orange #F84C1E, with orange use restricted to merchandise and Virginia Athletics."
     },
     "brand_source_url": "https://brand.virginia.edu/design-assets/athletics",
-    "verification_status": "partial",
-    "notes": "V-Sabre is the primary Virginia Athletics logo; Cavalier Shield is secondary and Cavalier is a separate spirit figure. The official V-Sabre preview tile was opened and visually inspected, but it is not a clean standalone production asset. Athletics palette: UVA Blue #232D4B and Cavalier Orange #F84C1E; orange is limited to merchandise and Virginia Athletics applications. Licensing restrictions apply."
+    "verification_status": "verified",
+    "notes": "V-Sabre is the primary Virginia Athletics logo; Cavalier Shield is secondary and Cavalier is a separate spirit figure. The official direct 800x800 V-Sabre JPG was captured and visually inspected. Athletics palette: UVA Blue #232D4B and Cavalier Orange #F84C1E. Orange is limited to merchandise and Virginia Athletics applications. Marks are exclusive to Virginia Athletics, affiliated entities and licensed vendors."
   },
   {
     "school_id": "virginia-tech",
@@ -231,11 +231,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.vt.edu/licensing/university-trademarks.html",
-      "usage_notes": "Virginia Tech confirms athletic logos are protected and each use requires Office of Licensing and Trademarks approval. The official athletics image was opened and visually inspected, but it is a composite reference panel containing several marks rather than a standalone football logo; no primary asset URL is recorded. Vintage logos are restricted to the College Vault licensee program and approved commemorative uses."
+      "usage_notes": "Virginia Tech's 2023 Licensing Guidelines identify the stylized/Flying VT as an Athletic Mark, limited to athletics and retail use and not academic/administrative applications. The current Brand Center shows an athletics reference panel with the stylized VT and Virginia Tech Athletics/Hokies wordmarks, but no clean standalone football mark file was captured. Athletic marks are protected and every use requires Office of Licensing and Trademarks approval; the HokieBird is a separate spirit mark."
     },
-    "brand_source_url": "https://brand.vt.edu/identity/color.html",
+    "brand_source_url": "https://brand.vt.edu/downloads/licensing/Licensing-Guidelines-2023.pdf",
     "verification_status": "partial",
-    "notes": "Virginia Tech's athletics logos form a protected individual brand and every use requires Office of Licensing and Trademarks approval. The official image panel was visually inspected, but it contains several lockups and is not a standalone football mark. Do not substitute the institutional VT lockup or HokieBird spirit mark without confirming the specific approved athletics mark. Current athletics color specifications in the existing record remain subject to confirmation against the Athletics guide."
+    "notes": "Correct identity distinction: the stylized/Flying VT is an Athletic Mark limited to athletics and retail use; it is not the same as the institutional VT + Virginia Tech lockup. HokieBird is a separate protected spirit mark. The official reference panel was visually inspected, but no clean standalone primary athletics asset was captured. Athletics and spirit marks are protected; every use requires Office of Licensing and Trademarks approval."
   },
   {
     "school_id": "west-virginia",
@@ -248,28 +248,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://trademarklicensing.wvu.edu/protected-indicia",
-      "usage_notes": "WVU's Flying WV is a prominent athletics identity mark; the protected-indicia guide also lists athletics word marks, mascot marks and helmet marks. Certain Flying WV treatments are limited-capacity and require permission. Confirm the approved primary athletics artwork and any use restrictions with WVU Brand and Trademark Licensing."
+      "usage_notes": "WVU's protected-indicia page identifies several distinct mark families: Flying WV, athletics wordmarks, mascot marks and helmet marks. The Flying WV is a registered mark and certain outlined treatments are limited-capacity and require permission. The official WVU Brand Overview prefers the gold non-outlined Flying WV where a choice is required. No clean direct primary football/athletics asset was captured, and the source does not establish that Flying WV is the sole primary athletics mark."
     },
     "brand_source_url": "https://universityrelations.wvu.edu/services-capabilities/brand-and-trademark-licensing/protected-indicia",
     "verification_status": "partial",
-    "notes": "WVU official protected-indicia page lists Gold #EAAA00 and Navy #002855 as official colors. The page also identifies protected marks and restrictions; logo asset/use permission remains pending."
+    "notes": "WVU official colors are Gold #EAAA00 and Blue/Navy #002855. The Flying WV is a registered trademark; official brand overview prefers the gold non-outlined version and prohibits stretching/distressing. The protected-indicia page separately lists athletics wordmarks, mascot marks and helmet marks, so Flying WV should not automatically be treated as the only primary football mark. No standalone current athletics file captured; permission restrictions apply."
   },
   {
     "school_id": "james-madison",
     "school_name": "James Madison",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#450084",
+      "secondary": "#CBB677",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/jmusports.com/documents/2023/7/12/JMU_AthIdentity_Guide.pdf",
-      "usage_notes": "JMU Athletics uses a system of primary, secondary, word and sport-specific marks. The official guide is the governing policy for reproduction; all marks are JMU property and use without consent is prohibited. Contact JMU Athletics/CLC for approved artwork."
+      "logo_source_page": "https://jmusports.com/sports/2020/7/2/jmu-logos-and-marks",
+      "usage_notes": "JMU Athletics' official logos page provides direct PNG/JPEG downloads for the primary logo, secondary logo and wordmarks, and explicitly says these are the only approved marks. The primary PNG endpoint redirected to an inaccessible Sidearm image-conversion service in this pass, so no direct asset URL is recorded. JMU requires approval for all uses; do not use third-party search results or retired marks."
     },
-    "brand_source_url": "https://jmusports.com/documents/download/2023/7/12/JMU_AthIdentity_Guide.pdf",
+    "brand_source_url": "https://jmusports.com/sports/2020/7/2/jmu-logos-and-marks",
     "verification_status": "partial",
-    "notes": "JMU Athletics official identity guide confirms Purple, Gold and White as primary identity colors, with Black and Gray secondary. The available guide uses Pantone references rather than confirmed HEX values; exact HEX values and approved logo assets remain pending."
+    "notes": "JMU Athletics' current official logos page identifies and provides downloadable primary/secondary logos and wordmarks; only those approved marks may represent Athletics. Official color swatch image specifies Purple #450084 and Gold #CBB677, with purple emphasized; White, Black and Gray are secondary. Direct PNG link for the primary mark was identified but could not be visually inspected because the official Sidearm CDN conversion endpoint was inaccessible. All logo uses require JMU approval and CLC licensing controls apply."
   },
   {
     "school_id": "old-dominion",
