@@ -144,13 +144,13 @@
       "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://www.brand.pitt.edu/sites/default/files/inline-images/Pitt_spirit_mark_0.png",
       "logo_source_page": "https://www.brand.pitt.edu/brand-elements/marks/pitt-script",
-      "usage_notes": "Pitt Athletics manages its marks. Pitt Script is restricted to athletics/spirit uses; the university's licensing and brand rules apply. Obtain marks from official downloads."
+      "usage_notes": "The official Pitt Script PNG is linked directly from the University brand page, opened and visually inspected. Pitt identifies Pitt Script as the official logo of Pitt Athletics teams and a registered mark. It is supplied in two-color, reverse two-color white and single-color approved versions; use only those colorways and do not alter or combine it. Public availability does not grant third-party rights."
     },
     "brand_source_url": "https://www.brand.pitt.edu/brand-elements/color-palettes",
-    "verification_status": "partial",
-    "notes": "Pitt lists Royal Blue #003594 and Gold #FFB81C as primary; white is a secondary color. Official Pitt brand site identifies Pitt Script as the official logo for Pitt Athletics teams and provides official downloads; Panther athletics identity also documented in athletics brand guide."
+    "verification_status": "verified",
+    "notes": "Pitt Script is the official logo of Pitt Athletics teams and a registered University mark. The official direct PNG was opened and visually inspected. Pitt's primary palette is Royal Blue #003594 and Gold #FFB81C; White is a supporting color. Only approved two-color, reverse white, and single-color variants are allowed; use is governed by Athletics and University licensing."
   },
   {
     "school_id": "uconn",
@@ -162,12 +162,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.uconn.edu/wp-content/uploads/sites/14/2025/05/uconn-quick-brand-guide.pdf",
-      "usage_notes": "UConn's Quick Brand Guide identifies the Husky Dog logo as the official logo of Division I sports teams, primarily reserved for athletic uniforms and retail merchandise. Follow UConn brand/trademark restrictions; obtain approved athletics artwork and confirm permitted use."
+      "logo_source_page": "https://brand.uconn.edu/visual-identity/husky-dog-logo/",
+      "usage_notes": "UConn's official Brand Standards page identifies the Husky Dog as the official logo of Division I sports teams, reserved primarily for athletic uniforms and retail merchandise. The page links to a restricted SharePoint downloads area; the logo file itself was not publicly retrievable in this pass. Do not substitute the UConn wordmark or Oak Leaf symbol for the athletics Husky mark."
     },
     "brand_source_url": "https://brand.uconn.edu/visual-identity/guidelines/",
     "verification_status": "partial",
-    "notes": "UConn primary palette: Navy #000E2F, White #FFFFFF, Grey #7C878E. Royal #013ECD is campaign accent only."
+    "notes": "The Husky Dog is the official logo of UConn Division I sports teams and is primarily reserved for athletic uniforms and retail merchandise. The UConn wordmark is the university's core institutional logo, not an athletics substitute. Husky Dog artwork remains access-controlled through the official downloads area; no direct image file was captured. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E."
   },
   {
     "school_id": "delaware",
@@ -180,11 +180,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://bluehens.com/news/2013/8/28/209242576",
-      "usage_notes": "Delaware Athletics says official artwork must be supplied by Athletics Communications or Trademarks and Licensing; request official mark files from the school."
+      "usage_notes": "Delaware Athletics confirms a primary athletics mark and wordmark, but states that official artwork must be supplied by Athletics Communications and/or Trademarks and Licensing. The image-handler preview failed to load during this pass, so no direct asset is recorded. Do not substitute institutional university logo artwork."
     },
     "brand_source_url": "https://bluehens.com/news/2013/8/28/209242576",
     "verification_status": "partial",
-    "notes": "Delaware Athletics identifies Delaware Blue #00539F and Delaware Yellow-Gold #FFD200 as official primary colors. Official athletics marks are provided through Athletics Communications and/or Trademarks and Licensing; logo asset and usage approval remain to be reviewed. Official Delaware Athletics logo-use page confirms a primary athletics mark and wordmark; official colors and request contacts are provided."
+    "notes": "Delaware Athletics confirms a distinct primary athletics mark and wordmark. Official colors are Delaware Blue #00539F and Delaware Yellow-Gold #FFD200. The primary mark image preview was attempted but the official image handler timed out; approved artwork must be requested from Athletics Communications or Trademarks and Licensing."
   },
   {
     "school_id": "maryland",
@@ -195,13 +195,13 @@
       "accent": "#000000"
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://static.umterps.com/custompages/brand_guide/MBar_White.jpg",
       "logo_source_page": "https://umterps.com/sports/2024/10/10/maryland-athletics-brand-guidelines",
-      "usage_notes": "Maryland Athletics identifies the M-Bar as its primary athletics mark. Script Terps is reserved primarily for Maryland Football-specific external use; Maryland wordmark is a less-frequent alternative. Do not manipulate marks; additional brand assets are available by request from Maryland Sports Marketing."
+      "usage_notes": "The official Maryland Athletics brand page identifies the M-Bar as its primary mark and links directly to this official M-Bar White JPG, which was opened and visually inspected. The M-Bar must not be manipulated; select the approved background-specific variant. Script Terps is a football-specific external-use mark and not the general primary mark. Additional brand elements are available by request from Maryland Sports Marketing."
     },
     "brand_source_url": "https://umterps.com/sports/2024/10/10/maryland-athletics-brand-guidelines",
-    "verification_status": "partial",
-    "notes": "Maryland Athletics lists Red #CE1126, Gold #FCD116, Black #000000, and White #FFFFFF."
+    "verification_status": "verified",
+    "notes": "Maryland Athletics identifies the M-Bar as its primary mark. The official direct MBar_White.jpg asset was opened and visually inspected. Script Terps may serve in a similar capacity for football-specific external-facing use, but M-Bar remains the primary athletics mark. Official colors: Red #CE1126, Gold #FCD116, Black #000000 and White #FFFFFF. Do not manipulate marks; request additional assets from Maryland Sports Marketing."
   },
   {
     "school_id": "virginia",
@@ -214,11 +214,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.virginia.edu/design-assets/athletics",
-      "usage_notes": "Virginia Athletics identifies the V-Sabre as its primary athletics logo; the Cavalier Shield is secondary and the Cavalier figure is another mark in the athletics system. These marks are exclusive to Virginia Athletics, affiliated entities and licensed vendors."
+      "usage_notes": "Virginia Athletics confirms the V-Sabre is the primary athletics logo and the Cavalier Shield is secondary. The official V-Sabre image was opened and visually inspected, but it is a square preview tile rather than a clean standalone production logo; therefore no primary_mark_url is assigned. All athletics marks are exclusive to Virginia Athletics, affiliated entities and licensed vendors."
     },
     "brand_source_url": "https://brand.virginia.edu/design-assets/athletics",
     "verification_status": "partial",
-    "notes": "UVA Athletics official colors: UVA Blue #232D4B and Cavalier Orange #F84C1E. Orange is restricted to merchandise and Virginia Athletics applications. Logo asset and use approval still require review."
+    "notes": "V-Sabre is the primary Virginia Athletics logo; Cavalier Shield is secondary and Cavalier is a separate spirit figure. The official V-Sabre preview tile was opened and visually inspected, but it is not a clean standalone production asset. Athletics palette: UVA Blue #232D4B and Cavalier Orange #F84C1E; orange is limited to merchandise and Virginia Athletics applications. Licensing restrictions apply."
   },
   {
     "school_id": "virginia-tech",
@@ -231,11 +231,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.vt.edu/licensing/university-trademarks.html",
-      "usage_notes": "Virginia Tech Athletics logos are registered and protected marks administered by the Office of Licensing and Trademarks. Use requires approval; official logo downloads are restricted to authorized employees and external parties with approval. Confirm the exact primary football mark and approved artwork with Licensing."
+      "usage_notes": "Virginia Tech confirms athletic logos are protected and each use requires Office of Licensing and Trademarks approval. The official athletics image was opened and visually inspected, but it is a composite reference panel containing several marks rather than a standalone football logo; no primary asset URL is recorded. Vintage logos are restricted to the College Vault licensee program and approved commemorative uses."
     },
     "brand_source_url": "https://brand.vt.edu/identity/color.html",
     "verification_status": "partial",
-    "notes": "Virginia Tech's official athletics identity guide provides HEX values Chicago Maroon #6A2C3E and Orange #CF4520, plus White #FFFFFF. The current university Brand Center distinguishes its updated university palette; athletics mark assets and licensing still require review."
+    "notes": "Virginia Tech's athletics logos form a protected individual brand and every use requires Office of Licensing and Trademarks approval. The official image panel was visually inspected, but it contains several lockups and is not a standalone football mark. Do not substitute the institutional VT lockup or HokieBird spirit mark without confirming the specific approved athletics mark. Current athletics color specifications in the existing record remain subject to confirmation against the Athletics guide."
   },
   {
     "school_id": "west-virginia",
