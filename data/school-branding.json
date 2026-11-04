@@ -1,0 +1,2348 @@
+[
+  {
+    "school_id": "boston-college",
+    "school_name": "Boston College",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "buffalo",
+    "school_name": "Buffalo",
+    "colors": {
+      "primary": "#005BBB",
+      "secondary": "#FFFFFF",
+      "accent": "#666666"
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": "https://www.buffalo.edu/brand/identity/Athletics/ColorsType.html",
+    "verification_status": "partial",
+    "notes": "UB Athletics lists UB Blue #005BBB, Hayes Hall White #FFFFFF, Townsend Gray #666666, and Bulls Black #000000."
+  },
+  {
+    "school_id": "army",
+    "school_name": "Army",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "navy",
+    "school_name": "Navy",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "syracuse",
+    "school_name": "Syracuse",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "temple",
+    "school_name": "Temple",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "rutgers",
+    "school_name": "Rutgers",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "penn-state",
+    "school_name": "Penn State",
+    "colors": {
+      "primary": "#001E44",
+      "secondary": "#1E407C",
+      "accent": "#FFFFFF"
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": "https://brand.psu.edu/design-toolkit/design-essentials",
+    "verification_status": "partial",
+    "notes": "Penn State lists Nittany Navy #001E44, Beaver Blue #1E407C, White Out #FFFFFF, and Pugh Blue #96BEE6."
+  },
+  {
+    "school_id": "pittsburgh",
+    "school_name": "Pittsburgh",
+    "colors": {
+      "primary": "#003594",
+      "secondary": "#FFB81C",
+      "accent": "#FFFFFF"
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": "https://www.brand.pitt.edu/brand-elements/color-palettes",
+    "verification_status": "partial",
+    "notes": "Pitt lists Royal Blue #003594 and Gold #FFB81C as primary; white is a secondary color."
+  },
+  {
+    "school_id": "uconn",
+    "school_name": "UConn",
+    "colors": {
+      "primary": "#000E2F",
+      "secondary": "#FFFFFF",
+      "accent": "#7C878E"
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": "https://brand.uconn.edu/visual-identity/guidelines/",
+    "verification_status": "partial",
+    "notes": "UConn primary palette: Navy #000E2F, White #FFFFFF, Grey #7C878E. Royal #013ECD is campaign accent only."
+  },
+  {
+    "school_id": "delaware",
+    "school_name": "Delaware",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "maryland",
+    "school_name": "Maryland",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "virginia",
+    "school_name": "Virginia",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "virginia-tech",
+    "school_name": "Virginia Tech",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "west-virginia",
+    "school_name": "West Virginia",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "james-madison",
+    "school_name": "James Madison",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "old-dominion",
+    "school_name": "Old Dominion",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "liberty",
+    "school_name": "Liberty",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "marshall",
+    "school_name": "Marshall",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "duke",
+    "school_name": "Duke",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "north-carolina",
+    "school_name": "North Carolina",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "nc-state",
+    "school_name": "NC State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "wake-forest",
+    "school_name": "Wake Forest",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "michigan",
+    "school_name": "Michigan",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "michigan-state",
+    "school_name": "Michigan State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ohio-state",
+    "school_name": "Ohio State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "notre-dame",
+    "school_name": "Notre Dame",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "indiana",
+    "school_name": "Indiana",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "purdue",
+    "school_name": "Purdue",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "illinois",
+    "school_name": "Illinois",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "central-michigan",
+    "school_name": "Central Michigan",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "eastern-michigan",
+    "school_name": "Eastern Michigan",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "western-michigan",
+    "school_name": "Western Michigan",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "toledo",
+    "school_name": "Toledo",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ball-state",
+    "school_name": "Ball State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "cincinnati",
+    "school_name": "Cincinnati",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "louisville",
+    "school_name": "Louisville",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "kentucky",
+    "school_name": "Kentucky",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ohio",
+    "school_name": "Ohio",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "miami-oh",
+    "school_name": "Miami (OH)",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "bowling-green",
+    "school_name": "Bowling Green",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "akron",
+    "school_name": "Akron",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "kent-state",
+    "school_name": "Kent State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "western-kentucky",
+    "school_name": "Western Kentucky",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "umass",
+    "school_name": "UMass",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "middle-tennessee",
+    "school_name": "Middle Tennessee",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "alabama",
+    "school_name": "Alabama",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "auburn",
+    "school_name": "Auburn",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "georgia",
+    "school_name": "Georgia",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "georgia-tech",
+    "school_name": "Georgia Tech",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "florida",
+    "school_name": "Florida",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "florida-state",
+    "school_name": "Florida State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "miami-fl",
+    "school_name": "Miami (FL)",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "clemson",
+    "school_name": "Clemson",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "south-carolina",
+    "school_name": "South Carolina",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "tennessee",
+    "school_name": "Tennessee",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "vanderbilt",
+    "school_name": "Vanderbilt",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ucf",
+    "school_name": "UCF",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "florida-atlantic",
+    "school_name": "Florida Atlantic",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "south-florida",
+    "school_name": "South Florida",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "fiu",
+    "school_name": "FIU",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "coastal-carolina",
+    "school_name": "Coastal Carolina",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "charlotte",
+    "school_name": "Charlotte",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "appalachian-state",
+    "school_name": "Appalachian State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "east-carolina",
+    "school_name": "East Carolina",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "georgia-southern",
+    "school_name": "Georgia Southern",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "georgia-state",
+    "school_name": "Georgia State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "kennesaw-state",
+    "school_name": "Kennesaw State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "jacksonville-state",
+    "school_name": "Jacksonville State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "lsu",
+    "school_name": "LSU",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "arkansas",
+    "school_name": "Arkansas",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ole-miss",
+    "school_name": "Ole Miss",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "mississippi-state",
+    "school_name": "Mississippi State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "southern-miss",
+    "school_name": "Southern Miss",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "tulane",
+    "school_name": "Tulane",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "louisiana",
+    "school_name": "Louisiana",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "louisiana-tech",
+    "school_name": "Louisiana Tech",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "louisiana-monroe",
+    "school_name": "Louisiana-Monroe",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "arkansas-state",
+    "school_name": "Arkansas State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "south-alabama",
+    "school_name": "South Alabama",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "troy",
+    "school_name": "Troy",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "texas",
+    "school_name": "Texas",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "texas-aandm",
+    "school_name": "Texas A&M",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "baylor",
+    "school_name": "Baylor",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "tcu",
+    "school_name": "TCU",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "smu",
+    "school_name": "SMU",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "houston",
+    "school_name": "Houston",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "oklahoma",
+    "school_name": "Oklahoma",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "oklahoma-state",
+    "school_name": "Oklahoma State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "tulsa",
+    "school_name": "Tulsa",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "kansas",
+    "school_name": "Kansas",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "kansas-state",
+    "school_name": "Kansas State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "missouri-state",
+    "school_name": "Missouri State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "iowa",
+    "school_name": "Iowa",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "iowa-state",
+    "school_name": "Iowa State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "nebraska",
+    "school_name": "Nebraska",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "missouri",
+    "school_name": "Missouri",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "north-dakota-state",
+    "school_name": "North Dakota State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "northern-illinois",
+    "school_name": "Northern Illinois",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "memphis",
+    "school_name": "Memphis",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "uab",
+    "school_name": "UAB",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "minnesota",
+    "school_name": "Minnesota",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "wisconsin",
+    "school_name": "Wisconsin",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "northwestern",
+    "school_name": "Northwestern",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "arizona",
+    "school_name": "Arizona",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "arizona-state",
+    "school_name": "Arizona State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "colorado",
+    "school_name": "Colorado",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "utah",
+    "school_name": "Utah",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "byu",
+    "school_name": "BYU",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "texas-state",
+    "school_name": "Texas State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "rice",
+    "school_name": "Rice",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "utsa",
+    "school_name": "UTSA",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "texas-tech",
+    "school_name": "Texas Tech",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "north-texas",
+    "school_name": "North Texas",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "sam-houston",
+    "school_name": "Sam Houston",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "boise-state",
+    "school_name": "Boise State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "utah-state",
+    "school_name": "Utah State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "nevada",
+    "school_name": "Nevada",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "unlv",
+    "school_name": "UNLV",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "san-jose-state",
+    "school_name": "San Jose State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "colorado-state",
+    "school_name": "Colorado State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "wyoming",
+    "school_name": "Wyoming",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "air-force",
+    "school_name": "Air Force",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "new-mexico",
+    "school_name": "New Mexico",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "new-mexico-state",
+    "school_name": "New Mexico State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "utep",
+    "school_name": "UTEP",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "oregon",
+    "school_name": "Oregon",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "washington",
+    "school_name": "Washington",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "usc",
+    "school_name": "USC",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "ucla",
+    "school_name": "UCLA",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "california",
+    "school_name": "California",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "stanford",
+    "school_name": "Stanford",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "oregon-state",
+    "school_name": "Oregon State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "washington-state",
+    "school_name": "Washington State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "sacramento-state",
+    "school_name": "Sacramento State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "hawaii",
+    "school_name": "Hawaii",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "fresno-state",
+    "school_name": "Fresno State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  },
+  {
+    "school_id": "san-diego-state",
+    "school_name": "San Diego State",
+    "colors": {
+      "primary": null,
+      "secondary": null,
+      "accent": null
+    },
+    "logo": {
+      "primary_mark_url": null,
+      "logo_source_page": null,
+      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+    },
+    "brand_source_url": null,
+    "verification_status": "needs_review",
+    "notes": "Awaiting official school or athletics brand standards source."
+  }
+]
