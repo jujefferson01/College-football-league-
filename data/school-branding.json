@@ -1516,18 +1516,18 @@
     "school_id": "tulsa",
     "school_name": "Tulsa",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#003595",
+      "secondary": "#CE0E2D",
+      "accent": "#D0B787"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/tulsahurricane.com/documents/2026/1/29/Tulsa_StyleGuide_26.pdf?timestamp=20260129051643",
+      "usage_notes": "Official 2026 University of Tulsa brand guide documents the Golden Hurricane wordmark, primary university mark and logo variants. Reproduction of logos/wordmarks requires approval from the University of Tulsa and Affinity Licensing, LLC."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/tulsahurricane.com/documents/2026/1/29/Tulsa_StyleGuide_26.pdf?timestamp=20260129051643",
+    "verification_status": "partial",
+    "notes": "Official 2026 Tulsa brand guide specifies primary Blue #003595, Red #CE0E2D and Black #000000, plus Flat Gold #D0B787 and a metallic gold option without HEX. Tulsa Athletics' rebrand announcement identifies traditional royal blue and old gold as core colors and Script Tulsa + Hurricane Flag as the primary athletics identity."
   },
   {
     "school_id": "kansas",
@@ -1567,18 +1567,18 @@
     "school_id": "missouri-state",
     "school_name": "Missouri State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#5E0009",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.missouristate.edu/Policy/Chapter1/Op1_03_1_AcceptableLogoUses.htm",
+      "usage_notes": "Missouri State's official logo policy documents approved Bear Head and wordmark variants, including the Mo State spirit logo. Marks must not be altered; the registered mark must appear as shown. Branded merchandise must use licensed vendors."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.missouristate.edu/Policy/Chapter1/Op1_03_3_Colors.htm",
+    "verification_status": "partial",
+    "notes": "Missouri State official policy specifies Maroon #5E0009 (Pantone 505) and White as school colors; Black is permitted in specified logo/apparel applications. The 2026 brand refresh limits the Mo State spirit logo to athletics and non-academic uses and discontinues older M/MSU spirit logos."
   },
   {
     "school_id": "iowa",
