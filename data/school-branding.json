@@ -1399,16 +1399,16 @@
     "colors": {
       "primary": "#500000",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#666666"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://12thman.com/sports/2018/7/2/athletics-brand-guidelines",
-      "usage_notes": "Texas A&M Athletics' official brand guidelines document the primary ATM and 12th Man marks, wordmarks and approved lockups. Use original approved artwork without modification and follow Texas A&M trademark/licensing restrictions."
+      "logo_source_page": "https://12thman.com/documents/download/2019/1/15/Primary_Marks.pdf",
+      "usage_notes": "Texas A&M Athletics' primary mark is the TAM Logo (interlocking TAM), confirmed both by the official athletics primary-marks guide and the 2025 Football Media Guide. The TAM Lone Star is explicitly secondary; the 12th Man is a tradition/brand element, not a substitute for the primary athletics mark. The guide's primary logo appears in PDF reference artwork only; no standalone asset captured. 2025 media guide specifies Aggie Maroon RGB 80,0,0 (#500000) and White; official print spot color is Pantone 7421 C. Gray bevel on the white TAM logo is 40% black."
     },
     "brand_source_url": "https://12thman.com/documents/download/2019/1/15/Primary_Marks.pdf",
     "verification_status": "partial",
-    "notes": "Texas A&M Athletics identifies Aggie Maroon and White as primary colors; the athletics guide establishes the TAM Logo as the primary mark and Lone Star as secondary. Maroon HEX #500000 is used in official athletics web styling; verify exact digital master color against current central brand standards before production."
+    "notes": "Reconfirmed using 2025 Football Media Guide and official primary-marks guide: TAM Logo is the primary athletics mark; TAM Lone Star is secondary. Aggie Maroon #500000 (RGB 80,0,0; Pantone 7421 C for print) and White. No direct standalone primary asset captured; guide/reference artwork only. Do not mistake the 12th Man brand element for the primary athletics logo."
   },
   {
     "school_id": "baylor",
@@ -1416,33 +1416,33 @@
     "colors": {
       "primary": "#154734",
       "secondary": "#FFB81C",
-      "accent": null
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://baylorbears.com/sports/2018/7/2/athletics-branding",
-      "usage_notes": "Baylor Athletics' official branding resources govern the interlocking BU, bear-head and wordmark athletics marks. Use approved athletics artwork and color variants; do not substitute the university institutional seal or alter marks. Follow trademark licensing requirements."
+      "logo_source_page": "https://baylorbears.com/documents/download/2019/11/12/YIR_FINAL_v2.pdf",
+      "usage_notes": "Baylor Athletics' 2019 Baylor United identity announcement explicitly identifies the interlocking BU as the primary athletics mark and says its single-color variation is the primary logo for Athletics and all teams. The bear head is a secondary athletics mark. Baylor subsequently unified athletics and university identity under the interlocking BU. The guide provides composite/reference artwork but no directly downloadable standalone primary file was captured. Official colors Baylor Green #154734 and University Gold #FFB81C; white is a supporting neutral. Do not use the bear head as the primary mark."
     },
     "brand_source_url": "https://brand.web.baylor.edu/brand-standards/official-brand-colors",
     "verification_status": "partial",
-    "notes": "Baylor Green #154734 and University Gold #FFB81C are the official colors. Baylor's unified brand uses the interlocking BU mark across the university and athletics; an approved bear mark is a secondary athletics identifier."
+    "notes": "Official Baylor United identity announcement explicitly confirms the interlocking BU as the primary athletics mark; single-color BU is the primary logo for Athletics and all teams. Bear head is secondary. Athletics and university identity were unified under the BU mark. Colors Baylor Green #154734 and University Gold #FFB81C. No standalone primary asset captured; reference artwork only."
   },
   {
     "school_id": "tcu",
     "school_name": "TCU",
     "colors": {
-      "primary": null,
+      "primary": "#4D1979",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#A3A9AC"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gofrogs.com/sports/2018/7/2/athletics-branding",
-      "usage_notes": "TCU Athletics' official branding resources document the Horned Frog athletics identity, interlocking TCU and wordmarks. Select approved athletics marks from the guide, preserve official colors and proportions, and follow trademark/licensing rules."
+      "logo_source_page": "https://brand.tcu.edu/logo-identity-standards/",
+      "usage_notes": "TCU's official Brand Central distinguishes the arched TCU university logo from the Athletic Frog. The arched TCU logo is required on university collateral and has official logo identity standards; the Athletic Frog is reserved for Athletics and may not be combined with the arched logo except on football helmets. These are separate roles, not interchangeable marks. Current public guidance does not unambiguously designate a single overall primary athletics logo lockup; the Athletic Frog is the dedicated athletics-only mark. No direct standalone file captured. Official primary palette: Horned Frog Purple #4D1979, White #FFFFFF, Grey #A3A9AC, Black #000000; red is restricted to limited Athletics accent use."
     },
     "brand_source_url": "https://brand.tcu.edu/resources/brand-marketing-guidelines/university-marks-logos/",
     "verification_status": "partial",
-    "notes": "Official TCU Athletics fan guidance confirms Purple and White as team colors. Central brand standards establish controlled official marks and prohibit unapproved/retired logo use. Exact official digital HEX palette remains to be confirmed."
+    "notes": "Clarified brand architecture: arched TCU is the university logo; Athletic Frog is reserved for Athletics and is not interchangeable with the university logo. The Athletic Frog cannot be combined with arched TCU except on football helmets. Current public sources do not unambiguously label one overall athletics primary lockup; no direct asset captured. Official colors Purple #4D1979, White #FFFFFF, Grey #A3A9AC, Black #000000; red limited to Athletics accent."
   },
   {
     "school_id": "smu",
@@ -1454,12 +1454,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://smumustangs.com/sports/2018/7/2/athletics-branding",
-      "usage_notes": "SMU Athletics' official brand resources document the Mustangs identity, Dallas logo, SMU marks and sport-specific wordmarks. Use the athletics-approved primary mark and exact supplied artwork; observe university trademark and licensing restrictions."
+      "logo_source_page": "https://smumustangs.com/sports/2016/6/8/ot-smu-licensing-html",
+      "usage_notes": "SMU Athletics' official licensing page identifies the running Mustang as its athletic logo and requires it to face right; preferred pony color is red (Pantone 186 C), with white or occasionally blue (Pantone 286 C). SMU's 2026 university policy describes its athletic logo as the running mustang and SMU letters in the Athletic font. The Mustang icon alone is a spirit/promotional component, not a substitute for the complete SMU logo where the full brand mark is required. The current athletics page shows logo families but no direct standalone primary production file was captured. Colors Red #D70000 and Blue #0033A1."
     },
     "brand_source_url": "https://smumustangs.com/sports/2016/6/8/ot-smu-licensing-html",
     "verification_status": "partial",
-    "notes": "SMU Athletics lists Red #D70000 (Pantone 186 C) and Blue #0033A1 (Pantone 286 C). The Mustang logo must not be altered; preferred pony color is red, with white or limited blue use."
+    "notes": "Official Athletics licensing page confirms the running Mustang as an athletics logo, facing right; preferred pony color red (Pantone 186 C), with white or occasional blue (Pantone 286 C). 2026 university policy defines the athletic image as running Mustang + SMU letters in Athletic font. The Mustang icon alone is not a substitute for the complete SMU logo where the full mark is required. Colors Red #D70000, Blue #0033A1. No standalone asset captured."
   },
   {
     "school_id": "houston",
@@ -1471,12 +1471,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://uhcougars.com/sports/2018/7/2/athletics-branding",
-      "usage_notes": "Houston Athletics' official branding resources govern the UH interlocking mark, Cougar head and athletics wordmarks. Use official athletics artwork and approved colorways without modification; follow university trademark/licensing restrictions."
+      "logo_source_page": "https://uhcougars.com/sports/2018/6/12/licensing-logos-html",
+      "usage_notes": "Houston Athletics' official licensing page explicitly labels the flat UH interlocking mark as the PRIMARY LOGO and prefers the flat versions shown in the top row. Red UH is used on backgrounds other than red; white UH is reserved for red backgrounds. The Cougar head and wordmarks are separate identity assets, not substitutes for the primary UH mark. Official colors: Red Pantone 186 / RGB 201,42,57 (#C92A39); Dark Red Pantone 188 / RGB 125,41,53 (#7D2935) for beveled UH; Gray Pantone 421 / RGB 184,185,183 (#B8B9B7). The page displays logo reference images but no standalone direct asset captured."
     },
     "brand_source_url": "https://uhcougars.com/sports/2018/6/12/licensing-logos-html",
     "verification_status": "partial",
-    "notes": "Houston Athletics official colors list Red RGB 201/42/57 (#C92A39), Dark Red RGB 125/41/53 (#7D2935), Gray RGB 184/185/183 (#B8B9B7)."
+    "notes": "Explicit hierarchy correction: flat interlocking UH is the PRIMARY LOGO; Cougar head and wordmarks are distinct secondary/other assets. Red UH on non-red backgrounds; white UH only on red. Colors Red #C92A39 (Pantone 186), Dark Red #7D2935 (Pantone 188, beveled UH), Gray #B8B9B7 (Pantone 421). No direct standalone asset captured; official page reference image only."
   },
   {
     "school_id": "oklahoma",
@@ -1489,11 +1489,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://soonersports.com/documents/2024/10/1/Oklahoma_09-26-24.pdf",
-      "usage_notes": "Oklahoma Athletics' official brand guidelines govern the OU interlocking mark, Sooner Schooner, Boomer and Sooner, and sport-specific wordmarks. Use official artwork and approved treatments only; marks are protected and subject to university licensing and permission rules."
+      "usage_notes": "The current Oklahoma Athletics Brand Guide (revision 09/26/24) explicitly identifies the Crimson OU mark on a white background as the Primary Athletics Mark. The same guide lists Crimson (Pantone 201 C), Cream (Pantone 468 C) and White; it does not supply HEX values, so none are inferred. The primary OU mark is visible in the PDF reference guide, but no standalone direct production asset was captured. Mascot names and spirit elements are not substitutes for the primary athletics mark."
     },
     "brand_source_url": "https://soonersports.com/documents/download/2024/10/1/Oklahoma_09-26-24.pdf",
     "verification_status": "partial",
-    "notes": "OU Athletics lists Crimson (Pantone 201 C), Cream (Pantone 468 C) and White. The reference specifies the Crimson OU mark on white as the primary athletics mark. HEX values not provided in this official source."
+    "notes": "Current 09/26/24 Oklahoma Athletics Brand Guide explicitly names Crimson OU on white as the Primary Athletics Mark. Palette is Crimson Pantone 201 C, Cream Pantone 468 C, White; official guide provides no HEX values, so HEX remains null. PDF reference artwork inspected; no standalone direct asset captured."
   },
   {
     "school_id": "oklahoma-state",
