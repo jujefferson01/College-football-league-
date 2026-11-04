@@ -1216,29 +1216,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://olemisssports.com/documents/download/2025/4/21/Week_11_Governor_s_Cup.pdf",
+      "usage_notes": "Official Ole Miss Athletics style guide identifies the preferred Ole Miss name, script logo variations and official colors. Use approved artwork and follow university trademark/licensing requirements."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://olemisssports.com/sports/2018/7/20/traditions",
+    "verification_status": "partial",
+    "notes": "Official Ole Miss Athletics traditions and style guide specify Cardinal Red (PMS 186) and Navy Blue (PMS 2767). Official sources provide Pantone references; HEX values are left null rather than converted or estimated."
   },
   {
     "school_id": "mississippi-state",
     "school_name": "Mississippi State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#5D1725",
+      "secondary": "#FFFFFF",
+      "accent": "#C1C6C8"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://static.hailstate.com/custompages/pdf/mbk/202324/23MSST_BrandGuide.pdf",
+      "usage_notes": "Official Mississippi State Athletics branding portal and identity standards document primary/secondary marks and official color values. Marks and wordmarks are protected university property; follow current licensing and approval rules."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://hailstate.com/sports/2024/1/25/BrandingPortal",
+    "verification_status": "partial",
+    "notes": "Mississippi State Athletics branding portal specifies Maroon #5D1725, White #FFFFFF and Gray #C1C6C8. Athletics identity standards document the primary Bulldog-head/STATE mark and secondary script and wordmarks."
   },
   {
     "school_id": "southern-miss",
@@ -1250,12 +1250,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://southernmiss.com/documents/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
+      "usage_notes": "Official 2024 Southern Miss Athletics Branding Guide identifies the Southern Miss wordmark as the primary athletics wordmark and gives approved background/color combinations. The registered mark symbol must remain present; special versions require licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://southernmiss.com/documents/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
+    "verification_status": "partial",
+    "notes": "Official Southern Miss Athletics Branding Guide (updated 2024; hosted September 2025) documents the primary Southern Miss wordmark and approved gold, black and white treatments. Exact official HEX values have not yet been extracted, so color fields remain null."
   },
   {
     "school_id": "tulane",
@@ -1267,12 +1267,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://tulanegreenwave.com/documents/download/2022/7/15/2022-23_Style_Guide_Final.pdf",
+      "usage_notes": "Official Tulane Athletics Branding & Style Guide governs official colors, marks and typography. The Angry Wave is the primary athletics mark; T-Wave is secondary. Contact Athletics for logo and licensing requests."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://tulanegreenwave.com/sports/2017/8/25/branding-style-guide",
+    "verification_status": "partial",
+    "notes": "Official Tulane Athletics guide specifies Pantone 342 Green and Pantone 279 Blue for sport-specific logos, with black, white and two-color versions by request. Official guide establishes mark hierarchy: Angry Wave primary, T-Wave secondary. HEX values are not inferred."
   },
   {
     "school_id": "louisiana",
