@@ -1013,11 +1013,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://gousfbulls.com/documents/download/2022/8/18/USF-ATHLETICS-BRAND-GUIDE.pdf",
-      "usage_notes": "USF Athletics' official Brand Guide identifies the South Florida Athletics primary lockup: Bulls head plus SOUTH FLORIDA wordmark and ATHLETICS line. Sport-specific logos follow the same identity. Use only approved color/background combinations and do not modify the mark."
+      "usage_notes": "The official 2022 USF Athletics Brand Guide explicitly identifies the Bull U symbol as the primary logo and USF Athletics' master brand (PDF page 8). The Logo USF and Logo Bulls are secondary marks and must never replace the primary Bull U. The Bull U is shown in multiple approved background treatments in the guide, but no standalone direct asset was captured. Official primary colors: USF Green #006747, USF Gold #CFC493 and White #FFFFFF. Do not alter logo colors or proportions; gold primary variation is apparel-only with approval."
     },
     "brand_source_url": "https://gousfbulls.com/documents/download/2022/8/18/USF-ATHLETICS-BRAND-GUIDE.pdf",
     "verification_status": "partial",
-    "notes": "USF Athletics Brand Guide specifies USF Green #006747, USF Gold #CFC493 and White #FFFFFF as the primary palette."
+    "notes": "Corrected hierarchy: Bull U (bull-head integrated with U) is the primary athletics logo/master brand. Logo USF and Logo Bulls are explicitly secondary; Bull U acronym is a mark, not the primary logo. Official guide composite board inspected; no standalone file captured. Palette Green #006747, Gold #CFC493, White #FFFFFF. Full-color preferred; do not alter proportions/colors."
   },
   {
     "school_id": "fiu",
@@ -1030,11 +1030,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/fiu.sidearmsports.com/documents/2024/12/19/FIU_Athletics_Brand_Guide_2024-25.pdf",
-      "usage_notes": "FIU Athletics' 2024–25 Brand Guide distinguishes primary Panthers Wordmark, Panthers Script (reserved primarily for baseball and softball), sport-specific marks and other lockups. Use exact approved treatments; do not remove or alter shadows. Contact FIU Athletics Brand Advancement for questions. The general university Panther Logo is a secondary symbol and must not replace the university's primary FIU logo."
+      "usage_notes": "FIU Athletics' official 2024–25 Brand Guide distinguishes the primary Panthers Wordmark from the Panthers Script, which is reserved primarily for baseball and softball, plus sport-specific marks and other lockups. The general university Panther Logo is a secondary symbol and must not replace the primary FIU university logo. The guide PDF is official, but the current approved primary Panthers Wordmark was not captured as a direct standalone file in this pass; current color values likewise were not extracted/verified. Request approved art from FIU Athletics Brand Advancement."
     },
     "brand_source_url": "https://fiusports.com/staff-directory/christian-almanza/1443",
     "verification_status": "partial",
-    "notes": "Official FIU Athletics staff biography confirms the department has an Athletics Brand Guide covering logos, color schemes and brand strategy. The guide's exact palette and downloadable marks remain to be reviewed; no HEX values inferred."
+    "notes": "Official 2024–25 FIU Athletics Brand Guide confirms Panthers Wordmark as primary athletics wordmark; Panthers Script is reserved primarily for baseball/softball. Distinguish athletics mark system from university logo hierarchy. No direct standalone asset or verified palette values captured. Use only approved artwork; don't remove shadows."
   },
   {
     "school_id": "coastal-carolina",
@@ -1114,12 +1114,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gseagles.com/sports/2019/7/23/athletics-branding",
-      "usage_notes": "Georgia Southern Athletics' official branding resources identify the Eagles athletics marks and approved wordmarks. Use the current approved athletics artwork without alteration; marks are protected university trademarks and external/commercial use is subject to licensing approval."
+      "logo_source_page": "https://gseagles.com/documents/download/2025/7/23/25ATH_Branding_Guide.pdf",
+      "usage_notes": "The official 2025–26 Georgia Southern Athletics Brand Identity Guidelines explicitly identify the Eagle Head Logo as the globally recognized primary symbol and main identifying device for Athletics (PDF pages 7–9). The guide also shows the preferred Eagle Head + Georgia Southern primary lockup and four one-color variants, but these are composite reference panels rather than standalone production files. Interlocking GS, GATA and Strutting Gus are secondary/mascot marks. Official colors: Navy Blue #041E42 and White #FFFFFF primary; Gray #A3AAAE secondary; Gold #A99260 accent. Do not reconstruct or scan printed marks; CLC handles licensing."
     },
     "brand_source_url": "https://georgiasouthern.edu/",
     "verification_status": "partial",
-    "notes": "2025 Georgia Southern Athletics Brand Identity Guide specifies Navy Blue #041E42 and White #FFFFFF as primary colors, Gray #A3AAAE as secondary and Gold #A99260 as accent."
+    "notes": "Updated to official 2025–26 Athletics guide. Eagle Head Logo is explicitly the primary athletics symbol; primary wordmark is derived from it. Interlocking GS and GATA are secondary; Strutting Gus is mascot mark. Guide visual boards inspected but no standalone file captured. Navy #041E42 and White #FFFFFF primary, Gray #A3AAAE secondary, Gold #A99260 accent. CLC exclusive trademark licensing agent."
   },
   {
     "school_id": "georgia-state",
@@ -1149,11 +1149,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://ksuowls.com/sports/2016/6/28/GEN_0628161417.aspx",
-      "usage_notes": "Kennesaw State Athletics' official logo resources document the Owls identity and approved athletics marks. Use current athletics artwork without alteration and follow university trademark and licensing requirements; confirm primary mark selection with KSU Athletics."
+      "usage_notes": "Kennesaw State Athletics' official logo resources identify the Owls athletics identity and provide approved logo references, but this legacy resource does not clearly designate the current primary mark or provide a retrievable direct standalone asset in this pass. The Fighting Owl is part of the athletics identity and is not assumed to be the primary mark without a current hierarchy statement. Official colors and current approved artwork require confirmation from KSU Athletics/University Communications."
     },
     "brand_source_url": "https://ksuowls.com/sports/2009/6/30/traditions.aspx?id=33",
     "verification_status": "partial",
-    "notes": "Official Kennesaw State Athletics tradition page confirms the Owls' black-and-gold colors and the Fighting Owl identity history. Exact current color specifications and approved current primary asset need further review."
+    "notes": "Official KSU Athletics logo resource reviewed, but primary-mark hierarchy is not explicit enough to assign a definitive primary logo. Fighting Owl is an athletics identity asset but is not automatically assumed to be the primary mark. Exact current color values and standalone artwork remain unverified; request current approved files from Athletics."
   },
   {
     "school_id": "jacksonville-state",
@@ -1165,12 +1165,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://jsugamecocksports.com/sports/2018/7/16/athletics-branding.aspx",
-      "usage_notes": "Jacksonville State Athletics identifies its Gamecock athletics identity and official marks. The marks are protected university trademarks; follow the official athletics branding and licensing requirements and obtain approved artwork from JSU Athletics."
+      "logo_source_page": "https://jaxstatesports.com/documents/2026/4/1/Jax_State_2026_Athletics_Brand_Standards.pdf",
+      "usage_notes": "Jax State's April 2026 Athletics Brand Standards are current for 2026–27 and supersede the old Jacksonville State/JSU identity. The official update says the primary stacked Jax State mark now requires a white outline on black backgrounds and its one-color version supports University Red, black and white. The standards also reintroduce a revamped one-color white AKC (Fightin' Gamecock) mark and two-color black/white AKC variants. The AKC is a revived heritage mark, not a reason to use retired JSU/Jacksonville logos. Approved artwork is supplied by Athletics on request; no direct standalone file captured. External users should contact Athletics Communications."
     },
     "brand_source_url": "https://jaxstatesports.com/sports/2013/7/15/Brand",
     "verification_status": "partial",
-    "notes": "Official Jax State Athletics brand page provides current external brand standards and logo-request instructions. A 2025 athletics announcement confirms retired JSU/Jacksonville marks and the refreshed Jax State identity; exact palette values and asset files remain to be reviewed."
+    "notes": "Major current identity correction: Jax State is the official athletics name/brand; legacy JSU and Jacksonville marks have been retired and are not approved for commercial use. 2026–27 guide refines primary stacked Jax State mark (white outline required on black backgrounds) and revives AKC heritage Fightin' Gamecock variants. Do not substitute the heritage AKC for the primary stacked Jax State mark. Red/white are school colors; exact current digital HEX values not verified. No standalone asset captured."
   },
   {
     "school_id": "lsu",
@@ -1182,12 +1182,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://lsusports.net/media/",
-      "usage_notes": "LSU Athletics provides official media and brand resources for its athletics marks. The Fighting Tiger head and LSU wordmark are protected athletics identifiers; use official artwork and approved color treatments only. Follow LSU trademark licensing requirements for external or commercial use."
+      "logo_source_page": "https://lsusports.net/news/2002/07/18/162469",
+      "usage_notes": "LSU Athletics' official July 2002 identity announcement explicitly states the new primary athletic mark is a Tiger paired with the letters LSU, replacing the prior block LSU + script Tigers mark. Current official media guidance says official LSU Athletics logos must be requested from creative@lsu.edu and are subject to case-by-case approval; no direct standalone current primary asset is publicly exposed in this pass. Fighting Tiger head-only and LSU wordmark-only assets should not be substituted for the combined primary identity without approval. Official colors: Purple #461D7C, Gold #FDD023, Process Black #231F20. Resale/commercial use prohibited without licensing."
     },
     "brand_source_url": "https://lsusports.net/media",
     "verification_status": "partial",
-    "notes": "LSU Athletics Media Center specifies Pantone 268 Purple #461D7C, Pantone 123 Gold #FDD023 and Process Black #231F20. Official marks are controlled; editorial requests are reviewed case by case and resale/commercial use is prohibited without licensing."
+    "notes": "Official 2002 Athletics identity announcement defines new primary athletics mark as Tiger + LSU letters combined. Current LSU media center requires logo requests to creative@lsu.edu; no standalone approved current primary asset captured. Do not assume Tiger head alone or LSU wordmark alone replaces the combined primary identity. Purple #461D7C, Gold #FDD023, Process Black #231F20. Marks are LSU property; one-time editorial requests reviewed case-by-case; resale/commercial use prohibited without licensing."
   },
   {
     "school_id": "arkansas",
