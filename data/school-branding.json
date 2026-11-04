@@ -8,13 +8,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://www.bc.edu/content/dam/bc1/offices/ouc/webp/photography/Boston-College-Eagles%20%281%29.webp",
       "logo_source_page": "https://www.bc.edu/content/bc-web/offices/office-of-university-communications.html",
-      "usage_notes": "Official BC Athletics mark is a protected trademark. Contact Sports Marketing for use questions; no direct downloadable asset URL verified in this pass."
+      "usage_notes": "The official Boston College University Communications page identifies this eagle/interlocking-BC artwork as the primary BC Eagles logo, created in 2000. The direct official WebP asset was opened and visually inspected. Official colors are Maroon 202, Gold 4515 and Metallic Gold 871. Promotional or other use questions must go to BC Sports Marketing; public availability does not grant reuse rights."
     },
     "brand_source_url": "https://bceagles.com/news/2000/7/26/Boston_College_Athletics_Unveils_New_Logos",
-    "verification_status": "partial",
-    "notes": "Boston College Athletics identifies Maroon 202, Gold 4515 and Metallic Gold 871 as Pantone ink colors for its marks. The licensing guide contains detailed color standards, but HEX values are not added until individually verified. Official BC University Communications page confirms the primary Eagles mark combines an eagle with interlocking BC; source page located, but direct asset URL not yet captured."
+    "verification_status": "verified",
+    "notes": "Official BC Athletics primary mark: eagle over interlocking BC, created in 2000. Direct official WebP asset captured and visually inspected. The source specifies Pantone Maroon 202, Gold 4515 and Metallic Gold 871; do not infer HEX values from the image."
   },
   {
     "school_id": "buffalo",
@@ -44,11 +44,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
-      "usage_notes": "Army West Point identifies the Athena Shield as its primary athletics mark; the Classic A is a limited-use secondary mark. Obtain approved artwork and confirm usage with Army West Point Athletics/licensing."
+      "usage_notes": "Army West Point's official 2015 identity announcement identifies the Athena Shield as the primary mark for all intercollegiate athletics; the Classic A is retained for limited use. Official page image link was tested but the hosted image conversion endpoint failed to load in this pass, so no direct asset URL is recorded."
     },
     "brand_source_url": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
     "verification_status": "partial",
-    "notes": "Army West Point identifies Army Black, USMA Gold, Gray and White as its primary palette. Its official fact sheet specifies Pantone 467 C, Process Black C and Cool Gray 5 C; no HEX values have been entered because the source does not provide them."
+    "notes": "Army West Point's official identity announcement establishes the Athena Shield as primary for all intercollegiate athletics; Classic A remains a limited-use secondary mark and all other former marks were retired. Official colors: Army Black, USMA Gold (Pantone 467 C), Gray (Cool Gray 5 C) and White. Current direct logo asset still needs successful capture and visual inspection."
   },
   {
     "school_id": "navy",
@@ -77,12 +77,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://cuse.com/news/2004/5/11/newlogo2004",
-      "usage_notes": "Syracuse Athletics identifies the interlocking SU as its consistent athletics mark across sports. This official historical identity announcement confirms the mark; current approved artwork and use restrictions should be confirmed through Syracuse Athletics/Trademark Licensing."
+      "logo_source_page": "https://cuse.com/news/2004/5/11/newlogo20042",
+      "usage_notes": "The official 2004 Athletics identity announcement confirms the interlocking SU as the athletics-wide mark at that time. The official page image was opened and visually inspected, but this archival-era source alone does not establish that the exact artwork remains the current approved primary mark; current asset confirmation is still required."
     },
     "brand_source_url": "https://www.syracuse.edu/brand/",
     "verification_status": "partial",
-    "notes": "Official Syracuse University brand page points to the NetID-restricted brand toolkit and directs mark-use questions to Trademark Licensing. Exact athletics palette values and public logo asset links remain to be verified."
+    "notes": "Syracuse Athletics' 2004 identity announcement established the interlocking SU for all athletics teams, using Orange with dark blue as an accent. The official image was visually inspected but is retained as a dated identity reference only until current primary-mark status is reconfirmed. Trademark restrictions apply."
   },
   {
     "school_id": "temple",
@@ -94,12 +94,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://finance.temple.edu/sites/finance/files/documents/OWLmark%20Branding.pdf",
-      "usage_notes": "Temple marks are controlled under CLC licensing; written approval is required for use. Use the official artwork and do not redraw."
+      "logo_source_page": "https://owlsports.com/news/2023/8/1/general-temple-university-formally-introduces-amodern-new-logo-for-displaying-owl-pride",
+      "usage_notes": "Temple Athletics formally introduced the modernized Owl mark on August 1, 2023. The official page image was opened and visually inspected. Temple describes the Owl as a secondary university mark and a key athletics/mascot identity; do not mislabel it as the university's primary Temple T mark. Marks are controlled under CLC licensing and written approval is required."
     },
-    "brand_source_url": "https://finance.temple.edu/business-operations/trademark-licensing/faq",
+    "brand_source_url": "https://owlsports.com/news/2023/8/1/general-temple-university-formally-introduces-amodern-new-logo-for-displaying-owl-pride",
     "verification_status": "partial",
-    "notes": "Temple's official trademark FAQ lists cherry red, yellow, metallic silver, silver, black and white as school colors. Exact HEX values and approved logo asset links remain to be verified. Official Temple brand guide documents the Owl mark and athletics identity; 2025 guide states marks are controlled under CLC licensing and require written approval."
+    "notes": "Temple formally introduced a modernized Owl mark on August 1, 2023. The Temple T remains the university's primary mark; the Owl is a secondary university mark with an important Division I athletics/mascot role. The official image was visually inspected, but it is not recorded as the primary athletics mark until Athletics confirms its precise primary/secondary designation. CLC licensing and written approval apply."
   },
   {
     "school_id": "rutgers",
@@ -111,12 +111,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gse.rutgers.edu/wp-content/uploads/2024/11/rutgers_visual_identity_system_user_guide.pdf",
-      "usage_notes": "Rutgers guide directs users to official downloadable identity files or request through University Communications. Rutgers Athletics terms prohibit reproduction/redistribution without express written consent; do not assume personal-use storage authorizes publication."
+      "logo_source_page": "https://scarletknights.com/documents/download/2020/10/13/RUA_Visual_Identity_v2_0_1.pdf",
+      "usage_notes": "The official Rutgers Athletics Visual Identity guide documents department and sport-specific Block R ATHLETICS lockups, including red/black and approved neutral variants. The guide warns not to construct the logo. Rutgers Athletics marks are protected; reproduction/redistribution requires express written consent. No direct raw logo file was captured and visually inspected."
     },
     "brand_source_url": "https://communications.rutgers.edu/brand-policies/visual-identity",
     "verification_status": "partial",
-    "notes": "Rutgers official visual identity resources identify Scarlet #CC0033, Black #000000 and White #FFFFFF as primary palette. University signatures and marks are governed by the official visual identity policy; athletics mark/asset review remains pending. Official Rutgers visual identity guide distinguishes the Rutgers R, institutional signatures and athletics mascot logos; official source guide located."
+    "notes": "Rutgers Athletics has sport-specific Block R ATHLETICS lockups documented in its official visual identity guide. This is distinct from the institutional Rutgers R. Official digital colors remain Scarlet #CC0033, Black #000000 and White #FFFFFF. The mark guide's official PDF is the current source used in this audit; direct artwork and licensing approval remain pending."
   },
   {
     "school_id": "penn-state",
@@ -128,12 +128,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.psu.edu/visual-identity-standards/other-university-symbols",
-      "usage_notes": "Penn State Primary Athletics Mark use by anyone other than Penn State Athletics staff requires Licensing Programs approval; do not use the institutional Nittany Lion shield as a substitute."
+      "logo_source_page": "https://brand.psu.edu/visual-identity-standards/other-university",
+      "usage_notes": "Penn State's Brand Book displays the Primary Athletics Mark and explicitly distinguishes it from the institutional Nittany Lion shield/logotype. The official mark image was opened and visually inspected as a reference image, but it is a guideline-board JPG rather than a clean standalone logo file; no production asset URL is recorded. Mark always faces right, must not be altered, and third-party use requires Licensing Programs approval."
     },
     "brand_source_url": "https://brand.psu.edu/design-toolkit/design-essentials",
     "verification_status": "partial",
-    "notes": "Penn State lists Nittany Navy #001E44, Beaver Blue #1E407C, White Out #FFFFFF, and Pugh Blue #96BEE6. Official Penn State Brand Book confirms a distinct Primary Athletics Mark; use is limited to athletics contexts and anyone outside Athletics staff requires approval from Licensing Programs."
+    "notes": "Penn State's Primary Athletics Mark is the right-facing Nittany Lion head, distinct from the institutional Nittany Lion shield/logotype. Athletics mark colors are Nittany Navy and White Out. The official guideline image was visually inspected but is not a clean standalone production asset. Third-party use requires Licensing Programs approval; do not substitute the institutional shield."
   },
   {
     "school_id": "pittsburgh",
