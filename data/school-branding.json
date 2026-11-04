@@ -1279,17 +1279,17 @@
     "school_name": "Louisiana",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://ocm.louisiana.edu/sites/communicationsandmarketing/files/University-of-Louisiana-Lafayette-Brand-Guide.pdf",
+      "usage_notes": "Official university brand guide identifies the primary circular Ragin' Cajuns athletics logo, primary athletic wordmark, secondary wordmark and interlocked UL mark. Preserve trademark symbols and exact artwork; no alteration."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://ragincajuns.com/documents/download/2023/11/3/Game_Notes_-_Arkansas_State.pdf",
+    "verification_status": "partial",
+    "notes": "Official Louisiana Athletics game notes identify Vermilion (PMS 193) and White as school colors. The university brand guide documents the official athletics logo hierarchy and trademark requirements. Exact HEX for Vermilion was not supplied in the official sources, so it remains null."
   },
   {
     "school_id": "louisiana-tech",
@@ -1301,29 +1301,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.latech.edu/identity-standards/logos-and-wordmarks/",
+      "usage_notes": "Official Louisiana Tech identity standards provide sanctioned university and Bulldog marks. Logos may not be altered; prior review/approval is required for logo use. Official marks and licensed merchandise are protected."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.latech.edu/licensing/internal-logo-usage/",
+    "verification_status": "partial",
+    "notes": "Louisiana Tech official brand standards specify PMS 287 Blue and PMS 1797 Red. Official guidance documents the Louisiana Tech and Bulldog head marks and prohibits alteration. Exact HEX values were not extracted from the source and remain null."
   },
   {
     "school_id": "louisiana-monroe",
     "school_name": "Louisiana-Monroe",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#840029",
+      "secondary": "#FDB913",
+      "accent": "#646469"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://ulmapps.ulm.edu/policies/sites/policies/files/policy_uploads/ULM%20Brand%20Guide%202025%20October%2013%2C%202025.pdf",
+      "usage_notes": "2025–26 ULM Brand Guide specifies the full-color Warhawk athletics mark and approved single-color variants. Use authorized original artwork only; do not reconstruct or scan marks. Observe minimum-size and trademark placement requirements."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://ulmapps.ulm.edu/policies/sites/policies/files/policy_uploads/ULM%20Brand%20Guide%202025%20October%2013%2C%202025.pdf",
+    "verification_status": "partial",
+    "notes": "ULM official brand standards identify Warhawk Maroon #840029 and Heritage Gold #FDB913 as primary colors, with Dark Grey #646469 among secondary colors. The 2025–26 guide confirms the updated P-40-inspired Warhawk identity and primary athletics logo."
   },
   {
     "school_id": "arkansas-state",
@@ -1335,12 +1335,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://astateredwolves.com/sports/2019/10/1/204572.aspx",
+      "usage_notes": "Official Arkansas State Athletics licensing page governs use of university logos, marks, symbols and nicknames. Use requires approval/license; unapproved merchandise may be subject to seizure."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://astateredwolves.com/sports/2021/7/21/reference-guides.aspx?path=football",
+    "verification_status": "partial",
+    "notes": "Official Arkansas State Athletics reference guides and licensing page confirm the Red Wolves identity and controlled trademark use. Official school color descriptions identify Maroon and Gold, but current exact HEX/Pantone specifications were not established in the official sources; values remain null."
   },
   {
     "school_id": "south-alabama",
@@ -1352,29 +1352,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://usajaguars.com/story.aspx?file_date=8%2F26%2F2008&filename=52751&path=wten",
+      "usage_notes": "Official athletics announcement identifies the stylized Jaguar profile as the athletics and marching-band logo. University marks require express written consent and are governed by Athletics licensing and University Marketing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://usajaguars.com/sports/2010/6/30/GEN_0630101424",
+    "verification_status": "partial",
+    "notes": "Official South Alabama sources document Red, White and Blue as the university's official colors and the stylized Jaguar profile as the athletics mark. Historical sources note earlier black-and-gold use; that is not the current official palette. Exact current HEX values were not established."
   },
   {
     "school_id": "troy",
     "school_name": "Troy",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#862633",
+      "secondary": "#B1B1B1",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
+      "usage_notes": "Official Troy University Brand Guidelines document official colors and identity standards. Use official artwork and follow the university's trademark and licensing requirements."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
+    "verification_status": "partial",
+    "notes": "Official Troy Brand Guidelines list Maroon (PMS 202 / HTML 862633), Light Gray (Cool Gray 5 / HTML B1B1B1), Process Black (#000000) and White (#FFFFFF). Maroon, gray and black are recorded here as primary/secondary/accent; white is an approved additional neutral."
   },
   {
     "school_id": "texas",
