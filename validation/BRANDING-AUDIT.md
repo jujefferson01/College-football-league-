@@ -94,6 +94,22 @@ The remaining six Mountain West records were refreshed in `data/school-branding.
 
 **Identity updates worth preserving:** Colorado State's current brand guide retires its former secondary/tertiary palettes; New Mexico's 2024 art sheet restricts the sideways Lobo; UTEP's July 2026 Paydirt Pete refresh supersedes the prior mascot artwork. These distinctions should remain explicit when selecting simulator assets.
 
+
+## Pacific — batch 1
+
+The first six Pacific conference records were refreshed in `data/school-branding.json`. All six remain **partial** because this pass did not capture and visually inspect a direct athletics PNG/SVG file.
+
+| School | Official source(s) | Findings |
+|---|---|---|
+| Oregon | [UO Style Guide](https://communications.uoregon.edu/sites/default/files/2023-02/UO%20Style%20Guide.pdf) and [Oregon Athletics BEOREGON identity story](https://goducks.com/news/2023/9/26/new-logo-captures-breadth-of-beoregons-spirit) | The interlocking UO mark and Winged O are athletics-specific; do not substitute academic/administrative identity. UO Green `#007030`, UO Yellow `#FEE11A`, Obsidian `#000000`. |
+| Washington | [2025–26 UW Athletics Brand Identity Guidelines](https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf) | Stroked Block W is the primary athletics mark, distinct from the upper-campus W. Purple `#33006F`, Gold `#E8D3A2`, Metallic Gold `#917B4C`, Gray `#D8D9DA`. The current guide supersedes older quick-reference logo pages. |
+| USC | [USC Athletics logos](https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos) and [USC color guide](https://identity.usc.edu/identity/color/) | Official athletics Interlock has two-color, one-color Cardinal and one-color Gold PNG/EPS variants. Cardinal `#990000` and Gold `#FFCC00` are the two primary colors; black and white are secondary. |
+| UCLA | [UCLA Athletics logos and wordmarks](https://uclabruins.com/ucla-athletics-logos-and-wordmarks) and [UCLA color guide](https://brand.ucla.edu/identity/colors) | Athletics publishes primary logo/wordmark variants. The Script Logo is restricted to Intercollegiate Athletics and is distinct from the campus logo. Blue `#2774AE` and Gold `#FFD100`, with blue dominant. |
+| California | [2024–25 Cal Athletics Brand Guidelines](https://calbears.com/documents/2024/10/17/CAL-BRAND-GUIDELINES.pdf) and [Cal visual identity](https://static.calbears.com/custompages/uabrand/index.html) | Cal Script is the primary athletics logo; Block C/profile Golden Bear is a secondary mascot mark. Berkeley Blue `#002676` and California Gold `#FDB515` are university color references; verify any athletics-specific production values against the current athletics guide. |
+| Stanford | [Stanford logo guide](https://identity.stanford.edu/visual-identity/stanford-logos/) and [logo color rules](https://identity.stanford.edu/visual-identity/stanford%20logos/wordmarks/) | Current logo system includes Block S with Tree, wordmarks and seal. Vintage marks are no longer in use. Cardinal Red (Pantone 201 C), White and Black are approved logo colors; Palo Alto Green is also specified for approved applications. Third-party use requires licensing/approval. |
+
+**Key identity distinctions:** Washington's 2025–26 guide explicitly names the stroked Block W as the athletics primary mark; USC Athletics publishes a dedicated Interlock; UCLA's Script Logo is an athletics-restricted mark; Cal's Cal Script remains primary with the Golden Bear as secondary; Stanford advises against vintage marks.
+
 ## Next steps
 
 1. Continue with the next Southwest batch.
