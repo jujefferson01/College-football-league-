@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "School branding record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["school_id", "school_name", "colors", "logo", "verification_status"],
+  "properties": {
+    "school_id": { "type": "string" },
+    "school_name": { "type": "string" },
+    "colors": {
+      "type": "object",
+      "required": ["primary", "secondary", "accent"],
+      "properties": {
+        "primary": { "type": ["string", "null"], "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "secondary": { "type": ["string", "null"], "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "accent": { "type": ["string", "null"], "pattern": "^#[0-9A-Fa-f]{6}$" }
+      },
+      "additionalProperties": false
+    },
+    "logo": {
+      "type": "object",
+      "required": ["primary_mark_url", "logo_source_page", "usage_notes"],
+      "properties": {
+        "primary_mark_url": { "type": ["string", "null"], "format": "uri" },
+        "logo_source_page": { "type": ["string", "null"], "format": "uri" },
+        "usage_notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "brand_source_url": { "type": ["string", "null"], "format": "uri" },
+    "verification_status": { "enum": ["needs_review", "partial", "verified"] },
+    "notes": { "type": "string" }
+  }
+}
