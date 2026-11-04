@@ -1703,35 +1703,35 @@
     "school_id": "uab",
     "school_name": "UAB",
     "colors": {
-      "primary": "#006341",
-      "secondary": "#D4B754",
+      "primary": "#1A5632",
+      "secondary": "#FDB913",
       "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.uab.edu/brandguide/athletics",
-      "usage_notes": "UAB Athletics' official identity centers on the Blazers dragon mark and UAB athletics wordmarks. Use official athletics artwork and approved color treatments; follow UAB brand and trademark licensing rules. Note: current athletics materials list Green #1A5632 and Gold #FDB913; institutional brand palette may differ."
+      "usage_notes": "UAB's current Athletics Brand Guide explicitly identifies the gold-outlined UAB monogram as the PRIMARY ATHLETICS LOGO representing all official sports, departments and units. Full-color green with gold outline is the preferred version. Blaze is explicitly the SECONDARY Athletics logo and a campus spirit mark; do not substitute Blaze for the primary monogram. UAB's current shared brand palette specifies UAB Green #1A5632 (Pantone 357) and UAB Gold #FDB913 (Pantone 7549); Green should be emphasized. The guide presents the logo in embedded reference graphics but no direct standalone production asset was captured."
     },
     "brand_source_url": "https://www.uab.edu/brandguide/athletics",
     "verification_status": "partial",
-    "notes": "Official UAB Athletics brand guide prioritizes the primary gold-outlined monogram and identifies Blaze as the secondary athletics logo. UAB green/gold/black identity is established; exact official digital HEX values should be confirmed against the full central palette before production."
+    "notes": "Corrected colors to current UAB shared brand palette: Green #1A5632 (PMS 357), Gold #FDB913 (PMS 7549), not older values. Official guide explicitly designates gold-outlined UAB monogram as primary athletics logo; full-color green/gold preferred. Blaze is secondary. No direct standalone asset captured."
   },
   {
     "school_id": "minnesota",
     "school_name": "Minnesota",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#7A0019",
+      "secondary": "#FFCC33",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://gophersports.com/sports/2021/8/18/licensing-trademarks",
-      "usage_notes": "Minnesota Athletics' Golden Gophers identity includes the block M and Goldy Gopher marks. Official trademarks and logos must follow university brand guidelines and receive approval from the appropriate office. Uniform palette references Night Maroon, University Gold and White."
+      "usage_notes": "Minnesota Athletics' public trademark and licensing resources identify Block M and Goldy Gopher as prominent Golden Gophers identity assets, and official Athletics materials consistently use the Block M on football uniforms. However, the public sources reviewed do not explicitly label either mark as the singular primary athletics logo or provide a current comprehensive athletics logo hierarchy. Do not assume Goldy is primary or that the university's academic marks are interchangeable with Athletics. Official University of Minnesota primary digital colors are Maroon #7A0019 (Pantone 202 C coated / 201 U uncoated) and Gold #FFCC33 (Pantone 136 C / 116 U); black and white are neutrals. Exact athletics primary mark hierarchy and standalone current asset require confirmation from Athletics."
     },
     "brand_source_url": "https://gophersports.com/sports/2021/8/18/licensing-trademarks",
     "verification_status": "partial",
-    "notes": "Official 2025 Minnesota football media guide lists Maroon (PMS 7421) and Gold (PMS 136). Athletics trademark policy requires licensing for products, promotions and advertising. Pantone values are retained without guessed HEX conversions."
+    "notes": "Updated exact official digital colors: UMN Maroon #7A0019 and Gold #FFCC33. Block M is prominent in Athletics and uniforms; Goldy is a mascot mark. Public current sources reviewed do not explicitly label a singular primary athletics mark or provide complete hierarchy; do not overstate Block M/Goldy status. No direct asset captured; confirm current athletics primary mark hierarchy with Gopher Athletics."
   },
   {
     "school_id": "wisconsin",
@@ -1744,28 +1744,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://testing.branding.uwbadgers.com/logos",
-      "usage_notes": "The Motion W is Wisconsin Athletics' primary logo. Bucky Badger is a spirit symbol and requires approval; the Bucky head must not be used as a standalone mark. Follow official clear-space, minimum-size and background rules; logo use and creation require athletics approval."
+      "usage_notes": "Wisconsin Athletics' official brand guidelines explicitly label Motion W as the PRIMARY LOGO of Wisconsin Athletics. Full-color Motion W is preferred; the black shadow must always remain visible and the registered mark must be shown. Knockout Motion W is reserved for single-color applications. Bucky Badger is a university spirit symbol; the Bucky head must never be used as a standalone mark. The university's academic W Crest is a separate institutional logo. Official Badger Red #C5050C and White #FFFFFF; Dark Red #9B0000 is a supporting shade. The guide displays the mark in reference panels but its temporary download link was not captured as a direct standalone asset."
     },
     "brand_source_url": "https://brand.wisc.edu/identity/color/",
     "verification_status": "partial",
-    "notes": "University of Wisconsin official brand palette uses Badger Red #C5050C and White #FFFFFF; dark red #9B0000 is a supporting shade. Athletics identifies Motion W as the primary athletics mark; Bucky is a separately controlled spirit mark."
+    "notes": "Primary hierarchy confirmed: Motion W is explicitly Wisconsin Athletics' PRIMARY LOGO. Full-color version preferred; black shadow and registered mark must remain. Knockout only for one-color applications. Bucky is a spirit mark, and W Crest is the academic institutional logo. Colors Badger Red #C5050C, White #FFFFFF, supporting Dark Red #9B0000. Guide reference panel only; no direct standalone asset captured."
   },
   {
     "school_id": "northwestern",
     "school_name": "Northwestern",
     "colors": {
-      "primary": null,
+      "primary": "#4E2A84",
       "secondary": "#FFFFFF",
-      "accent": null
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://nusports.com/documents/download/2022/6/16/NIL_Policy_NUSports_6_1_2022.pdf",
-      "usage_notes": "Northwestern's registered-trademarks guide identifies the purple Northwestern N as the primary athletics mark. Wildcat-head overlays, NU, wordmarks and sport-specific N marks are secondary or specialized marks. New logo uses require university approval."
+      "logo_source_page": "https://www.northwestern.edu/procurement/source-purchase/compliance/trademark-licensing/northwestern_03-02-26_.pdf",
+      "usage_notes": "Northwestern's current University Registered Trademarks Guide (revision 03/02/26) explicitly classifies the purple Block N (including approved white/reverse treatments) as PRIMARY ATHLETICS MARKS. Wildcat-head overlays, NU, athletics wordmarks and most other variants are secondary or sport-specific; baseball/softball N variants are restricted to those sports. The guide states purple Block N with white outline is the default on most backgrounds; solid purple or white may be used on white or purple backgrounds respectively. Current Northwestern Purple RGB 78,42,132 = #4E2A84; White #FFFFFF; Black #000000; Gray #C8C9C7 supporting. PDF shows reference panels but no direct standalone file captured."
     },
     "brand_source_url": "https://nusports.com/school-colors",
     "verification_status": "partial",
-    "notes": "Northwestern Athletics confirms Purple and White as school colors. The registered-trademark guide documents primary purple N marks and secondary wildcat/wordmark marks. Exact official digital HEX value was not established in the athletics sources reviewed."
+    "notes": "Updated from current 03/02/26 Northwestern Registered Trademarks Guide: purple Block N is explicitly primary athletics mark; Wildcat overlays and NU/wordmarks are secondary, with sport-specific N variants restricted. Purple #4E2A84 (RGB 78,42,132), White #FFFFFF, Black #000000, Gray #C8C9C7. Guide reference art only; no direct standalone asset captured."
   },
   {
     "school_id": "arizona",
@@ -1778,11 +1778,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://marcom.arizona.edu/brand-guidelines/logos",
-      "usage_notes": "Arizona Athletics' identity hierarchy uses the Block A as the primary mark, with the Wildcat Face and Bear Down/Arizona Wildcats wordmarks as additional approved marks. Use only official artwork and permitted color combinations; registered marks require licensing and written approval."
+      "usage_notes": "Arizona's official university brand guide identifies the Block A as the key enterprise-level University of Arizona logo, but explicitly says Athletics products follow separate brand standards. The university's Wildcat Face is a separate registered mark and may not be used alone on promotional items without approval; approved treatments must retain its white border. The current public sources reviewed do not conclusively establish whether Block A or Wildcat Face is the singular overall primary athletics mark. Do not substitute the academic enterprise Block A as an athletics primary logo without Athletics confirmation. Official University colors Arizona Red #AB0520 (Pantone 200 C) and Arizona Blue #0C234B (Pantone 281 C); white #FFFFFF and black are mark treatment colors. No current standalone primary athletics asset captured."
     },
     "brand_source_url": "https://arizonawildcats.com/sports/2013/4/18/208236680",
     "verification_status": "partial",
-    "notes": "Arizona's official identity guidance identifies the Block A as a core university mark and the Wildcat Face as a distinct athletics mark. The Wildcat Face has restricted approved color combinations; vintage marks are not for general institutional use. The current primary athletics asset has not yet been directly captured and visually inspected."
+    "notes": "Important hierarchy caution: Block A is the university enterprise-level logo, while Athletics products follow separate brand standards. Wildcat Face is a distinct registered mark with controlled use and required white border. Current public sources do not conclusively name a singular overall primary athletics mark; do not assume the academic Block A is the athletics primary. Official colors Red #AB0520, Blue #0C234B. No standalone athletics asset captured."
   },
   {
     "school_id": "arizona-state",
@@ -1794,12 +1794,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brandguide.asu.edu/elements-guidelines/logos/spirit",
-      "usage_notes": "Sun Devil Athletics uses its official athletics pitchfork as a primary athletics symbol; Sparky is a separate spirit mark. Athletics logos, fonts, colors and spirit marks are restricted to Sun Devil Athletics and Brand Council approval. Do not substitute the general university Sunburst logo for the athletics mark."
+      "logo_source_page": "https://brandguide.asu.edu/sites/g/files/litvpz696/files/2022-04/220323-ASU-BrandGuide-SunDevilAthletics-BrandIdentityGuidelines.pdf",
+      "usage_notes": "The official Sun Devil Athletics Brand Identity Guidelines explicitly identify the Sun Devil Pitchfork logotype as the PRIMARY REPRESENTATION of the athletics brand and main identifying device. Current Athletics guidance says the athletics pitchfork became the primary logo in the 2011–12 season; Sparky's pitchfork spirit mark is a separate asset, and the standalone athletics pitchfork plus Sun Devil Bold font are reserved exclusively for Sun Devil Athletics. Do not substitute Sparky, the hand-pitchfork spirit mark, or the university Sunburst academic logo. Official palette Maroon #8C1D40, Gold #FFC627, Black #000000 and White #FFFFFF. The PDF contains reference artwork, while current guidance offers a controlled download; no direct standalone primary file was captured and inspected."
     },
     "brand_source_url": "https://brandguide.asu.edu/brand-elements/unit-specific/athletics",
     "verification_status": "partial",
-    "notes": "Sun Devil Athletics identifies the athletics pitchfork as its current primary athletics mark (in use since the 2011–12 season); Sparky is a separate spirit mark. Athletics pitchfork, font and marks are reserved for Sun Devil Athletics and Brand Council approval. Official palette: Maroon #8C1D40, Gold #FFC627, Black #000000 and White #FFFFFF."
+    "notes": "Primary mark confirmed: Sun Devil Pitchfork logotype is the primary athletics identity. Distinguish it from Sparky's pitchfork spirit mark/hand signal and the academic Sunburst. Athletics pitchfork and Sun Devil Bold font are exclusive to Sun Devil Athletics. Colors Maroon #8C1D40, Gold #FFC627, Black #000000, White #FFFFFF. Guide reference artwork only; no direct standalone file captured."
   },
   {
     "school_id": "colorado",
