@@ -30,11 +30,11 @@ Public availability, historical status, or archive preservation does not itself 
 
 - Schools in roster: 138
 - Branding records: 138
-- Fully asset-verified: 1
-- Partial: 137
+- Fully asset-verified: 2
+- Partial: 136
 - Missing branding records: 0
 
-The verified Navy record has an official N-Star PNG that was opened and visually inspected. Buffalo has an official direct PNG captured but remains partial pending confirmation that the spirit-mark variant is the preferred primary simulator identity. The remaining records are not verified until the full checks above are complete.
+The verified Navy record has an official N-Star PNG that was opened and visually inspected. Boston College was added to the verified set during the first asset-audit batch: its official primary Eagles WebP was captured and visually inspected. Buffalo has an official direct PNG captured but remains partial pending confirmation that the spirit-mark variant is the preferred primary simulator identity. The remaining records are not verified until the full checks above are complete.
 
 ## Southwest — batch 2
 
@@ -135,3 +135,19 @@ The remaining six Pacific conference records were refreshed in `data/school-bran
 **Important corrections and identity distinctions:** WSU's current official digital crimson/gray values supersede the provisional campaign-derived values previously in the record. Sacramento State's current June 2025 identity guide supplies exact green/gold HEX values; these are institutional colors, not proof that its campus logo is the primary athletics mark. Fresno State's Bulldog orientation rule is preserved. SDSU's current brand palette is more nuanced than the older Scarlet/Black shorthand, and its Athletics logo must not be confused with the institutional identity.
 
 No direct primary-mark asset URL was added for this batch. All six records remain partial until exact approved files are captured, opened, and visually checked.
+
+
+## Primary logo asset audit — batch 1
+
+The first six outstanding records in the master branding list were reviewed for direct artwork and current identity confirmation. Only Boston College met the full asset-verification standard in this pass.
+
+| School | Result | Evidence and remaining work |
+|---|---|---|
+| Boston College | **Verified** | [Official BC Eagles logo page](https://www.bc.edu/content/bc-web/offices/office-of-university-communications.html) identifies the eagle/interlocking-BC as the primary logo created in 2000. The direct [official WebP asset](https://www.bc.edu/content/dam/bc1/offices/ouc/webp/photography/Boston-College-Eagles%20%281%29.webp) opened and was visually inspected. Pantone Maroon 202, Gold 4515 and Metallic Gold 871 are documented; promotional use questions go to BC Sports Marketing. |
+| Army West Point | Partial | [Official identity announcement](https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity) confirms Athena Shield as primary for all intercollegiate athletics and Classic A as limited-use secondary. The official hosted image conversion failed to load; no asset URL was added. |
+| Syracuse | Partial | [Official 2004 athletics identity announcement](https://cuse.com/news/2004/5/11/newlogo20042) and its linked image were opened; the interlocking SU was visually inspected as a dated reference. Current primary-mark status has not been reconfirmed, so no primary asset was added. |
+| Temple | Partial | [Temple's August 1, 2023 announcement](https://owlsports.com/news/2023/8/1/general-temple-university-formally-introduces-amodern-new-logo-for-displaying-owl-pride) and Owl image were opened and visually inspected. Temple describes the Owl as a secondary university mark with a major athletics/mascot role; the Temple T remains the university primary mark. No primary-mark asset was added. |
+| Rutgers | Partial | [Official Rutgers Athletics visual identity guide](https://scarletknights.com/documents/download/2020/10/13/RUA_Visual_Identity_v2_0_1.pdf) documents sport-specific Block R ATHLETICS lockups. Rutgers institutional R is not a substitute. A clean standalone athletics logo file was not captured. |
+| Penn State | Partial | [Penn State Brand Book](https://brand.psu.edu/visual-identity-standards/other-university) displays the Primary Athletics Mark and distinguishes it from the institutional shield. The official guideline-board image was opened and visually inspected, but is not a clean standalone artwork file. Third-party use requires Licensing Programs approval. |
+
+**Batch outcome:** 1 newly verified asset (Boston College); 5 remain partial. Army's Athena Shield image endpoint needs a working official file route; Syracuse needs current-mark confirmation; Temple's Owl designation must remain distinct from the institutional Temple T; Rutgers and Penn State still need clean standalone athletics artwork. No unverified preview image was promoted to a production asset.
