@@ -7,7 +7,7 @@
 
 - Target: 138 schools
 - Project roster: 138 schools
-- Unique school IDs: 137
+- Unique school IDs: 138
 - Duplicate school IDs: 0
 - Missing schools against the 2026 FBS reference inventory: 0
 - Extra schools against the 2026 FBS reference inventory: 0
