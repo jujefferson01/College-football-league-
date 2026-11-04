@@ -1125,18 +1125,18 @@
     "school_id": "georgia-state",
     "school_name": "Georgia State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0039A6",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://commkit.gsu.edu/university-logos/",
+      "usage_notes": "Official Georgia State communications toolkit documents Pantherhead, GSU-with-Pantherhead and Pounce marks. Marks are copyrighted and may not be altered; use official artwork and obtain approval/licensing for promotional or commercial use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://commkit.gsu.edu/university-logos/",
+    "verification_status": "partial",
+    "notes": "Georgia State's official communications toolkit specifies Blue #0039A6 and White #FFFFFF as primary colors, with Red #CC0000 and Gray #776E64 secondary. Athletics uses approved Pantherhead/GSU marks and Pounce; athletic marks require approval and licensing."
   },
   {
     "school_id": "kennesaw-state",
@@ -1176,18 +1176,18 @@
     "school_id": "lsu",
     "school_name": "LSU",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#461D7C",
+      "secondary": "#FDD023",
+      "accent": "#231F20"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://lsusports.net/media",
+      "usage_notes": "LSU Athletics media center lists official purple/gold/black values and directs users to request official logos. Athletics marks are LSU Athletics property; resale and commercial use are prohibited without appropriate licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://lsusports.net/media",
+    "verification_status": "partial",
+    "notes": "LSU Athletics Media Center specifies Pantone 268 Purple #461D7C, Pantone 123 Gold #FDD023 and Process Black #231F20. Official marks are controlled; editorial requests are reviewed case by case and resale/commercial use is prohibited without licensing."
   },
   {
     "school_id": "arkansas",
