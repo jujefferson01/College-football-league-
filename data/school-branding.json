@@ -910,12 +910,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://clemsontigers.com/styleguide",
-      "usage_notes": "Clemson Athletics identifies the Tiger Paw as its signature athletics logo, created in 1970, and provides official colors, logos, fonts and sport-specific marks in its athletics style guide. The mark is protected; external and commercial use requires appropriate permission/licensing. Do not redraw or generate substitute artwork."
+      "logo_source_page": "https://clemsontigers.com/wp-content/uploads/2018/09/Branding-Guide-RGB.pdf",
+      "usage_notes": "The official 2016 Clemson Athletics Branding Guide explicitly labels the primary mark as the CLEMSON wordmark with the Tiger Paw replacing the O (guide page 7). The standalone Tiger Paw is Clemson's signature/most recognizable athletics symbol, but it is not the same thing as the guide's defined primary wordmark. No direct standalone approved primary lockup file was captured; guide visual and official style page reviewed. Colors Clemson Orange #F56600, Goal Line White #FFFFFF, Regalia #522D80. Marks protected; external/commercial use requires licensing."
     },
     "brand_source_url": "https://www.clemson.edu/brand/color/",
     "verification_status": "partial",
-    "notes": "Clemson's official brand color page lists Clemson Orange #F56600, Goal Line #FFFFFF and Regalia #522D80. The athletics style guide documents the Tiger Paw and athletics logo standards; usage restrictions require review."
+    "notes": "Important hierarchy correction: 2016 official Athletics guide defines the primary mark as CLEMSON wordmark with Tiger Paw replacing O. Tiger Paw alone is the signature mark and highly recognizable, but do not confuse the standalone paw with the formally designated primary lockup. No standalone direct file captured. Colors Orange #F56600, White #FFFFFF, Regalia #522D80."
   },
   {
     "school_id": "south-carolina",
@@ -928,11 +928,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.ipr.sc.edu/about/offices_and_divisions/communications/toolbox/logos/index.php",
-      "usage_notes": "The Gamecock is the symbol for University of South Carolina Athletics and may appear alone or with the traditional Block C. Use of the Block C and Gamecock logo requires approval from the Trademark Licensing Office; do not modify official artwork."
+      "usage_notes": "The official USC brand toolbox says the Gamecock is the symbol for South Carolina Athletics and may appear alone or combined with the traditional Block C. The official athletics-logo page identifies the image as the South Carolina Athletics logo, but direct image extraction/capture was not possible in this pass. Tailfeathers and USC 1801 are informal spirit marks, explicitly not logos and cannot replace an official mark. Use of Gamecock/Block C requires Trademark Licensing approval."
     },
     "brand_source_url": "https://www.sc.edu/about/offices_and_divisions/communications/toolbox/colors/index.php",
     "verification_status": "partial",
-    "notes": "Official University of South Carolina digital palette: Garnet #73000A, Black #000000 and White #FFFFFF. The university identifies the Gamecock as its athletics symbol, alone or with the traditional Block C. Mark usage is controlled and requires approval."
+    "notes": "Confirmed Gamecock as athletics symbol; may appear alone or in combination with traditional Block C. Tailfeathers and USC 1801 are informal spirit marks, not logos, and cannot replace the official mark. Direct standalone approved athletics image not captured. Colors Garnet #73000A, Black #000000, White #FFFFFF. Licensing approval required."
   },
   {
     "school_id": "tennessee",
@@ -944,12 +944,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://utsports.com/sports/2017/6/14/history-traditions-html",
-      "usage_notes": "Tennessee Athletics identifies the Power T as its official logo and worldwide symbol for Volunteers athletics. It originated on football helmets in 1964 and was updated in 1977 and 2015. Use official artwork without alteration and follow university trademark/licensing requirements."
+      "logo_source_page": "https://utsports.com/news/2015/7/1/UT_ENHANCES_BRAND_ACROSS_ALL_ATHLETICS",
+      "usage_notes": "Tennessee Athletics' 2015 brand restructure explicitly identifies the Power T as the primary identity/main identifying device for all intercollegiate programs except Lady Vols Women's Basketball, which retains its Lady Vols mark. Official Tennessee Traditions page says Power T is the official athletics logo and 2015 campus primary mark. Direct visual asset is shown within official page/video, but no standalone current file captured. Colors Tennessee Orange #FF8200 and White #FFFFFF official; Smokey Gray #4B4B4B supporting."
     },
     "brand_source_url": "https://brand.utk.edu/colors-new/",
     "verification_status": "partial",
-    "notes": "UT Knoxville official brand standards specify Tennessee Orange #FF8200, White #FFFFFF and Smokey Gray #4B4B4B. Tennessee Athletics identifies orange and white as official athletics colors and the Power T as its primary athletics mark. Do not use black as a brand palette color."
+    "notes": "Power T confirmed as primary athletics mark across programs; explicit exception is Lady Vols Women's Basketball, which retains its Lady Vols T/brand. Official 2015 restructure and current traditions page establish hierarchy. No standalone asset file captured. Tennessee Orange #FF8200 and White #FFFFFF official; Smokey Gray #4B4B4B supporting."
   },
   {
     "school_id": "vanderbilt",
@@ -962,11 +962,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.vanderbilt.edu/athletics/",
-      "usage_notes": "Vanderbilt Athletics identifies the Athletic V and primary Commodores lockups for athletics-related assets. The Star V is a secondary athletics mark; Anchor, Mr. C and Hand VU are spirit marks for select use. Official core colors include Flat Gold #CFAE70, Rich Black #000000, White #FFFFFF, Black #1C1C1C and Dark Gray #777777. Athletics marks are restricted to athletics collateral; follow official brand and licensing guidance."
+      "usage_notes": "Official Vanderbilt Athletics brand page distinguishes the Athletic V logo and primary Vanderbilt Commodores lockups from the Star V secondary athletics mark. Athletic V is the core symbol for Athletics; Commodores lockups are explicitly designated primary lockups. The direct V_logo.png was opened and visually inspected but is a composite board containing six background/color variations, not a standalone production asset. Box download links for approved primary lockups are provided, but no standalone file was captured. Core colors Flat Gold #CFAE70, Rich Black #000000, White #FFFFFF; Black #1C1C1C and Dark Gray #777777 are additional neutrals. Athletics marks restricted to athletics collateral."
     },
     "brand_source_url": "https://brand.vanderbilt.edu/athletics/",
     "verification_status": "partial",
-    "notes": "Vanderbilt Athletics identifies Flat Gold #CFAE70 and Rich Black #000000; Black #1C1C1C is also listed."
+    "notes": "Official athletics guide distinguishes Athletic V and primary Commodores lockups from Star V (explicitly secondary; not to lead a collection). Official V_logo.png was opened/visually inspected but is a six-variant composite board, not standalone asset; Box primary lockup download not captured. Palette Flat Gold #CFAE70, Rich Black #000000, White #FFFFFF, Black #1C1C1C, Dark Gray #777777. Athletics-only use."
   },
   {
     "school_id": "ucf",
@@ -979,11 +979,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.ucf.edu/brand/logo-and-identity/",
-      "usage_notes": "UCF distinguishes university primary external branding from UCF Athletics marks. Athletics marks include Knighthead, stacked athletics logo, SpaceU and Citronauts; they are for UCF sports marketing or teams and are not interchangeable with the university's stacked UCF primary external mark. Logos and wordmarks are registered trademarks; use approved artwork and follow brand restrictions."
+      "usage_notes": "UCF's current 2026 official brand guide distinguishes its primary external stacked UCF mark from the UCF Athletics identity and says they are not interchangeable. The Athletics section displays four athletics-specific marks—Knighthead, stacked Athletics logo, SpaceU and Citronauts—and says they are for UCF sports marketing or teams. The page does not designate one of those four as the singular primary athletics mark; therefore no unsupported primary hierarchy is assigned. Direct asset files are available only by request to qualified vendors/faculty/staff. No standalone asset captured."
     },
     "brand_source_url": "https://www.ucf.edu/brand/logo-and-identity/",
     "verification_status": "partial",
-    "notes": "Official UCF identity guide documents separate Athletics marks (Knighthead, stacked logo, SpaceU and Citronauts) and clarifies they are restricted to UCF sports marketing or teams. Athletics color values and asset-level permissions still need review."
+    "notes": "Updated from 2026 official brand guide. University stacked UCF is primary external university mark, but separate from Athletics identity and not interchangeable. Four athletics marks are shown: Knighthead, stacked athletics logo, SpaceU, Citronauts; the guide does not designate one singular primary athletics mark. Athletics logos are registered trademarks and limited to UCF sports marketing/teams. No direct asset captured."
   },
   {
     "school_id": "florida-atlantic",
@@ -995,12 +995,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.fau.edu/student/marketing/docs/branding-information.pdf",
-      "usage_notes": "FAU's official brand reference distinguishes institutional marks, full-color athletic wordmarks and full-color spirit marks, including the owl-head athletics mark. The official university palette is FAU Blue #003366, FAU Red #CC0000 and FAU Gray #CCCCCC (silver is metallic). Use approved, unaltered artwork and respect the mark clear-space and licensing rules."
+      "logo_source_page": "https://www.fau.edu/bot/meetings/11192024/fullboard/vic.pdf",
+      "usage_notes": "Official FAU materials show the current owl-head athletics mark as the primary athletics identity. A 2024 Board of Trustees presentation and current university PDFs show the same stylized owl head with navy face, white/gray outline and red accents; these are embedded document visuals, not a direct standalone production asset. Official university visual standards manual URL previously recorded is unavailable/404 in this pass, so the official color values are retained from the current FAU brand reference but standalone asset and usage guidance still need direct confirmation. Blue #003366, Red #CC0000, Gray #CCCCCC."
     },
     "brand_source_url": "https://www.fau.edu/public-affairs/documents/visual-standards-manual.pdf",
     "verification_status": "partial",
-    "notes": "Official FAU visual standards specify FAU Blue #003366 and FAU Red #CC0000 as primary colors, with FAU Gray #CCCCCC as a non-metallic alternative to FAU Silver. Owl spirit marks are the main athletic marks."
+    "notes": "Owl-head mark confirmed visually in official 2024 Board of Trustees materials and current FAU documents; navy/white/gray owl with red accents. Embedded PDF image only, not a direct standalone production asset. Official visual standards manual URL currently unavailable; Blue #003366, Red #CC0000 and Gray #CCCCCC retained from official brand reference. Licensing/clear-space requirements need current guide confirmation."
   },
   {
     "school_id": "south-florida",
