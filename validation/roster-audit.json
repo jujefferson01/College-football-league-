@@ -17,18 +17,18 @@
     "The custom 12-conference alignment is separate from real-world 2026 conference affiliation and remains a project configuration."
   ],
   "conference_counts": {
-    "northeast": 9,
+    "northeast": 11,
     "mid-atlantic": 12,
-    "great-lakes": 11,
+    "great-lakes": 12,
     "ohio-valley": 11,
-    "southeast": 9,
-    "atlantic-southeast": 18,
-    "gulf-south": 10,
-    "texas": 5,
-    "midwest-plains": 16,
-    "southwest": 9,
-    "mountain-west": 13,
-    "pacific": 7
+    "southeast": 12,
+    "atlantic-southeast": 11,
+    "gulf-south": 12,
+    "texas": 12,
+    "midwest-plains": 11,
+    "southwest": 11,
+    "mountain-west": 11,
+    "pacific": 12
   },
   "source_urls": [
     "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
