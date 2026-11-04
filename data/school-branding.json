@@ -25,9 +25,9 @@
       "accent": "#666666"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://www.buffalo.edu/brand/identity/Athletics/LogosMarks/PrimaryMarks.html",
-      "usage_notes": "UB Athletics identifies combined spirit-mark plus Buffalo/Bulls wordmark lockups as primary marks; the spirit mark alone is not permitted without a secondary reference. Marks are restricted to UB Athletics use; do not alter them. Approved downloadable EPS/PNG resources are listed on the Athletics staff resources page."
+      "primary_mark_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/ubbulls.com/images/2022/10/5/Bull_Spiritmark-border-transparent-SCREEN_Cn8Qc.png",
+      "logo_source_page": "https://ubbulls.com/sports/2026/9/17/2025-26-mens-basketball-media-center",
+      "usage_notes": "Official UB Bulls Logo download from a Buffalo Athletics media-center page. The directly linked transparent bull spirit-mark PNG was opened and visually inspected in-browser. It is an official athletics mark; confirm whether this spirit-mark variant is the preferred primary simulator mark before treating it as the sole identity. Public media download does not itself grant reuse or redistribution permission."
     },
     "brand_source_url": "https://www.buffalo.edu/brand/identity/Athletics/ColorsType.html",
     "verification_status": "partial",
@@ -59,12 +59,12 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://static.navysports.com/custompages/sports/Logos/NStar%20Navy.png",
       "logo_source_page": "https://navysports.com/sports/2022/12/21/logos-style-sheet.aspx",
-      "usage_notes": "Navy Athletics identifies the N-Star NAVY as its primary mark, the anchor as secondary, the charging goat as tertiary, and NAVY as the word mark. Official downloads are linked on the style-sheet page. Do not alter proportions, colors or design; contact Navy Athletics for alternate versions."
+      "usage_notes": "Primary athletics mark image is published directly by Naval Academy Athletics and was visually inspected in-browser: N-Star Navy PNG. The official style sheet also provides secondary, tertiary and wordmark downloads. Do not alter proportions, colors or design; alternate dark-background versions require contacting Navy Athletics. Public image availability does not itself grant reuse or redistribution permission."
     },
     "brand_source_url": "https://navysports.com/sports/2022/12/21/logos-style-sheet.aspx?path=me",
-    "verification_status": "partial",
+    "verification_status": "verified",
     "notes": "Navy Athletics official style sheet specifies Navy Blue #00225B and Vegas Gold #B5A67C. Official logo downloads are linked from the style-sheet page; usage restrictions apply."
   },
   {
