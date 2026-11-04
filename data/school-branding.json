@@ -207,8 +207,8 @@
     "school_id": "virginia",
     "school_name": "Virginia",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#232D4B",
+      "secondary": "#F84C1E",
       "accent": null
     },
     "logo": {
@@ -216,9 +216,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.virginia.edu/design-assets/athletics",
+    "verification_status": "partial",
+    "notes": "UVA Athletics official colors: UVA Blue #232D4B and Cavalier Orange #F84C1E. Orange is restricted to merchandise and Virginia Athletics applications. Logo asset and use approval still require review."
   },
   {
     "school_id": "virginia-tech",
@@ -309,25 +309,25 @@
     "school_id": "marshall",
     "school_name": "Marshall",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#00B140",
+      "secondary": "#FFFFFF",
+      "accent": "#27251F"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.marshall.edu/brandservices/files/2024/06/Marshall_University_Brand_Guidelines.pdf",
+    "verification_status": "partial",
+    "notes": "Marshall University brand guide specifies Marshall Green #00B140, black #27251F and white #FFFFFF. The official athletics mark is The Herd; confirm asset permissions before use."
   },
   {
     "school_id": "duke",
     "school_name": "Duke",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#012169",
+      "secondary": "#00539B",
       "accent": null
     },
     "logo": {
@@ -335,9 +335,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.duke.edu/colors/",
+    "verification_status": "partial",
+    "notes": "Duke's official palette identifies Duke Navy Blue #012169 and Duke Royal Blue #00539B. Royal Blue is the athletics/apparel shade. Logo asset and usage review remain pending."
   },
   {
     "school_id": "north-carolina",
@@ -360,35 +360,35 @@
     "school_id": "nc-state",
     "school_name": "NC State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gopack.com/sports/2024/7/17/nc-state-athletics-brand-guidelines",
+    "verification_status": "partial",
+    "notes": "NC State Athletics brand guidelines identify Wolfpack Red #CC0000, white #FFFFFF and black #000000. Official Tuffy marks and usage hierarchy are documented on the athletics brand page; usage restrictions apply."
   },
   {
     "school_id": "wake-forest",
     "school_name": "Wake Forest",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#9E7E38",
+      "secondary": "#000000",
+      "accent": "#CEB888"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.wfu.edu/our-brand-identity/color-patterns-papers/",
+    "verification_status": "partial",
+    "notes": "Wake Forest's official primary colors are Old Gold #9E7E38 and black #000000; Athletics Gold #CEB888 is a secondary color. Confirm athletics-specific mark treatment before production."
   },
   {
     "school_id": "michigan",
