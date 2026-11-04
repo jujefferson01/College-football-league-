@@ -605,11 +605,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.uc.edu/about/marketing-communications/brand-guide/logos-marks/athletics.html",
-      "usage_notes": "Cincinnati Athletics identifies the C-Paw, Cincinnati Wordmark and Bearcats Wordmark as athletics marks. The C-Paw is the primary brand for University of Cincinnati Athletics; the Bearcat mascot is a secondary spirit asset, not a substitute for the primary mark. Use is restricted and subject to university trademark/licensing approval."
+      "usage_notes": "UC's current brand standards define C-Paw, Cincinnati Wordmark and Bearcats Wordmark as Athletics marks; the university FAQ explicitly states C-Paw is the primary brand for Cincinnati Athletics and is reserved for organizations affiliated with Athletics. Bearcat mascot artwork is a secondary community spirit asset, not a replacement for C-Paw. Current official page presents the logo artwork in-page but does not expose a direct standalone downloadable file in this pass."
     },
     "brand_source_url": "https://www.uc.edu/about/marketing-communications/brand-guide/visual-identity/color.html",
     "verification_status": "partial",
-    "notes": "University of Cincinnati official brand guide specifies UC Red #E00122, UC Black #000000 and White #FFFFFF. Athletics marks including C-Paw and Bearcats wordmarks are restricted to approved uses; see the athletics marks policy."
+    "notes": "C-Paw is explicitly the primary brand for University of Cincinnati Athletics. Cincinnati Wordmark and Bearcats Wordmark are Athletics marks; Bearcat mascot art is a secondary community spirit asset, not a unit identifier. Official colors UC Red #E00122, UC Black #000000, White #FFFFFF. Direct standalone C-Paw asset not captured; use subject to licensing."
   },
   {
     "school_id": "louisville",
@@ -621,12 +621,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/gocards.com/documents/2023/8/8/ATH2023_Brand_Guidelines_Update_072023.pdf",
-      "usage_notes": "University of Louisville Athletics' January 2023 Brand Guidelines define the primary mark, wordmarks, primary lockup, archival marks and additional marks. Official vector artwork should be requested from Athletics; marks are protected by copyright and licensing regulations, and use requires written authorization."
+      "logo_source_page": "https://gocards.com/documents/download/2023/8/8/ATH2023_Brand_Guidelines_Update_072023.pdf",
+      "usage_notes": "The official January 2023 Louisville Athletics Brand Guidelines explicitly identify the Birdhead as the PRIMARY LOGO and default mark for most applications (PDF page 10). The guide shows the correct current artwork and warns that a pre-2012 version with an elongated crease is prohibited. The logo is shown in a PDF guide board, not a direct standalone production asset. Approved vector file must be requested from Athletics at brand@gocards.com. Official colors Cardinal Red #C9001F, Black #000000, White #FFFFFF, Metallic Silver #8A8D8F; Beak Yellow #FDB913 is restricted to the primary mark's beak only."
     },
     "brand_source_url": "https://gocards.com/documents/download/2023/8/8/ATH2023_Brand_Guidelines_Update_072023.pdf",
     "verification_status": "partial",
-    "notes": "Louisville Athletics 2023 brand guidelines specify Cardinal Red #C9001F, Black #000000 and White #FFFFFF. Metallic Silver #8A8D8F is included; Beak Yellow #FDB913 is restricted to the primary mark's beak only."
+    "notes": "Corrected identity hierarchy: Louisville Birdhead is the primary logo/default mark (not generic Louisville wordmark). Official January 2023 guide inspected; current correct art differs from prohibited pre-2012 Birdhead with elongated crease. No standalone file captured; original vector supplied by Athletics on request. Palette Cardinal Red #C9001F, Black #000000, White #FFFFFF, Metallic Silver #8A8D8F; Beak Yellow #FDB913 only on beak."
   },
   {
     "school_id": "kentucky",
@@ -638,12 +638,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://ukathletics.com/news/2016/02/05/56b4b1fee4b09e5c71fc04bd-131467852712309795/",
-      "usage_notes": "UK Athletics identifies the interlocking UK logo as the centerpiece of its graphic identity, used consistently across all varsity sports. Follow the Athletics Brand Identity Guidelines and trademark/licensing requirements; use original vector artwork rather than reconstructing or scanning marks."
+      "logo_source_page": "https://ukathletics.com/documents/2016/2/5/56b4afd4e4b0df6d856076fa.pdf",
+      "usage_notes": "The official Kentucky Athletics Brand Identity Guidelines identify the interlocking UK as the globally recognized primary symbol of Kentucky Athletics, adopted across all athletics programs in 2005. The primary logo is shown in the official guide (PDF page 10) and was visually inspected as a guide image; no standalone direct asset captured. Two-color version is preferred; one-color is alternate. Official colors Kentucky Blue #0033A0 and White #FFFFFF; Black #2C2A29, Cool Grey #C8C9C7 and Metallic Silver #A5ACAF are secondary. Do not reconstruct or scan printed marks."
     },
     "brand_source_url": "https://ukathletics.com/documents/2016/2/5/56b4afd4e4b0df6d856076fa.pdf",
     "verification_status": "partial",
-    "notes": "Kentucky Athletics official brand identity guide specifies Kentucky Blue #0033A0 and White #FFFFFF as primary colors; Metallic Silver #A5ACAF, Black #2C2A29 and Cool Grey #C8C9C7 are secondary. Logo and trademark use remains subject to guide restrictions."
+    "notes": "Interlocking UK confirmed as primary athletics mark, adopted across all UK sports in 2005. Official guide visual inspected; no standalone asset file captured. Two-color version preferred, one-color alternate. Blue #0033A0 and White #FFFFFF primary; Black #2C2A29, Cool Grey #C8C9C7 and Metallic Silver #A5ACAF secondary. Do not reconstruct/scan; licensing restrictions apply."
   },
   {
     "school_id": "ohio",
@@ -655,12 +655,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://ohiobobcats.com/documents/download/2026/4/30/2026-27_Ohio_Athletics_Branding_Guide_5.1.pdf",
-      "usage_notes": "Ohio Athletics' 2026–27 Branding Guide defines its official athletics identity, logo usage and approved sport-specific lockups. Use the exact supplied artwork without modifying or creating unique program logos; consult Ohio Athletics Brand Advancement for approved assets."
+      "logo_source_page": "https://ohiobobcats.com/documents/2026/4/30/2026-27_Ohio_Athletics_Branding_Guide_5.1.pdf",
+      "usage_notes": "Ohio Athletics' current 2026–27 Branding Guide is the controlling source for athletics identity. The guide includes multiple approved logo families, including a Tertiary 'Solo Attack Cat' and alternative Script Bobcats and Cursive Ohio marks; these must not be mistaken for the primary mark. The public PDF is indexed but page-level text extraction does not expose the primary mark hierarchy clearly, and no standalone asset was captured. Current athletics green #024230, White #FFFFFF, Black #000000."
     },
     "brand_source_url": "https://ohiobobcats.com/sports/2026/4/22/ohio-colors",
     "verification_status": "partial",
-    "notes": "2026 Ohio Athletics brand architecture specifies Under the Elms Green #024230 as athletics primary, with white and process black in the digital palette. This supersedes older Cutler Green references used by the broader university brand."
+    "notes": "Updated source to the current 2026–27 Ohio Athletics Branding Guide. The guide distinguishes the tertiary Solo Attack Cat and alternative Script Bobcats/Cursive Ohio marks; those are not to be assumed primary. Exact primary-mark hierarchy and direct asset still require visual review of the guide and approved artwork. Current Under the Elms Green #024230, White #FFFFFF, Process Black #000000."
   },
   {
     "school_id": "miami-oh",
@@ -668,16 +668,16 @@
     "colors": {
       "primary": "#C8102E",
       "secondary": "#FFFFFF",
-      "accent": "#010101"
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://aims.miamioh.edu/university-communications-marketing/trademarks-licensing/trademark-licensing-guidelines.html",
-      "usage_notes": "Miami University recognizes athletics marks for RedHawks Athletics and restricts their use to partnerships approved by the Athletic Department; the official brand and licensing guidance governs use. The university's general brand guide is not a substitute for an athletics asset source. Confirm the current approved primary RedHawks athletics mark and obtain its original artwork from Miami Athletics before asset verification."
+      "logo_source_page": "https://miamioh.edu/_files/documents/ucm/trademarks-licensing/lrg-style-guide.pdf",
+      "usage_notes": "Miami University's official-hosted LRG Style Guide (2013) has a dedicated Athletics Marks section. It shows the full RedHawks athletic mark (hawk head above MIAMI and RedHawks wordmarks) and a standalone hawk-head athletic mark as approved athletic artwork; sport-specific versions are also available in a downloadable packet. The guide is older and displays the marks only in a composite page, not standalone file. The beveled M is the general university primary mark and must not be confused with the RedHawks athletics identity. Official colors RedHawk Red Pantone 186, RedHawk Black Process Black and White; current digital guide uses #C8102E for Red."
     },
     "brand_source_url": "https://brand-genome.github.io/brands/miami-university/",
     "verification_status": "partial",
-    "notes": "Miami University's published brand standards specify Red (Pantone 186; digital #C8102E) and White as official colors, with Black #010101 as a supporting color. RedHawk marks are protected and require university/licensing approval; source is a mirror of brand guideline content, so official-hosted source verification remains desirable."
+    "notes": "Important identity distinction: beveled M is a general university primary mark; the RedHawks athletics identity is a full hawk-head + MIAMI + RedHawks mark, with standalone hawk head also shown in Athletics Marks section. Official-hosted LRG guide is dated 2013 and provides composite page only, so current direct standalone asset still needed. Colors RedHawk Red Pantone 186 (#C8102E digital standard), RedHawk Black, White. Athletics-only use and licensing approval required."
   },
   {
     "school_id": "bowling-green",
@@ -688,13 +688,13 @@
       "accent": "#CDA077"
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://www.bgsu.edu/content/dam/emails/Athletics/athletics-logo.png",
       "logo_source_page": "https://www.bgsu.edu/marketing-and-communications/bgsu-graphic-standards-manual/university-licensing/licensing-guidelines.html",
-      "usage_notes": "BGSU recognizes official athletics logos, mascot marks, spirit marks and secondary logos as protected university marks. Do not skew, stretch, bend, recolor, outline or crop marks. Use of marks on merchandise, promotional items, digital graphics, signage or print may require licensing approval."
+      "usage_notes": "The official BGSU Licensing Guidelines page lists the athletics-logo image under Athletics Marks. The linked official PNG was opened and visually inspected; it is the interlocking B/falcon athletics mark. This direct official asset is recorded. BGSU marks are protected; merchandise, promotional items, apparel, digital graphics, signage and print may require licensing approval. Do not skew, stretch, bend, recolor, outline, crop or apply effects."
     },
     "brand_source_url": "https://www.bgsu.edu/content/dam/pdfs/marketing/2025/508-bgsu-branding-guide-fy26.pdf",
-    "verification_status": "partial",
-    "notes": "BGSU FY26 official brand guide specifies Orange #FD5000, Brown RGB 79/44/29 (#4F2C1D), Tan RGB 205/160/119 (#CDA077) and Black #000000. Primary interlocking B/falcon mark is internal-use-only; other uses require written approval through licensing."
+    "verification_status": "verified",
+    "notes": "Verified official athletics asset: direct BGSU athletics-logo.png linked from the official Licensing Guidelines Athletics Marks section and visually inspected. The mark is the interlocking B/falcon. Official FY26 palette: Orange #FD5000, Brown #4F2C1D, Tan #CDA077, Black #000000. All athletics/mascot marks are protected and use may require licensing approval."
   },
   {
     "school_id": "akron",
