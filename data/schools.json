@@ -702,7 +702,7 @@
     ]
   },
   {
-    "id": "miami",
+    "id": "miami-oh",
     "name": "Miami (OH)",
     "conference_id": "ohio-valley",
     "verification_status": "verified",
@@ -936,7 +936,7 @@
     ]
   },
   {
-    "id": "miami",
+    "id": "miami-fl",
     "name": "Miami (FL)",
     "conference_id": "southeast",
     "verification_status": "verified",
