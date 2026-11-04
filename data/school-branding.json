@@ -700,35 +700,35 @@
     "school_id": "akron",
     "school_name": "Akron",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#041E42",
+      "secondary": "#A89968",
+      "accent": "#1E63AF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.uakron.edu/im/resources/brand/Uakron2024BrandingGuidelines.pdf",
+    "verification_status": "partial",
+    "notes": "University of Akron 2024 brand guide specifies Akron Blue #041E42 and Akron Gold #A89968 as primary colors; Bright Blue #1E63AF and Cream #FFF7E9 are secondary. Athletics mark asset and usage permissions remain to be reviewed."
   },
   {
     "school_id": "kent-state",
     "school_name": "Kent State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#003976",
+      "secondary": "#EBAB21",
+      "accent": "#2C8ECE"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.kent.edu/brand/logos",
+    "verification_status": "partial",
+    "notes": "Kent State official brand standards specify Kent State Blue #003976 and Kent State Gold #EBAB21. The brand palette also includes supporting colors; the official athletics logo downloads are provided on the university logos page, with athletics mark use restricted to athletics or approved/licensed uses."
   },
   {
     "school_id": "western-kentucky",
