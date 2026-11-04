@@ -1380,35 +1380,35 @@
     "school_id": "texas",
     "school_name": "Texas",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#BF5700",
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://longhorns.texassports.com/styleguide/styleguide.htm",
+      "usage_notes": "Texas Athletics style guide confirms Burnt Orange #BF5700 and White as official colors. Use official Longhorn marks and follow Texas Athletics' external services and trademark requirements."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://longhorns.texassports.com/styleguide/styleguide.htm",
+    "verification_status": "partial",
+    "notes": "Texas Athletics style guide specifies Burnt Orange #BF5700 and White. Official athletics mark assets and usage restrictions are governed by Texas Athletics."
   },
   {
     "school_id": "texas-aandm",
     "school_name": "Texas A&M",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#500000",
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://12thman.com/documents/download/2019/1/15/Primary_Marks.pdf",
+      "usage_notes": "Texas A&M Athletics guide identifies the TAM Logo as the primary mark and Lone Star as secondary. It lists discontinued marks and requires users to consult Branding & Creative for questions; licensed use must follow university trademark rules."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://12thman.com/documents/download/2019/1/15/Primary_Marks.pdf",
+    "verification_status": "partial",
+    "notes": "Texas A&M Athletics identifies Aggie Maroon and White as primary colors; the athletics guide establishes the TAM Logo as the primary mark and Lone Star as secondary. Maroon HEX #500000 is used in official athletics web styling; verify exact digital master color against current central brand standards before production."
   },
   {
     "school_id": "baylor",
@@ -1420,46 +1420,46 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.web.baylor.edu/brand-standards",
+      "usage_notes": "Baylor's unified brand uses the interlocking BU as the institutional mark; athletics also has an approved bear mark. Marks are protected and require permission or licensing for external use."
     },
     "brand_source_url": "https://brand.web.baylor.edu/brand-standards/official-brand-colors",
     "verification_status": "partial",
-    "notes": "Baylor Green #154734 and University Gold #FFB81C."
+    "notes": "Baylor Green #154734 and University Gold #FFB81C are the official colors. Baylor's unified brand uses the interlocking BU mark across the university and athletics; an approved bear mark is a secondary athletics identifier."
   },
   {
     "school_id": "tcu",
     "school_name": "TCU",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.tcu.edu/resources/brand-marketing-guidelines/university-marks-logos/",
+      "usage_notes": "TCU central brand office exclusively controls creation, modification and retirement of marks. Only current logos listed by TCU may be used; retired/vaulted Horned Frog marks require prior approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.tcu.edu/resources/brand-marketing-guidelines/university-marks-logos/",
+    "verification_status": "partial",
+    "notes": "Official TCU Athletics fan guidance confirms Purple and White as team colors. Central brand standards establish controlled official marks and prohibit unapproved/retired logo use. Exact official digital HEX palette remains to be confirmed."
   },
   {
     "school_id": "smu",
     "school_name": "SMU",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#0033A1",
+      "secondary": "#D70000",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.smu.edu/brand/logos",
+      "usage_notes": "SMU says only Marketing and Communications creates official logos; do not independently produce, distort or reconfigure marks. Athletics licensing guide identifies the Mustang mark and approved red/blue colorways; commercial use requires licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://smumustangs.com/sports/2016/6/8/ot-smu-licensing-html",
+    "verification_status": "partial",
+    "notes": "SMU Athletics lists Red #D70000 (Pantone 186 C) and Blue #0033A1 (Pantone 286 C). The Mustang logo must not be altered; preferred pony color is red, with white or limited blue use."
   },
   {
     "school_id": "houston",
@@ -1484,33 +1484,33 @@
     "colors": {
       "primary": null,
       "secondary": null,
-      "accent": null
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://soonersports.com/documents/download/2024/10/1/Oklahoma_09-26-24.pdf",
+      "usage_notes": "Official OU Athletics style/quick reference (revision 09/26/24) specifies Crimson, Cream and White, and identifies the Crimson OU mark on white as the primary athletics mark. Use approved Pantone colors and current mark files."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://soonersports.com/documents/download/2024/10/1/Oklahoma_09-26-24.pdf",
+    "verification_status": "partial",
+    "notes": "OU Athletics lists Crimson (Pantone 201 C), Cream (Pantone 468 C) and White. The reference specifies the Crimson OU mark on white as the primary athletics mark. HEX values not provided in this official source."
   },
   {
     "school_id": "oklahoma-state",
     "school_name": "Oklahoma State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FE5C00",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.okstate.edu/branding-guidelines/logos-and-marks/logo-usage-specifications",
+      "usage_notes": "Oklahoma State's 2019 unified OSU brand is the primary mark across campuses and athletics. Official brand guide specifies permitted color variations and spacing; do not substitute retired athletics marks."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.okstate.edu/branding-guidelines/colors",
+    "verification_status": "partial",
+    "notes": "Official OSU brand standards specify Orange #FE5C00, Black #000000 and White #FFFFFF. The 2019 unified OSU brand is the primary mark; orange and black must remain dominant."
   },
   {
     "school_id": "tulsa",
@@ -1539,29 +1539,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.ku.edu/guidelines/design/official-marks",
+      "usage_notes": "KU Brand Center governs the official university signature, KU logo and Jayhawk marks. Use approved color variants only; trademark marks require appropriate permissions and clear-space rules."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.ku.edu/guidelines/design/official-marks",
+    "verification_status": "partial",
+    "notes": "Official KU brand standards confirm Crimson and Blue as primary identity colors and document approved KU and Jayhawk mark colorways. Exact HEX values not included in the retrieved official mark page; left null pending palette page extraction."
   },
   {
     "school_id": "kansas-state",
     "school_name": "Kansas State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#330A57",
+      "secondary": "#A7A9AC",
+      "accent": "#E2E3E4"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.kstatesports.com/documents/download/2023/12/4/BrandingGuide-2023-24.pdf",
+      "usage_notes": "Official K-State Athletics Branding Guide specifies K-State Purple and gray support palette. The Powercat is the recognized athletics mark; use official approved artwork and colorways."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.kstatesports.com/documents/download/2023/12/4/BrandingGuide-2023-24.pdf",
+    "verification_status": "partial",
+    "notes": "K-State Athletics guide specifies digital K-State Purple #330A57, Dark Gray #A7A9AC and Light Gray #E2E3E4. K-State's only official school color is Royal Purple (PMS 268); white is a customary complementary color."
   },
   {
     "school_id": "missouri-state",
