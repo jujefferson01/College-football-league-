@@ -343,18 +343,18 @@
     "school_id": "north-carolina",
     "school_name": "North Carolina",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#7BAFD4",
+      "secondary": "#FFFFFF",
+      "accent": "#13294B"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://goheels.com/news/2015/4/21/210036117",
+      "usage_notes": "The official athletics guide identifies the interlocking NC as the primary athletics mark and Carolina Blue/white as the primary palette; Navy #13294B is secondary. No direct downloadable primary-mark asset URL was confirmed in this pass. UNC's trademarks and licensing office controls third-party use; obtain approved master artwork and permission before external/commercial use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://goheels.com/documents/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf",
+    "verification_status": "partial",
+    "notes": "Official Carolina Athletics identity guide documents Carolina Blue #7BAFD4, White #FFFFFF, Navy Blue #13294B, Flat Grey #A2AAAD and Pitch Black #2C2A29. Interlocking NC is the primary athletics identifier; argyle is secondary. Exact mark source page documented, but direct downloadable asset URL and usage authorization remain unverified."
   },
   {
     "school_id": "nc-state",
@@ -547,18 +547,18 @@
     "school_id": "western-michigan",
     "school_name": "Western Michigan",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#532E1F",
+      "secondary": "#F1C500",
+      "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "primary_mark_url": "https://files.wmich.edu/s3fs-public/2026-07/wmu_primary_logo_rgb_2026.png",
+      "logo_source_page": "https://wmich.edu/marcom/creative/visual-identity/logo",
+      "usage_notes": "Direct official digital PNG for the university's primary logo was located. WMU's 2025 guide specifies PMS 7406 Gold #F1C500 and PMS 4625 Brown #532E1F; White #FFFFFF is also specified. Keep the W inside its circle and preserve the wordmark lockup; do not alter the logo. External/commercial use requires prior written approval from WMU Licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://wmich.edu/brand/visualidentity",
+    "verification_status": "partial",
+    "notes": "WMU Visual Identity 2025 guide confirms Gold #F1C500, Brown #532E1F and White #FFFFFF. Official primary logo page provides a direct digital PNG asset. This is the institutional primary logo; athletics-specific Bronco marks require separate asset selection and licensing review."
   },
   {
     "school_id": "toledo",
