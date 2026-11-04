@@ -190,18 +190,18 @@
     "school_id": "maryland",
     "school_name": "Maryland",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CE1126",
+      "secondary": "#FCD116",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://umterps.com/sports/2024/10/10/maryland-athletics-brand-guidelines",
+    "verification_status": "partial",
+    "notes": "Maryland Athletics lists Red #CE1126, Gold #FCD116, Black #000000, and White #FFFFFF."
   },
   {
     "school_id": "virginia",
@@ -581,18 +581,18 @@
     "school_id": "ball-state",
     "school_name": "Ball State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#BA0C2F",
+      "secondary": "#FFFFFF",
+      "accent": "#54585A"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.bsu.edu/about/administrativeoffices/marketing-communications/brand-resources/colors",
+    "verification_status": "partial",
+    "notes": "Ball State brand palette: Cardinal Red #BA0C2F, White #FFFFFF, Dark Gray #54585A."
   },
   {
     "school_id": "cincinnati",
@@ -819,18 +819,18 @@
     "school_id": "georgia",
     "school_name": "Georgia",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#BA0C2F",
+      "secondary": "#000000",
+      "accent": "#5D6770"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.uga.edu/wp-content/uploads/UGA-logoguide_V2.pdf",
+    "verification_status": "partial",
+    "notes": "UGA approved colors: Bulldog Red #BA0C2F, Black #000000, UGA Silver #5D6770."
   },
   {
     "school_id": "georgia-tech",
@@ -955,18 +955,18 @@
     "school_id": "vanderbilt",
     "school_name": "Vanderbilt",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#CFAE70",
+      "secondary": "#000000",
+      "accent": "#1C1C1C"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.vanderbilt.edu/athletics/",
+    "verification_status": "partial",
+    "notes": "Vanderbilt Athletics identifies Flat Gold #CFAE70 and Rich Black #000000; Black #1C1C1C is also listed."
   },
   {
     "school_id": "ucf",
@@ -1193,18 +1193,18 @@
     "school_id": "arkansas",
     "school_name": "Arkansas",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#A41F35",
+      "secondary": "#FFFFFF",
+      "accent": "#222222"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://arkansasrazorbacks.com/licensing/",
+    "verification_status": "partial",
+    "notes": "Arkansas Razorbacks licensing guide lists Cardinal #A41F35, White #FFFFFF, and Black #222222."
   },
   {
     "school_id": "ole-miss",
@@ -1414,8 +1414,8 @@
     "school_id": "baylor",
     "school_name": "Baylor",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#154734",
+      "secondary": "#FFB81C",
       "accent": null
     },
     "logo": {
@@ -1423,9 +1423,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.web.baylor.edu/brand-standards/official-brand-colors",
+    "verification_status": "partial",
+    "notes": "Baylor Green #154734 and University Gold #FFB81C."
   },
   {
     "school_id": "tcu",
@@ -1465,18 +1465,18 @@
     "school_id": "houston",
     "school_name": "Houston",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C92A39",
+      "secondary": "#B8B9B7",
+      "accent": "#7D2935"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://uhcougars.com/sports/2018/6/12/licensing-logos-html",
+    "verification_status": "partial",
+    "notes": "Houston Athletics official colors list Red RGB 201/42/57 (#C92A39), Dark Red RGB 125/41/53 (#7D2935), Gray RGB 184/185/183 (#B8B9B7)."
   },
   {
     "school_id": "oklahoma",
@@ -1635,18 +1635,18 @@
     "school_id": "missouri",
     "school_name": "Missouri",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FDB719",
+      "secondary": "#000000",
+      "accent": "#373A36"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.missouri.edu/athletics-branding-toolkit/",
+    "verification_status": "partial",
+    "notes": "Mizzou athletics guide: Mizzou Gold #FDB719, Nike 00A Black #000000, Anthracite #373A36."
   },
   {
     "school_id": "north-dakota-state",
@@ -1975,18 +1975,18 @@
     "school_id": "utah-state",
     "school_name": "Utah State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0F2439",
+      "secondary": "#FFFFFF",
+      "accent": "#9D968D"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://webdev.usu.edu/licensing/pdf/athletics_vip.pdf",
+    "verification_status": "partial",
+    "notes": "Utah State Athletics guide: Aggie Blue #0F2439, Fighting White #FFFFFF, Pewter #9D968D."
   },
   {
     "school_id": "nevada",
