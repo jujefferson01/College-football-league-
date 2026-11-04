@@ -1618,18 +1618,18 @@
     "school_id": "nebraska",
     "school_name": "Nebraska",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#D00000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://licensing.unl.edu/sites/unl.edu.university-communication.licensing/files/media/file/Nebraska-Art-Sheet.pdf",
+      "usage_notes": "Official University of Nebraska logo sheet (revision 04/10/23) identifies the N as primary mark and Huskers/Cornhuskers/Nebraska wordmarks as secondary. All marks require written approval through CLC; do not alter the N."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://licensing.unl.edu/unl-branding/",
+    "verification_status": "partial",
+    "notes": "Official Nebraska logo sheet provides Scarlet RGB 208,0,0 (converted to #D00000), Black RGB 0,0,0 and White RGB 255,255,255. It documents N primary marks, football Blackshirts marks and secondary Huskers/Cornhuskers/Nebraska wordmarks."
   },
   {
     "school_id": "missouri",
@@ -1669,18 +1669,18 @@
     "school_id": "northern-illinois",
     "school_name": "Northern Illinois",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C8102E",
+      "secondary": "#000000",
+      "accent": "#A5A7A8"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.niu.edu/communication-standards/visual/index.shtml",
+      "usage_notes": "NIU separates the university logo from the Huskie Athletics logo; the Huskie mark is only for athletics-related materials. Use official files only; do not recreate or typeset logos. Contact Athletics Marketing for permission."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.niu.edu/communication-standards/_downloads/niu-communication-standards.pdf",
+    "verification_status": "partial",
+    "notes": "NIU official communication standards specify primary NIU Red #C8102E and Black #000000, with Gray #A5A7A8 as an accent and White #FFFFFF. Secondary palette colors are not primary brand colors."
   },
   {
     "school_id": "memphis",
@@ -1692,12 +1692,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://gotigersgo.com/sports/2023/10/14/memphis-tigers-licensing",
+      "usage_notes": "Memphis Athletics licensing page links to official Athletics Brand Standards and states all marks are protected and require a license for outside use. Official football media guide confirms Blue and Gray as athletics colors; exact current palette and mark hierarchy require review of the linked brand standards."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gotigersgo.com/sports/2023/10/14/memphis-tigers-licensing",
+    "verification_status": "partial",
+    "notes": "Official Memphis football media guide lists Blue and Gray as team colors. Athletics licensing confirms trademarks are University-owned and third-party use requires a license. Exact official HEX/Pantone values and primary logo asset remain to be extracted from the Athletics Brand Standards."
   },
   {
     "school_id": "uab",
@@ -1726,12 +1726,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://gophersports.com/sports/2021/8/18/licensing-trademarks",
+      "usage_notes": "University of Minnesota Athletics requires a license for use of its trademarks on products, promotions or advertising. The 2025 football media guide lists Maroon (PMS 7421) and Gold (PMS 136); exact digital HEX values and primary athletics mark asset still require review."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gophersports.com/sports/2021/8/18/licensing-trademarks",
+    "verification_status": "partial",
+    "notes": "Official 2025 Minnesota football media guide lists Maroon (PMS 7421) and Gold (PMS 136). Athletics trademark policy requires licensing for products, promotions and advertising. Pantone values are retained without guessed HEX conversions."
   },
   {
     "school_id": "wisconsin",
@@ -1755,17 +1755,17 @@
     "school_name": "Northwestern",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://nusports.com/documents/download/2022/6/16/NIL_Policy_NUSports_6_1_2022.pdf",
+      "usage_notes": "Northwestern Athletics registered-trademark guide identifies purple Northwestern N variants as primary athletics marks and wildcat overlays/wordmarks as secondary. New logo use requires approval; embroidery and screen printing must follow Athletics approval process."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://nusports.com/school-colors",
+    "verification_status": "partial",
+    "notes": "Northwestern Athletics confirms Purple and White as school colors. The registered-trademark guide documents primary purple N marks and secondary wildcat/wordmark marks. Exact official digital HEX value was not established in the athletics sources reviewed."
   },
   {
     "school_id": "arizona",
