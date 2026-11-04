@@ -78,6 +78,22 @@ The first five Mountain West records were refreshed in `data/school-branding.jso
 
 **Important identity note:** Nevada's October 2026 brand launch is a recent change. The database records that change explicitly rather than silently treating the 2023 Wolf Pack guide as the new university-wide identity. Direct athletics logo files still need capture and visual inspection for all five schools.
 
+
+## Mountain West — batch 2
+
+The remaining six Mountain West records were refreshed in `data/school-branding.json`. All six remain **partial** because no direct PNG/SVG file was captured and visually inspected in this pass.
+
+| School | Official source(s) | Findings |
+|---|---|---|
+| Colorado State | [CSU Ram's Head symbol](https://brand.colostate.edu/symbol/) and [current color guide](https://brand.colostate.edu/color/) | The Ram's Head is the official primary symbol, with approved SVG/PNG master formats. Current Find Your Energy palette: Green `#1E4D2B`, Gold `#C8C372`; previous secondary/tertiary palettes are retired. |
+| Wyoming | [Athletics primary logo guidelines](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/wyoming.sidearmsports.com/documents/2017/8/22/57756e40e4b07178b37aaf74.pdf) and [licensing guide](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/wyoming.sidearmsports.com/documents/2022/11/29/WYO_LicensingGuide_June_2022.pdf) | Bucking Horse & Rider (Steamboat) is the primary athletics mark; Pistol Pete is separate. The logo has strict approved color and clear-space rules. Licensing guide specifies Brown (PMS 476C) and Gold (PMS 123C). |
+| Air Force | [Air Force Athletics Style Guide](https://goairforcefalcons.com/documents/download/2024/3/21/AF_Athletics_Style_Guide.pdf) and [USAFA logo guidance](https://www.usafa.edu/brand/logo/) | Collegiate AF logomark is the primary athletics mark; AIR FORCE wordmark and Bolt are secondary, Falcon variations tertiary. Secondary marks are Athletics-only; new use requires USAFA Strategic Communications approval. |
+| New Mexico | [UNM Athletics 2024 art sheet](https://storage.googleapis.com/golobos-com/2024/06/64036f4f-unm_art_sheet_2024_v2.pdf) | Forward-facing wolf-head with LOBOS wordmark is the primary mark. The sideways-facing Lobo is removed from retail use and restricted to internal use by case-by-case approval. Secondary marks include script Lobos and NM monogram. |
+| New Mexico State | [Athletics marks](https://brand.nmsu.edu/logos-marks/athletics.html) and [official color palette](https://brand.nmsu.edu/color/) | NM State Pete is primary; Pete Head and stacked NM State are secondary. Athletics crimson differs from university Aggie Crimson `#8C0B42`; the Zia mark is restricted by rights granted by Zia Pueblo and cannot be used commercially. |
+| UTEP | [New Paydirt Pete announcement (July 1, 2026)](https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx) and [2024 visual brand guide](https://www.utep.edu/marketing-and-communications/_Files/docs/visual-brand-guide.pdf) | UTEP unveiled a refreshed Paydirt Pete identity in July 2026, referencing the popular 1980s-era design. The 2024 guide describes the prior primary/alternate marks and restricts athletics-logo use to official Athletics purposes. Current 2026 artwork and updated usage rules still need direct capture and review. |
+
+**Identity updates worth preserving:** Colorado State's current brand guide retires its former secondary/tertiary palettes; New Mexico's 2024 art sheet restricts the sideways Lobo; UTEP's July 2026 Paydirt Pete refresh supersedes the prior mascot artwork. These distinctions should remain explicit when selecting simulator assets.
+
 ## Next steps
 
 1. Continue with the next Southwest batch.
