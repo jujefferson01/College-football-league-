@@ -598,35 +598,35 @@
     "school_id": "cincinnati",
     "school_name": "Cincinnati",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#E00122",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.uc.edu/about/marketing-communications/brand-guide/visual-identity/color.html",
+    "verification_status": "partial",
+    "notes": "University of Cincinnati official brand guide specifies UC Red #E00122, UC Black #000000 and White #FFFFFF. Athletics marks including C-Paw and Bearcats wordmarks are restricted to approved uses; see the athletics marks policy."
   },
   {
     "school_id": "louisville",
     "school_name": "Louisville",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C9001F",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gocards.com/documents/download/2023/8/8/ATH2023_Brand_Guidelines_Update_072023.pdf",
+    "verification_status": "partial",
+    "notes": "Louisville Athletics 2023 brand guidelines specify Cardinal Red #C9001F, Black #000000 and White #FFFFFF. Metallic Silver #8A8D8F is included; Beak Yellow #FDB913 is restricted to the primary mark's beak only."
   },
   {
     "school_id": "kentucky",
