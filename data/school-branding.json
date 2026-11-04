@@ -301,9 +301,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://libertyflames.com/documents/download/2023/6/8/Athletics_Policy_Manual.docx",
+    "verification_status": "partial",
+    "notes": "Liberty Athletics policy identifies official red (PMS 187), white and blue (PMS 282). It also specifies the required university identifier with the primary athletics mark and secondary eagle-head mark. HEX values are not entered pending a primary-source digital color specification; asset use is subject to university branding approval."
   },
   {
     "school_id": "marshall",
@@ -394,35 +394,35 @@
     "school_id": "michigan",
     "school_name": "Michigan",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#00274C",
+      "secondary": "#FFCB05",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.umich.edu/wp-content/uploads/2025/02/250027-U-M-Style-Guide-February2025.pdf",
+    "verification_status": "partial",
+    "notes": "University of Michigan official style guide specifies Blue #00274C, Maize #FFCB05 and White #FFFFFF. Athletics mark artwork and usage permissions remain to be reviewed."
   },
   {
     "school_id": "michigan-state",
     "school_name": "Michigan State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#173F35",
+      "secondary": "#FFFFFF",
+      "accent": "#7C878E"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/msuspartans.com/documents/2023/3/29/MSU_Branding_One_Sheet_1Apr23.pdf",
+    "verification_status": "partial",
+    "notes": "Michigan State Athletics brand reference guide specifies Spartan Green #173F35 and White #FFFFFF as primary colors; Silver #7C878E is secondary. Bronze #696158 is also listed as a secondary color. Logo use and asset permissions remain subject to MSU guidelines."
   },
   {
     "school_id": "ohio-state",
@@ -445,18 +445,18 @@
     "school_id": "notre-dame",
     "school_name": "Notre Dame",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0C2340",
+      "secondary": "#C99700",
+      "accent": "#00843D"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://onmessage.nd.edu/athletics-branding/colors/",
+    "verification_status": "partial",
+    "notes": "Notre Dame Athletics official palette specifies Notre Dame Blue #0C2340, Standard Dome Gold #C99700 and Irish Green #00843D. Green is an accent and should be used sparingly; metallic gold has no digital conversion."
   },
   {
     "school_id": "indiana",
