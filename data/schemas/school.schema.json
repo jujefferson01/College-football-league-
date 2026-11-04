@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "School",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "verification_status", "sources"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "short_name": { "type": "string" },
+    "nickname": { "type": "string" },
+    "conference_id": { "type": ["string", "null"] },
+    "verification_status": { "enum": ["draft", "needs_review", "verified"] },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "checked_on"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "checked_on": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
