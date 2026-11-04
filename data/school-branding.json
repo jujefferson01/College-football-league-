@@ -1584,35 +1584,35 @@
     "school_id": "iowa",
     "school_name": "Iowa",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FFCD00",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://storage.googleapis.com/hawkeyesports-prod/2024/07/6e7e8521-24iahawkeyes_style_branding_quickreference.pdf",
+      "usage_notes": "Iowa Athletics identifies the Tigerhawk as its primary retail and identifying mark; marks must not be altered. The guide says the mark is not for promotional identification of university departments/student organizations and requires adherence to the guide."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.uiowa.edu/color",
+    "verification_status": "partial",
+    "notes": "University of Iowa official brand manual specifies Hawkeye Gold #FFCD00 and Black #000000 as primary colors; White is a support color. Athletics quick reference identifies Tigerhawk as the primary athletics mark. Do not confuse athletics' retail Tigerhawk with academic department identity."
   },
   {
     "school_id": "iowa-state",
     "school_name": "Iowa State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#A61932",
+      "secondary": "#FFC836",
+      "accent": "#872837"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://marcom.iastate.edu/wordmarks-and-logos",
+      "usage_notes": "Iowa State identifies I State and Cyclone marks as primary athletics marks; these are not interchangeable with the university wordmark. Athletics logo files are supplied through Trademark Licensing, not public download."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://trademark.iastate.edu/files/documents/2025-11/Affiliated%20snapshot.pdf",
+    "verification_status": "partial",
+    "notes": "Official Iowa State athletics trademark snapshot specifies Cyclone Cardinal #A61932, Cyclone Gold #FFC836 and Accent Cardinal #872837. Athletics primary marks are I State and Cyclone marks; Punching Cy must accompany another identifying Iowa State trademark."
   },
   {
     "school_id": "nebraska",
@@ -1641,29 +1641,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.missouri.edu/athletics-branding-toolkit/",
+      "usage_notes": "Official Mizzou athletics branding toolkit documents athletics marks and use standards. Follow the university's licensing requirements and use approved artwork only."
     },
     "brand_source_url": "https://brand.missouri.edu/athletics-branding-toolkit/",
     "verification_status": "partial",
-    "notes": "Mizzou athletics guide: Mizzou Gold #FDB719, Nike 00A Black #000000, Anthracite #373A36."
+    "notes": "Mizzou athletics guide: Mizzou Gold #FDB719, Nike 00A Black #000000 and Anthracite #373A36. Official athletics toolkit governs the approved marks and their use."
   },
   {
     "school_id": "north-dakota-state",
     "school_name": "North Dakota State",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#00583D",
+      "secondary": "#FFC425",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.ndsu.edu/marketing-communications/brand-center/logos",
+      "usage_notes": "Official NDSU logo must be used as provided and not recreated, altered, stretched or combined. Bison mascot logo is owned by NDSU Athletics and is limited to athletics materials or use with Athletics permission."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.ndsu.edu/marketing-communications/brand-center/logos",
+    "verification_status": "partial",
+    "notes": "NDSU official brand center specifies Green #00583D and Yellow #FFC425. Bison mascot logos are trademarked and owned by NDSU Athletics; external use requires permission."
   },
   {
     "school_id": "northern-illinois",
@@ -1703,18 +1703,18 @@
     "school_id": "uab",
     "school_name": "UAB",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#006341",
+      "secondary": "#D4B754",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.uab.edu/brandguide/athletics",
+      "usage_notes": "UAB Athletics primary logo is the gold-outlined monogram; Blaze is the secondary athletics logo. Use only approved full-color, two-color or one-color variants; do not alter marks."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.uab.edu/brandguide/athletics",
+    "verification_status": "partial",
+    "notes": "Official UAB Athletics brand guide prioritizes the primary gold-outlined monogram and identifies Blaze as the secondary athletics logo. UAB green/gold/black identity is established; exact official digital HEX values should be confirmed against the full central palette before production."
   },
   {
     "school_id": "minnesota",
@@ -1737,18 +1737,18 @@
     "school_id": "wisconsin",
     "school_name": "Wisconsin",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C5050C",
+      "secondary": "#FFFFFF",
+      "accent": "#9B0000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://testing.branding.uwbadgers.com/logos",
+      "usage_notes": "Wisconsin Athletics identifies Motion W as its primary athletics logo. Bucky Badger is a university spirit symbol requiring approval and must not be used as a standalone Bucky head mark."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.wisc.edu/identity/color/",
+    "verification_status": "partial",
+    "notes": "University of Wisconsin official brand palette uses Badger Red #C5050C and White #FFFFFF; dark red #9B0000 is a supporting shade. Athletics identifies Motion W as the primary athletics mark; Bucky is a separately controlled spirit mark."
   },
   {
     "school_id": "northwestern",
