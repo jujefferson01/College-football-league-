@@ -315,12 +315,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://herdzone.com/documents/2024/2/15/TSCC_VisualBrandIdentity_2024__1_.pdf",
-      "usage_notes": "Official Marshall Athletics visual brand identity reference. Marshall marks are protected university trademarks; the athletics department works with CLC for trademark licensing. Confirm the precise current primary football mark and approved asset from the guide/Marshall Athletics brand management before asset verification."
+      "logo_source_page": "https://www.marshall.edu/history-and-traditions/symbols/",
+      "usage_notes": "Marshall's official Symbols page distinguishes the Bar M as the university's primary logo from The Herd as an alternate athletics logo used for sports-related purposes. The official direct [Athletic logo JPG](https://www.marshall.edu/wp-content/uploads/sites/485/Athletic-logo.jpg) was opened and visually inspected; it is The Herd lockup, but the source explicitly calls it alternate, so it is not promoted to the primary_mark_url field. The official colors are Kelly Green and White. The official athletics brand guide remains the authority for approved team applications and licensing."
     },
     "brand_source_url": "https://www.marshall.edu/brandservices/files/2024/06/Marshall_University_Brand_Guidelines.pdf",
     "verification_status": "partial",
-    "notes": "Marshall University brand guide specifies Marshall Green #00B140, black #27251F and white #FFFFFF. The official athletics mark is The Herd; confirm asset permissions before use."
+    "notes": "Important identity distinction: Bar M is Marshall University's primary institutional logo; The Herd is an alternate athletics logo used for sports-related purposes. The direct official The Herd JPG was captured and visually inspected, but is not assigned as the primary athletics mark because Marshall explicitly labels it alternate. Official colors are Kelly Green and White; #00B140 is an RGB digital reference from Marshall's brand materials, black #27251F is an accent."
   },
   {
     "school_id": "duke",
@@ -1047,28 +1047,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goccusports.com/sports/2025/3/5/koz-test-page",
-      "usage_notes": "Coastal Carolina Athletics adopted its refreshed athletics identity for 2025–26. Its official athletic marks include vertical and horizontal Chanticleers lockups and approved wordmarks. Primary colors: Teal #006F71, Bronze #A27752, Black #111111. Do not modify wordmark proportions, orientation or colors; use approved official artwork."
+      "usage_notes": "Coastal Carolina Athletics adopted its refreshed identity for 2025–26 and identifies the primary and illustrative wordmarks as the only approved athletics wordmarks. The official primary SVG endpoint returned 404 during this pass, so no direct asset is recorded. The official university visual standards state that athletic marks are protected and copies of official logo files are supplied only for approved uses by the Office of University Marketing and Communication."
     },
     "brand_source_url": "https://goccusports.com/sports/2025/3/5/koz-test-page",
     "verification_status": "partial",
-    "notes": "Coastal Carolina Athletics' refreshed 2025–26 identity specifies Teal #006F71, Bronze #A27752 and Black #111111. Teal leads the palette; bronze and black provide support."
+    "notes": "Coastal Carolina Athletics' refreshed 2025–26 identity is officially adopted. The official athletics page labels the primary and illustrative wordmarks as the only approved athletics wordmarks and specifies Teal #006F71, Bronze #A27752 and Black #111111, with teal leading. The primary wordmark SVG endpoint currently returns 404, so direct asset capture and visual inspection remain pending. Athletics marks are protected; official files are supplied for approved uses."
   },
   {
     "school_id": "charlotte",
     "school_name": "Charlotte",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#005035",
+      "secondary": "#A49665",
+      "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://s3.amazonaws.com/sidearm.sites/theamerican.sidearmsports.com/documents/2024/8/22/2024_25_AAC_Brand_Guide.pdf",
-      "usage_notes": "The 2024–25 American Athletic Conference brand guide identifies the Charlotte 49ers institutional athletics logo as the green C mark with a crescent cutout, and specifies correct program naming as Charlotte or Charlotte 49ers. This is an athletics identity reference; confirm current university Athletics brand guide and obtain approved artwork before asset verification."
+      "primary_mark_url": "https://brand.charlotte.edu/wp-content/uploads/sites/183/2023/04/8716-01-Charlotte-Master-File-v7_1.png",
+      "logo_source_page": "https://brand.charlotte.edu/visual-identity/logo-system",
+      "usage_notes": "Charlotte's official Logo System identifies the All-in Charlotte lockup as the PRIMARY MARK and provides a direct PNG master file, which was opened and visually inspected. The All-in-C mark originated as the 2020 athletics identity and was adopted university-wide in 2021; the All-in-C symbol and text lockup should not be reconstructed or altered. Athletic marks and Norm the Niner are protected; permission is required for reproduction."
     },
-    "brand_source_url": "https://charlotte49ers.com/documents/download/2020/6/23/Niners_Style_Guide.pdf",
-    "verification_status": "partial",
-    "notes": "Official Charlotte 49ers Athletics style guide documents the All-In C primary mark, CLT secondary mark, tertiary 49ers/9ers marks and color system. Exact palette values still need extraction and review."
+    "brand_source_url": "https://brand.charlotte.edu/visual-identity/color-palette",
+    "verification_status": "verified",
+    "notes": "The All-in Charlotte primary lockup uses the All-in-C mark with University text. The All-in-C originated as the 2020 athletics logo and was adopted university-wide in 2021. The official primary mark PNG was captured and visually inspected. Current digital palette: Charlotte Green #005035, Niner Gold #A49665 and Quartz White #FFFFFF. The mark must not be altered; trademark permission applies."
   },
   {
     "school_id": "appalachian-state",
@@ -1079,30 +1079,30 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://licensing.appstate.edu/sites/default/files/styles/longform_square/public/2025-09/trademarks-primary-athletic-mark-600x600.png?h=04d92ac6&itok=w3rYm7kI",
       "logo_source_page": "https://licensing.appstate.edu/trademarks",
-      "usage_notes": "Appalachian State's Office of Trademarks and Licensing identifies official primary and secondary athletic marks, including the Yosef identity. University trademarks are managed by the licensing office; commercial use on products or services requires express permission. Official school colors: App State Gold Pantone 116, Gray Pantone 423 and Process Black."
+      "usage_notes": "App State's official Office of Trademarks and Licensing labels this image the Primary athletic mark; the direct official PNG was opened and visually inspected. The Yosef head is separately labeled the Secondary athletic mark and is not substituted for the primary A mark. All marks are protected; commercial use and reproductions require licensing approval. Athletics color references specify Gold PMS 116, Gray PMS 423 and Process Black; HEX values are not supplied."
     },
     "brand_source_url": "https://appstatesports.com/news/2008/7/29/1524743.aspx?path=general",
-    "verification_status": "partial",
-    "notes": "Official App State Athletics style guidance identifies Appalachian State Gold (Pantone 116), Gray (Pantone 423) and Process Black. The source does not provide official HEX values; these remain null rather than estimated."
+    "verification_status": "verified",
+    "notes": "Official primary athletics mark is the block A with Mountaineers word element, as identified by the App State Office of Trademarks and Licensing; direct PNG captured and visually inspected. Yosef head is separately identified as the secondary athletics mark. Official athletics colors are App State Gold (PMS 116), Gray (PMS 423) and Process Black; no HEX values entered because the official athletics source does not supply them. Licensing approval required."
   },
   {
     "school_id": "east-carolina",
     "school_name": "East Carolina",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#582C83",
+      "secondary": "#FFC700",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://ecupirates.com/sports/2018/7/10/ecu-athletics-branding.aspx",
-      "usage_notes": "East Carolina Athletics' official brand resources document the Pirate head, crossed-pistols and wordmark identity system. Use official approved artwork and color treatments without alteration; athletics marks are protected and licensing approval applies to external/commercial use."
+      "logo_source_page": "https://licensing.ecu.edu/trademarks/",
+      "usage_notes": "ECU's 2023 Athletics Brand Guide identifies a distinct primary 'Pirate' mark for all Athletics. The official guide page showing that mark was opened and visually inspected as a PDF screenshot, but no clean standalone PNG/SVG file was captured. Important: the bearded Pirate Head is a legacy mark adopted in 1998 and now reserved for Hall of Fame, letterwinners and traditional-history uses; it must not be substituted for the current primary Pirate mark. All marks are controlled by CLC and written approval is required."
     },
-    "brand_source_url": "https://ecupirates.com/documents/download/2018/7/6/2018_ECU_Athletics_Brand_Guidelines_6_19_18.pdf",
+    "brand_source_url": "https://licensing.ecu.edu/trademarks/",
     "verification_status": "partial",
-    "notes": "Official ECU Athletics Brand Guidelines (2018) document the East Carolina wordmark and approved color treatments, including purple and gold. Exact current HEX palette values and current asset revision still need confirmation."
+    "notes": "ECU's 2023 Athletics Brand Guide identifies the contemporary primary Pirate mark for all athletics and treats the bearded Pirate Head (adopted 1998) as a legacy mark for Hall of Fame, letterwinners and tradition uses. The primary Pirate mark was visually inspected in the official guide PDF but no standalone asset was captured. Official digital colors: Purple #582C83 and Gold #FFC700 (uncoated); coated-paper gold #FFC72C. White #FFFFFF and Black #000000 are accents, not official school colors. All athletics marks are protected under CLC licensing and written approval is required."
   },
   {
     "school_id": "georgia-southern",
@@ -1130,13 +1130,13 @@
       "accent": "#CC0000"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://brand.gsu.edu/visual-identity/athletics/",
-      "usage_notes": "Georgia State's official brand guide distinguishes athletics logos from university institutional marks. The Panthers athletics mark and approved wordmarks are governed by university brand standards; use exact official artwork and follow trademark/licensing restrictions."
+      "primary_mark_url": "https://commkit.gsu.edu/files/2021/05/GSU-Athletics-Pantherhead-2C-RGB.png",
+      "logo_source_page": "https://commkit.gsu.edu/university-logos/",
+      "usage_notes": "Georgia State's official Communications Toolkit explicitly lists Pantherhead and GSU-with-Pantherhead under Primary Athletics Logos. The official two-color Pantherhead PNG was opened and visually inspected. Athletics logos may not be manipulated; use only official artwork/colors. Images are distributed through Public Relations and Marketing Communications and Athletics; giveaways/sales require Affinity Licensing."
     },
     "brand_source_url": "https://commkit.gsu.edu/university-logos/",
-    "verification_status": "partial",
-    "notes": "Georgia State's official communications toolkit specifies Blue #0039A6 and White #FFFFFF as primary colors, with Red #CC0000 and Gray #776E64 secondary. Athletics uses approved Pantherhead/GSU marks and Pounce; athletic marks require approval and licensing."
+    "verification_status": "verified",
+    "notes": "Georgia State's official Communications Toolkit identifies Pantherhead and GSU-with-Pantherhead as Primary Athletics Logos. The official two-color Pantherhead PNG was captured and visually inspected. Digital palette: Blue #0039A6 and White #FFFFFF primary; Red #CC0000 and Gray #776E64 secondary. Athletics artwork may not be altered; licensing approval applies."
   },
   {
     "school_id": "kennesaw-state",
