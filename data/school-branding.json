@@ -437,9 +437,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://ohiostatebuckeyes.com/documents/download/2023/7/26/Athletics_LogoGuidelines.pdf",
+    "verification_status": "partial",
+    "notes": "Ohio State Athletics official logo guidelines document approved primary mark variants and color applications (scarlet, black, white and gray). Exact palette HEX values still need confirmation from the official color specification."
   },
   {
     "school_id": "notre-dame",
@@ -462,25 +462,25 @@
     "school_id": "indiana",
     "school_name": "Indiana",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#990000",
+      "secondary": "#FFFFFF",
+      "accent": "#EDEBEB"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://iuhoosiers.com/documents/download/2018/8/28/IUB_athletics_brandguide_TO_PRESS_8_2.pdf",
+    "verification_status": "partial",
+    "notes": "Indiana University Athletics brand guide specifies Crimson #990000 and uses White as a primary marketing color; Cream #EDEBEB is documented but treated as white for most marketing executions. Athletics marks and use rules are covered by the guide."
   },
   {
     "school_id": "purdue",
     "school_name": "Purdue",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#000000",
       "accent": null
     },
     "logo": {
@@ -488,16 +488,16 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://purduesports.com/quick-facts",
+    "verification_status": "partial",
+    "notes": "Purdue Athletics confirms Old Gold and Black as official school colors. The official quick-facts page does not specify HEX values; no digital gold value has been inferred. The Motion P is the unified athletics/university symbol and logo use is restricted."
   },
   {
     "school_id": "illinois",
     "school_name": "Illinois",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#FF5F05",
+      "secondary": "#13294B",
       "accent": null
     },
     "logo": {
@@ -505,33 +505,33 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://fightingillini.com/sports/2015/11/10/traditions_orangeandblue",
+    "verification_status": "partial",
+    "notes": "Illinois Athletics identifies official Orange #FF5F05 and Blue #13294B (PMS 1655 and 2767)."
   },
   {
     "school_id": "central-michigan",
     "school_name": "Central Michigan",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#6A0032",
+      "secondary": "#FFC82E",
+      "accent": "#EF3340"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.cmich.edu/offices-departments/university-communications/brand-guidelines/visual-language/color-palette",
+    "verification_status": "partial",
+    "notes": "Central Michigan official brand palette specifies primary Maroon #6A0032 and Gold #FFC82E. Red #EF3340 is a secondary accent; additional accent colors are listed in the official palette."
   },
   {
     "school_id": "eastern-michigan",
     "school_name": "Eastern Michigan",
     "colors": {
       "primary": null,
-      "secondary": null,
+      "secondary": "#FFFFFF",
       "accent": null
     },
     "logo": {
@@ -539,9 +539,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://emueagles.com/documents/download/2023/9/11/EMU_FB_Notes_03_UMASS.pdf",
+    "verification_status": "partial",
+    "notes": "Eastern Michigan Athletics identifies official colors as Green (PMS 349 C) and White. The cited athletics fact sheet does not provide HEX values; no HEX inferred from Pantone."
   },
   {
     "school_id": "western-michigan",
@@ -564,8 +564,8 @@
     "school_id": "toledo",
     "school_name": "Toledo",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#0B2240",
+      "secondary": "#FFCD00",
       "accent": null
     },
     "logo": {
@@ -573,9 +573,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://utrockets.com/sports/2023/3/30/toledo-athletics-branding",
+    "verification_status": "partial",
+    "notes": "Toledo Athletics official brand guide specifies Midnight Blue #0B2240 and Athletic Gold #FFCD00. It includes official primary/secondary logo variants and strict rules against altering marks."
   },
   {
     "school_id": "ball-state",
