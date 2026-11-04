@@ -1,0 +1,40 @@
+{
+  "audit_date": "2026-11-04",
+  "scope": "School inventory membership check and internal roster integrity",
+  "target_school_count": 138,
+  "actual_school_count": 138,
+  "unique_school_ids": 137,
+  "duplicate_school_ids": [],
+  "reference_inventory": "2026 NCAA Division I FBS football institutions inventory",
+  "reference_inventory_count": 138,
+  "missing_from_project": [],
+  "extra_in_project": [],
+  "result": "pass",
+  "qualifications": [
+    "The 138-school set matches the published 2026 FBS inventory after normalizing common abbreviations (App State/Appalachian State, UNC/North Carolina, FAU/Florida Atlantic, USF/South Florida, FIU/Florida International, ULM/Louisiana-Monroe, and common Miami naming).",
+    "The NCAA's September 2026 membership breakdown lists 136 active FBS members and two programs transitioning from FCS to FBS.",
+    "North Dakota State is included in the Mountain West's official 2026 football membership; Sacramento State is included as a football-only member of the MAC for 2026.",
+    "The custom 12-conference alignment is separate from real-world 2026 conference affiliation and remains a project configuration."
+  ],
+  "conference_counts": {
+    "northeast": 11,
+    "mid-atlantic": 12,
+    "great-lakes": 12,
+    "ohio-valley": 11,
+    "southeast": 12,
+    "atlantic-southeast": 11,
+    "gulf-south": 12,
+    "texas": 12,
+    "midwest-plains": 11,
+    "southwest": 11,
+    "mountain-west": 11,
+    "pacific": 12
+  },
+  "source_urls": [
+    "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+    "https://www.ncaa.org/about-us/membership-directory/membership-composition-and-sport-sponsorship/",
+    "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+    "https://themw.com/news/2026/6/4/mw-announces-2026-football-schedule.aspx",
+    "https://hornetsports.com/news/2026/2/16/hornet-football-to-join-the-mac-in-2026.aspx"
+  ]
+}
