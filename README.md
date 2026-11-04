@@ -4,11 +4,12 @@ A customizable college football league project focused on conference alignment, 
 
 ## Project status
 
-The working target is 138 schools across 12 conferences. The school inventory remains a draft until it is checked against authoritative 2026 sources.
+The 138-school inventory has passed its initial 2026 FBS membership and uniqueness audit. The custom 12-conference alignment is recorded as a draft configuration pending the next review.
 
 ## Current framework
 
-- 12 conferences, planned as six 12-school conferences and six 11-school conferences.
+- 138 schools across 12 custom conferences.
+- Six conferences of 12 schools and six conferences of 11 schools.
 - 8 conference games and 4 nonconference games per school.
 - 12 regular-season games per school.
 - No divisions; one conference table.
@@ -18,8 +19,10 @@ The working target is 138 schools across 12 conferences. The school inventory re
 
 ## Build sequence
 
-1. Verify all schools and conference membership.
+1. Review and approve the custom conference alignment.
 2. Verify school colors and logo sources.
 3. Lock protected annual rivalries.
 4. Implement conference rotation and nonconference scheduling.
 5. Add standings, tiebreakers, and playoff selection.
+
+See `validation/ROSTER-AUDIT.md` for the roster audit and `data/` for the structured school and conference records.
