@@ -552,13 +552,13 @@
       "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": "https://files.wmich.edu/s3fs-public/2026-07/wmu_primary_logo_rgb_2026.png",
-      "logo_source_page": "https://wmich.edu/marcom/creative/visual-identity/logo",
-      "usage_notes": "Direct official digital PNG for the university's primary logo was located. WMU's 2025 guide specifies PMS 7406 Gold #F1C500 and PMS 4625 Brown #532E1F; White #FFFFFF is also specified. Keep the W inside its circle and preserve the wordmark lockup; do not alter the logo. External/commercial use requires prior written approval from WMU Licensing."
+      "primary_mark_url": null,
+      "logo_source_page": "https://files.wmich.edu/s3fs-public/2025-08/wmu_visual_identity_2025.pdf",
+      "usage_notes": "Corrected after the previous direct PNG URL failed to render. WMU's official June 2025 Visual Identity Guide identifies the Bronco Spirit Mark as the primary NCAA Division I athletics logo and the university Brand Mark as secondary. The guide depicts the official athletics mark but directs users to contact marcomm@wmich.edu to obtain approved creative assets. No stable direct public image URL has been confirmed; do not substitute the university W logo or an unofficial redraw. WMU trademarks require advance approval for external/electronic use."
     },
     "brand_source_url": "https://wmich.edu/brand/visualidentity",
     "verification_status": "partial",
-    "notes": "WMU Visual Identity 2025 guide confirms Gold #F1C500, Brown #532E1F and White #FFFFFF. Official primary logo page provides a direct digital PNG asset. This is the institutional primary logo; athletics-specific Bronco marks require separate asset selection and licensing review."
+    "notes": "Official WMU June 2025 Visual Identity Guide confirms Gold #F1C500 and Brown #532E1F and explicitly identifies the Bronco Spirit Mark as the primary Division I athletics logo; the university Brand Mark is secondary. Previous direct PNG URL was invalid/blank and has been removed. Official guide is now the source reference; request the approved high-resolution athletics asset from WMU MarCom before using it."
   },
   {
     "school_id": "toledo",
