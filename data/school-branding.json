@@ -1805,18 +1805,18 @@
     "school_id": "colorado",
     "school_name": "Colorado",
     "colors": {
-      "primary": "#CFB87C",
+      "primary": null,
       "secondary": "#000000",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://cubuffs.com/documents/download/2022/1/28/colorado_boulder_art_sheet.pdf",
-      "usage_notes": "Colorado Athletics' official art sheet identifies the Buffalo/OU and CU marks among its primary marks, with Colorado Buffaloes, Colorado, Buffs and Ralphie wordmarks as additional identities. Use approved art only; university trademarks are subject to licensing and written approval."
+      "usage_notes": "Colorado Athletics' official art sheet (revision 01/11/21) explicitly groups the Buffalo/OU mark and CU mark under 'Primary Marks' (items 1–10). Colorado Buffaloes, Colorado, Buffs, Ralphie and related text treatments are listed separately under 'Word Marks'; Ralphie is not a substitute for the primary symbol. The sheet is a composite logo board, not a direct standalone asset. Athletics guide specifies Gold Pantone 4525 C, Black Process Black C, White and Gray Pantone 422 C; CU Boulder institutional digital gold #CFB87C should not be silently substituted for the athletics production spot-color specification. No direct standalone file captured."
     },
     "brand_source_url": "https://www.colorado.edu/brand/color",
     "verification_status": "partial",
-    "notes": "Colorado Athletics' official art sheet lists the Buffalo/OU and CU marks among its primary marks, with Colorado Buffaloes, Colorado, Buffs and Ralphie wordmarks. CU Boulder brand colors are CU Gold #CFB87C, Black #000000 and White #FFFFFF. Marks are controlled and use requires written approval through licensing."
+    "notes": "Current available official Athletics art sheet revision 01/11/21 places Buffalo/OU and CU marks in the Primary Marks section; wordmarks incl. Colorado, Buffs and Ralphie are separate. The sheet is composite reference art only; no standalone asset. Athletics colors: Gold PMS 4525 C, Black Process Black C, White, Gray PMS 422 C. Keep athletics print palette distinct from CU Boulder institutional digital gold #CFB87C; no HEX inferred."
   },
   {
     "school_id": "utah",
@@ -1828,12 +1828,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/utahutes.com/documents/2023/8/23/ATH_2023-24_Branding_Guide.pdf",
-      "usage_notes": "Utah Athletics' 2023–24 brand guide documents the Block U logo and official UTAH, UTES, UNIVERSITY OF UTAH and GO UTES wordmarks. The university also protects the interlocking U, circle-and-feather and related Utes marks; follow licensing and trademark approval requirements."
+      "logo_source_page": "https://utahutes.com/documents/download/2023/8/23/ATH_2023-24_Branding_Guide.pdf",
+      "usage_notes": "The official 2023–24 University of Utah Athletics Branding Guide explicitly labels the Interlocking UU as the PRIMARY MARK (pages 2–4) and Circle & Feather as SECONDARY MARK (pages 6–7). This corrects the assumption that Block U alone or Circle & Feather is the overall primary. Utah Red RGB 190,0,0 = #BE0000; White, Black and Grey RGB 115,114,113 = #737271 are listed in the guide. Primary and secondary marks are shown in PDF reference panels only; no direct standalone asset captured. Preserve exact interlocking UU construction and approved colors."
     },
     "brand_source_url": "https://utahutes.com/sports/2017/6/13/utah-athletics-branding",
     "verification_status": "partial",
-    "notes": "Utah Athletics' 2023–24 branding guide documents the Block U and official athletics wordmarks. Published guide values include Utah Red #BE0000 and Grey #737271; team colors are Red and White. University trademarks including the Block U and Circle-and-Feather require licensing approval."
+    "notes": "Hierarchy confirmed from official 2023–24 guide: Interlocking UU = PRIMARY MARK; Circle & Feather = SECONDARY MARK. Utah Red #BE0000 (RGB 190,0,0), White, Black, Grey #737271 (RGB 115,114,113). Composite PDF reference art only; no direct standalone asset captured."
   },
   {
     "school_id": "byu",
@@ -1845,63 +1845,63 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.byu.edu/logos",
-      "usage_notes": "BYU's official Y mark is the core athletics identity; use official university-provided artwork and approved color versions. BYU trademarks and logos are protected and require compliance with university licensing and brand-use requirements."
+      "logo_source_page": "https://byucougars.com/news/1999/08/16/byu-athletics-unveils-new-look-for-its-sports-programs",
+      "usage_notes": "BYU Athletics' official 1999 identity-system announcement says the athletics identity included the long-familiar Cougar and block Y, with primary marks spelling out 'Brigham Young University' and 'Cougars'; it does not establish one single isolated mark as the universal primary. The current BYU Brand Center publishes official logos and colors, but the publicly accessible logo page does not provide an explicit current athletics-only hierarchy in the material reviewed. The block Y is a prominent athletics tradition (including football helmet use), but do not assume it alone replaces the complete approved mark system. BYU Navy #002E5D and White #FFFFFF. No current standalone primary athletics asset captured; request official athletics artwork and hierarchy confirmation."
     },
     "brand_source_url": "https://brand.byu.edu/colors",
     "verification_status": "partial",
-    "notes": "BYU's official brand standards identify the BYU monogram/Y as a protected institutional mark and specify BYU Navy #002E5D and White #FFFFFF. Use official supplied artwork; do not recreate or alter the monogram. Athletics-specific asset access and licensing still require confirmation."
+    "notes": "BYU's official 1999 athletics identity announcement describes a system featuring Cougar and block Y symbols, with primary marks spelling out 'Brigham Young University' and 'Cougars'; it does not designate one single standalone universal primary. Current Brand Center has official logo files but public pages reviewed do not settle athletics-specific hierarchy. Block Y is a prominent mark/tradition but avoid declaring it the sole primary. Navy #002E5D, White #FFFFFF. No direct standalone primary asset captured."
   },
   {
     "school_id": "texas-state",
     "school_name": "Texas State",
     "colors": {
       "primary": "#501214",
-      "secondary": "#8D734A",
-      "accent": "#FFFFFF"
+      "secondary": "#AC9155",
+      "accent": "#D7BD8A"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://txst.com/sports/2010/7/29/GEN_0729105908.aspx?path=sp",
-      "usage_notes": "Texas State Athletics' historic primary identity used the Texas State typeface/logo, with the SuperCat as a key athletics mark; the TXST mark was introduced as an additional university identity in 2017. Official colors are Maroon (Pantone 504) and Metallic Gold (Pantone 872); use official logo-sheet artwork and comply with licensing requirements."
+      "logo_source_page": "https://txst.com/news/2009/8/12/081209aac_237.aspx",
+      "usage_notes": "Texas State Athletics' official 2009 primary-mark announcement states the Texas State lettering/typeface logo, paired with SuperCat to its right, is the primary athletics logo. It explicitly says the department was retaining the Texas State typeface as its primary athletics logo rather than using SuperCat alone. The 2025 official full logo sheet is linked by Athletics and serves as a current reference board, but not a direct standalone production asset. Official current university digital colors: Maroon #501214, Dark Gold #AC9155, Bright Gold #D7BD8A; white/black are neutrals. Historic athletics PMS 504 and PMS 872 correspond to the maroon/dark-gold print identity. Confirm with Athletics if the 2009 hierarchy has been formally superseded; the 2025 sheet itself is a composite and no standalone asset was captured."
     },
     "brand_source_url": "https://brand.txst.edu/visual-identity/colors.html",
     "verification_status": "partial",
-    "notes": "Texas State Athletics identifies the Bobcat as its official athletic mascot and Maroon and Metallic Gold as school colors. Current university brand guidance specifies Maroon #501214, Dark Gold #AC9155 and Bright Gold #D7BD8A; the existing accent #FFFFFF is retained as a neutral. The university's current TXST logo system is distinct from historic athletics marks. Direct athletics artwork has not been captured and visually inspected."
+    "notes": "Official Athletics announcement explicitly identifies Texas State lettering/typeface with SuperCat to the right as the primary athletics logo; SuperCat alone was discussed as possible future use, not declared primary. Current 2025 full logo sheet is reference board only. Official digital palette: Maroon #501214, Dark Gold #AC9155, Bright Gold #D7BD8A; black/white neutral. No standalone file captured; confirm whether 2009 hierarchy remains formally current."
   },
   {
     "school_id": "rice",
     "school_name": "Rice",
     "colors": {
       "primary": "#00205B",
-      "secondary": "#7C7E7F",
+      "secondary": "#C1C6C8",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://riceowls.com/sports/2018/7/17/ot-rice-licensing-html",
-      "usage_notes": "Rice Athletics maintains a distinct athletics identity system; the official athletics brand guide and licensing page direct users to Athletics for logo database access and usage guidance. The university Athenian Owl is complementary and must not be substituted for the primary athletics identity. No direct public athletics PNG/SVG was captured in this pass; commercial use requires licensing."
+      "logo_source_page": "https://riceowls.com/documents/download/2019/8/19/Rice_Athletics_Brand_Guide.pdf",
+      "usage_notes": "Rice Athletics' official 2019 Brand Guide explicitly labels the Old English R as the PRIMARY ATHLETICS MARK (pages 6–7). The owl head is a secondary athletics mark; the guide separately identifies a tertiary owl mark. The Athenian Owl from the university seal is not the athletics primary mark. Official athletics palette: Rice Blue Pantone 281 C / RGB 0,32,91 / #00205B; Gray Pantone 428 C / RGB 193,198,200 / #C1C6C8; white is an approved reverse/neutral. The guide shows primary mark artwork in PDF reference pages, but no direct standalone production file captured. The official Athletics licensing page directs users to request access to the logo database."
     },
     "brand_source_url": "https://brand.rice.edu/colors",
     "verification_status": "partial",
-    "notes": "Rice's current official brand palette specifies Rice University Blue #00205B and Rice University Gray #7C7E7F; white is an approved logo color. Rice Athletics logos are a distinct identity system. Official athletics logo database access is by request; no direct downloadable athletics asset was verified."
+    "notes": "Corrected identity hierarchy using official 2019 Athletics Brand Guide: Old English R = PRIMARY ATHLETICS MARK; owl head = secondary; another owl mark = tertiary. This supersedes assumptions that the owl itself is the primary mark. Athletics palette Rice Blue #00205B (PMS 281 C), Gray #C1C6C8 (PMS 428 C), White neutral. PDF reference artwork only; logo database access by request; no standalone asset captured."
   },
   {
     "school_id": "utsa",
     "school_name": "UTSA",
     "colors": {
-      "primary": "#0C2340",
-      "secondary": "#F15A22",
+      "primary": "#0B2240",
+      "secondary": "#E14504",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
-      "usage_notes": "UTSA Athletics identifies the Roadrunner head as its primary logo mark and provides a comprehensive brand/style guide and art-sheet route. The guide restricts use in uniforms, merchandise and venues without prior approval. The official art sheet is the proper route to approved production artwork; no direct downloadable PNG/SVG was captured in this pass."
+      "logo_source_page": "https://goutsa.com/documents/2023/2/8/utsa-athletics-branding-guide.pdf",
+      "usage_notes": "UTSA Athletics' official 2022 Branding Guidelines explicitly identify the Roadrunner head as the PRIMARY LOGO MARK (pages 3–4). The primary word mark is a separate approved identifier; the guide requires the primary logo architecture and white keyline, and prohibits combining the primary mark with another font/logotype. Secondary logo marks and sport-specific uses are separately controlled. The guide specifies UTSA Blue Pantone 289 C / RGB 11,34,64 / #0B2240 and UTSA Orange Pantone 1665 C / RGB 225,69,4 / #E14504; this corrects older generic values #0C2340/#F15A22. Primary mark is visible in PDF reference artwork but no direct standalone asset captured."
     },
     "brand_source_url": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
     "verification_status": "partial",
-    "notes": "UTSA Athletics' official identity guide documents the Roadrunner primary mark and controlled use. UTSA legacy athletics colors are Midnight Blue #0C2340 and Orange #F15A22, with white as a support/reverse color. Current UT San Antonio university-wide rebrand does not itself replace the distinct Roadrunners athletics identity."
+    "notes": "Primary hierarchy confirmed: Roadrunner head is explicitly PRIMARY LOGO MARK in official Athletics guide. Primary word mark is separately defined; secondary logo marks distinct. Corrected palette to guide's exact values: UTSA Blue #0B2240 (PMS 289 C, RGB 11,34,64) and Orange #E14504 (PMS 1665 C, RGB 225,69,4), White neutral. Composite guide only; no standalone asset captured."
   },
   {
     "school_id": "texas-tech",
