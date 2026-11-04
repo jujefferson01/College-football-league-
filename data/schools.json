@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "boston-college",
+    "name": "Boston College",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "buffalo",
+    "name": "Buffalo",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "army",
+    "name": "Army",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "navy",
+    "name": "Navy",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "syracuse",
+    "name": "Syracuse",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "temple",
+    "name": "Temple",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "rutgers",
+    "name": "Rutgers",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "penn-state",
+    "name": "Penn State",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh",
+    "name": "Pittsburgh",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "uconn",
+    "name": "UConn",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "delaware",
+    "name": "Delaware",
+    "conference_id": "northeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "maryland",
+    "name": "Maryland",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "virginia",
+    "name": "Virginia",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "virginia-tech",
+    "name": "Virginia Tech",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "west-virginia",
+    "name": "West Virginia",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "james-madison",
+    "name": "James Madison",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "old-dominion",
+    "name": "Old Dominion",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "liberty",
+    "name": "Liberty",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "marshall",
+    "name": "Marshall",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "duke",
+    "name": "Duke",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "north-carolina",
+    "name": "North Carolina",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "nc-state",
+    "name": "NC State",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "wake-forest",
+    "name": "Wake Forest",
+    "conference_id": "mid-atlantic",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "michigan",
+    "name": "Michigan",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "michigan-state",
+    "name": "Michigan State",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ohio-state",
+    "name": "Ohio State",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "notre-dame",
+    "name": "Notre Dame",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "indiana",
+    "name": "Indiana",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "purdue",
+    "name": "Purdue",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "illinois",
+    "name": "Illinois",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "central-michigan",
+    "name": "Central Michigan",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "eastern-michigan",
+    "name": "Eastern Michigan",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "western-michigan",
+    "name": "Western Michigan",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "toledo",
+    "name": "Toledo",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ball-state",
+    "name": "Ball State",
+    "conference_id": "great-lakes",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "cincinnati",
+    "name": "Cincinnati",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "louisville",
+    "name": "Louisville",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "kentucky",
+    "name": "Kentucky",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ohio",
+    "name": "Ohio",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "miami",
+    "name": "Miami (OH)",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "bowling-green",
+    "name": "Bowling Green",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "akron",
+    "name": "Akron",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "kent-state",
+    "name": "Kent State",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "western-kentucky",
+    "name": "Western Kentucky",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "umass",
+    "name": "UMass",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "middle-tennessee",
+    "name": "Middle Tennessee",
+    "conference_id": "ohio-valley",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "alabama",
+    "name": "Alabama",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "auburn",
+    "name": "Auburn",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "georgia",
+    "name": "Georgia",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "georgia-tech",
+    "name": "Georgia Tech",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "florida",
+    "name": "Florida",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "florida-state",
+    "name": "Florida State",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "miami",
+    "name": "Miami (FL)",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "clemson",
+    "name": "Clemson",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "south-carolina",
+    "name": "South Carolina",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "tennessee",
+    "name": "Tennessee",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "vanderbilt",
+    "name": "Vanderbilt",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ucf",
+    "name": "UCF",
+    "conference_id": "southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "florida-atlantic",
+    "name": "Florida Atlantic",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "south-florida",
+    "name": "South Florida",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "fiu",
+    "name": "FIU",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "coastal-carolina",
+    "name": "Coastal Carolina",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "charlotte",
+    "name": "Charlotte",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "appalachian-state",
+    "name": "Appalachian State",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "east-carolina",
+    "name": "East Carolina",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "georgia-southern",
+    "name": "Georgia Southern",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "georgia-state",
+    "name": "Georgia State",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "kennesaw-state",
+    "name": "Kennesaw State",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "jacksonville-state",
+    "name": "Jacksonville State",
+    "conference_id": "atlantic-southeast",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "lsu",
+    "name": "LSU",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "arkansas",
+    "name": "Arkansas",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ole-miss",
+    "name": "Ole Miss",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "mississippi-state",
+    "name": "Mississippi State",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "southern-miss",
+    "name": "Southern Miss",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "tulane",
+    "name": "Tulane",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "louisiana",
+    "name": "Louisiana",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "louisiana-tech",
+    "name": "Louisiana Tech",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "louisiana-monroe",
+    "name": "Louisiana-Monroe",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "arkansas-state",
+    "name": "Arkansas State",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "south-alabama",
+    "name": "South Alabama",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "troy",
+    "name": "Troy",
+    "conference_id": "gulf-south",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "texas",
+    "name": "Texas",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "texas-aandm",
+    "name": "Texas A&M",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "baylor",
+    "name": "Baylor",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "tcu",
+    "name": "TCU",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "smu",
+    "name": "SMU",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "houston",
+    "name": "Houston",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "oklahoma",
+    "name": "Oklahoma",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "oklahoma-state",
+    "name": "Oklahoma State",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "tulsa",
+    "name": "Tulsa",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "kansas",
+    "name": "Kansas",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "kansas-state",
+    "name": "Kansas State",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "missouri-state",
+    "name": "Missouri State",
+    "conference_id": "texas",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "iowa",
+    "name": "Iowa",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "iowa-state",
+    "name": "Iowa State",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "nebraska",
+    "name": "Nebraska",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "missouri",
+    "name": "Missouri",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "north-dakota-state",
+    "name": "North Dakota State",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "northern-illinois",
+    "name": "Northern Illinois",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "memphis",
+    "name": "Memphis",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "uab",
+    "name": "UAB",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "minnesota",
+    "name": "Minnesota",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "wisconsin",
+    "name": "Wisconsin",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "northwestern",
+    "name": "Northwestern",
+    "conference_id": "midwest-plains",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "arizona",
+    "name": "Arizona",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "arizona-state",
+    "name": "Arizona State",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "colorado",
+    "name": "Colorado",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "utah",
+    "name": "Utah",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "byu",
+    "name": "BYU",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "texas-state",
+    "name": "Texas State",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "utsa",
+    "name": "UTSA",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "texas-tech",
+    "name": "Texas Tech",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "north-texas",
+    "name": "North Texas",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "sam-houston",
+    "name": "Sam Houston",
+    "conference_id": "southwest",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "boise-state",
+    "name": "Boise State",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "utah-state",
+    "name": "Utah State",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "nevada",
+    "name": "Nevada",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "unlv",
+    "name": "UNLV",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "san-jose-state",
+    "name": "San Jose State",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "colorado-state",
+    "name": "Colorado State",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "wyoming",
+    "name": "Wyoming",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "air-force",
+    "name": "Air Force",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "new-mexico",
+    "name": "New Mexico",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "new-mexico-state",
+    "name": "New Mexico State",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "utep",
+    "name": "UTEP",
+    "conference_id": "mountain-west",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "oregon",
+    "name": "Oregon",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "washington",
+    "name": "Washington",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "usc",
+    "name": "USC",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "ucla",
+    "name": "UCLA",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "california",
+    "name": "California",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "oregon-state",
+    "name": "Oregon State",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "washington-state",
+    "name": "Washington State",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "sacramento-state",
+    "name": "Sacramento State",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "hawaii",
+    "name": "Hawaii",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "fresno-state",
+    "name": "Fresno State",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  },
+  {
+    "id": "san-diego-state",
+    "name": "San Diego State",
+    "conference_id": "pacific",
+    "verification_status": "verified",
+    "sources": [
+      {
+        "url": "https://web3.ncaa.org/directory/memberList?division=I-FBS&sportCode=MFB&type=12",
+        "checked_on": "2026-11-04",
+        "note": "NCAA Division I-FBS football institutions directory; cross-checked against the 2026 FBS inventory."
+      },
+      {
+        "url": "https://fueledbysports.com/list-of-college-football-teams-in-alphabetical-order/",
+        "checked_on": "2026-11-04",
+        "note": "2026 FBS inventory updated September 8, 2026; used for the 138-school set comparison."
+      }
+    ]
+  }
+]
