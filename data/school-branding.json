@@ -1301,12 +1301,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.latech.edu/identity-standards/logos-and-wordmarks/",
-      "usage_notes": "Louisiana Tech's official identity standards provide university logos and wordmarks. Athletics marks are distinct and should be obtained from Louisiana Tech Athletics; use approved artwork without modification and follow trademark/licensing requirements."
+      "logo_source_page": "https://brand.latech.edu/identity-standards/athletic-logos/",
+      "usage_notes": "Louisiana Tech's official brand standards distinguish institutional marks (including State-and-T) from specially designed athletics marks used only to identify/promote Athletics and its teams. The official Athletic Logos page displays an LA Tech Athletics mark and a separate Lady Techsters mark; the university's official request form separately identifies a 'Primary athletics logo' and 'Bulldog head logo' as distinct request categories. However, the public page's embedded graphic is low-resolution and the actual athletics artwork could not be captured as a standalone production file; do not substitute the institutional State-and-T or Bulldog-head academic mark without confirming approved athletics primary artwork. Official Tech colors are PMS 287 Blue and PMS 1797 Red; exact HEX not extracted in this pass."
     },
     "brand_source_url": "https://brand.latech.edu/licensing/internal-logo-usage/",
     "verification_status": "partial",
-    "notes": "Louisiana Tech official brand standards specify PMS 287 Blue and PMS 1797 Red. Official guidance documents the Louisiana Tech and Bulldog head marks and prohibits alteration. Exact HEX values were not extracted from the source and remain null."
+    "notes": "Clarified distinction between institutional State-and-T/Bulldog-head assets and athletics-only logo family. Official Athletics page identifies LA Tech Athletics and Lady Techsters marks; logo request form distinguishes Primary athletics logo from Bulldog head. Current primary asset hierarchy needs direct approved file confirmation; no standalone file captured. Official colors PMS 287 Blue and PMS 1797 Red, HEX not entered without direct extraction. Licensed use restricted."
   },
   {
     "school_id": "louisiana-monroe",
@@ -1318,12 +1318,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://ulmwarhawks.com/sports/2018/7/2/ulm-athletics-branding",
-      "usage_notes": "ULM Athletics' official branding resources govern Warhawks athletics marks and wordmarks. The Warhawk head is the athletics identity; follow official logo usage, color and trademark requirements and obtain approved original artwork."
+      "logo_source_page": "https://ulmapps.ulm.edu/policies/sites/policies/files/policy_uploads/ULM%20Brand%20Guide%202025%20-%202026%20August%2025%2C%202025.pdf",
+      "usage_notes": "The current 2025–26 ULM Brand Guide explicitly identifies the custom ULM athletics logo—maroon U and M with a gold outline and a stylized Warhawk head/vertical center element—as the primary athletics logo and primary visual identifier (PDF pages 55–57). 'Warhawks' lettering is secondary; tertiary Warhawk-head/feather, state, and other symbols must not replace the primary. The primary mark was visually inspected in the official guide, but only within PDF reference art, not as a direct standalone asset. Primary colors Warhawk Maroon #840029 and Heritage Gold #FDB913; neutrals include Dark Grey #646469. Reproduction requires approval from ULM Marketing & Communications."
     },
     "brand_source_url": "https://ulmapps.ulm.edu/policies/sites/policies/files/policy_uploads/ULM%20Brand%20Guide%202025%20October%2013%2C%202025.pdf",
     "verification_status": "partial",
-    "notes": "ULM official brand standards identify Warhawk Maroon #840029 and Heritage Gold #FDB913 as primary colors, with Dark Grey #646469 among secondary colors. The 2025–26 guide confirms the updated P-40-inspired Warhawk identity and primary athletics logo."
+    "notes": "Updated to 2025–26 brand guide: custom ULM monogram with central Warhawk head is the primary athletics logo; Warhawks wordmark is secondary. Tertiary Warhawk head/feather and state marks are not the primary. PDF visual inspected; no standalone asset captured. Warhawk Maroon #840029, Heritage Gold #FDB913, Dark Grey #646469. Reproduction requires ULM approval."
   },
   {
     "school_id": "arkansas-state",
@@ -1336,28 +1336,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://astateredwolves.com/sports/2019/10/1/204572.aspx",
-      "usage_notes": "Arkansas State Athletics' official logo resources document the Red Wolves identity and approved athletics marks. Use official approved artwork without alteration and follow A-State trademark licensing requirements for external/commercial use."
+      "usage_notes": "Arkansas State's official older mark standards describe the STATE Red Wolf Mark as a composite of the Red Wolf Head and STATE logo; the Red Wolf Head is the core athletics visual, and a Red Wolves wordmark may be added in the specified custom typeface. The same document distinguishes the institutional University Logo (STATE + University wordmark) from athletics marks. However, the document carries an old effective-date header (1991) and the current athletics branding portal does not expose a clearly current standalone primary file in this pass. Treat hierarchy as historical guidance pending current Athletics confirmation. No direct standalone asset or current official HEX/Pantone values captured; school colors are described as Maroon and Gold."
     },
     "brand_source_url": "https://astateredwolves.com/sports/2021/7/21/reference-guides.aspx?path=football",
     "verification_status": "partial",
-    "notes": "Official Arkansas State Athletics reference guides and licensing page confirm the Red Wolves identity and controlled trademark use. Official school color descriptions identify Maroon and Gold, but current exact HEX/Pantone specifications were not established in the official sources; values remain null."
+    "notes": "Important distinction: athletics Red Wolf/STATE composite is separate from the institutional STATE + Arkansas State University logo. Older official standards describe Red Wolf Head as core athletics visual and STATE Red Wolf as composite, but file header shows 1991; current approved primary hierarchy and artwork need confirmation. No direct asset or current official color codes captured; Maroon and Gold only documented as descriptions."
   },
   {
     "school_id": "south-alabama",
     "school_name": "South Alabama",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#BF0D3E",
+      "secondary": "#00205B",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://usajaguars.com/sports/2018/7/2/athletics-branding",
-      "usage_notes": "South Alabama Athletics' official branding resources document the Jaguars athletics marks and wordmarks. Use approved official artwork and color treatments; marks are protected and external/commercial use is subject to trademark licensing approval."
+      "logo_source_page": "https://vasclab.usouthal.edu/departments/publicrelations/brand/resources/usa-brand-guidelines.pdf",
+      "usage_notes": "The official October 2024 University of South Alabama Brand Guidelines (Version 3.0) identify the Jag Head as primarily an athletics mark and provide a dedicated Athletic Logo section with Jaguar head + SOUTH ALABAMA JAGUARS lockups in approved red/navy/white treatments (PDF page 46). The Jag Head is not a substitute for the academic USA logo. The athletics lockups appear as composite PDF reference artwork, not a direct standalone production file; no asset captured. Official primary colors USA Red #BF0D3E, USA Blue #00205B and White #FFFFFF. Athletics mark use is controlled by the Department of Athletics."
     },
     "brand_source_url": "https://usajaguars.com/sports/2010/6/30/GEN_0630101424",
     "verification_status": "partial",
-    "notes": "Official South Alabama sources document Red, White and Blue as the university's official colors and the stylized Jaguar profile as the athletics mark. Historical sources note earlier black-and-gold use; that is not the current official palette. Exact current HEX values were not established."
+    "notes": "Updated to current October 2024 Brand Guidelines: Jaguar head is primarily an athletics mark; dedicated Athletic Logo page shows Jaguar head + SOUTH ALABAMA JAGUARS lockups. Do not substitute it for academic USA logo. PDF visual board only; no direct standalone file captured. Official primary palette USA Red #BF0D3E, USA Blue #00205B, White #FFFFFF. Athletics marks only under Department of Athletics approval."
   },
   {
     "school_id": "troy",
@@ -1370,11 +1370,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
-      "usage_notes": "Troy Athletics' official brand guidelines document the Trojan head, T-mark and approved wordmarks. The 2024 guide governs correct color and reproduction; do not distort, recolor or alter marks. Official colors include Cardinal #862633, Silver #B1B1B1 and Black #000000."
+      "usage_notes": "Troy Athletics' official 2023–24 Brand Guidelines explicitly label POWER T CARDINAL as PRIMARY (PDF page 1) and POWER T BLACK as secondary (page 2). Trojan head is not the primary logo in this guide; wordmarks, OneTROY and sport-specific versions are separate approved marks. The Power T primary mark is visible in the guide but only within the PDF reference pages; no direct standalone production file captured. Official colors Cardinal #862633, Silver #B1B1B1, Process Black #000000 and White #FFFFFF. Use correct school colors, protected clear space and no stretching/recoloring."
     },
     "brand_source_url": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
     "verification_status": "partial",
-    "notes": "Official Troy Brand Guidelines list Maroon (PMS 202 / HTML 862633), Light Gray (Cool Gray 5 / HTML B1B1B1), Process Black (#000000) and White (#FFFFFF). Maroon, gray and black are recorded here as primary/secondary/accent; white is an approved additional neutral."
+    "notes": "Primary mark explicitly designated as Power T Cardinal in official 2023–24 Troy Athletics Brand Guidelines; Power T Black is secondary. Trojan head is not the primary mark. Wordmarks, OneTROY and sport-specific marks are separate. Guide visual inspected, no standalone asset captured. Colors Cardinal #862633, Silver #B1B1B1, Black #000000, White #FFFFFF. Preserve clear space and do not distort."
   },
   {
     "school_id": "texas",
@@ -1387,11 +1387,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://texaslonghorns.com/sports/2013/7/28/GEN_0728134456",
-      "usage_notes": "Texas Athletics' official identity resources govern the Longhorn silhouette and wordmarks. The Longhorn is the primary athletics symbol; use exact approved artwork and official burnt-orange/white color treatments. University trademarks are protected and external/commercial use requires licensing approval."
+      "usage_notes": "Texas Athletics' official identity resources identify the Longhorn silhouette as the signature/primary athletics symbol; the Bevo mascot and Hook 'Em hand sign are distinct spirit/mascot assets, not substitutes. Texas Athletics sources confirm the Longhorn silhouette is a protected trademark and non-athletics groups may not use it for promotion. The official guide page was inaccessible in this pass and no direct standalone current artwork was captured. Official palette Burnt Orange #BF5700 and White #FFFFFF; external use requires approval/licensing."
     },
     "brand_source_url": "https://longhorns.texassports.com/styleguide/styleguide.htm",
     "verification_status": "partial",
-    "notes": "Texas Athletics style guide specifies Burnt Orange #BF5700 and White. Official athletics mark assets and usage restrictions are governed by Texas Athletics."
+    "notes": "Longhorn silhouette is the primary athletics identifier; Bevo and Hook 'Em are mascot/spirit assets, not replacements. Official Texas Athletics compliance page confirms the Longhorn silhouette is a protected trademark and use is restricted. Brand guide inaccessible; no standalone asset captured. Burnt Orange #BF5700 and White #FFFFFF."
   },
   {
     "school_id": "texas-aandm",
