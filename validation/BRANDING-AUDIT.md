@@ -30,11 +30,11 @@ Public availability, historical status, or archive preservation does not itself 
 
 - Schools in roster: 138
 - Branding records: 138
-- Fully asset-verified: 2
-- Partial: 136
+- Fully asset-verified: 4
+- Partial: 134
 - Missing branding records: 0
 
-The verified Navy record has an official N-Star PNG that was opened and visually inspected. Boston College was added to the verified set during the first asset-audit batch: its official primary Eagles WebP was captured and visually inspected. Buffalo has an official direct PNG captured but remains partial pending confirmation that the spirit-mark variant is the preferred primary simulator identity. The remaining records are not verified until the full checks above are complete.
+The verified Navy record has an official N-Star PNG that was opened and visually inspected. Boston College was added to the verified set during the first asset-audit batch: its official primary Eagles WebP was captured and visually inspected. Pittsburgh and Maryland were added in asset-audit batch 2 after their official primary athletics mark files were opened and visually inspected. Buffalo has an official direct PNG captured but remains partial pending confirmation that the spirit-mark variant is the preferred primary simulator identity. The remaining records are not verified until the full checks above are complete.
 
 ## Southwest — batch 2
 
@@ -151,3 +151,20 @@ The first six outstanding records in the master branding list were reviewed for 
 | Penn State | Partial | [Penn State Brand Book](https://brand.psu.edu/visual-identity-standards/other-university) displays the Primary Athletics Mark and distinguishes it from the institutional shield. The official guideline-board image was opened and visually inspected, but is not a clean standalone artwork file. Third-party use requires Licensing Programs approval. |
 
 **Batch outcome:** 1 newly verified asset (Boston College); 5 remain partial. Army's Athena Shield image endpoint needs a working official file route; Syracuse needs current-mark confirmation; Temple's Owl designation must remain distinct from the institutional Temple T; Rutgers and Penn State still need clean standalone athletics artwork. No unverified preview image was promoted to a production asset.
+
+
+## Primary logo asset audit — batch 2
+
+The next six outstanding records were reviewed against official athletics and brand sources. Two direct primary athletics assets were captured and visually inspected; four records remain partial.
+
+| School | Result | Evidence and remaining work |
+|---|---|---|
+| Pittsburgh | **Verified** | [Official Pitt Script page](https://www.brand.pitt.edu/brand-elements/marks/pitt-script) identifies Pitt Script as the official logo of Pitt Athletics teams. The linked [official PNG](https://www.brand.pitt.edu/sites/default/files/inline-images/Pitt_spirit_mark_0.png) opened and was visually inspected. Only approved two-color, reverse white, and single-color versions may be used; no alterations or combinations. |
+| UConn | Partial | [Official Husky Dog logo guide](https://brand.uconn.edu/visual-identity/husky-dog-logo/) and [2025 Quick Brand Guide](https://brand.uconn.edu/wp-content/uploads/sites/14/2025/05/uconn-quick-brand-guide.pdf) identify the Husky Dog as the official Division I sports logo. The downloads area is restricted; no direct artwork was retrieved. The institutional UConn wordmark is not an athletics substitute. |
+| Delaware | Partial | [Delaware Athletics logo usage page](https://bluehens.com/news/2013/8/28/209242576) confirms a distinct primary athletics mark and wordmark and provides official colors. The linked image handler timed out; approved artwork must be requested from Athletics Communications or Trademarks and Licensing. |
+| Maryland | **Verified** | [Maryland Athletics Brand Guidelines](https://umterps.com/sports/2024/10/10/maryland-athletics-brand-guidelines) identify the M-Bar as the primary athletics mark and link to the official [MBar White JPG](https://static.umterps.com/custompages/brand_guide/MBar_White.jpg), which opened and was visually inspected. Script Terps is football-specific for external-facing use; M-Bar remains the general primary mark. |
+| Virginia | Partial | [Virginia Athletics identity page](https://brand.virginia.edu/design-assets/athletics) explicitly identifies the V-Sabre as primary and Cavalier Shield as secondary. The official V-Sabre image opened and was visually inspected, but it is a square preview tile rather than a clean standalone production asset; no primary asset URL was assigned. |
+| Virginia Tech | Partial | [Virginia Tech trademark guidance](https://brand.vt.edu/licensing/university-trademarks.html) confirms athletics logos are protected and each use requires Licensing and Trademarks approval. The official athletics image panel was opened and visually inspected, but it is a composite reference panel rather than a standalone football mark. Do not substitute the university VT lockup or HokieBird without confirming the approved athletics mark. |
+
+**Batch outcome:** Pittsburgh and Maryland are newly asset-verified. UConn's Husky artwork remains behind a restricted download path; Delaware's official preview failed to load; Virginia's preview is not a clean production asset; Virginia Tech's official panel does not isolate the primary football mark. None of those four was promoted to verified status.
+
