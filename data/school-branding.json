@@ -2253,63 +2253,63 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://osubeavers.com/sports/2008/6/16/207829988",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "logo_source_page": "https://communications.oregonstate.edu/trademark-licensing/guidelines/beaver-logo",
+      "usage_notes": "Oregon State University identifies the Beaver logo as the primary mark for Athletics and retail. The OS logo is a secondary mark restricted to fields of play and retail and is not for media use. No direct asset file was captured and visually inspected in this pass."
     },
-    "brand_source_url": "https://osubeavers.com/sports/2008/6/16/207829988",
+    "brand_source_url": "https://communications.oregonstate.edu/brand-guide/colors",
     "verification_status": "partial",
-    "notes": "Oregon State Athletics identifies the Beaver logo as its primary athletics mark; the OS logo is secondary and restricted to fields of play and retail. Orange and black are the school identity colors; exact current HEX palette should be reconfirmed against a current brand guide."
+    "notes": "Official Oregon State palette: Beaver Orange #D73F09, Paddletail Black #000000 and Bucktooth White #FFFFFF. Beaver logo is the primary athletics mark; OS logo is secondary and restricted to fields of play and retail. Do not alter marks; licensing rules apply."
   },
   {
     "school_id": "washington-state",
     "school_name": "Washington State",
     "colors": {
-      "primary": "#981E32",
-      "secondary": "#5E6A71",
+      "primary": "#A60F2D",
+      "secondary": "#4D4D4D",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://trademarks.wsu.edu/university-marks/",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "usage_notes": "WSU's trademark page displays the Cougar head and script Cougars marks. WSU's current brand color page specifies Crimson #A60F2D, Gray #4D4D4D, and White #FFFFFF; Cougar marks remain protected. No direct logo file was captured and visually inspected in this pass."
     },
-    "brand_source_url": "https://trademarks.wsu.edu/university-marks/",
+    "brand_source_url": "https://brand.wsu.edu/colors/",
     "verification_status": "partial",
-    "notes": "WSU trademark page identifies Crimson (Pantone 201) and Dark Gray (Pantone 7540) as primary, with red, black and white in the protected mark palette. HEX conversions not supplied on this page; values here are provisional digital references, not source-confirmed HEX."
+    "notes": "Current WSU core palette specifies Crimson #A60F2D (Pantone 201 C), Gray #4D4D4D (Pantone 7540 C), and White #FFFFFF. The trademark page identifies Cougar head and script Cougars marks and notes that retro/historic marks remain protected. Do not treat the older campaign crimson #981E32 / gray #5E6A71 values as the current core digital palette."
   },
   {
     "school_id": "sacramento-state",
     "school_name": "Sacramento State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#004E38",
+      "secondary": "#C6BC89",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.csus.edu/brand/essentials.html",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "logo_source_page": "https://www.csus.edu/brand/logos-logotypes.html",
+      "usage_notes": "Sacramento State's Brand Center provides official university logo/logotype downloads and states that third-party use requires prior permission from University Marketing; merchandise also requires trademark licensing approval. No direct athletics mark asset was captured and visually inspected in this pass."
     },
-    "brand_source_url": "https://www.csus.edu/brand/essentials.html",
+    "brand_source_url": "https://www.csus.edu/information-resources-technology/web-mobile/_internal/_documents/3-26-2026_rem_identitystyle-guide.pdf",
     "verification_status": "partial",
-    "notes": "Sacramento State official brand center confirms Sac State Green and Sac State Gold as primary colors and provides official primary-logo downloads. Exact HEX values were not captured from the accessible source page; intentionally left null pending extraction from the style guide."
+    "notes": "Sacramento State's current Identity Style Guide specifies Sac State Green #004E38 and Sac State Gold #C6BC89 as primary colors. These are university identity values; confirm athletics-specific application before treating a campus logo as an athletics primary mark. University marks are protected and third-party use requires permission."
   },
   {
     "school_id": "hawaii",
     "school_name": "Hawaii",
     "colors": {
       "primary": "#024731",
-      "secondary": "#000000",
+      "secondary": "#009A44",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://manoa.hawaii.edu/brand/brand-elements/typography-colors.php",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "logo_source_page": "https://manoa.hawaii.edu/brand/brand-elements/promotional-items.php",
+      "usage_notes": "UH Mānoa brand guidance identifies the H logo and related athletics marks as the UH Mānoa Athletics identity; internal or promotional use requires Athletics approval. University graphics standards treat athletics as an alternate identity mark governed by the relevant unit and licensing rules. No direct athletics asset was captured and visually inspected."
     },
     "brand_source_url": "https://manoa.hawaii.edu/brand/brand-elements/typography-colors.php",
     "verification_status": "partial",
-    "notes": "UH Mānoa brand guide specifies Mānoa Green #024731 as primary and Kelly Green #009A44 as secondary. University materials identify athletics colors as green, white, black and silver; use the athletics H marks only with Athletics approval."
+    "notes": "UH Mānoa specifies Mānoa Green #024731 as primary and Kelly Green #009A44 as secondary. The H logo represents UH Mānoa's intercollegiate teams; Athletics approval is required for internal or promotional use. Do not substitute the university seal for the athletics mark."
   },
   {
     "school_id": "fresno-state",
@@ -2321,28 +2321,28 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://marcomm.fresnostate.edu/color.html",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "logo_source_page": "https://marcomm.fresnostate.edu/official-logo.html",
+      "usage_notes": "Fresno State identifies the four-paw Bulldog as the primary athletics logo; it must face left except on a Fresno State football helmet. The Bulldog Face is secondary, and Bulldogs Script is restricted to Athletics and select licensed merchandise. Athletics logo use requires advance approval. No direct asset was captured and visually inspected."
     },
     "brand_source_url": "https://marcomm.fresnostate.edu/color.html",
     "verification_status": "partial",
-    "notes": "Fresno State official brand guide specifies Cardinal Red #C41230 and Blue #13284C as primary colors, with Cool Gray #CED1D4 and White #FFFFFF. The four-paw Bulldog is the primary athletics mark; use requires approval."
+    "notes": "Fresno State's official digital palette specifies Cardinal Red #C41230 and Blue #13284C as primary, with Cool Gray #CED1D4 and White #FFFFFF as supporting colors. The four-paw Bulldog is the primary athletics mark; Bulldog Face is secondary, and Bulldogs Script is Athletics-restricted. Approval is required."
   },
   {
     "school_id": "san-diego-state",
     "school_name": "San Diego State",
     "colors": {
-      "primary": "#C41230",
+      "primary": "#D41736",
       "secondary": "#000000",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://goaztecs.com/news/2013/05/02/sdsu-unveils-brand-refresh-and-new-football-uniforms",
-      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
+      "logo_source_page": "https://brand.sdsu.edu/identity/logos/athletics",
+      "usage_notes": "SDSU publishes a dedicated Athletics logo/logotype for athletics-only use, distinct from the university's primary institutional logo and Presidential Seal. Athletics marks are exclusive to the Athletics Department; permission and licensing inquiries must go through SDSU. No direct asset was captured and visually inspected in this pass."
     },
-    "brand_source_url": "https://goaztecs.com/news/2013/05/02/sdsu-unveils-brand-refresh-and-new-football-uniforms",
+    "brand_source_url": "https://brand.sdsu.edu/identity/design-elements/colors",
     "verification_status": "partial",
-    "notes": "SDSU Athletics identifies Scarlet and Black as school colors and the interlocking SD spear as the main athletic mark. A 2025 identity expansion introduced glyphs with cultural consultation; confirm exact current color specifications and mark usage with Athletics."
+    "notes": "SDSU's current brand palette specifies Bright Red #D41736 and Black #000000 as primary, with Dark Red #A6192E and Charcoal #2D2828 also primary; white is a supporting neutral. Use the dedicated SDSU Athletics logo for sports identity, not the institutional logo or Presidential Seal. Athletics marks are restricted to the Athletics Department."
   }
 ]
