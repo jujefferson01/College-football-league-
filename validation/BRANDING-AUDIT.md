@@ -63,6 +63,21 @@ The following six records were refreshed in `data/school-branding.json`. Officia
 
 No direct primary-mark asset URL was added for this batch. Current/historical mark distinctions and the licensing notes are preserved; the six records remain partial until actual files are captured, opened and visually checked.
 
+
+## Mountain West — batch 1
+
+The first five Mountain West records were refreshed in `data/school-branding.json`. Official identity sources and color references were checked. All five remain **partial** because this pass did not capture and visually inspect a direct PNG/SVG asset.
+
+| School | Official source(s) | Findings |
+|---|---|---|
+| Boise State | [2026 Athletics Brand Standards](https://broncosports.com/documents/download/2026/4/16/Boise_State_Athletics_Brand_Standards_RGB_2026.pdf) and [Logo standards](https://www.boisestate.edu/brand/visual-identity/logos/) | Bronco head is the athletics mark; the university B is for academic use. The April 2026 guide explicitly disallows vintage marks and prescribes exact logo treatments. |
+| Utah State | [Utah State Athletics Visual Identity Guide](https://www.usu.edu/brand/standards/logos/sub-brands/files/USU_Athletics_VIG.pdf) | Confirms Aggie Blue `#00263A`, Silver `#8A8D8F` and White `#FFFFFF`. This school-specific athletics guide takes precedence over conference-level palette summaries. |
+| Nevada | [Nevada Athletics 2023 identity guide](https://nevadawolfpack.com/documents/2024/9/25/Nevada-Branding-Identity-2023-071323-PRINT.pdf) and [2026 University brand announcement](https://nevadawolfpack.com/news/2026/10/20/general-university-of-nevada-celebrates-wolf-pack-fieldhouse-opening-and-unveils-new-institutional-brand-during-2026-state-of-the-university.aspx) | The university unveiled a new unified identity on October 20, 2026, including the Interlocked mark and Nevada Wolf spirit logo. The 2023 athletics guide remains a historical/current-athletics reference only until athletics adoption and new color specifications are confirmed. |
+| UNLV | [UNLV visual guide](https://www.unlv.edu/brand/visual-guide) and [Graphic standards policy](https://www.unlv.edu/policies/unlv-graphic-standards-including-logos-and-trademarks) | Official colors are Scarlet and Gray (PMS 186 and PMS 423). The university monogram is distinct from athletics/Hey Reb! marks. Protected marks cannot be modified; third-party use requires licensing/contract approval. |
+| San José State | [Official university marks](https://gcp-web.sjsu.edu/communications/brand/visual-style/university-marks/index.php) and [SJSU Brand Style Guide](https://www.sjsu.edu/communications/brand/) | Since September 2018, the university spirit mark and Athletics Spartan helmet have been merged into one Spartan Spirit mark. Primary digital colors: Blue `#0055A2`, Gold `#E5A823`; Gray `#939597` is also documented. |
+
+**Important identity note:** Nevada's October 2026 brand launch is a recent change. The database records that change explicitly rather than silently treating the 2023 Wolf Pack guide as the new university-wide identity. Direct athletics logo files still need capture and visual inspection for all five schools.
+
 ## Next steps
 
 1. Continue with the next Southwest batch.
