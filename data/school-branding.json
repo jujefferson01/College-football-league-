@@ -1607,29 +1607,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://cyclones.com/news/2017/9/28/football-iowa-state-debuts-new-cyclone-mark-on-helmet-tonight",
-      "usage_notes": "The I-State mark remains Iowa State Athletics' primary mark; the Cyclone nickname logo and Cy mascot mark are additional identities. Preserve official artwork and follow university trademark/licensing requirements."
+      "logo_source_page": "https://marcom.iastate.edu/wordmarks-and-logos",
+      "usage_notes": "Iowa State's current official University Marketing page explicitly says both the I-State mark and Cyclone marks are the primary marks representing the athletic brand. Punching Cy is a secondary mark and must be used with another identifying Iowa State trademark. The academic Iowa State University wordmark is separate and must not be substituted for or combined with the athletics marks. The current affiliated athletics snapshot specifies Cyclone Cardinal #A61932 (Pantone 187 C), Cyclone Gold #FFC836 (Pantone 123 C), and Accent Cardinal #872837 (Pantone 202 C). Athletics mark files are not publicly downloadable; Trademark Licensing must provide them. No standalone asset captured."
     },
     "brand_source_url": "https://trademark.iastate.edu/files/documents/2025-11/Affiliated%20snapshot.pdf",
     "verification_status": "partial",
-    "notes": "Official Iowa State athletics trademark snapshot specifies Cyclone Cardinal #A61932, Cyclone Gold #FFC836 and Accent Cardinal #872837. Athletics primary marks are I State and Cyclone marks; Punching Cy must accompany another identifying Iowa State trademark."
+    "notes": "Current official MarCom confirms I-State and Cyclone marks are BOTH primary athletics marks; Punching Cy is secondary and must accompany another identifying trademark. Do not combine/substitute the academic Iowa State University wordmark. Colors from Nov 2025 affiliated snapshot: Cyclone Cardinal #A61932 (PMS 187 C), Cyclone Gold #FFC836 (PMS 123 C), Accent Cardinal #872837 (PMS 202 C). Athletics marks are access-controlled through Trademark Licensing; no standalone asset captured."
   },
   {
     "school_id": "nebraska",
     "school_name": "Nebraska",
     "colors": {
       "primary": "#D00000",
-      "secondary": "#000000",
-      "accent": "#FFFFFF"
+      "secondary": "#F5F1E7",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://huskers.com/news/2016/02/18/traditional-script-secondary-logo-for-nebraskas-iconic-n",
-      "usage_notes": "Nebraska Athletics identifies the iconic block N as its strongest, overarching mark; script Huskers is a secondary mark. Herbie Husker is a registered athletics logo with separately updated official artwork. Use approved assets and observe trademark restrictions."
+      "usage_notes": "Nebraska Athletics' official 2016 announcement says the iconic Nebraska N is the strongest overarching mark and explicitly calls the script Huskers logo secondary. The 2023 official Nebraska art sheet also shows the athletics mark system and approved colors. Current university brand guidance identifies the Nebraska N as the primary identifier and says it must be used in all visual communications. Official university colors are Scarlet #D00000 (Pantone 186CP) and Cream #F5F1E7 (Pantone 4545CP at 25%); Black and White are additional approved mark colors. Herbie Husker is a separate registered mascot/athletics logo, not the primary Block N. The N logo files are available through UNL's official marks page, but no standalone direct file was captured and inspected in this pass."
     },
     "brand_source_url": "https://licensing.unl.edu/unl-branding/",
     "verification_status": "partial",
-    "notes": "Official Nebraska logo sheet provides Scarlet RGB 208,0,0 (converted to #D00000), Black RGB 0,0,0 and White RGB 255,255,255. It documents N primary marks, football Blackshirts marks and secondary Huskers/Cornhuskers/Nebraska wordmarks."
+    "notes": "Hierarchy reaffirmed: Block N is the iconic strongest overarching athletics mark; Script Huskers is explicitly secondary. Herbie is a registered mascot logo, not the primary Block N. Current UNL brand palette Scarlet #D00000 (PMS 186CP), Cream #F5F1E7 (PMS 4545CP at 25%); Black/White are approved mark treatments. Official UNL mark page offers downloadable N files, but no standalone asset captured in this pass."
   },
   {
     "school_id": "missouri",
@@ -1641,12 +1641,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://mutigers.com/news/2012/04/14/mizzou-unveils-updated-brand-identity",
-      "usage_notes": "Mizzou Athletics identifies the Tiger Head as its primary identity, MIZZOU as secondary, and Tiger Stripes as tertiary. Use official artwork, preserve protected space and orientation, and follow athletics licensing requirements."
+      "logo_source_page": "https://brand.missouri.edu/athletics-branding-toolkit/",
+      "usage_notes": "Mizzou Athletics' current official guide calls the Athletic Tiger Head the official logo of Mizzou Athletics and specifies full-color use as the default. Its primary wordmark is Mizzou; Missouri and Tigers are secondary wordmarks. The Bold M is a graphic element associated commonly with baseball/softball and can represent all sports, but is not the official Athletic Tiger Head logo. The current athletics palette is Mizzou Gold #FDB719, Nike 00A Black #000000, Nike 06F Anthracite #373A36 and White #FFFFFF. Logos are distributed to Athletics staff/employees through the Mizzou Athletics Toolkit; official reference images only, no direct standalone asset captured."
     },
     "brand_source_url": "https://brand.missouri.edu/athletics-branding-toolkit/",
     "verification_status": "partial",
-    "notes": "Mizzou athletics guide: Mizzou Gold #FDB719, Nike 00A Black #000000 and Anthracite #373A36. Official athletics toolkit governs the approved marks and their use."
+    "notes": "Updated to current official Mizzou Athletics toolkit: Athletic Tiger Head is the official athletics logo; full-color is default. Mizzou is the primary wordmark, while Missouri and Tigers are secondary wordmarks. Bold M is a separate graphic element often associated with baseball/softball and is not the Tiger Head logo. Current colors Gold #FDB719, Black #000000, Anthracite #373A36, White #FFFFFF. Asset downloads are internal to Athletics toolkit; no standalone asset captured."
   },
   {
     "school_id": "north-dakota-state",
@@ -1658,12 +1658,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gobison.com/news/2012/6/1/96271",
-      "usage_notes": "NDSU Athletics' official identity package defines primary and secondary Bison marks and a custom typeface. The athletics marks are distinct from the university's institutional logo; use approved artwork and follow the athletics trademark licensing and graphic standards."
+      "logo_source_page": "https://www.ndsu.edu/marketing-communications/brand-center/logos",
+      "usage_notes": "NDSU's official logo page distinguishes the institutional NDSU wordmark suite from the Bison mascot logos. It explicitly states that Bison mascot logos are trademarked and owned by NDSU Athletics and may only be used for Athletics-related materials or with Athletics permission; non-athletics departments may not use them. The public page displays a three-logo Athletics reference panel (NDSU wordmark + Bison head, standalone Bison head, full-body Bison), but does not designate which of those is the overall primary athletics mark. Do not assume the institutional NDSU wordmark is the primary athletics logo. Official colors Green #00583D and Yellow #FFC425. Reference panel visually inspected; no standalone primary asset captured."
     },
     "brand_source_url": "https://www.ndsu.edu/marketing-communications/brand-center/logos",
     "verification_status": "partial",
-    "notes": "NDSU official brand center specifies Green #00583D and Yellow #FFC425. Bison mascot logos are trademarked and owned by NDSU Athletics; external use requires permission."
+    "notes": "Official NDSU brand page distinguishes institutional wordmarks from athletics-only Bison mascot logos; mascot logos are Athletics-owned and restricted to athletics or permission. Three athletics mark variants are shown, but public page does not identify the overall primary mark. Do not substitute the institutional NDSU wordmark as the primary athletics mark without confirmation. Colors Green #00583D, Yellow #FFC425. Composite three-logo panel inspected; no standalone asset."
   },
   {
     "school_id": "northern-illinois",
@@ -1676,11 +1676,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx",
-      "usage_notes": "NIU Athletics provides an official Athletic Marks Standards Guide and accepted-logo sheet through its licensing resources. Use only approved Huskie athletics artwork, not recreated or unofficial variants; observe trademark and licensing requirements."
+      "usage_notes": "NIU's official institutional visual identity page identifies three distinct marks: the university logo, Huskie Athletics logo and university seal. The Huskie logo is specifically intended for materials related to NIU Athletics programs; the university logo is the umbrella identity and is not an athletics substitute. NIU Athletics links a current 2024 Style Guide and accepted-logo sheet through its licensing page; the PDF download endpoint was not accessible in this review, so the guide's exact primary/secondary mark hierarchy could not be confirmed. Official NIU palette: Red #C8102E, Black #000000; Gray #A5A7A8 is a supporting accent and White #FFFFFF is a neutral. No direct standalone athletics asset captured."
     },
     "brand_source_url": "https://www.niu.edu/communication-standards/_downloads/niu-communication-standards.pdf",
     "verification_status": "partial",
-    "notes": "NIU official communication standards specify primary NIU Red #C8102E and Black #000000, with Gray #A5A7A8 as an accent and White #FFFFFF. Secondary palette colors are not primary brand colors."
+    "notes": "Clarified that Huskie Athletics logo is separate from the university's umbrella logo and is specifically intended for NIU Athletics programs. Current 2024 Athletics Style Guide and accepted-logo sheet are linked through the official licensing page, but the PDF was not accessible in this review; exact primary/secondary hierarchy remains unconfirmed. Colors Red #C8102E, Black #000000, Gray #A5A7A8 accent, White neutral. No standalone asset captured."
   },
   {
     "school_id": "memphis",
@@ -1692,12 +1692,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gotigersgo.com/sports/2023/10/14/memphis-tigers-licensing",
-      "usage_notes": "Memphis Athletics' official marks are protected trademarks administered with Collegiate Licensing Company. The Memphis block M with tiger is a key athletics identity; the official athletics brand standards govern approved logo variants. Commercial or third-party association requires a license."
+      "logo_source_page": "https://gotigersgo.com/sports/2022/4/29/athletic-brand-standards",
+      "usage_notes": "Memphis Athletics publishes its own Athletic Brand Standards separately from the University brand system. The official athletics identity is the leaping Tiger over the block M; the 2020 official football media guide labels this the Athletic Logo and limits it to promotion of the Athletics Department and licensed suppliers. The 2026 University brand guide separately defines the University lockup as the Leaping Tiger + University wordmark, and says the standalone Leaping Tiger is reserved for Athletics and Marketing & Communications; the standalone Leaping Tiger is a secondary mark in the academic system, not the academic primary lockup. University Blue/Gray spot colors have changed in recent standards: current university colors are PMS 2945 C and PMS 422 C (older athletics media guide lists PMS 287 and PMS 423). No official digital HEX values were exposed in current color guidance, so HEX remains null. The athletics standards are embedded in Issuu and no standalone current asset was captured."
     },
     "brand_source_url": "https://gotigersgo.com/sports/2023/10/14/memphis-tigers-licensing",
     "verification_status": "partial",
-    "notes": "Official Memphis football media guide lists Blue and Gray as team colors. Athletics licensing confirms trademarks are University-owned and third-party use requires a license. Exact official HEX/Pantone values and primary logo asset remain to be extracted from the Athletics Brand Standards."
+    "notes": "Separated Athletics identity from academic brand system: leaping Tiger over block M is the Athletics logo, reserved for Athletics/approved suppliers. The 2026 University guide's full lockup combines Leaping Tiger + University wordmark; standalone Leaping Tiger is reserved for Athletics and Marketing & Communications and is secondary in academic identity. Current university blue/gray spot colors PMS 2945 C / PMS 422 C; older 2020 football media guide says PMS 287 / PMS 423, so do not silently blend old/new palettes. Current digital HEX not established. Athletics standards Issuu embed; no standalone asset captured."
   },
   {
     "school_id": "uab",
