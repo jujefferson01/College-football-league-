@@ -9,12 +9,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://bceagles.com/news/2000/7/26/Boston_College_Athletics_Unveils_New_Logos",
+      "usage_notes": "Boston College Athletics identifies a unified official logo system; the licensing guide governs trademarked marks and requires licensing/approval for commercial use. Exact approved asset URL remains pending."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://bceagles.com/news/2000/7/26/Boston_College_Athletics_Unveils_New_Logos",
+    "verification_status": "partial",
+    "notes": "Boston College Athletics identifies Maroon 202, Gold 4515 and Metallic Gold 871 as Pantone ink colors for its marks. The licensing guide contains detailed color standards, but HEX values are not added until individually verified."
   },
   {
     "school_id": "buffalo",
@@ -43,29 +43,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
+      "usage_notes": "Official rebrand identifies the Athena Shield as the primary athletics mark and Classic A as a limited secondary mark. Obtain approved artwork and permission from Army West Point Athletics/licensing."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
+    "verification_status": "partial",
+    "notes": "Army West Point identifies Army Black, USMA Gold, Gray and White as its primary palette. Its official fact sheet specifies Pantone 467 C, Process Black C and Cool Gray 5 C; no HEX values have been entered because the source does not provide them."
   },
   {
     "school_id": "navy",
     "school_name": "Navy",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#00225B",
+      "secondary": "#B5A67C",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://navysports.com/sports/2022/12/21/logos-style-sheet.aspx?path=me",
+      "usage_notes": "Official primary, secondary, tertiary and word marks are listed on the Naval Academy Athletics style sheet. Follow its instruction not to alter mark proportions, colors or design; permission/asset use should be confirmed with Navy Athletics."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://navysports.com/sports/2022/12/21/logos-style-sheet.aspx?path=me",
+    "verification_status": "partial",
+    "notes": "Navy Athletics official style sheet specifies Navy Blue #00225B and Vegas Gold #B5A67C. Official logo downloads are linked from the style-sheet page; usage restrictions apply."
   },
   {
     "school_id": "syracuse",
@@ -80,9 +80,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.syracuse.edu/brand/",
+    "verification_status": "partial",
+    "notes": "Official Syracuse University brand page points to the NetID-restricted brand toolkit and directs mark-use questions to Trademark Licensing. Exact athletics palette values and public logo asset links remain to be verified."
   },
   {
     "school_id": "temple",
@@ -97,9 +97,9 @@
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://finance.temple.edu/business-operations/trademark-licensing/faq",
+    "verification_status": "partial",
+    "notes": "Temple's official trademark FAQ lists cherry red, yellow, metallic silver, silver, black and white as school colors. Exact HEX values and approved logo asset links remain to be verified."
   },
   {
     "school_id": "rutgers",
