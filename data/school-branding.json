@@ -632,18 +632,18 @@
     "school_id": "kentucky",
     "school_name": "Kentucky",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0033A0",
+      "secondary": "#FFFFFF",
+      "accent": "#A5ACAF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://ukathletics.com/documents/2016/2/5/56b4afd4e4b0df6d856076fa.pdf",
+    "verification_status": "partial",
+    "notes": "Kentucky Athletics official brand identity guide specifies Kentucky Blue #0033A0 and White #FFFFFF as primary colors; Metallic Silver #A5ACAF, Black #2C2A29 and Cool Grey #C8C9C7 are secondary. Logo and trademark use remains subject to guide restrictions."
   },
   {
     "school_id": "ohio",
@@ -666,35 +666,35 @@
     "school_id": "miami-oh",
     "school_name": "Miami (OH)",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C8102E",
+      "secondary": "#FFFFFF",
+      "accent": "#010101"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand-genome.github.io/brands/miami-university/",
+    "verification_status": "partial",
+    "notes": "Miami University's published brand standards specify Red (Pantone 186; digital #C8102E) and White as official colors, with Black #010101 as a supporting color. RedHawk marks are protected and require university/licensing approval; source is a mirror of brand guideline content, so official-hosted source verification remains desirable."
   },
   {
     "school_id": "bowling-green",
     "school_name": "Bowling Green",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FD5000",
+      "secondary": "#4F2C1D",
+      "accent": "#CDA077"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.bgsu.edu/content/dam/pdfs/marketing/2025/508-bgsu-branding-guide-fy26.pdf",
+    "verification_status": "partial",
+    "notes": "BGSU FY26 official brand guide specifies Orange #FD5000, Brown RGB 79/44/29 (#4F2C1D), Tan RGB 205/160/119 (#CDA077) and Black #000000. Primary interlocking B/falcon mark is internal-use-only; other uses require written approval through licensing."
   },
   {
     "school_id": "akron",
