@@ -1914,28 +1914,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
-      "usage_notes": "Texas Tech Athletics' 2026 identity system is anchored by the Double T and includes secondary and sport-specific marks. The official page explicitly states preview images are reference-only and must not be copied, downloaded, recreated or used; production artwork must be obtained through approved Athletics licensing channels. No direct downloadable PNG/SVG is available from the public preview."
+      "usage_notes": "The 2025–26 Texas Tech Athletics rebrand introduces a modernized Double T as the athletics identity anchor and the mark that will appear on all athletics uniforms beginning 2026–27. The beveled Double T remains the broader university's institutional mark and must not be conflated with the new athletics mark. The 2026 athletics system also includes a secondary Masked Rider mark, tertiary Raiderland and sport-specific marks, plus Guns Up spirit mark. Primary palette: Raider Red #C30020 (Pantone 186), Rider Black #000000, Ghost White #FFFFFF; Classic White #F1F0D8 is an additional approved color. Official preview artwork is explicitly reference-only and prohibited for copying/downloading/recreation; production art only via Athletics licensing. No standalone asset captured."
     },
     "brand_source_url": "https://texastech.com/sports/2026/5/4/texas-tech-athletics-identity",
     "verification_status": "partial",
-    "notes": "Texas Tech Athletics' current 2026 identity page specifies Raider Red #C30020, Rider Black #000000 and Ghost White #FFFFFF. The Double T anchors the athletics system. Preview artwork is not production art; obtain approved files through Athletics licensing."
+    "notes": "Current 2026 identity correction: modernized Double T is the athletics identity anchor and replaces the old beveled Double T as athletics' leading mark; beveled Double T remains institutional. Masked Rider is secondary, Raiderland tertiary. Colors Raider Red #C30020 (PMS 186), Black #000000, Ghost White #FFFFFF, Classic White #F1F0D8. Preview art prohibited for use; official files require licensing. No direct asset captured."
   },
   {
     "school_id": "north-texas",
     "school_name": "North Texas",
     "colors": {
       "primary": "#00853E",
-      "secondary": "#FFFFFF",
-      "accent": "#000000"
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://meangreensports.com/sports/2018/7/6/ot-logos-html",
-      "usage_notes": "UNT Athletics states its North Texas athletics logo was designed specifically for the Athletics Department and is not a general university mark; permission must be requested from Athletics Communications. The 2025 athletics branding guide documents official marks and color use. No direct downloadable PNG/SVG was captured in this pass."
+      "logo_source_page": "https://meangreensports.com/documents/download/2025/8/19/UNT_Athletics_Branding_Guide_2025.pdf",
+      "usage_notes": "UNT Athletics' current 2025 Third Edition Branding Guide explicitly designates the UNT Diving Eagle as its PRIMARY IDENTITY and chief visual component of the athletics brand (pages 5–10). The one-color Diving Eagle is preferred; two-color variants are approved. UNT Green #00853E (Pantone 356 C) is primary; Black #000000 and White #FFFFFF are secondary. The guide prohibits constructing or scanning/recreating the logo. The PDF shows composite reference art; no direct standalone production asset captured."
     },
     "brand_source_url": "https://meangreensports.com/documents/download/2025/8/19/UNT_Athletics_Branding_Guide_2025.pdf",
     "verification_status": "partial",
-    "notes": "UNT Athletics' 2025 branding guide confirms UNT Green #00853E, White #FFFFFF and Black #000000. Athletics marks are specifically for athletics use; non-athletics use requires permission from Athletics Communications. No direct asset file was opened and visually inspected."
+    "notes": "Updated using 2025 Third Edition UNT Athletics guide: UNT Diving Eagle is explicitly PRIMARY IDENTITY and chief visual component; preferred one-color version, two-color approved. UNT Green #00853E (PMS 356 C), Black #000000 and White #FFFFFF. Composite guide artwork only; no standalone direct asset captured."
   },
   {
     "school_id": "sam-houston",
@@ -1947,12 +1947,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.shsu.edu/offices-departments/integrated-marketing-communications/athletics-branding",
-      "usage_notes": "Sam Houston Bearkat athletics marks are trademarked property of Sam Houston Athletics and reserved for official athletics business and approved partners. Non-athletics use requires written approval; the current Athletics Branding page links official mark guidelines and permission contacts. No direct downloadable athletics PNG/SVG was captured in this pass."
+      "logo_source_page": "https://www.shsu.edu/offices-departments/integrated-marketing-communications/documents/atlheticsbrandguide-web.pdf",
+      "usage_notes": "Sam Houston Athletics' official Athletics Brand Guidelines explicitly label the SH-Paw logo as the PRIMARY MARK (page 10); the Bearkat Paw is a secondary mark. The 2020 Athletics announcement confirms the refreshed SH-Paw remains the primary identity for Bearkat Athletics, while the 2024 Sammy Bearkat mascot mark is an alternate/special-application secondary mark, not a replacement. Do not confuse the SH-Paw athletics logo with the university academic SH monogram + full University wordmark. Official athletics colors Orange #F56423, White #FFFFFF, Jade #004853. The guide shows the primary mark in composite reference art only; no direct standalone asset captured."
     },
     "brand_source_url": "https://www.shsu.edu/offices-departments/integrated-marketing-communications/athletics-branding",
     "verification_status": "partial",
-    "notes": "Sam Houston's current official brand guide specifies SHSU Orange #F56423 and White #FFFFFF as primary colors, with Jade #004853 as an accent. Athletics marks remain separately controlled and are trademarked; the current Athletics Branding page governs permission and use. The SH-Paw and Sammy head marks are not interchangeable with institutional primary logos."
+    "notes": "Hierarchy confirmed from official Athletics Brand Guide: SH-Paw = PRIMARY MARK; Bearkat Paw = secondary. 2024 Sammy Bearkat is an alternate mascot mark for special applications, not a replacement primary. Academic SH monogram + University wordmark is a separate identity. Athletics colors Orange #F56423, White #FFFFFF, Jade #004853. Composite guide reference only; no standalone asset captured."
   },
   {
     "school_id": "boise-state",
@@ -1964,46 +1964,46 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://broncosports.com/documents/download/2026/4/16/Boise_State_Athletics_Brand_Standards_RGB_2026.pdf",
-      "usage_notes": "Boise State Athletics' 2026 brand standards distinguish the Bronco head athletics mark from the university B signature, which is for academic use. The Bronco head is the athletics identifier; use approved official artwork, preserve clear space and color treatments, and observe trademark licensing restrictions."
+      "logo_source_page": "https://broncosports.com/documents/2026/4/16/Boise_State_Athletics_Brand_Standards_RGB_2026.pdf",
+      "usage_notes": "Boise State Athletics' current April 2026 Brand Standards and official university logo page identify the Bronco head as the identifying athletics mark. The university B symbol is for academic/institutional use and must not be substituted for the athletics mark. The Bronco head must not be tilted, mirrored, recolored, or combined with wordmarks; on dark backgrounds it requires a white outline. Vintage marks are prohibited. Official athletics brand standards PDF is publicly accessible but this review did not capture a standalone logo file directly; no asset verified. Athletics palette Blue #0033A0, Orange #FA4616, White #FFFFFF per current standards."
     },
     "brand_source_url": "https://www.boisestate.edu/brand/visual-identity/logos/",
     "verification_status": "partial",
-    "notes": "Boise State Athletics' April 2026 standards identify the Bronco head as the athletics mark and explicitly distinguish it from the university B, which is for academic use. The guide prohibits vintage marks and specifies approved orientation, color, outline and background treatments. Blue #0033A0 and Orange #FA4616 are retained from the official Mountain West style guide; use the athletics standards for artwork."
+    "notes": "Current April 2026 Athletics standards reaffirm Bronco head as athletics identifier; university B is academic-only. Preserve orientation/colors; white outline required on dark backgrounds; no vintage marks or attached wordmarks. Colors Blue #0033A0, Orange #FA4616, White. PDF guide available, but no direct standalone asset captured."
   },
   {
     "school_id": "utah-state",
     "school_name": "Utah State",
     "colors": {
       "primary": "#00263A",
-      "secondary": "#8A8D8F",
-      "accent": "#FFFFFF"
+      "secondary": "#FFFFFF",
+      "accent": "#8A8D8F"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.usu.edu/brand/standards/logos/sub-brands/files/USU_Athletics_VIG.pdf",
-      "usage_notes": "Utah State Athletics' Aggie identity uses the block A and official Aggies wordmarks. The athletics identity and official university marks are protected; use approved artwork and follow trademark licensing and brand-use requirements. The Mountain West style guide is a conference-level color reference, not a substitute for the school's own artwork."
+      "usage_notes": "Utah State Athletics' official Visual Identity Guide labels the U-State paired logo as the PRIMARY ATHLETICS LOGO (page 1) and requires it on printed/electronic communications. The U-State mark is the primary identifying device; secondary marks must be used only in conjunction with the primary and not combined or placed close to it. The Bull/Big Blue mark is tertiary, not primary. Official primary colors Aggie Blue #00263A (Pantone 539), Silver #8A8D8F (Pantone 877), White and Black. The guide presents primary logo artwork in a reference page, not as a standalone direct production download; no asset captured."
     },
     "brand_source_url": "https://www.usu.edu/brand/standards/logos/sub-brands/",
     "verification_status": "partial",
-    "notes": "Utah State Athletics' visual identity guide confirms Aggie Blue #00263A, Silver #8A8D8F and White #FFFFFF as primary colors. The Aggie Blue/State U athletics identity is distinct from general university branding; use approved supplied artwork and licensing rules."
+    "notes": "Hierarchy explicitly confirmed by official Visual Identity Guide: U-State paired logo is PRIMARY ATHLETICS LOGO; secondary marks must accompany it and remain separate; Bull/Big Blue is tertiary. Colors Aggie Blue #00263A (PMS 539), Silver #8A8D8F (PMS 877), White and Black. PDF reference artwork only; no direct standalone asset captured."
   },
   {
     "school_id": "nevada",
     "school_name": "Nevada",
     "colors": {
-      "primary": "#041E42",
-      "secondary": "#8A8D8F",
-      "accent": "#FFFFFF"
+      "primary": null,
+      "secondary": null,
+      "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://nevadawolfpack.com/documents/2024/9/25/Nevada-Branding-Identity-2023-071323-PRINT.pdf",
-      "usage_notes": "Nevada Athletics' Wolf Pack identity includes the official wolf-head and Nevada wordmark marks. Use official athletics artwork and approved color variants; university trademarks are protected and third-party uses require licensing approval."
+      "logo_source_page": "https://www.unr.edu/nevada-today/news/2026/university-unveils-new-brand",
+      "usage_notes": "Nevada's 2026-10-20 rebrand supersedes the 2023 athletics identity. The University describes two new coordinated symbols: the Interlocked logo, representing institutional authority, and the refreshed Nevada Wolf, the University's spirit logo. The Nevada Wolf replaces the former Sport Wolf used as Athletics' main logo since 2002; Athletics will incorporate both the Interlocked and Nevada Wolf into future designs/brand activations. Public guidance does not yet publish a dedicated Athletics-only primary/secondary hierarchy or digital color specifications, and the identity is rolling out over multiple years. The new marks are available through the official media access page, but no standalone asset was downloaded and visually inspected in this pass. Do not continue treating the 2023 Wolf Pack guide as current or assume the Interlocked institutional mark alone is Athletics' primary."
     },
     "brand_source_url": "https://www.unr.edu/marketing-communications/brand",
     "verification_status": "partial",
-    "notes": "Nevada's 2023 Athletics identity guide documents the Wolf Pack graphic system and approved artwork requirements. Important current-brand change: the University unveiled a new unified identity on October 20, 2026, including the Interlocked mark and Nevada Wolf spirit logo, with an implementation rollout over the following year. Do not treat the 2023 Wolf Pack athletics marks as the current university-wide identity; current athletics adoption and color specifications need confirmation."
+    "notes": "Major current update: 2026-10-20 Nevada rebrand replaces 2023 identity. New system has Interlocked institutional logo and refreshed Nevada Wolf spirit logo; Nevada Wolf replaces former Sport Wolf used as Athletics' main logo. Athletics will gradually incorporate both. No published Athletics-only primary/secondary hierarchy or digital palette yet; phased rollout underway. Official media asset access exists, but no standalone asset captured. Prior 2023 Wolf Pack marks should be treated as superseded for current identity."
   },
   {
     "school_id": "unlv",
