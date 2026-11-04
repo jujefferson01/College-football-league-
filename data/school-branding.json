@@ -785,35 +785,35 @@
     "school_id": "alabama",
     "school_name": "Alabama",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#9E1B32",
+      "secondary": "#828A8F",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.ua.edu/colors/",
+    "verification_status": "partial",
+    "notes": "University brand guide lists Crimson Flame #9E1B32, Capstone Gray #828A8F and Victory White #FFFFFF as primary colors. Secondary palette restrictions apply; black is not a primary color element."
   },
   {
     "school_id": "auburn",
     "school_name": "Auburn",
     "colors": {
-      "primary": null,
-      "secondary": null,
+      "primary": "#0C2340",
+      "secondary": "#F26522",
       "accent": null
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://licensing.auburn.edu/brand-elements/",
+      "usage_notes": "Auburn Licensing identifies the interlocking AU as the primary logo and documents standard, alternate and vintage marks. Confirm permissions/licensing before reuse."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://auburntigers.com/traditions-about-auburn",
+    "verification_status": "partial",
+    "notes": "Official athletics page lists Auburn Athletics HEX orange #F26522 and blue #0C2340 (the university page also distinguishes official PMS references). Auburn Licensing identifies the interlocking AU as the primary logo."
   },
   {
     "school_id": "georgia",
@@ -825,12 +825,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.uga.edu/wp-content/uploads/UGA-logoguide_V2.pdf",
+      "usage_notes": "February 2026 UGA internal athletics logo guide documents approved primary marks and restrictions. Marks are university intellectual property; prior written consent is required."
     },
     "brand_source_url": "https://brand.uga.edu/wp-content/uploads/UGA-logoguide_V2.pdf",
     "verification_status": "partial",
-    "notes": "UGA approved colors: Bulldog Red #BA0C2F, Black #000000, UGA Silver #5D6770."
+    "notes": "February 2026 UGA internal athletics logo guide lists Bulldog Red #BA0C2F, Black #000000 and UGA Silver #5D6770 as approved colors. The guide states marks are UGA intellectual property and require prior written consent."
   },
   {
     "school_id": "georgia-tech",
@@ -842,46 +842,46 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://gtathl.com/",
+      "usage_notes": "Georgia Tech Athletics identifies the interlocking GT as the official athletics logo and directs logo-file/rights requests to its branding office. Confirm current downloadable asset and permissions."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gtathl.com/",
+    "verification_status": "partial",
+    "notes": "Official Georgia Tech Athletics brand page documents white and gold as defining colors, with navy as a complementary color, and identifies the interlocking GT as the official athletics logo. Exact current HEX values not established in this source."
   },
   {
     "school_id": "florida",
     "school_name": "Florida",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#FA4616",
+      "secondary": "#0021A5",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": null,
       "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brandcenter.ufl.edu/colors/",
+    "verification_status": "partial",
+    "notes": "University of Florida Brand Center lists Core Orange #FA4616 and Core Blue #0021A5 as core colors; White is also part of the core presentation. Athletics-specific logo asset and use permissions still need review."
   },
   {
     "school_id": "florida-state",
     "school_name": "Florida State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#782F40",
+      "secondary": "#CEB888",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://seminoles.com/documents/download/2025/7/2/2025_FSU_Athletics_Brand_Book.pdf",
+      "usage_notes": "2025 FSU Athletics Brand Book documents official marks and color applications. Metallic Gold is identified as limited-use; verify licensing before external or commercial use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://seminoles.com/documents/download/2025/7/2/2025_FSU_Athletics_Brand_Book.pdf",
+    "verification_status": "partial",
+    "notes": "2025 FSU Athletics Brand Book lists FSU Garnet #782F40, FSU Gold #CEB888 and White #FFFFFF as primary colors. Black #101820 is also specified; Metallic Gold #85714D is limited-use."
   },
   {
     "school_id": "miami-fl",
@@ -904,18 +904,18 @@
     "school_id": "clemson",
     "school_name": "Clemson",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#F56600",
+      "secondary": "#FFFFFF",
+      "accent": "#522D80"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://clemsontigers.com/styleguide",
+      "usage_notes": "Clemson Athletics provides full athletics brand guidelines covering colors, logos, fonts and individual sport marks; marks are protected and must follow the guide."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.clemson.edu/brand/color/",
+    "verification_status": "partial",
+    "notes": "Clemson's official brand color page lists Clemson Orange #F56600, Goal Line #FFFFFF and Regalia #522D80. The athletics style guide documents the Tiger Paw and athletics logo standards; usage restrictions require review."
   },
   {
     "school_id": "south-carolina",
@@ -978,12 +978,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.ucf.edu/brand/logo-and-identity/",
+      "usage_notes": "UCF distinguishes the university's stacked external mark from UCF Athletics marks. Athletics marks are for UCF sports marketing or teams; do not substitute the university mark for athletics identity."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.ucf.edu/brand/logo-and-identity/",
+    "verification_status": "partial",
+    "notes": "Official UCF identity guide documents separate Athletics marks (Knighthead, stacked logo, SpaceU and Citronauts) and clarifies they are restricted to UCF sports marketing or teams. Athletics color values and asset-level permissions still need review."
   },
   {
     "school_id": "florida-atlantic",
