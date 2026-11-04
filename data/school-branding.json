@@ -282,28 +282,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://storage.googleapis.com/odu-prod/2025/06/04/IZ6FVaPDld45Hx21w4Vz5k3Kq8Y1IYbhMW6g8ouI.pdf",
-      "usage_notes": "ODU Athletics has a distinct athletics identity system. Its official athletics brand guide documents the current marks and palette; the university licensing office lists the athletics crown, lion and lion-shield marks as protected. Athletic marks are reserved for Athletics, sponsors and licensees; confirm the current primary competition mark and obtain approved artwork through ODU Licensing."
+      "usage_notes": "The official 2025 Old Dominion Athletics Brand Guide explicitly identifies the ODU Crown as the primary three-color mark for broadcast and print media; ODU Shield is secondary and requires an ODU/Old Dominion identifier. The primary Crown was opened and visually inspected in the official guide PDF (page 7), but the guide does not expose a standalone downloadable asset. No direct asset recorded. Official colors Monarch Blue #043657 and Hudson Blue #98C5EA; secondary Black #000000, Gray #828A8F, White #FFFFFF."
     },
     "brand_source_url": "https://storage.googleapis.com/odu-prod/2025/06/04/IZ6FVaPDld45Hx21w4Vz5k3Kq8Y1IYbhMW6g8ouI.pdf",
     "verification_status": "partial",
-    "notes": "Old Dominion Athletics official brand guide lists Monarch Blue #043657 and Hudson Blue #98C5EA as primary colors, with Black #000000, Gray #828A8F and White #FFFFFF as secondary colors."
+    "notes": "Corrected primary athletics mark identification: ODU Crown is the primary three-color mark for broadcast and print; ODU Shield is secondary. Official 2025 guide page 7 screenshot inspected, but no standalone downloadable image file was available, so status remains partial. Official primary colors: Monarch Blue #043657 and Hudson Blue #98C5EA; secondary Black #000000, Gray #828A8F, White #FFFFFF."
   },
   {
     "school_id": "liberty",
     "school_name": "Liberty",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#B72D25",
+      "secondary": "#0A254E",
+      "accent": "#A2A5A8"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.liberty.edu/marketing/wp-content/uploads/sites/114/LUBrandGuide_2024_DigitalVersion.pdf",
-      "usage_notes": "Liberty's 2024 Brand Guide identifies the primary athletics logo as the Liberty monogram combined with the athletics eagle head. The solitary eagle is secondary and must appear with Liberty/Liberty Flames/Liberty University wording. No shape, proportion or color modifications; athletics marks are approved for NCAA Athletics, Club Sports and specified licensed uses."
+      "logo_source_page": "https://www.liberty.edu/marketing/wp-content/uploads/sites/114/1960553-Branding-Guide_digital.pdf",
+      "usage_notes": "Liberty's official Brand Guide (2022, page 28) identifies the primary athletics logo as the Liberty monogram combined with the athletics eagle head; the solitary eagle is secondary and must be paired with Liberty/Liberty Flames/Liberty University wording. The page was opened and visually inspected as a PDF screenshot, but is a guideline layout rather than a standalone production file. No direct asset recorded. Athletics marks are approved for NCAA Athletics and Club Sports; do not modify shape, proportion or color."
     },
     "brand_source_url": "https://libertyflames.com/documents/download/2023/6/8/Athletics_Policy_Manual.docx",
     "verification_status": "partial",
-    "notes": "Liberty Athletics policy identifies official red (PMS 187), white and blue (PMS 282). It also specifies the required university identifier with the primary athletics mark and secondary eagle-head mark. HEX values are not entered pending a primary-source digital color specification; asset use is subject to university branding approval."
+    "notes": "Official 2022 Liberty Brand Guide screenshot visually inspected: primary athletics logo is combined LU monogram + eagle head; solitary eagle is secondary and requires Liberty wording. No standalone asset captured, so remains partial. Digital brand colors: Liberty Red #B72D25, Liberty Navy #0A254E; Athletics Gray #A2A5A8 is secondary. Marks may not be modified and are approved only for NCAA Athletics and Club Sports per guide."
   },
   {
     "school_id": "marshall",
@@ -332,12 +332,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://goduke.com/news/2024/8/4/football-duke-implements-secondary-logo-honoring-durham",
-      "usage_notes": "Duke Athletics confirms the Blue Devil as the base of its football identity and documents a newer Durham/Bull City football secondary mark. The university requires advance permission for use of Duke names, logos and trademarks. Confirm the current primary athletics artwork with Duke Athletics branding/licensing; do not treat the Durham mark as the primary."
+      "logo_source_page": "https://trademarklicensing.duke.edu/logos.pdf",
+      "usage_notes": "Duke's official Trademark Licensing logo sheet (opened and visually inspected) distinguishes Primary Marks from the Athletic Mark. The primary set includes the Duke D with Blue Devil and the Blue Devil head; the Athletic Mark is the plain Iron D. Duke Athletics' 2024 release calls the Bull City Blue Devil a secondary football logo that complements the Iron D. The sheet is a composite reference board, not a standalone asset, so no direct asset is recorded. School colors Blue and White; Duke Blue Pantone 287 per official licensing sheet. The official Duke digital brand palette also lists Navy #012169 and Royal #00539B."
     },
     "brand_source_url": "https://brand.duke.edu/colors/",
     "verification_status": "partial",
-    "notes": "Duke's official palette identifies Duke Navy Blue #012169 and Duke Royal Blue #00539B. Royal Blue is the athletics/apparel shade. Logo asset and usage review remain pending."
+    "notes": "Corrected identity hierarchy from Duke's official trademark logo sheet: primary marks include the Duke D with Blue Devil and the Blue Devil head; the Athletic Mark is the plain Iron D. The 2024 Bull City Blue Devil is explicitly secondary and complements the Iron D. Official logo board visually inspected but no standalone file captured. Official school colors Blue and White; Duke Blue Pantone 287. Digital university palette lists Navy #012169 and Royal #00539B."
   },
   {
     "school_id": "north-carolina",
@@ -350,11 +350,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goheels.com/documents/download/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf",
-      "usage_notes": "Carolina Athletics Brand Identity Guidelines identify the interlocking NC as the primary symbol of Carolina Athletics. Secondary identity includes the argyle pattern, Strutting Ram, Ram Head and Tar Heel Foot marks. Follow the guide's reproduction rules and confirm permission/approved artwork with UNC Trademark Licensing."
+      "usage_notes": "Carolina Athletics' official brand guide identifies the interlocking NC as the primary athletics identifier. The primary mark was opened and visually inspected on page 9 of the official PDF, but only as a page image/composite reference, not a standalone production file. No direct asset recorded. Secondary marks include Strutting Ram, Ram Head and Tar Heel Foot; argyle is a supporting pattern. Follow official clear-space and reproduction rules and trademark licensing."
     },
     "brand_source_url": "https://goheels.com/documents/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf",
     "verification_status": "partial",
-    "notes": "Official Carolina Athletics identity guide documents Carolina Blue #7BAFD4, White #FFFFFF, Navy Blue #13294B, Flat Grey #A2AAAD and Pitch Black #2C2A29. Interlocking NC is the primary athletics identifier; argyle is secondary. Exact mark source page documented, but direct downloadable asset URL and usage authorization remain unverified."
+    "notes": "Official Carolina Athletics guide confirms the interlocking NC is the primary athletics identifier; page 9 of the guide was visually inspected, but no standalone asset was captured, so remains partial. Carolina Blue #7BAFD4 and White #FFFFFF are primary; Navy #13294B, Flat Grey #A2AAAD and Pitch Black #2C2A29 are secondary. Strutting Ram, Ram Head and Tar Heel Foot are secondary identity elements; argyle is a supporting pattern."
   },
   {
     "school_id": "nc-state",
@@ -365,13 +365,13 @@
       "accent": "#000000"
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gopack.com/images/2024/7/17/NC_State_Wolf_Head_Color.png",
       "logo_source_page": "https://gopack.com/sports/2024/7/17/nc-state-athletics-brand-guidelines",
-      "usage_notes": "NC State Athletics identifies the Tuffy Head as the primary logo for broadcast use; the Wolf Head is also identified by NC State Trademark Licensing as the primary athletics logo. Do not distort, recolor, remove outlines or combine marks. All spirit-mark use requires express written permission from NC State Strategic Brand Management or CLC."
+      "usage_notes": "NC State Athletics' official brand page explicitly identifies Tuffy Head as the primary logo for broadcast and links to a transparent full-color PNG. The direct official PNG was opened and visually inspected. The 2026–27 official brand guide is now published; no conflicting change to the Tuffy primary identity was found. Use the official file without modification; contact Athletics Creative Services for brand questions."
     },
     "brand_source_url": "https://gopack.com/sports/2024/7/17/nc-state-athletics-brand-guidelines",
-    "verification_status": "partial",
-    "notes": "NC State Athletics brand guidelines identify Wolfpack Red #CC0000, white #FFFFFF and black #000000. Official Tuffy marks and usage hierarchy are documented on the athletics brand page; usage restrictions apply."
+    "verification_status": "verified",
+    "notes": "Verified current primary athletics asset: Tuffy Head. The official Athletics brand page explicitly identifies it as primary for broadcast and provides a direct transparent full-color PNG, which was opened and visually inspected. The 2026–27 guide is published and current team materials continue to identify Tuffy as the athletics logo. Official palette: Wolfpack Red #CC0000, White #FFFFFF, Black #000000. Do not distort, recolor or modify; consult NC State Athletics Creative Services."
   },
   {
     "school_id": "wake-forest",
@@ -384,11 +384,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://godeacs.com/sports/2019/11/24/logos-branding",
-      "usage_notes": "Wake Forest Athletics identifies the WF monogram as its primary mark in one- and two-color versions. The Demon Deacon head, silhouette and top hat are secondary marks with accompanying-wordmark and color rules; Demon Deacon likenesses require Athletics Licensing approval. Do not stretch or recolor marks."
+      "usage_notes": "Wake Forest Athletics' official Logos & Branding page explicitly identifies the WF monogram as the primary mark, with one-color and two-color versions. The official page's lead image was opened and visually inspected; it is a WF + WAKE FOREST composite lockup rather than a clean standalone WF file. The separate 2025 Built in the Dark football campaign has its own primary campaign mark and is not a replacement for the core WF identity. No standalone primary asset recorded. Marks may not be altered; CLC licensing and written approval apply."
     },
     "brand_source_url": "https://brand.wfu.edu/our-brand-identity/color-patterns-papers/",
     "verification_status": "partial",
-    "notes": "Wake Forest's official primary colors are Old Gold #9E7E38 and black #000000; Athletics Gold #CEB888 is a secondary color. Confirm athletics-specific mark treatment before production."
+    "notes": "Core athletics primary mark is the WF monogram, in one-color and two-color versions. The official page image was opened and inspected but is a WF + WAKE FOREST composite lockup, not standalone art. The 2025 Built in the Dark football campaign's special primary mark is campaign-specific and must not replace the core WF identity. Official colors Old Gold #9E7E38 and Black #000000; Athletics Gold #CEB888 is secondary. Marks may not be altered; written CLC approval required for use."
   },
   {
     "school_id": "michigan",
