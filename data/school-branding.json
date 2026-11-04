@@ -649,18 +649,18 @@
     "school_id": "ohio",
     "school_name": "Ohio",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#024230",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.ohio.edu/brand/strategy/brand-architecture",
+      "usage_notes": "2026 Ohio Athletics identity uses the standalone arched OHIO as primary mark; Attack Cat is retired from the primary identity and retained only as a secondary athletics mark. Use of the Attack Cat outside Athletics requires written approval. Confirm asset licensing before commercial use."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://ohiobobcats.com/sports/2026/4/22/ohio-colors",
+    "verification_status": "partial",
+    "notes": "2026 Ohio Athletics brand architecture specifies Under the Elms Green #024230 as athletics primary, with white and process black in the digital palette. This supersedes older Cutler Green references used by the broader university brand."
   },
   {
     "school_id": "miami-oh",
@@ -745,7 +745,7 @@
     },
     "brand_source_url": "https://wku.edu/brand/",
     "verification_status": "partial",
-    "notes": "WKU official university brand resource added as the starting point for athletics identity review. Exact athletics palette HEX/Pantone values and an approved primary athletics logo asset still require confirmation; no colors inferred."
+    "notes": "Official WKU brand resource located. Athletics palette and downloadable primary mark still need verification from an official WKU-hosted guide; third-party logo color sampling is not being treated as an official HEX specification."
   },
   {
     "school_id": "umass",
