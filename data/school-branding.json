@@ -400,12 +400,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://mgoblue.com/news/2014/3/23/Brandon_s_Blog_Representing_the_Block_M",
-      "usage_notes": "Michigan Athletics explicitly identifies the Block M as its athletics mark and emphasizes its consistent representation across varsity and club sports. The university's brand guide distinguishes the Block M secondary mark from the primary University of Michigan wordmark for general institutional communications. Use official, unaltered artwork; trademark/licensing approval applies, particularly to merchandise and public/commercial use."
+      "logo_source_page": "https://mgoblue.com/sports/2017/6/16/michigan-mobile-wallpapers",
+      "usage_notes": "Michigan Athletics' official site provides a Block M wallpaper link whose underlying image URL is https://mgoblue.com/images/2020/6/25/Block_M.jpg. It redirects to an inaccessible Sidearm image-conversion endpoint, so no standalone asset could be opened. Block M is the core athletics mark; official colors Michigan Blue #00274C and Maize #FFCB05, with White #FFFFFF. Do not substitute Jumpman or sport-specific marks."
     },
     "brand_source_url": "https://brand.umich.edu/wp-content/uploads/2025/02/250027-U-M-Style-Guide-February2025.pdf",
     "verification_status": "partial",
-    "notes": "University of Michigan official style guide specifies Blue #00274C, Maize #FFCB05 and White #FFFFFF. Athletics mark artwork and usage permissions remain to be reviewed."
+    "notes": "Michigan Athletics' official site provides a Block M wallpaper link whose underlying image URL is https://mgoblue.com/images/2020/6/25/Block_M.jpg. It redirects to an inaccessible Sidearm image-conversion endpoint, so no standalone asset could be opened. Block M is the core athletics mark; official colors Michigan Blue #00274C and Maize #FFCB05, with White #FFFFFF. Do not substitute Jumpman or sport-specific marks."
   },
   {
     "school_id": "michigan-state",
@@ -418,28 +418,28 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://msuspartans.com/documents/download/2024/9/18/24MSU_ATH_Brand_OnePage_S24__1_.pdf",
-      "usage_notes": "Michigan State Athletics' September 17, 2024 Brand Reference Guide identifies the Spartan helmet as the primary athletics mark. Official palette includes Athletics Green #173F35, White #FFFFFF, Silver #7C878E, Bronze #696158 and Black #000000. For asset requests contact brand@ath.msu.edu; commercial mark use requires licensing."
+      "usage_notes": "Official Michigan State Athletics September 17, 2024 Brand Reference Guide identifies the Spartan helmet as PRIMARY MARK and displays approved colorways. PDF art sheet visually inspected, but it is a composite board, not a standalone production file. Request official asset from brand@ath.msu.edu. Athletics Green #173F35, White #FFFFFF, Silver #7C878E, Bronze #696158, Black #000000. Do not reverse or alter helmet."
     },
     "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/msuspartans.com/documents/2023/3/29/MSU_Branding_One_Sheet_1Apr23.pdf",
     "verification_status": "partial",
-    "notes": "Michigan State Athletics brand reference guide specifies Spartan Green #173F35 and White #FFFFFF as primary colors; Silver #7C878E is secondary. Bronze #696158 is also listed as a secondary color. Logo use and asset permissions remain subject to MSU guidelines."
+    "notes": "Official Michigan State Athletics September 17, 2024 Brand Reference Guide identifies the Spartan helmet as PRIMARY MARK and displays approved colorways. PDF art sheet visually inspected, but it is a composite board, not a standalone production file. Request official asset from brand@ath.msu.edu. Athletics Green #173F35, White #FFFFFF, Silver #7C878E, Bronze #696158, Black #000000. Do not reverse or alter helmet."
   },
   {
     "school_id": "ohio-state",
     "school_name": "Ohio State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#BB0000",
+      "secondary": "#666666",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://ohiostatebuckeyes.com/documents/download/2023/7/26/Athletics_LogoGuidelines.pdf",
-      "usage_notes": "Ohio State Athletics Logo Guidelines identify the primary athletics mark and specify approved color/background variations. Use the supplied official artwork and approved colorways without alteration; follow Ohio State Athletics trademark and licensing requirements."
+      "usage_notes": "Ohio State Athletics' official Logo Guidelines identify the Block O / OHIO STATE combination as the PRIMARY MARK and show four approved color/background versions. PDF opened and visually inspected, but artwork appears in a guideline board rather than a clean standalone production file. Approved variants include scarlet, black, white and gray; do not redraw, recolor, rotate, stretch or add effects. Exact HEX values remain provisional pending official color spec."
     },
     "brand_source_url": "https://ohiostatebuckeyes.com/documents/download/2023/7/26/Athletics_LogoGuidelines.pdf",
     "verification_status": "partial",
-    "notes": "Ohio State Athletics official logo guidelines document approved primary mark variants and color applications (scarlet, black, white and gray). Exact palette HEX values still need confirmation from the official color specification."
+    "notes": "Ohio State Athletics' official Logo Guidelines identify the Block O / OHIO STATE combination as the PRIMARY MARK and show four approved color/background versions. PDF opened and visually inspected, but artwork appears in a guideline board rather than a clean standalone production file. Approved variants include scarlet, black, white and gray; do not redraw, recolor, rotate, stretch or add effects. Exact HEX values remain provisional pending official color spec."
   },
   {
     "school_id": "notre-dame",
@@ -451,46 +451,46 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://onmessage.nd.edu/athletics-branding/logos/",
-      "usage_notes": "Notre Dame Athletics identifies the two-color interlocking ND monogram as its primary athletics identifier. The Leprechaun is a spirit mark and the green shamrock is secondary, not a standalone primary identifier. Use only official electronic artwork supplied by Fighting Irish Media/licensing; athletics assets are reserved for Notre Dame Athletics."
+      "logo_source_page": "https://onmessage.nd.edu/athletics-branding/logos/monogram/",
+      "usage_notes": "Notre Dame Athletics' official Monogram page explicitly identifies interlocking ND as the primary athletics identifier, standardized in 2015. Two-color blue/gold/white is primary for most applications. Official downloads route to access-controlled Okta authentication; no standalone asset captured. The Leprechaun is a spirit mark, not primary."
     },
     "brand_source_url": "https://onmessage.nd.edu/athletics-branding/colors/",
     "verification_status": "partial",
-    "notes": "Notre Dame Athletics official palette specifies Notre Dame Blue #0C2340, Standard Dome Gold #C99700 and Irish Green #00843D. Green is an accent and should be used sparingly; metallic gold has no digital conversion."
+    "notes": "Notre Dame Athletics' official Monogram page explicitly identifies interlocking ND as the primary athletics identifier, standardized in 2015. Two-color blue/gold/white is primary for most applications. Official downloads route to access-controlled Okta authentication; no standalone asset captured. The Leprechaun is a spirit mark, not primary."
   },
   {
     "school_id": "indiana",
     "school_name": "Indiana",
     "colors": {
       "primary": "#990000",
-      "secondary": "#FFFFFF",
-      "accent": "#EDEBEB"
+      "secondary": "#EDEBEB",
+      "accent": "#ACA39A"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://iuhoosiers.com/news/2018/10/2/general-indiana-university-athletics-unveils-first-ever-iu-athletics-brand-and-uniform-guidelines",
-      "usage_notes": "Indiana Athletics' official Brand and Uniform Guidelines identify the IU trident as the core primary mark, with Indiana wordmarks and sport marks in the identity system. Script Indiana, Block I and other fan/retail marks are separate categories. Follow the official guide and trademark/licensing restrictions."
+      "logo_source_page": "https://iuhoosiers.com/documents/download/2018/8/28/IUB_athletics_brandguide_TO_PRESS_8_2.pdf",
+      "usage_notes": "Indiana Athletics' official Brand and Uniform Guidelines (pages 88–90) identify primary athletics marks as IU trident + 'Indiana' in Hoosier Bold, centered and horizontal. PDF visually inspected; shown as guideline diagram, not standalone art. Script Indiana and Block I are spirit/vintage marks. Official colors Crimson #990000 and Cream #EDEBEB (treated as white in most marketing); Limestone #ACA39A is secondary."
     },
     "brand_source_url": "https://iuhoosiers.com/documents/download/2018/8/28/IUB_athletics_brandguide_TO_PRESS_8_2.pdf",
     "verification_status": "partial",
-    "notes": "Indiana University Athletics brand guide specifies Crimson #990000 and uses White as a primary marketing color; Cream #EDEBEB is documented but treated as white for most marketing executions. Athletics marks and use rules are covered by the guide."
+    "notes": "Indiana Athletics' official Brand and Uniform Guidelines (pages 88–90) identify primary athletics marks as IU trident + 'Indiana' in Hoosier Bold, centered and horizontal. PDF visually inspected; shown as guideline diagram, not standalone art. Script Indiana and Block I are spirit/vintage marks. Official colors Crimson #990000 and Cream #EDEBEB (treated as white in most marketing); Limestone #ACA39A is secondary."
   },
   {
     "school_id": "purdue",
     "school_name": "Purdue",
     "colors": {
-      "primary": null,
+      "primary": "#CFB991",
       "secondary": "#000000",
-      "accent": null
+      "accent": "#DAAA00"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.purdue.edu/brand-studio/brand/logos-usage/",
-      "usage_notes": "Purdue's official Brand Studio provides the Motion P plus Purdue wordmark as the university identity and downloadable official logo files. Do not modify marks; use of Purdue marks without express license or permission is prohibited. Confirm athletics-specific marks separately with Purdue Athletics before choosing a sport-specific asset."
+      "usage_notes": "Purdue's current Brand Studio identifies official university logo as Motion P paired with Purdue University signature wordmark; Motion P alone is not primary and is permitted only in approved limited-space applications. Official download is ZIP and could not be inspected. Primary colors Boilermaker Gold #CFB991 and Black #000000; Rush #DAAA00 is supporting. Marks may not be altered and require express permission."
     },
     "brand_source_url": "https://purduesports.com/quick-facts",
     "verification_status": "partial",
-    "notes": "Purdue Athletics confirms Old Gold and Black as official school colors. The official quick-facts page does not specify HEX values; no digital gold value has been inferred. The Motion P is the unified athletics/university symbol and logo use is restricted."
+    "notes": "Purdue's current Brand Studio identifies official university logo as Motion P paired with Purdue University signature wordmark; Motion P alone is not primary and is permitted only in approved limited-space applications. Official download is ZIP and could not be inspected. Primary colors Boilermaker Gold #CFB991 and Black #000000; Rush #DAAA00 is supporting. Marks may not be altered and require express permission."
   },
   {
     "school_id": "illinois",
