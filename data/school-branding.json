@@ -2049,12 +2049,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://csurams.com/sports/2018/6/11/branding",
+      "logo_source_page": "https://brand.colostate.edu/symbol/",
       "usage_notes": "Colorado State Athletics' Rams identity uses the official ram-head mark and athletics wordmarks. Use original approved artwork and color variants; athletics trademarks and third-party use are subject to university licensing and approval."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://brand.colostate.edu/color/",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Colorado State Green #1E4D2B and Gold #C8C372 for the Rams."
+    "notes": "Colorado State's official Ram's Head is the university's primary symbol and is supplied in approved master formats (including SVG and PNG); it is a registered mark and must not be altered. Current Find Your Energy brand colors are CSU Green #1E4D2B and CSU Gold #C8C372; prior secondary/tertiary palettes are retired. Use the official athletics/department-approved version for simulator use."
   },
   {
     "school_id": "wyoming",
@@ -2066,12 +2066,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://gowyo.com/sports/2016/6/30/_131476205233488698.aspx?id=135",
+      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/wyoming.sidearmsports.com/documents/2017/8/22/57756e40e4b07178b37aaf74.pdf",
       "usage_notes": "Wyoming Athletics' traditional Bucking Horse & Rider (Steamboat) is its defining athletics mark and has represented the department for decades; Pistol Pete is a separate additional identity. The One Wyoming mark does not replace the Bucking Horse & Rider or brown-and-gold athletics brand. Use official artwork and follow trademark licensing/approval rules."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/wyoming.sidearmsports.com/documents/2022/11/29/WYO_LicensingGuide_June_2022.pdf",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Wyoming Brown #4E3629 and Gold #FFC72C for the Cowboys."
+    "notes": "Wyoming Athletics' primary mark is the Bucking Horse & Rider (Steamboat), with approved configurations and strict clear-space/color rules; Pistol Pete is a separate identity. The licensing guide specifies Wyoming Brown and Gold (Pantone 476C and 123C) and requires licensing for products/services using protected marks. Direct asset still needs capture and visual inspection."
   },
   {
     "school_id": "air-force",
@@ -2086,9 +2086,9 @@
       "logo_source_page": "https://goairforcefalcons.com/documents/download/2024/3/21/AF_Athletics_Style_Guide.pdf",
       "usage_notes": "Air Force Athletics' style guide identifies the AF logomark as the primary athletics logo, the Bolt as secondary, and the Falcon as tertiary; AIR FORCE wordmark and sport-anchor variants are also specified. The guide is an excerpt of the governing brand guide and all new uses require USAFA Strategic Communications approval."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.usafa.edu/brand/logo/",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies Air Force Blue #0033A0 and White #FFFFFF for the Falcons."
+    "notes": "Air Force Athletics' style guide identifies the collegiate AF logomark as the primary athletics mark, with the AIR FORCE wordmark and Bolt as secondary marks and Falcon variations as tertiary. Secondary marks are restricted to Athletics; new uses require USAFA Strategic Communications approval. Blue and White remain the documented team palette; direct logo asset has not yet been captured and visually inspected."
   },
   {
     "school_id": "new-mexico",
@@ -2100,12 +2100,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://storage.googleapis.com/golobos-com/2021/07/34aeb1bc-unm-athletics-brand-guide.pdf",
+      "logo_source_page": "https://storage.googleapis.com/golobos-com/2024/06/64036f4f-unm_art_sheet_2024_v2.pdf",
       "usage_notes": "New Mexico Lobos Athletics' official 2021 art sheet defines the Lobos head marks as primary athletics marks and the NM university mark as a separate identity. Cherry #BA0C2F and Silver #A7A8AA are primary colors; Turquoise #007A86 is a restricted secondary accent requiring athletics approval. Reproduction requires university/licensing approval."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://golobos.com/sports/2018/7/6/ot-branding.aspx",
     "verification_status": "partial",
-    "notes": "Mountain West official style guide specifies New Mexico Cherry #BA0C2F and Silver #A7A8AA for the Lobos."
+    "notes": "UNM's 2024 official art sheet identifies the forward-facing Lobos wolf-head with LOBOS wordmark as the primary athletics mark. It removes the sideways-facing Lobo from retail use; that mark is internal-use only by case-by-case approval. Secondary marks include script Lobos and the NM monogram. Cherry #BA0C2F and Silver #A7A8AA remain the documented primary athletics colors; use is controlled by university licensing."
   },
   {
     "school_id": "new-mexico-state",
@@ -2120,9 +2120,9 @@
       "logo_source_page": "https://brand.nmsu.edu/logos-marks/athletics.html",
       "usage_notes": "NM State Athletics' primary mark is NM State Pete, with Pete Head and stacked NM State as secondary marks. Athletics Crimson differs from the university's general crimson; use the athletics-specific approved palette and do not stretch, recolor or alter marks. The Zia mark is restricted and may only be used within athletics under rights granted by Zia Pueblo; it is not for commercial use."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://brand.nmsu.edu/color/",
     "verification_status": "partial",
-    "notes": "NMSU's official core palette specifies Aggie Crimson #8C0B42 and White #FFFFFF; Desert Monsoon #6D6E71 is a tertiary accent, not a core color. Athletics has its own protected marks and a slightly different crimson treatment."
+    "notes": "NMSU Athletics' primary mark is NM State Pete, with Pete Head and stacked NM State as secondary marks. Athletics marks are protected and managed through Collegiate Licensing Company. The Zia mark is restricted by rights granted by Zia Pueblo and may not be used commercially. University core palette is Aggie Crimson #8C0B42 and White #FFFFFF; athletics crimson is a distinct shade and should not be assumed identical without its athletics specification."
   },
   {
     "school_id": "utep",
@@ -2134,12 +2134,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.utep.edu/marketing-and-communications/_Files/docs/visual-brand-guide.pdf",
+      "logo_source_page": "https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx",
       "usage_notes": "UTEP Athletics' primary identifier is the Paydirt Pete logo, with a miner-head-only alternate. Use signature UTEP Orange, Blue and Silver; the mark is limited to official UTEP Athletics purposes unless an exception is approved by the designated university officers. Do not alter it or use it for academic, business, official or legal communications."
     },
-    "brand_source_url": "https://storage.googleapis.com/themw-com/2024/08/0bac0033-mw-style-guide-8.16.24.pdf",
+    "brand_source_url": "https://www.utep.edu/marketing-and-communications/_Files/docs/visual-brand-guide.pdf",
     "verification_status": "partial",
-    "notes": "UTEP's official 2024 Visual Brand and Editorial Style Guide specifies Orange #FF8200, Blue #041E42 and Silver #B1B3B3."
+    "notes": "UTEP Athletics unveiled a refreshed Paydirt Pete identity on July 1, 2026, modernizing the mark while referencing the popular 1980s-era design. The January 2024 brand guide documents the previous Paydirt Pete primary/alternate marks and limits athletics-logo use to official Athletics purposes. Current 2026 logo file and any updated usage rules must be captured and checked before marking verified. Official team colors are Orange, Dark Blue and Silver."
   },
   {
     "school_id": "oregon",
