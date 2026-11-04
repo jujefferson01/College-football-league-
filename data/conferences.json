@@ -1,0 +1,236 @@
+[
+  {
+    "id": "northeast",
+    "name": "Northeast",
+    "school_ids": [
+      "boston-college",
+      "buffalo",
+      "army",
+      "navy",
+      "syracuse",
+      "temple",
+      "rutgers",
+      "penn-state",
+      "pittsburgh",
+      "uconn",
+      "delaware"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "mid-atlantic",
+    "name": "Mid-Atlantic",
+    "school_ids": [
+      "maryland",
+      "virginia",
+      "virginia-tech",
+      "west-virginia",
+      "james-madison",
+      "old-dominion",
+      "liberty",
+      "marshall",
+      "duke",
+      "north-carolina",
+      "nc-state",
+      "wake-forest"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "great-lakes",
+    "name": "Great Lakes",
+    "school_ids": [
+      "michigan",
+      "michigan-state",
+      "ohio-state",
+      "notre-dame",
+      "indiana",
+      "purdue",
+      "illinois",
+      "central-michigan",
+      "eastern-michigan",
+      "western-michigan",
+      "toledo",
+      "ball-state"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "ohio-valley",
+    "name": "Ohio Valley",
+    "school_ids": [
+      "cincinnati",
+      "louisville",
+      "kentucky",
+      "ohio",
+      "miami",
+      "bowling-green",
+      "akron",
+      "kent-state",
+      "western-kentucky",
+      "umass",
+      "middle-tennessee"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "southeast",
+    "name": "Southeast",
+    "school_ids": [
+      "alabama",
+      "auburn",
+      "georgia",
+      "georgia-tech",
+      "florida",
+      "florida-state",
+      "miami",
+      "clemson",
+      "south-carolina",
+      "tennessee",
+      "vanderbilt",
+      "ucf"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "atlantic-southeast",
+    "name": "Atlantic-Southeast",
+    "school_ids": [
+      "florida-atlantic",
+      "south-florida",
+      "fiu",
+      "coastal-carolina",
+      "charlotte",
+      "appalachian-state",
+      "east-carolina",
+      "georgia-southern",
+      "georgia-state",
+      "kennesaw-state",
+      "jacksonville-state"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "gulf-south",
+    "name": "Gulf South",
+    "school_ids": [
+      "lsu",
+      "arkansas",
+      "ole-miss",
+      "mississippi-state",
+      "southern-miss",
+      "tulane",
+      "louisiana",
+      "louisiana-tech",
+      "louisiana-monroe",
+      "arkansas-state",
+      "south-alabama",
+      "troy"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "texas",
+    "name": "Texas",
+    "school_ids": [
+      "texas",
+      "texas-aandm",
+      "baylor",
+      "tcu",
+      "smu",
+      "houston",
+      "oklahoma",
+      "oklahoma-state",
+      "tulsa",
+      "kansas",
+      "kansas-state",
+      "missouri-state"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "midwest-plains",
+    "name": "Midwest / Plains",
+    "school_ids": [
+      "iowa",
+      "iowa-state",
+      "nebraska",
+      "missouri",
+      "north-dakota-state",
+      "northern-illinois",
+      "memphis",
+      "uab",
+      "minnesota",
+      "wisconsin",
+      "northwestern"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "southwest",
+    "name": "Southwest",
+    "school_ids": [
+      "arizona",
+      "arizona-state",
+      "colorado",
+      "utah",
+      "byu",
+      "texas-state",
+      "rice",
+      "utsa",
+      "texas-tech",
+      "north-texas",
+      "sam-houston"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "mountain-west",
+    "name": "Mountain West",
+    "school_ids": [
+      "boise-state",
+      "utah-state",
+      "nevada",
+      "unlv",
+      "san-jose-state",
+      "colorado-state",
+      "wyoming",
+      "air-force",
+      "new-mexico",
+      "new-mexico-state",
+      "utep"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  },
+  {
+    "id": "pacific",
+    "name": "Pacific",
+    "school_ids": [
+      "oregon",
+      "washington",
+      "usc",
+      "ucla",
+      "california",
+      "stanford",
+      "oregon-state",
+      "washington-state",
+      "sacramento-state",
+      "hawaii",
+      "fresno-state",
+      "san-diego-state"
+    ],
+    "verification_status": "draft",
+    "notes": "Custom league alignment from the working project roster; not the schools' real-world 2026 conference affiliations."
+  }
+]
