@@ -707,11 +707,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://gozips.com/news/2022/5/9/general-university-of-akron-athletics-unveils-new-logo-and-unified-brand-identity",
-      "usage_notes": "Akron Athletics' May 2022 identity launch identifies the modern stylized A, with a companion Akron wordmark, as the principal athletics logo. Zips and mascot Zippy remain part of the wider identity. Follow the athletics brand guide; marks may not represent outside entities without direct written consent."
+      "usage_notes": "Akron Athletics' May 2022 identity launch explicitly calls the modern stylized A its new principal logo, with a companion Akron wordmark lockup. The official style guide provides detailed mark and sport-specific usage rules. The launch graphic was visually inspected, but it is a composite A + AKRON lockup rather than a standalone production asset; therefore this remains partial. Current athletics palette follows Akron Blue #041E42 and Akron Gold #A89968; Bright Blue #1E63AF is supporting."
     },
     "brand_source_url": "https://www.uakron.edu/im/resources/brand/Uakron2024BrandingGuidelines.pdf",
     "verification_status": "partial",
-    "notes": "University of Akron 2024 brand guide specifies Akron Blue #041E42 and Akron Gold #A89968 as primary colors; Bright Blue #1E63AF and Cream #FFF7E9 are secondary. Athletics mark asset and usage permissions remain to be reviewed."
+    "notes": "Confirmed current principal athletics identity is modern stylized A; companion A + AKRON lockup. Zippy and Zips remain identity elements but are not substitutes for principal A. Official 2022 launch graphic and brand guide reviewed; standalone primary A file not captured. Colors Akron Blue #041E42, Akron Gold #A89968, supporting Bright Blue #1E63AF. Outside use requires written Athletics consent."
   },
   {
     "school_id": "kent-state",
@@ -724,11 +724,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.kent.edu/ucm/kent-state-university-intercollegiate-athletics-logo",
-      "usage_notes": "Kent State identifies the Golden Flashes as the official varsity nickname and Flash the Golden Eagle as the official mascot. Athletics logos, nicknames and caricatures are reserved for Kent State Athletics; external licensing requests go through the Office of General Counsel."
+      "usage_notes": "Kent State's official intercollegiate athletics page identifies the Golden Flashes nickname and Flash the Golden Eagle mascot, and restricts athletics logos/nicknames/caricatures to Kent State Athletics or approved uses. Its linked 2022 logo setup image was opened and visually inspected; it is a composite standards board showing the K + eagle-head athletics logo in black/white, grayscale, one-color, two-color and four-color versions, not a standalone file. Keep this athletics mark distinct from university wordmark. Official colors Kent State Blue #003976 and Kent State Gold #EBAB21; supporting blue #2C8ECE."
     },
     "brand_source_url": "https://www.kent.edu/brand/logos",
     "verification_status": "partial",
-    "notes": "Kent State official brand standards specify Kent State Blue #003976 and Kent State Gold #EBAB21. The brand palette also includes supporting colors; the official athletics logo downloads are provided on the university logos page, with athletics mark use restricted to athletics or approved/licensed uses."
+    "notes": "Official 2022 athletics logo setup board visually inspected. It shows the K + eagle-head athletics mark in multiple approved color versions; composite board only, no standalone production file captured. Athletics logos are reserved for Athletics and approved licensed use. Official colors Kent State Blue #003976, Gold #EBAB21, supporting blue #2C8ECE."
   },
   {
     "school_id": "western-kentucky",
@@ -741,11 +741,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://wkusports.com/news/2013/4/12/Licensing_and_Logos",
-      "usage_notes": "WKU Athletics maintains an official logo sheet and uses CLC as its exclusive trademark licensing representative. Use of university marks on commercial products requires a license; obtain the current approved athletics artwork from WKU Athletics rather than relying on third-party logo repositories."
+      "usage_notes": "WKU Athletics' official history states that the Red Towel with WKU letters remains the primary athletics logo (originally adopted in 1971; current artwork revised in 2001). Big Red mascot artwork and the towel/state-outline variant are additional marks, not the primary identifier. The official logo sheet is linked by WKU but its direct asset was not retrievable in this pass; a 2024 football field source independently confirms the Red Towel primary logo remains at midfield. WKU licensing is administered through CLC. Red and White are longstanding school colors; exact current digital color values were not verified from an official current athletics guide."
     },
     "brand_source_url": "https://wku.edu/brand/",
     "verification_status": "partial",
-    "notes": "Official WKU brand resource located. Athletics palette and downloadable primary mark still need verification from an official WKU-hosted guide; third-party logo color sampling is not being treated as an official HEX specification."
+    "notes": "Corrected hierarchy: Red Towel with WKU letters is the primary athletics logo; Big Red mascot and towel/state-outline variant are additional marks. WKU Athletics official 2001 logo-family announcement and 2021 anniversary story support the identity; 2024 field source confirms Red Towel primary logo at midfield. Official current logo sheet link located but standalone image not captured. Do not invent HEX values; red/white are traditional colors, with gray/black used as supporting colors. CLC handles commercial licensing."
   },
   {
     "school_id": "umass",
@@ -758,11 +758,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://umassathletics.com/sports/2016/7/5/genrel-072303aaa-html",
-      "usage_notes": "UMass Athletics' identity program defines a primary mark combining the Minuteman logo and UMass wordmark, sport-specific logos, secondary marks and a style manual. The source identifies maroon (PMS 201) and white as official athletics colors, with Cool Gray 3 and black as accents. Confirm current approved artwork and usage terms with UMass Athletics."
+      "usage_notes": "UMass Athletics' official identity launch identifies its primary mark as a combined new-look Minuteman logo + UMass wordmark; sport-specific Massachusetts/UMass lockups and secondary marks are separate. The official guide is dated 2003 and presents a logo family on a composite sheet, not a standalone current file. The 2025–26 official UMass Hockey game notes still list Maroon #881C1C and White as team colors; Grey and Black are supporting colors in historic athletics identity guidance. The 2026 strategic vision says Athletics plans to further develop and standardize its visual identity, so current primary artwork should be reconfirmed before verification."
     },
     "brand_source_url": "https://www.umass.edu/brand/documents/umass-athletics-style-guide",
     "verification_status": "partial",
-    "notes": "UMass Athletics official style guide specifies Maroon #881C1C, Grey #B1B3B3, Black #27251F and White #FFFFFF. UMass announced a digital maroon refinement on July 31, 2026; the new exact value is on the Brand Colors page and should supersede this athletics guide value for new digital work once confirmed."
+    "notes": "Official 2003 Athletics launch establishes combined Minuteman + UMass wordmark as primary; sport-specific wordmarks and secondary marks are distinct. No standalone current asset captured; 2026 strategic vision signals future identity standardization, so do not treat old composite artwork as verified current asset. Current 2025–26 athletics notes list Maroon #881C1C and White; Grey/Black supporting."
   },
   {
     "school_id": "middle-tennessee",
@@ -773,13 +773,13 @@
       "accent": "#F0F0F0"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://goblueraiders.com/documents/download/2025/6/5/mt_athletic_brand_guide_2025.pdf",
-      "usage_notes": "Middle Tennessee Athletics' 2025 Brand Guide documents official athletics marks, brand colors and verbiage. Athletics identifies its primary mark as a flying horse with a lightning bolt above a blue MT. The guide distinguishes digital/non-apparel blue (#0066CC) from apparel royal blue (#004EA8); follow the official guide and licensing rules."
+      "primary_mark_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/mtsu.sidearmsports.com/images/2022/11/2/MT_primary_nYkBz.png",
+      "logo_source_page": "https://goblueraiders.com/sports/2018/10/18/middle-tennessee-logos",
+      "usage_notes": "The official January 2025 Middle Tennessee Athletics Brand Guide explicitly names the Blue Raider logo as the primary representation and main identifying device for Athletics (guide page 2). The primary mark is interlocking MT lettering with the flying horse/lightning graphic; secondary logo is separately limited. The official athletics logos page links the high-resolution Primary Logo PNG, which was opened and visually inspected. Verified direct standalone asset. Digital/non-apparel Blue #0066CC and White #FFFFFF are primary; Pewter #F0F0F0 and Black are secondary. Apparel and Nike uniform blues have separate specifications; do not interchange."
     },
     "brand_source_url": "https://goblueraiders.com/documents/download/2025/6/5/mt_athletic_brand_guide_2025.pdf",
-    "verification_status": "partial",
-    "notes": "2025 Middle Tennessee Athletics brand guide specifies Digital & Non-Apparel Blue RGB 0/102/204 (#0066CC), White, Pewter RGB 240/240/240 (#F0F0F0) and Black. Apparel and Nike uniform blues have separate specifications. Official athletics marks must not be altered; use requires compliance with the guide."
+    "verification_status": "verified",
+    "notes": "Verified direct standalone official PNG linked as Primary Logo from Middle Tennessee Athletics' logos page and visually inspected. January 2025 guide explicitly identifies Blue Raider mark (interlocking MT + flying horse/lightning) as primary athletics identifier. Digital/non-apparel Blue #0066CC and White #FFFFFF primary; Pewter #F0F0F0 and Black secondary. Apparel/Nike uniform blues have separate specs. Do not alter mark."
   },
   {
     "school_id": "alabama",
@@ -791,12 +791,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://rolltide.com/documents/download/2018/6/28/alabama-logos.pdf",
-      "usage_notes": "The University of Alabama's official logo sheet (revision dated January 30, 2025) documents the Crimson Tide's protected marks and brand palette. The older official trademark mark sheet classifies the Script A as a primary mark and elephant-head combinations as secondary. Do not infer that every institutional Script A lockup is an athletics-specific logo; confirm the exact athletics-approved artwork with Alabama Trademark Licensing."
+      "logo_source_page": "https://rolltide.com/sports/2016/6/10/licensing-enforcement-html",
+      "usage_notes": "Alabama's official university brand guide identifies the stacked University of Alabama wordmark as the institution's primary logo and calls the Capstone A (Script A in square) a secondary university mark. This institutional hierarchy cannot be used to infer the exact primary athletics mark. Alabama Athletics licensing materials treat University indicia and elephant imagery as protected; official Athletics sources document the Script A and elephant associations, but no current standalone primary athletics logo asset or explicit athletics primary hierarchy was confirmed in this pass. Keep Script A and elephant/Big Al imagery distinct pending an athletics-specific current guide. No direct asset captured."
     },
     "brand_source_url": "https://brand.ua.edu/colors/",
     "verification_status": "partial",
-    "notes": "University brand guide lists Crimson Flame #9E1B32, Capstone Gray #828A8F and Victory White #FFFFFF as primary colors. Secondary palette restrictions apply; black is not a primary color element."
+    "notes": "Important distinction: university-wide primary wordmark is stacked THE UNIVERSITY OF ALABAMA; Capstone A/Script A is a secondary university mark. This does not establish the primary athletics mark. Alabama Athletics sources document Script A and elephant associations, but exact current athletics primary hierarchy and standalone approved asset remain unconfirmed. Crimson Flame #9E1B32, Capstone Gray #828A8F, Victory White #FFFFFF are university palette values. Marks protected by trademark/licensing."
   },
   {
     "school_id": "auburn",
