@@ -1782,7 +1782,7 @@
     },
     "brand_source_url": "https://arizonawildcats.com/sports/2013/4/18/208236680",
     "verification_status": "partial",
-    "notes": "Arizona Athletics identifies Navy Blue and Red as official colors. The primary mark is the block A; the desert landscape/cactus mark is an athletics-exclusive identity. Exact current digital HEX specifications need confirmation from the current athletics brand guide."
+    "notes": "Arizona's official identity guidance identifies the Block A as a core university mark and the Wildcat Face as a distinct athletics mark. The Wildcat Face has restricted approved color combinations; vintage marks are not for general institutional use. The current primary athletics asset has not yet been directly captured and visually inspected."
   },
   {
     "school_id": "arizona-state",
@@ -1797,9 +1797,9 @@
       "logo_source_page": "https://brandguide.asu.edu/elements-guidelines/logos/spirit",
       "usage_notes": "Sun Devil Athletics uses its official athletics pitchfork as a primary athletics symbol; Sparky is a separate spirit mark. Athletics logos, fonts, colors and spirit marks are restricted to Sun Devil Athletics and Brand Council approval. Do not substitute the general university Sunburst logo for the athletics mark."
     },
-    "brand_source_url": "https://brandguide.asu.edu/elements-guidelines/unit-specific/athletics",
+    "brand_source_url": "https://brandguide.asu.edu/brand-elements/unit-specific/athletics",
     "verification_status": "partial",
-    "notes": "ASU official brand standards specify Maroon #8C1D40, Gold #FFC627, Black #000000 and White #FFFFFF as primary colors. Athletics pitchfork and Sun Devil Bold are exclusive to Sun Devil Athletics; Sparky has strict approved-use rules."
+    "notes": "Sun Devil Athletics identifies the athletics pitchfork as its current primary athletics mark (in use since the 2011–12 season); Sparky is a separate spirit mark. Athletics pitchfork, font and marks are reserved for Sun Devil Athletics and Brand Council approval. Official palette: Maroon #8C1D40, Gold #FFC627, Black #000000 and White #FFFFFF."
   },
   {
     "school_id": "colorado",
@@ -1816,7 +1816,7 @@
     },
     "brand_source_url": "https://www.colorado.edu/brand/color",
     "verification_status": "partial",
-    "notes": "CU Boulder official brand palette specifies CU Gold #CFB87C, Black #000000 and White #FFFFFF. Athletics Buffalo marks are distinct from the university's institutional identity and remain controlled marks."
+    "notes": "Colorado Athletics' official art sheet lists the Buffalo/OU and CU marks among its primary marks, with Colorado Buffaloes, Colorado, Buffs and Ralphie wordmarks. CU Boulder brand colors are CU Gold #CFB87C, Black #000000 and White #FFFFFF. Marks are controlled and use requires written approval through licensing."
   },
   {
     "school_id": "utah",
@@ -1828,12 +1828,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://utahutes.com/documents/download/2023/8/23/ATH_2023-24_Branding_Guide.pdf",
+      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/utahutes.com/documents/2023/8/23/ATH_2023-24_Branding_Guide.pdf",
       "usage_notes": "Utah Athletics' 2023–24 brand guide documents the Block U logo and official UTAH, UTES, UNIVERSITY OF UTAH and GO UTES wordmarks. The university also protects the interlocking U, circle-and-feather and related Utes marks; follow licensing and trademark approval requirements."
     },
     "brand_source_url": "https://utahutes.com/sports/2017/6/13/utah-athletics-branding",
     "verification_status": "partial",
-    "notes": "Utah Athletics brand guide documents Utah Red, White, Black and Grey. Published guide values include Red RGB 190,0,0 (#BE0000) and Grey RGB 115,114,113 (#737271); current athletics quick facts list Red and White as team colors."
+    "notes": "Utah Athletics' 2023–24 branding guide documents the Block U and official athletics wordmarks. Published guide values include Utah Red #BE0000 and Grey #737271; team colors are Red and White. University trademarks including the Block U and Circle-and-Feather require licensing approval."
   },
   {
     "school_id": "byu",
@@ -1850,7 +1850,7 @@
     },
     "brand_source_url": "https://brand.byu.edu/colors",
     "verification_status": "partial",
-    "notes": "BYU official brand standards specify BYU Blue #002E5D and White #FFFFFF. The Y mark is a protected institutional identifier; athletics asset and licensing details require review."
+    "notes": "BYU's official brand standards identify the BYU monogram/Y as a protected institutional mark and specify BYU Navy #002E5D and White #FFFFFF. Use official supplied artwork; do not recreate or alter the monogram. Athletics-specific asset access and licensing still require confirmation."
   },
   {
     "school_id": "texas-state",
@@ -1862,12 +1862,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://txst.com/news/2017/8/1/general-announcing-the-txst-logo",
+      "logo_source_page": "https://txst.com/sports/2010/7/29/GEN_0729105908.aspx?path=sp",
       "usage_notes": "Texas State Athletics' historic primary identity used the Texas State typeface/logo, with the SuperCat as a key athletics mark; the TXST mark was introduced as an additional university identity in 2017. Official colors are Maroon (Pantone 504) and Metallic Gold (Pantone 872); use official logo-sheet artwork and comply with licensing requirements."
     },
-    "brand_source_url": "https://www.txst.edu/brand-guidelines/colors.html",
+    "brand_source_url": "https://brand.txst.edu/visual-identity/colors.html",
     "verification_status": "partial",
-    "notes": "Texas State official brand palette specifies Maroon #501214, Gold #8D734A and White #FFFFFF. Official logo standards document the Bobcat head and university marks."
+    "notes": "Texas State Athletics identifies the Bobcat as its official athletic mascot and Maroon and Metallic Gold as school colors. Current university brand guidance specifies Maroon #501214, Dark Gold #AC9155 and Bright Gold #D7BD8A; the existing accent #FFFFFF is retained as a neutral. The university's current TXST logo system is distinct from historic athletics marks. Direct athletics artwork has not been captured and visually inspected."
   },
   {
     "school_id": "rice",
