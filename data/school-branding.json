@@ -2145,137 +2145,137 @@
     "school_id": "oregon",
     "school_name": "Oregon",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#007030",
+      "secondary": "#FEE11A",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://communications.uoregon.edu/uo-brand/visual-identity/colors",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://communications.uoregon.edu/uo-brand/visual-identity/colors",
+    "verification_status": "partial",
+    "notes": "University of Oregon brand guide specifies UO Green #007030 and UO Yellow #FEE11A as primary colors; Obsidian #000000 is a secondary color. Primary colors must remain present in visual compositions."
   },
   {
     "school_id": "washington",
     "school_name": "Washington",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#33006F",
+      "secondary": "#E8D3A2",
+      "accent": "#D8D9DA"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://gohuskies.com/documents/download/2024/4/4/Week_8B_-_USC.pdf",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://gohuskies.com/documents/download/2024/4/4/Week_8B_-_USC.pdf",
+    "verification_status": "partial",
+    "notes": "Washington Athletics style guide lists Husky Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C and Gray #D8D9DA. Athletics purple differs from upper-campus purple."
   },
   {
     "school_id": "usc",
     "school_name": "USC",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#990000",
+      "secondary": "#FFCC00",
+      "accent": "#000000"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://identity.usc.edu/identity/color/",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://identity.usc.edu/identity/color/",
+    "verification_status": "partial",
+    "notes": "USC official brand guide specifies Cardinal #990000 and Gold #FFCC00; black and white are secondary colors. Approved color combinations and licensed vendor rules apply."
   },
   {
     "school_id": "ucla",
     "school_name": "UCLA",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#2774AE",
+      "secondary": "#FFD100",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.ucla.edu/identity/colors",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.ucla.edu/identity/colors",
+    "verification_status": "partial",
+    "notes": "UCLA official brand guide specifies UCLA Blue #2774AE and UCLA Gold #FFD100. Blue should carry greater visual weight; athletics merchandise color standards are separately administered."
   },
   {
     "school_id": "california",
     "school_name": "California",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#002676",
+      "secondary": "#FDB515",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://brand.berkeley.edu/visual-identity/colors/",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://brand.berkeley.edu/visual-identity/colors/",
+    "verification_status": "partial",
+    "notes": "UC Berkeley brand guide specifies Berkeley Blue #002676 and California Gold #FDB515, with white. The guide notes Pantone specifications have been rolled back pending resolution of color variation; HEX palette is documented."
   },
   {
     "school_id": "stanford",
     "school_name": "Stanford",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#8C1515",
+      "secondary": "#FFFFFF",
+      "accent": "#2E2D29"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://identity.stanford.edu/design-elements/color/primary-colors/",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://identity.stanford.edu/design-elements/color/primary-colors/",
+    "verification_status": "partial",
+    "notes": "Stanford official identity guide specifies Cardinal #8C1515, White #FFFFFF, Black #2E2D29 and Cool Gray #53565A. University-approved logo colors and licensed vendor matching rules apply."
   },
   {
     "school_id": "oregon-state",
     "school_name": "Oregon State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#D73F09",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://osubeavers.com/sports/2008/6/16/207829988",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://osubeavers.com/sports/2008/6/16/207829988",
+    "verification_status": "partial",
+    "notes": "Oregon State Athletics identifies the Beaver logo as its primary athletics mark; the OS logo is secondary and restricted to fields of play and retail. Orange and black are the school identity colors; exact current HEX palette should be reconfirmed against a current brand guide."
   },
   {
     "school_id": "washington-state",
     "school_name": "Washington State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#981E32",
+      "secondary": "#5E6A71",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://trademarks.wsu.edu/university-marks/",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://trademarks.wsu.edu/university-marks/",
+    "verification_status": "partial",
+    "notes": "WSU trademark page identifies Crimson (Pantone 201) and Dark Gray (Pantone 7540) as primary, with red, black and white in the protected mark palette. HEX conversions not supplied on this page; values here are provisional digital references, not source-confirmed HEX."
   },
   {
     "school_id": "sacramento-state",
@@ -2287,62 +2287,62 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://www.csus.edu/brand/essentials.html",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://www.csus.edu/brand/essentials.html",
+    "verification_status": "partial",
+    "notes": "Sacramento State official brand center confirms Sac State Green and Sac State Gold as primary colors and provides official primary-logo downloads. Exact HEX values were not captured from the accessible source page; intentionally left null pending extraction from the style guide."
   },
   {
     "school_id": "hawaii",
     "school_name": "Hawaii",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#024731",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://manoa.hawaii.edu/brand/brand-elements/typography-colors.php",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://manoa.hawaii.edu/brand/brand-elements/typography-colors.php",
+    "verification_status": "partial",
+    "notes": "UH Mānoa brand guide specifies Mānoa Green #024731 as primary and Kelly Green #009A44 as secondary. University materials identify athletics colors as green, white, black and silver; use the athletics H marks only with Athletics approval."
   },
   {
     "school_id": "fresno-state",
     "school_name": "Fresno State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C41230",
+      "secondary": "#13284C",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://marcomm.fresnostate.edu/color.html",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://marcomm.fresnostate.edu/color.html",
+    "verification_status": "partial",
+    "notes": "Fresno State official brand guide specifies Cardinal Red #C41230 and Blue #13284C as primary colors, with Cool Gray #CED1D4 and White #FFFFFF. The four-paw Bulldog is the primary athletics mark; use requires approval."
   },
   {
     "school_id": "san-diego-state",
     "school_name": "San Diego State",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#C41230",
+      "secondary": "#000000",
+      "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": null,
-      "usage_notes": "Official athletics mark URL and usage permissions not yet reviewed."
+      "logo_source_page": "https://goaztecs.com/news/2013/05/02/sdsu-unveils-brand-refresh-and-new-football-uniforms",
+      "usage_notes": "Official brand guidance is documented. Use approved original school/athletics artwork only; commercial use and reproduction may require institutional trademark or licensing approval."
     },
-    "brand_source_url": null,
-    "verification_status": "needs_review",
-    "notes": "Awaiting official school or athletics brand standards source."
+    "brand_source_url": "https://goaztecs.com/news/2013/05/02/sdsu-unveils-brand-refresh-and-new-football-uniforms",
+    "verification_status": "partial",
+    "notes": "SDSU Athletics identifies Scarlet and Black as school colors and the interlocking SD spear as the main athletic mark. A 2025 identity expansion introduced glyphs with cultural consultation; confirm exact current color specifications and mark usage with Athletics."
   }
 ]
