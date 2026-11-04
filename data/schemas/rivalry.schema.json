@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Protected rivalry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "school_a_id", "school_b_id", "annual", "game_type", "verification_status"],
+  "properties": {
+    "id": { "type": "string" },
+    "school_a_id": { "type": "string" },
+    "school_b_id": { "type": "string" },
+    "annual": { "type": "boolean", "const": true },
+    "game_type": { "enum": ["conference", "nonconference"] },
+    "home_away_rule": { "enum": ["alternate", "fixed", "neutral", "to_be_determined"] },
+    "verification_status": { "enum": ["draft", "needs_review", "verified"] },
+    "notes": { "type": "string" }
+  }
+}
