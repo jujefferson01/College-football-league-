@@ -807,13 +807,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://licensing.auburn.edu/wp-content/uploads/2020/02/Standard1.jpg",
       "logo_source_page": "https://licensing.auburn.edu/brand-elements/",
-      "usage_notes": "Auburn Trademark Management & Licensing identifies the interlocking AU as the primary logo, with Tiger Eyes as a secondary spirit mark and official Auburn Tigers athletics wordmarks. Use the appropriate approved background/color variant; do not substitute Tiger Eyes for the primary mark. Marks are protected and use is subject to licensing."
+      "usage_notes": "Auburn Trademark Management & Licensing explicitly labels the interlocking AU as Auburn University's primary logo and provides approved background/color variants. The direct official Standard1.jpg was opened and visually inspected; it is the navy interlocking AU with orange outline. Tiger Eyes is explicitly secondary spirit mark; Auburn Tigers copperplate wordmark and football helmet mark are distinct approved assets. Verified direct standalone official mark. Auburn Blue #0C2340 and Auburn Orange #F26522 are official athletics colors; licensing restrictions apply."
     },
     "brand_source_url": "https://auburntigers.com/traditions-about-auburn",
-    "verification_status": "partial",
-    "notes": "Official athletics page lists Auburn Athletics HEX orange #F26522 and blue #0C2340 (the university page also distinguishes official PMS references). Auburn Licensing identifies the interlocking AU as the primary logo."
+    "verification_status": "verified",
+    "notes": "Verified direct standalone official Interlocking AU Primary Mark PNG/JPG from Auburn Trademark Management & Licensing, opened and visually inspected. The official page distinguishes Tiger Eyes as a secondary spirit mark. Palette: Auburn Blue #0C2340 and Orange #F26522. This primary AU symbol is used across the university/athletics identity; other athletics wordmarks and helmet mark remain distinct. Trademark use is subject to licensing."
   },
   {
     "school_id": "georgia",
@@ -825,12 +825,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://georgiadogs.com/documents/2026/3/16/GG_BrandManual_online26.pdf",
-      "usage_notes": "Georgia Athletics' 2026 Brand Manual and February 2025 Logo Guide define official primary marks, Bulldog marks, wordmarks and lockups. Use the exact artwork and approved background/color treatments; do not typeset or reconstruct custom wordmarks. Athletics marks are protected and require approval for external use."
+      "logo_source_page": "https://georgiadogs.com/documents/download/2026/3/16/GG_BrandManual_online26.pdf",
+      "usage_notes": "The current 2026 Georgia Bulldogs Brand Manual identifies the bulldog-head graphic as the PRIMARY MARK and documents primary one-color variations (PDF page 26). Custom Georgia and Bulldogs wordmarks are a separate identity system and cannot be recreated by typesetting. The primary mark was visible in the guide's composite reference panel but no direct standalone asset was captured/opened. Colors: Bulldog Red #BA0C2F, Black #000000, UGA Silver #5D6770. Athletics marks are protected; external use requires permission."
     },
     "brand_source_url": "https://brand.uga.edu/wp-content/uploads/UGA-logoguide_V2.pdf",
     "verification_status": "partial",
-    "notes": "February 2026 UGA internal athletics logo guide lists Bulldog Red #BA0C2F, Black #000000 and UGA Silver #5D6770 as approved colors. The guide states marks are UGA intellectual property and require prior written consent."
+    "notes": "Updated to current 2026 Athletics Brand Manual. Bulldog head is explicitly labeled PRIMARY MARK (page 26); custom Georgia/Bulldogs wordmarks are distinct. Guide reference board reviewed, but no standalone asset captured, so partial. Colors Bulldog Red #BA0C2F, Black #000000, UGA Silver #5D6770. UGA marks are protected and require prior written consent."
   },
   {
     "school_id": "georgia-tech",
@@ -843,11 +843,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://gtathl.com/about/",
-      "usage_notes": "Georgia Tech Athletics identifies the interlocking GT, in its approved white-and-gold interior treatment, as the official and most recognized athletics mark. White and gold are the defining colors, with navy as a complementary color. The outlined GT is athletics-specific; do not use institutional logo assets as a substitute for the athletics identity. Confirm current artwork and licensing restrictions with GT Athletics."
+      "usage_notes": "Georgia Tech Athletics' official 2018 brand refinement identifies the interlocking GT as Athletics' most recognizable mark and says Buzz becomes a secondary mark that must not solely represent Athletics. Athletics GT versions are outlined and differ from the institutional primary GT+Georgia Tech wordmark; outlined GT is Athletics-exclusive. Official Athletics primary colors are Tech Gold and White; Navy is secondary. The Athletics art sheet is linked but direct artwork is not accessible in this pass; the Institute logo downloads require GT login."
     },
     "brand_source_url": "https://gtathl.com/",
     "verification_status": "partial",
-    "notes": "Official Georgia Tech Athletics brand page documents white and gold as defining colors, with navy as a complementary color, and identifies the interlocking GT as the official athletics logo. Exact current HEX values not established in this source."
+    "notes": "Clarified logo hierarchy: Athletics' recognizable interlocking GT is the primary athletics mark; outlined GT variants are athletics-specific. Buzz is explicitly secondary and cannot represent Athletics alone. Do not substitute institution's primary GT + Georgia Tech wordmark for athletics-specific art. Official Athletics primary colors Tech Gold and White; Navy secondary. Art sheet download inaccessible; exact HEX not verified."
   },
   {
     "school_id": "florida",
@@ -859,12 +859,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://floridagators.com/sports/2022/4/5/creative-services",
-      "usage_notes": "Florida Athletics' Creative Media and Branding team manages and protects the Gators brand. The official licensing guidance requires approval for use of university trademarks and logos. The alligator-head logo is confirmed as an established athletics mark, but the current primary athletics lockup and approved artwork should be confirmed with Florida Athletics/Trademark Licensing."
+      "logo_source_page": "https://floridagators.com/news/2012/8/8/23587",
+      "usage_notes": "Florida Athletics' official history identifies the Gator Head as its primary mark: the athletics administrator said the primary mark belonged at midfield, and the 2019 anniversary history confirms the current Gator Head was unveiled in 1994 and unified the athletics programs. A 2012 field story is historical evidence for the hierarchy, not a direct logo asset; no standalone current artwork was captured. Official UF core colors Orange #FA4616 and Blue #0021A5; White supporting."
     },
     "brand_source_url": "https://brandcenter.ufl.edu/colors/",
     "verification_status": "partial",
-    "notes": "University of Florida Brand Center lists Core Orange #FA4616 and Core Blue #0021A5 as core colors; White is also part of the core presentation. Athletics-specific logo asset and use permissions still need review."
+    "notes": "Gator Head is the established primary athletics mark. Official 2012 athletics story explicitly calls it the primary mark; 2019 history records the current logo's 1994 introduction and broad adoption across sports. No standalone approved current asset captured, so partial. UF core Orange #FA4616 and Blue #0021A5, White supporting. Licensing approval required."
   },
   {
     "school_id": "florida-state",
@@ -876,12 +876,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://seminoles.com/documents/2025/7/2/2025_FSU_Athletics_Brand_Book.pdf",
-      "usage_notes": "Florida State Athletics' 2025 Brand Book identifies the Seminole Head as a central athletics mark and documents additional FSU monograms, spearhead and wordmarks. Athletic marks are for official use only and require approval through the Office of Trademark Licensing. Do not alter, skew, rotate, recolor or overlay the Seminole Head."
+      "logo_source_page": "https://seminoles.com/documents/download/2025/7/2/2025_FSU_Athletics_Brand_Book.pdf",
+      "usage_notes": "The 2025 FSU Athletics Brand Book explicitly identifies the Seminole Head as the primary representation and main identifying device for Florida State Athletics (PDF page 8). The FSU ligature supports the primary mark; the spear and helmet art are separate marks, and helmet art is primarily retail/decorative. The Seminole Head was visually inspected in the guide's approved colorway board, but no standalone direct asset captured. Official palette: Garnet #782F40, Gold #CEB888, White #FFFFFF, Black #101820; Metallic Gold #85714D limited-use. Tribal imagery policies require respectful representation and all marks require licensing approval."
     },
     "brand_source_url": "https://seminoles.com/documents/download/2025/7/2/2025_FSU_Athletics_Brand_Book.pdf",
     "verification_status": "partial",
-    "notes": "2025 FSU Athletics Brand Book lists FSU Garnet #782F40, FSU Gold #CEB888 and White #FFFFFF as primary colors. Black #101820 is also specified; Metallic Gold #85714D is limited-use."
+    "notes": "2025 Athletics Brand Book confirms Seminole Head as primary athletics identifier (page 8). FSU ligature supports the primary mark; helmet art is decorative/retail, not the primary identifier. Composite guide board visually inspected, no standalone asset captured. Palette Garnet #782F40, Gold #CEB888, White #FFFFFF, Black #101820; Metallic Gold #85714D limited-use. Respectful tribal imagery policies and licensing approval apply."
   },
   {
     "school_id": "miami-fl",
@@ -893,12 +893,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://miamihurricanes.com/brand-guidelines/",
-      "usage_notes": "Miami Hurricanes Athletics' official brand guidelines govern its athletics marks and approved color treatments. Use the current official athletics logo artwork and follow university trademark/licensing restrictions; do not substitute the general University of Miami institutional identity for the Hurricanes athletics mark."
+      "logo_source_page": "https://miamihurricanes.com/news/2000/04/13/205550764-2",
+      "usage_notes": "Miami Athletics' official history states the orange-and-green Split-U was commissioned by the Athletic Federation and originated in 1973 as the distinctive athletics logo; the university later adopted it institution-wide in 2009. The Split-U is the primary athletics identifier, not the Sebastian the Ibis mascot. The 2000 official logo specifications list Miami Orange Pantone 1665, Miami Green Pantone 3435, Miami Storm Pantone 432 and Miami Grey Pantone 429; the exact current digital values were not available in the official sources reviewed. The 2024 color refresh reported by third-party logo archives is not used to populate unverified HEX values. No standalone current asset captured."
     },
     "brand_source_url": "https://miamihurricanes.com/news/2000/04/13/205550764-2",
     "verification_status": "partial",
-    "notes": "Official Miami Hurricanes logo specifications identify Miami Orange (Pantone 1665), Miami Green (Pantone 3435), Miami Storm (Pantone 432) and Miami Grey (Pantone 429). Exact official HEX values were not provided in the located athletics source, so HEX fields remain null. Current athletics coverage confirms the orange-and-green U is a signature mark."
+    "notes": "Split-U confirmed as primary athletics identity, originally commissioned by Athletics in 1973 and later adopted university-wide in 2009. The 2000 official logo specifications list Miami Orange Pantone 1665, Green Pantone 3435, Storm Pantone 432 and Grey Pantone 429. The brand-guidelines page was not accessible and no current direct standalone asset was captured; no unsupported HEX values entered. Sebastian is mascot, not primary mark. Trademark restrictions apply."
   },
   {
     "school_id": "clemson",
