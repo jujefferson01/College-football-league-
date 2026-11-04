@@ -1499,18 +1499,18 @@
     "school_id": "oklahoma-state",
     "school_name": "Oklahoma State",
     "colors": {
-      "primary": "#FE5C00",
+      "primary": "#FA6400",
       "secondary": "#000000",
       "accent": "#FFFFFF"
     },
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.okstate.edu/branding-guidelines/logos-and-marks/logo-usage-specifications",
-      "usage_notes": "Oklahoma State's official brand standards distinguish institutional logos from athletics marks. The OSU brand mark and Pistol Pete athletics identity are protected; use approved files without modification and follow university trademark licensing requirements."
+      "usage_notes": "Oklahoma State's current official brand guidance identifies the OSU Brand mark (the cattle-brand-style OSU symbol) as the primary mark, adopted across all campuses, colleges, departments and units in 2019. It originated on the football helmet in 1973 and is the focal point of Athletics branding. Pistol Pete is explicitly a spirit symbol and may accompany but must not replace the primary logo; interlocking OS is restricted to baseball traditions. Official palette: Orange #FA6400 (Pantone 021), Black #000000, White #FFFFFF. The primary mark is shown on the official page as reference artwork, but no direct standalone asset file was captured."
     },
     "brand_source_url": "https://brand.okstate.edu/branding-guidelines/colors",
     "verification_status": "partial",
-    "notes": "Official OSU brand standards specify Orange #FE5C00, Black #000000 and White #FFFFFF. The 2019 unified OSU brand is the primary mark; orange and black must remain dominant."
+    "notes": "Corrected orange from #FE5C00 to official #FA6400 (RGB 250,100,0; Pantone 021). Primary is OSU Brand/cattle-brand symbol; Pistol Pete is a spirit mark and must not replace it; interlocking OS is sport/tradition-specific. The 2019 mark is unified across university and athletics. Official guidance inspected; no standalone direct asset captured."
   },
   {
     "school_id": "tulsa",
@@ -1522,29 +1522,29 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://tulsahurricane.com/documents/2026/1/29/Tulsa_StyleGuide_26.pdf",
-      "usage_notes": "Tulsa Athletics' 2026 style guide documents official Hurricane marks, wordmarks, colors and sport-specific identity rules. Use approved original artwork and color variants without alteration; follow trademark and licensing requirements."
+      "logo_source_page": "https://tulsahurricane.com/news/2021/12/17/tulsa-hurricane-tulsa-logo-is-start-of-rebranding-campaign",
+      "usage_notes": "Tulsa Athletics' official December 2021 rebrand announcement explicitly identifies the primary logo as Script Tulsa + Hurricane Flag, with blue and gold script variants selected according to background. The announcement says royal blue and old gold are the primary colors and the Script Tulsa/Hurricane Flag is the core identity. The current 2026 Athletics Style Guide is posted at https://tulsahurricane.com/documents/2026/1/29/Tulsa_StyleGuide_26.pdf, but the document endpoint did not render the PDF content in this review, so no hierarchy changes or standalone current artwork were independently confirmed from it. Current digital palette from the 2026 guide record: Blue #003595, Red #CE0E2D, Black #000000, Flat Gold #D0B787; confirm primary vs support treatment against accessible guide. No standalone file captured."
     },
     "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/tulsahurricane.com/documents/2026/1/29/Tulsa_StyleGuide_26.pdf?timestamp=20260129051643",
     "verification_status": "partial",
-    "notes": "Official 2026 Tulsa brand guide specifies primary Blue #003595, Red #CE0E2D and Black #000000, plus Flat Gold #D0B787 and a metallic gold option without HEX. Tulsa Athletics' rebrand announcement identifies traditional royal blue and old gold as core colors and Script Tulsa + Hurricane Flag as the primary athletics identity."
+    "notes": "Official 2021 rebrand announcement confirms primary athletics logo is Script Tulsa + Hurricane Flag; blue/gold script variants are background-dependent. Royal blue and old gold are core primary colors. Current 2026 style guide link exists but did not render its contents in this review; 2026 color values recorded from guide reference pending detailed visual verification. No standalone asset captured."
   },
   {
     "school_id": "kansas",
     "school_name": "Kansas",
     "colors": {
-      "primary": null,
-      "secondary": null,
-      "accent": null
+      "primary": "#0051BA",
+      "secondary": "#E8000D",
+      "accent": "#FFC82D"
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://kuathletics.com/sports/2024/8/14/ku-athletics-brand-guidelines",
-      "usage_notes": "Kansas Athletics' official identity guidelines govern the Jayhawk athletics mark, KU interlocking mark and wordmarks. Use the athletics-specific Jayhawk artwork, not the institutional university marks; preserve official proportions and colors and follow licensing restrictions."
+      "logo_source_page": "https://brand.ku.edu/guidelines/design/official-marks",
+      "usage_notes": "KU's official Brand Center identifies the current complete Jayhawk as an official mark and states the complete Jayhawk carries the university's greatest brand equity; the Jayhawk head and Beak 'em Hawk are official but must be used sparingly. The university signature and KU logo are academic/institutional marks, not interchangeable with the athletics Jayhawk. The three-color Jayhawk is preferred; use registered mark, approved variants and clear space. Official primary colors Kansas Blue #0051BA (PMS 293) and Crimson #E8000D (PMS 186); Jayhawk Yellow #FFC82D is a supporting color in the mark. Public KU pages provide reference artwork and request access, not a direct downloadable production file. No direct standalone asset captured."
     },
     "brand_source_url": "https://brand.ku.edu/guidelines/design/official-marks",
     "verification_status": "partial",
-    "notes": "Official KU brand standards confirm Crimson and Blue as primary identity colors and document approved KU and Jayhawk mark colorways. Exact HEX values not included in the retrieved official mark page; left null pending palette page extraction."
+    "notes": "Clarified that the complete current Jayhawk is the central identity mark; Jayhawk head and Beak 'em Hawk are sparing-use alternatives. The three-color Jayhawk is preferred. KU logo and university signature are institutional marks, not substitutes for the athletics Jayhawk. Colors Kansas Blue #0051BA, Crimson #E8000D, supporting Jayhawk Yellow #FFC82D. Artwork is request-controlled; no direct production asset captured."
   },
   {
     "school_id": "kansas-state",
@@ -1556,12 +1556,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.kstatesports.com/documents/download/2023/12/4/BrandingGuide-2023-24.pdf",
-      "usage_notes": "Kansas State Athletics' 2023–24 Brand Guide documents the Powercat as the primary athletics mark and defines secondary marks, wordmarks, approved colors and use rules. Use official approved artwork without alteration; follow licensing and trademark requirements."
+      "logo_source_page": "https://www.kstatesports.com/documents/download/2025/11/25/BrandingGuide-2025-26.pdf",
+      "usage_notes": "The current 2025–26 K-State Athletics Branding Identity Guide (the old 2023–24 URL redirects to this current edition) explicitly labels the Powercat as PRIMARY LOGO (page 3). K-State Purple #330A57 is the official primary digital color; Dark Gray #A7A9AC and Light Gray #E2E3E4 are additional approved primary palette colors. Wordmarks and Powercat/wordmark lockups are secondary. K-State Athletics Communications lists direct Powercat JPEG and PNG downloads, but the PNG image request redirected through an image conversion service that returned an inaccessible error in this review; therefore no standalone asset was visually inspected. The Powercat itself is confirmed primary, but status remains partial."
     },
     "brand_source_url": "https://www.kstatesports.com/documents/download/2023/12/4/BrandingGuide-2023-24.pdf",
     "verification_status": "partial",
-    "notes": "K-State Athletics guide specifies digital K-State Purple #330A57, Dark Gray #A7A9AC and Light Gray #E2E3E4. K-State's only official school color is Royal Purple (PMS 268); white is a customary complementary color."
+    "notes": "Updated to current 2025–26 guide (legacy 2023–24 URL redirects to new edition): Powercat explicitly labeled PRIMARY LOGO, page 3. Official digital colors: Purple #330A57, Dark Gray #A7A9AC, Light Gray #E2E3E4. K-State Athletics Communications lists direct PNG/JPEG logo downloads, but the PNG endpoint failed at image conversion and could not be visually inspected; therefore still partial."
   },
   {
     "school_id": "missouri-state",
@@ -1573,12 +1573,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.missouristate.edu/Branding/Logos.htm",
-      "usage_notes": "Missouri State's official brand resources distinguish university marks from athletics identity. The Bear head is an athletics mark; use official artwork and follow the university's logo-use and trademark licensing policies. Do not substitute the institutional wordmark for the Bears athletics mark."
+      "logo_source_page": "https://blogs.missouristate.edu/brand/2026/03/06/branding-guidelines-refresh/",
+      "usage_notes": "Missouri State's March 2026 interim brand update states the Mo State spirit logo is downloadable and limited to athletic and non-academic applications; it discontinues other spirit logos including M and MSU, Mo State Helvetica and Make Your Missouri Statement marks, and other bear imagery. The Bear Head logo remains an approved institutional mark under the February 2026 logo-use policy, but must not be combined with the Mo State spirit logo. As of the university president's September 29, 2026 update, the full refreshed brand platform is scheduled for Q1 2027, so the interim guidance remains operative at this audit date. The exact overall primary athletics hierarchy and a direct standalone approved Mo State asset were not captured. Official colors Maroon #5E0009 (Pantone 505) and White; Black allowed only in specified applications."
     },
     "brand_source_url": "https://www.missouristate.edu/Policy/Chapter1/Op1_03_3_Colors.htm",
     "verification_status": "partial",
-    "notes": "Missouri State official policy specifies Maroon #5E0009 (Pantone 505) and White as school colors; Black is permitted in specified logo/apparel applications. The 2026 brand refresh limits the Mo State spirit logo to athletics and non-academic uses and discontinues older M/MSU spirit logos."
+    "notes": "Important current-state note: March 2026 interim guidance limits Mo State spirit logo to athletics/non-academic applications and discontinues old M/MSU spirit logos and various prior marks. Bear Head remains approved but cannot be combined with Mo State logo. Full refreshed brand platform is now expected Q1 2027 (per Sep 29, 2026 president update); don't prematurely substitute an unannounced new brand. Exact primary athletics hierarchy and direct standalone asset still need confirmation. Maroon #5E0009 (Pantone 505), White; Black only in specified use."
   },
   {
     "school_id": "iowa",
@@ -1590,12 +1590,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://hawkeyesports.com/licensing",
-      "usage_notes": "The Tigerhawk is the defining Iowa Athletics mark. Iowa's official athletics style guide controls approved colorways, clear space and placement. Marks are protected; licensing approval is required for products or uses implying association."
+      "logo_source_page": "https://storage.googleapis.com/hawkeyesports-prod/2024/07/6e7e8521-24iahawkeyes_style_branding_quickreference.pdf",
+      "usage_notes": "Iowa Athletics' official 2024 Quick Reference Style and Branding Guide explicitly labels the Tigerhawk as the primary mark and the primary retail/identifying mark for Iowa Athletics. Fight for Iowa marks are secondary identifiers; Herky is a secondary athletics mark. The guide says approved artwork variations are available in Macintosh and PC digital formats, but the PDF page provides a reference panel rather than a direct standalone production asset. Official colors Hawkeye Gold #FFCD00, Black #000000 and White #FFFFFF. The Tigerhawk must not be repurposed as a promotional identifier for university departments or student organizations."
     },
     "brand_source_url": "https://brand.uiowa.edu/color",
     "verification_status": "partial",
-    "notes": "University of Iowa official brand manual specifies Hawkeye Gold #FFCD00 and Black #000000 as primary colors; White is a support color. Athletics quick reference identifies Tigerhawk as the primary athletics mark. Do not confuse athletics' retail Tigerhawk with academic department identity."
+    "notes": "Official 2024 Athletics Quick Reference explicitly designates Tigerhawk as primary athletics mark and primary retail/identifying mark; Fight for Iowa is secondary, Herky is a secondary athletics mark. Hawkeye Gold #FFCD00, Black #000000, White #FFFFFF. Guide states digital artwork variants are available, but this pass captured only the reference panel, not a direct standalone asset; remains partial."
   },
   {
     "school_id": "iowa-state",
