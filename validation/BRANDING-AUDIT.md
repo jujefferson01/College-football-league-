@@ -817,3 +817,15 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 - **Arizona State — partial.** Current ASU Brand Guide states current Athletics pitchfork became PRIMARY LOGO in 2011–12; Athletics pitchfork and Sun Devil Bold are reserved exclusively for Sun Devil Athletics. Do not substitute Sparky's pitchfork, mascot, or hand-pitchfork spirit mark. Gold pitchfork with maroon outline and registered mark is primary treatment. Maroon `#8C1D40`, Gold `#FFC627`, Black, White. No standalone asset captured.
 
 **Batch result:** 0 newly verified standalone primary assets; 6 partial. No existing school records were removed.
+
+
+## Batch 68 — Colorado, Utah, BYU, Texas State, Rice, UTSA
+
+- **Colorado — partial.** Official Athletics art sheet groups Buffalo/OU and CU marks under Primary Marks; wordmarks including COLORADO, BUFFS and Ralphie are separate. Interlocking CU buffalo historically served as unified Athletics mark, but current art sheet shows multiple primary variants. Athletics Gold PMS 4525 C, Process Black C, White, Gray PMS 422 C; distinct from institutional digital gold. Composite guide only; no standalone asset captured.
+- **Utah — partial.** 2023–24 official Athletics guide explicitly names Interlocking UU PRIMARY MARK and Circle & Feather SECONDARY MARK; separate from institutional Block U. Utah Red #BE0000, Grey #737271, black and white. Guide art only; no standalone asset captured. External use requires licensing/approval.
+- **BYU — partial.** Official 1999 identity announcement describes Cougar and Block Y system; states primary marks spell out 'Brigham Young University' and 'Cougars' rather than one isolated universal logo. Do not treat Block Y alone as sole primary. Navy #002E5D, White, tan supporting. Current hierarchy and standalone production artwork not established.
+- **Texas State — partial.** Official request form explicitly lists Primary Athletic (SuperCat), Secondary Athletic, Tertiary Athletic, Athletic Wordmark and Mascot Marks; current FAQ says SuperCat and other Athletics logos unchanged by institutional rebrand. Maroon #501214, Dark Gold #AC9155, Bright Gold #D7BD8A. Request-controlled; no standalone asset captured. Licensed vendors required for merchandise.
+- **Rice — partial.** 2026 official campaign reconfirms Old English R as department primary mark (adopted 2007–08); 2017 identity announcement also confirms primary R and treats owl head/body, wordmark, fonts/numerals as complementary elements. Rice Blue #00205B, Gray #C1C6C8, White. Campaign imagery only; controlled logo database; no standalone asset captured.
+- **UTSA — partial.** Current official Athletics page links 2026 Comprehensive Brand & Style Guide and Marks Art Sheet, but 2026 PDF could not be rendered. 2023 guide identifies Roadrunner head as primary helmet mark, not enough to confirm 2026 department-wide hierarchy. Navy #0B2240, Orange #E14504, White; official PMS references 289/1665. No standalone current primary asset captured.
+
+**Batch result:** 0 newly verified standalone primary assets; 6 partial. No existing school records were removed.
