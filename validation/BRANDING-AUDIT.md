@@ -628,3 +628,8 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 ## Batch 32 — Ohio, Miami (OH), Bowling Green, Akron, Kent State, Western Kentucky
 
 **Outcome:** One verified (Bowling Green); five partial (Ohio, Miami (OH), Akron, Kent State, Western Kentucky). Detailed findings and official references are recorded in the corresponding school records in `data/school-branding.json`. Bowling Green's existing standalone official athletics PNG remains verified; the current March 2026 guide confirms the Peek-A-Boo interlocking BG/falcon primary mark remains current. The other five lack a captured standalone current production asset.
+
+
+## Batch 33 — UMass, Middle Tennessee, Alabama, Auburn, Georgia, Georgia Tech
+
+**Outcome:** Two verified (Middle Tennessee, Auburn); four partial (UMass, Alabama, Georgia, Georgia Tech). Official current logo guides and licensing sources were reviewed. Georgia's oval G is primary and the Bulldog is secondary; Alabama's 2025 sheet classifies Script A as primary and elephant/BAMA marks as secondary; UMass Power-U remains distinct from its newer institutional Collegiate M. The four partial records lack a captured standalone current production asset. Detailed findings, palettes, and source links are recorded in `data/school-branding.json`.
