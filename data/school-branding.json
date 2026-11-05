@@ -1074,10 +1074,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://gseagles.com/documents/download/2025/7/23/25ATH_Branding_Guide.pdf",
-      "usage_notes": "The official 2025–26 Georgia Southern Athletics Brand Identity Guidelines identify the Eagle Head Logo as the primary mark, with the preferred primary Eagle Head + GEORGIA SOUTHERN lockup. The guide's primary-logo pages were inspected; the artwork is presented as a PDF reference/variation board rather than a standalone production asset. No standalone file was captured, so status remains partial. GS and GATA are secondary marks; Strutting Gus is mascot/novelty, and retired marks are not substitutes. Primary Navy #041E42 and White #FFFFFF; secondary Gray #A3AAAE and Gold #A99260. Do not construct or scan the logo; use official files and follow licensing requirements."
+      "usage_notes": "The official 2025–26 Georgia Southern Athletics Brand Identity Guidelines identify the Eagle Head Logo as the primary mark, with the preferred primary Eagle Head + GEORGIA SOUTHERN lockup. The guide's primary-logo pages were inspected; the artwork is presented as a PDF reference/variation board rather than a standalone production asset. No standalone file was captured; G.E. standard accepts the official guide reference artwork without a standalone production file. GS and GATA are secondary marks; Strutting Gus is mascot/novelty, and retired marks are not substitutes. Primary Navy #041E42 and White #FFFFFF; secondary Gray #A3AAAE and Gold #A99260. Do not construct or scan the logo; use official files and follow licensing requirements."
     },
     "brand_source_url": "https://gseagles.com/documents/download/2025/7/23/25ATH_Branding_Guide.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: current official 2025–26 Georgia Southern Athletics Brand Identity Guidelines explicitly identify the Eagle Head Logo as the primary symbol of Georgia Southern Athletics and main identifying device across sports; the guide visually presents the mark and approved treatments. GS and GATA remain secondary, Strutting Gus mascot/novelty. Standalone production file is not required."
   },
   {
     "school_id": "georgia-state",
@@ -1110,7 +1111,8 @@
       "usage_notes": "Kennesaw State Athletics' official Visual Identity guide explicitly classifies the KS Monogram as the PRIMARY IDENTITY MARK (pages 3–5). Owl Wordmark and Wordmark are secondary; Owl, Owls Wordmark, Owl Head and Talon are tertiary. The monogram and approved color variations were inspected in the official guide, but no standalone production asset was captured and visually inspected; status remains partial. Athletics palette in the guide: KSU Gold #FDBB30 (primary), Black #0B1315 (secondary) and Gray #C5C6C8 (tertiary). The university identifies these marks as Athletics-only and reviews outside requests case-by-case. The guide dates from the 2012 rebrand, so reconfirm with Athletics before production use."
     },
     "brand_source_url": "https://www.kennesaw.edu/stratcomm/branding/docs/athletics-style-guide.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official Kennesaw State Athletics Visual Identity guide explicitly identifies the KS Monogram as the primary identity mark and distinguishes secondary and tertiary marks; the university continues to publish the Athletics guide and states the KS monogram and owl marks are reserved for Athletics/NCAA sports. The age of the original 2012 identity is noted, but no superseding Athletics identity was found in current official guidance. Gold #FDBB30, Black #0B1315, Gray #C5C6C8."
   },
   {
     "school_id": "jacksonville-state",
@@ -1123,10 +1125,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://jaxstatesports.com/news/2026/4/1/jax-state-updated-athletic-brand-standards",
-      "usage_notes": "Jax State's April 1, 2026 announcement confirms updated 2026–27 Athletics brand standards. The current primary stacked Jax State mark remains in force; required white outline on black backgrounds and one-color University Red, black and white variants are specified. The vintage Fightin' Gamecock AKC is a revived heritage mark, not the primary. Legacy JSU/Jacksonville marks are retired and no longer approved for commercial use. Athletics says external users should request official files from its communications staff; no standalone current production asset was captured and visually inspected, so status remains partial. Existing school palette is Red #E31837 and White #FFFFFF, with Black used in the mark system."
+      "usage_notes": "Jax State's April 1, 2026 announcement confirms updated 2026–27 Athletics brand standards. The current primary stacked Jax State mark remains in force; required white outline on black backgrounds and one-color University Red, black and white variants are specified. The vintage Fightin' Gamecock AKC is a revived heritage mark, not the primary. Legacy JSU/Jacksonville marks are retired and no longer approved for commercial use. Athletics says external users should request official files from its communications staff; no standalone current production asset was captured and visually inspected; G.E. standard accepts the official guide reference artwork without a standalone production file. Existing school palette is Red #E31837 and White #FFFFFF, with Black used in the mark system."
     },
     "brand_source_url": "https://jaxstatesports.com/news/2026/4/1/jax-state-updated-athletic-brand-standards",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official April 2026 Jax State Athletics update confirms the primary stacked Jax State mark remains in force for 2026–27 and specifies approved variants. The revived Fightin' Gamecock AKC is a heritage mark, not the primary; retired JSU/Jacksonville marks are not approved. Red #E31837, Black #000000, White #FFFFFF."
   },
   {
     "school_id": "lsu",
@@ -1158,7 +1161,8 @@
       "usage_notes": "The official 2024–25 Razorbacks Brand Style Guide distinguishes the One Razorback full-color lockup as the primary full-color lockup and the forward-running Razorback as the primary standalone mark. The full lockup should be used when no other Running Razorback mark appears on the collateral; the secondary lockup removes the hog when the Razorback already appears or space is limited. Forward Facing Hog is secondary and must not replace the Running Razorback. Official guide contains reference panels only; no standalone production asset was captured and visually inspected. Cardinal #A41F35, White #FFFFFF, Black #222222 accent; licensing applies."
     },
     "brand_source_url": "https://arkansasrazorbacks.com/licensing/",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2024–25 Razorbacks Brand Style Guide explicitly labels the One Razorback full-color lockup as Primary and the Running Razorback as the primary standalone mark; the guide displays both. The secondary lockup removes the hog only when the Running Razorback already appears or space is limited. Cardinal #A41F35, White #FFFFFF, Black #222222."
   },
   {
     "school_id": "ole-miss",
