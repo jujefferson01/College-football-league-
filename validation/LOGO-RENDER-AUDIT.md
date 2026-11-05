@@ -428,3 +428,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 14 result:** 5 PASS, 1 PENDING, 0 confirmed broken assets. The four wordmark distinctions (Tulane, Louisiana Tech, ULM and South Alabama) are retained; Louisiana's wordmark is separately identified as a primary Athletics wordmark, while Arkansas State's is historical/alternate. South Alabama remains pending because the thumbnail request failed even though the Commons file page lists an original SVG. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status after Batch 14:** 22 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 15 (November 5, 2026)
+
+**Scope:** Troy, Texas, Texas A&M, Baylor, TCU, and SMU. Each exact Commons file page was opened and its rendered thumbnail preview was opened and visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Troy | Silver, black, and white stylized Power T/letterform rendered | PASS — image decoded/rendered; treat as a Troy athletics identity asset, with official 2023 guide's Power T Cardinal designated primary and this specific variant not assumed to be the primary |
+| Texas | Burnt-orange Longhorn silhouette rendered | PASS — image decoded/rendered; recognizable Texas Athletics Longhorn mark |
+| Texas A&M | Maroon-and-white interlocking ATM over Texas silhouette rendered | PASS — image decoded/rendered; Commons file page lists 900 × 879 PNG, source SportsLogos.net, author Chris Creamer; usable upload candidate, but provenance is secondary rather than an official Texas A&M download |
+| Baylor | Dark-green interlocking BU monogram rendered | PASS — image decoded/rendered; Commons identifies this as a 2005 Baylor Athletics wordmark/logo, historical asset rather than a confirmed current primary |
+| TCU | Purple TCU athletic wordmark rendered | PASS — image decoded/rendered; Commons identifies the 2016 file as a TCU Athletics logo sourced to the official website |
+| SMU | Red Peruna running-mustang silhouette rendered | PASS — image decoded/rendered; Commons identifies Peruna as the official Mustang graphic symbol of SMU Athletics, distinct from the institutional Dallas Hall/wordmark logo |
+
+**Batch 15 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying files visibly decoded from their Commons preview links. The Troy variant, Baylor 2005 mark, and Texas A&M third-party-sourced PNG retain their specific provenance/currentness caveats. TCU is a wordmark-style athletics logo; SMU is Peruna, an Athletics spirit mark. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status after Batch 15:** 28 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
