@@ -590,3 +590,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 23 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six images visibly decoded. Note the asset-type distinctions: USC is the SC interlock; UCLA and California are script wordmarks/marks; Washington State is a wordmark. Oregon State's Beaverhead is the current Athletics primary mark. Stanford's Block S with Tree is a recognized identity mark, but this historical-era file should not be represented as proof of a current Athletics-only primary designation. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 70 rendered/inspected, 60 pending. Adding six successful previews yields 76 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 24 (November 5, 2026)
+
+**Scope:** Arizona State, Colorado, Utah, Utah State, BYU, and Texas State. Wikimedia Commons thumbnail previews were opened directly and visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Arizona State | Maroon-and-gold SUN DEVILS wordmark | PASS — visible; wordmark only, not the Athletics primary pitchfork |
+| Colorado | Black-and-gold interlocking CU | PASS — visible; documented alternate mark, not the primary Buffalo/OU mark |
+| Utah | Red interlocking UU | PASS — visible; Athletics guide identifies Interlocking UU as primary |
+| Utah State | Navy-and-silver U-State | PASS — visible; paired U-State primary Athletics mark |
+| BYU | White Y in blue oval | PASS — visible; historical-era athletics primary mark; verify against current approved artwork before asserting current version |
+| Texas State | Maroon-and-gold stacked TEXAS STATE wordmark | PASS — visible; Athletics wordmark, not the SuperCat primary mark |
+
+**Batch 24 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six thumbnails visibly decoded. Important identity distinctions: Arizona State's file is a wordmark rather than the current primary pitchfork; Colorado's is an alternate interlocking CU mark; Texas State's is a wordmark rather than SuperCat. Utah and Utah State files match their documented primary Athletics marks. BYU's file is a historical-era primary mark, not independently verified as the newest production artwork. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 76 rendered/inspected, 60 pending. Adding six successful previews yields 82 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
