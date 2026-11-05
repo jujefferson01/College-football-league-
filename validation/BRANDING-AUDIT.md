@@ -1106,3 +1106,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **New Mexico State — verified.** Official Athletics brand page explicitly identifies NM State Pete (two versions) as PRIMARY ATHLETICS LOGO; Pete Head and Stacked NM State secondary. Athletics Crimson HEX is not published, so left unset. Zia mark is culturally restricted and not for commercial use. Source: https://brand.nmsu.edu/logos-marks/athletics.html
 
 **Batch result:** 5 Verified (including 1 retained); 1 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 68 Verified / 70 Partial / 0 Needs Review.
+
+
+## Batch 92 — G.E. verification: UTEP, Oregon, Washington, USC, UCLA, California
+
+- **UTEP — partial.** July 2026 refreshed Paydirt Pete supersedes prior mascot artwork, but announcement does not restate current department-wide primary/alternate hierarchy. Retain Partial pending post-refresh hierarchy and approved artwork. Orange #FF8200, Dark Blue #041E42, Silver #B1B3B3. Source: https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx
+- **Oregon — partial.** Current university identity standards distinguish Oregon O, Duck mascot, Winged O and Fighting Duck, but accessible sources do not establish one comprehensive Athletics-wide primary hierarchy. Do not substitute institutional lockup or historic Interlocking UO. Green #007030, Yellow #FEE11A. Source: https://communications.uoregon.edu/primary-logo
+- **Washington — verified.** Current 2025–26 UW Athletics Brand Guidelines explicitly identify stroked Block W as PRIMARY IDENTITY and main identifying symbol; Athletics has no current secondary logo. Distinguish from slender upper-campus W. Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C, Gray #D8D9DA. Source: https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf
+- **USC — verified.** Official USC Athletics identity announcement explicitly states SC interlock remains PRIMARY logo/mark for Athletics; current official logo page confirms approved interlock asset family and program-specific exceptions. Cardinal #990000, Gold #FFCC00; Black/White secondary. Source: https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos
+- **UCLA — verified.** Current UCLA Athletics download page explicitly labels four background-specific treatments as UCLA PRIMARY LOGO. Distinct from UCLA Campus Logo; artwork must not be altered. Blue #2774AE, Gold #FFD100. Source: https://uclabruins.com/ucla-athletics-logos-and-wordmarks
+- **California — verified.** Official 2024–25 Cal Athletics Brand Guidelines explicitly identify Cal Script as PRIMARY mark; California Script Wordmark is SECONDARY; Block C + profile Golden Bear is request-only secondary. Navy #041E42, Gold #FFC72C, White. Source: https://calbears.com/documents/2024/10/17/CAL-BRAND-GUIDELINES.pdf
+
+**Batch result:** 4 Verified; 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 72 Verified / 66 Partial / 0 Needs Review.
