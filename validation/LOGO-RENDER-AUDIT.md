@@ -284,3 +284,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 6 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Middle Tennessee's image visibly decoded. The four wordmark/mark distinctions noted above are preserved; an inaccessible endpoint does not justify reclassifying or replacing an asset. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 31 remain pending; 0 confirmed broken. The total includes the San Diego State and Navy baseline previews and the documented prior Bowling Green inspection. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 7 (November 5, 2026)
+
+**Scope:** Minnesota, Iowa, Iowa State, Nebraska, Wisconsin, and Illinois. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Minnesota | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Iowa | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record correctly classifies the file as an alternate wordmark, not the Tigerhawk primary |
+| Iowa State | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Nebraska | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; retained file is explicitly a 1992–2003 historical logo, not current Block N artwork |
+| Wisconsin | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; verify exact Motion W artwork variant against current standards |
+| Illinois | Official brand CDN SVG endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+
+**Batch 7 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The Iowa, Nebraska, and Wisconsin asset classifications and caveats are preserved; identity verification does not imply that the specific file is the current primary artwork. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 37 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
