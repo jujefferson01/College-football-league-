@@ -392,3 +392,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 12 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Charlotte's All-in-C university lockup visibly rendered. The Coastal Carolina, East Carolina, and Georgia Southern hierarchy distinctions are retained; a recognizable historical or wordmark asset is not silently promoted to the current mascot/primary mark. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status after Batch 12:** 11 distinct assets visibly rendered or previously visually inspected; 65 remain pending; 0 confirmed broken. This running count follows the previous batch's cumulative tally plus this batch's one new visible render and five pending checks. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 13 (November 5, 2026)
+
+**Scope:** Kennesaw State, Jacksonville State, LSU, Arkansas, Ole Miss, and Mississippi State. Each exact stored Commons file page was opened, then its rendered thumbnail/original preview was opened and visually inspected. The `Special:Redirect/file/` URLs themselves were inaccessible to the browser tool, but the corresponding Commons file pages and actual image previews were accessible; this confirms that the underlying files exist and decode.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Kennesaw State | Rendered gold-and-black interlocking KS monogram | PASS — image decoded/rendered; official Athletics guide identifies KS Monogram as primary identity mark; the uploaded file itself is a recognizable athletics logo |
+| Jacksonville State | Rendered red JSU institutional wordmark/lockup | PASS — image decoded/rendered; classify as an institutional wordmark/lockup, not a Gamecocks mascot mark; 2026–27 Athletics standards supersede it for current athletics branding |
+| LSU | Rendered purple Block LSU with gold outline | PASS — image decoded/rendered; recognizable official Athletics identity; LSU guide separately identifies Eye of the Tiger and Tiger Head marks, so this block wordmark is not mislabeled as a mascot |
+| Arkansas | Rendered 1980-era red ARKANSAS wordmark PNG (589 × 92) | PASS — image decoded/rendered; acceptable under the historical/uploadable G.E. rule, not the current Running Razorback primary; Commons lists unknown author and Sportslogos.net as source |
+| Ole Miss | Rendered red-and-navy script Ole Miss wordmark | PASS — image decoded/rendered; correctly classified as a historical/alternate Athletics wordmark, not a mascot mark |
+| Mississippi State | Rendered maroon M-State mark with white/gray outline | PASS — image decoded/rendered; this is a 2015 alternate/historical logo; current Athletics identity standards designate the M-State mark as primary, but exact variant should be reconciled before production use |
+
+**Batch 13 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying image files were visibly decoded through their Commons file-page preview links. The direct Commons redirect endpoints were not directly fetchable by this browser tool, but that limitation does not prevent confirmation of the underlying image files. The Jacksonville State file is an institutional lockup rather than an athletics mascot; Arkansas and Ole Miss are explicitly historical/alternate wordmarks. The user-approved historical/uploadable rule allows these to remain usable candidates, with classifications and provenance preserved. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status after Batch 13:** 17 distinct assets visibly rendered or previously visually inspected; 59 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
