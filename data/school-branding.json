@@ -2096,7 +2096,8 @@
       "usage_notes": "UTEP Athletics unveiled a refreshed Paydirt Pete on July 1, 2026, modernizing the mascot identity and drawing on the 1980s-era design. The January 2024 visual guide had designated the former Paydirt Pete-with-UTEP MINERS wordmark as the primary Athletics identifier and Pete-head-only as alternate, but that older artwork must not be mistaken for the new 2026 design. The 2026 announcement confirms the refreshed mascot but does not restate the department-wide primary/alternate hierarchy or publish a standalone production asset. Official Athletics colors: Orange #FF8200 (PMS 151 C), Dark Blue #041E42 (PMS 282 C), Silver #B1B3B3 (Cool Gray 5 C). Status remains partial pending current production asset and hierarchy confirmation."
     },
     "brand_source_url": "https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx",
-    "verification_status": "partial"
+    "verification_status": "partial",
+    "notes": " G.E. review: July 2026 refreshed Paydirt Pete supersedes prior mascot artwork, but announcement does not restate current department-wide primary/alternate hierarchy. Retain Partial pending current post-refresh Athletics mark hierarchy and approved artwork."
   },
   {
     "school_id": "oregon",
@@ -2112,7 +2113,8 @@
       "usage_notes": "Current University of Oregon identity standards define the full institutional primary logo as the Oregon O + rule + University of Oregon wordmark; the O alone is allowed only in specified contexts and approved uses. The UO trademark/licensing materials distinguish the Oregon O, Oregon Duck mascot mark, Winged O and Fighting Duck as separate protected properties with category-specific restrictions. The public materials do not establish a single comprehensive Athletics-wide primary hierarchy among the O, mascot and sport-specific marks. Do not substitute the historic Interlocking UO or assume the full institutional lockup is the Athletics primary. UO Green #007030 and UO Yellow #FEE11A are the official core palette; mascot artwork also uses black and Duckbill accent. No standalone Athletics primary production asset captured and visually inspected."
     },
     "brand_source_url": "https://communications.uoregon.edu/primary-logo",
-    "verification_status": "partial"
+    "verification_status": "partial",
+    "notes": " G.E. review: current university identity standards distinguish Oregon O, Duck mascot, Winged O and Fighting Duck, but accessible public sources do not establish one comprehensive Athletics-wide primary hierarchy. Do not substitute institutional lockup or historic Interlocking UO. Green #007030, Yellow #FEE11A."
   },
   {
     "school_id": "washington",
@@ -2128,7 +2130,8 @@
       "usage_notes": "UW Athletics' current 2025–26 brand guidelines explicitly identify the stroked Block W as the PRIMARY IDENTITY and main identifying symbol. It is distinct from the slender one-color upper-campus W; the guide states UW Athletics has no current secondary logo, and retailer heritage marks are not internal Athletics marks. The guide links native mark files from its primary-identity pages, but no standalone file was extracted and visually inspected in this pass. Colors: Purple #33006F (PMS 2685), Gold #E8D3A2 (PMS 7502), Metallic Gold #917B4C (PMS 871), Gray #D8D9DA (Cool Gray 3). Maintain protected clear space equal to the height of the W serif."
     },
     "brand_source_url": "https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: current 2025–26 UW Athletics Brand Guidelines explicitly identify stroked Block W as PRIMARY IDENTITY and main identifying symbol; Athletics has no current secondary logo. Distinguish from slender upper-campus W. Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C, Gray #D8D9DA."
   },
   {
     "school_id": "usc",
@@ -2144,7 +2147,8 @@
       "usage_notes": "USC Athletics' official identity announcement (April 15, 2016) explicitly states the SC interlock remains the PRIMARY logo and mark for USC Athletics, with program-specific exceptions for baseball (SC monogram) and track (SC shield). The current official Athletics logo page labels the asset family INTERLOCK and lists two-color, one-color Cardinal and one-color Gold PNG/EPS variants. The linked download endpoint returned a server error during this review, so no standalone production asset was opened or visually inspected. Colors: Cardinal #990000 and Gold #FFCC00 primary; Black and White secondary; Metallic Gold tertiary/occasional. Do not substitute the academic shield/wordmark or Trojan Head for the SC interlock."
     },
     "brand_source_url": "https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: official USC Athletics identity announcement explicitly states SC interlock remains PRIMARY logo/mark for Athletics; current official logo page confirms approved interlock asset family and program-specific exceptions. Cardinal #990000, Gold #FFCC00; Black/White secondary."
   },
   {
     "school_id": "ucla",
@@ -2160,7 +2164,8 @@
       "usage_notes": "UCLA Athletics' official logo download page labels four treatments as UCLA PRIMARY LOGO: Blue for white backgrounds, Gold for blue backgrounds, Blue with white outline for gold backgrounds, and Blue with gold outline for dark backgrounds. These are official Athletics primary-logo variants, distinct from the UCLA Campus Logo. The page requires strict compliance with the UCLA Athletics Style Guide and prohibits alteration/manipulation. The linked JPG asset returned 404 in this review, so no standalone current production asset was opened or visually inspected. Official primary Blue #2774AE and Gold #FFD100."
     },
     "brand_source_url": "https://uclabruins.com/ucla-athletics-logos-and-wordmarks",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: current UCLA Athletics download page explicitly labels four background-specific treatments as UCLA PRIMARY LOGO. Distinct from UCLA Campus Logo; do not alter artwork. Blue #2774AE, Gold #FFD100."
   },
   {
     "school_id": "california",
@@ -2176,7 +2181,8 @@
       "usage_notes": "Cal Athletics' official 2024–25 Brand Guidelines identify Cal Script as the PRIMARY mark. California Script Wordmark is SECONDARY and the two script wordmarks may not be used together. The Block C + profile Golden Bear combination is a secondary mark available by request; individual sport lockups are also by request. Current Cal Navy #041E42 (PMS 282 C), Cal Gold #FFC72C (PMS 123 C), White #FFFFFF. The official guide is a reference document, not a separate standalone primary production file; no direct asset captured and visually inspected. Use approved Athletics artwork and licensing approval."
     },
     "brand_source_url": "https://calbears.com/documents/2024/10/17/CAL-BRAND-GUIDELINES.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: official 2024–25 Cal Athletics Brand Guidelines explicitly identify Cal Script as PRIMARY mark; California Script Wordmark is SECONDARY, Block C + profile Golden Bear is request-only secondary. Navy #041E42, Gold #FFC72C, White."
   },
   {
     "school_id": "stanford",
