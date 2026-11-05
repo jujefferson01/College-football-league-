@@ -626,3 +626,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 25 result:** 6 visual identity PASS, 0 school/logo mismatches observed. **Endpoint status caveat:** all six original direct URL requests failed in this browser surface; this is not a confirmed remote 404 or file corruption. Treat exact endpoint accessibility and target-app loading as still unverified until the app-side or HTTP checker confirms them. Temple's inspected preview is a secondary Owl mark, not a replacement for the Temple T. Buffalo's bull spirit mark requires approved wordmark pairing under UB guidance. This is not an in-game rendering test.
 
 **Cumulative status:** Previous provisional ledger: 82 rendered/inspected, 60 pending. Adding six visibly inspected identity previews yields 88 visually inspected and 60 still pending on that provisional ledger; however, this batch's exact stored endpoints remain pending technical retrieval, so do not treat these six as endpoint-render PASS. Full tracker reconciliation is still required.
+
+
+## Visual rendering spot-check — Batch 26 (November 5, 2026)
+
+**Scope:** Penn State, Pittsburgh, UConn, Delaware, Maryland, and Virginia. Five exact stored image URLs visibly rendered in the browser. Delaware's Sidearm image endpoint could not be retrieved; no broken-asset conclusion is drawn.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Penn State | Navy-and-white Nittany Lion head | PASS — visibly rendered; the logo is clear, but the source JPG includes a gray brand-guide background and crop marks, so it is not a clean transparent production asset |
+| Pittsburgh | Blue-and-gold Pitt Script | PASS — visibly rendered; official Athletics wordmark/logo, not a panther mascot illustration |
+| UConn | Navy UCONN wordmark with red outline | PASS — visibly rendered; Athletics wordmark, not the Husky Dog mascot mark |
+| Delaware | No preview; official Sidearm image endpoint returned an internal retrieval error | PENDING — endpoint inaccessible to this browser tool; not a confirmed 404 or corrupt file |
+| Maryland | Red M-Bar with black/gold outline and Terps banner | PASS — visibly rendered; official M-Bar primary mark |
+| Virginia | Navy/orange V with crossed sabres | PASS — visibly rendered; V-Sabre primary Athletics mark |
+
+**Batch 26 result:** 5 PASS, 1 PENDING. Penn State's logo is identifiable but the hosted image contains guide-board background/crop marks; crop or replace with a clean production asset before final game presentation. Pittsburgh is Pitt Script, UConn is a wordmark, Maryland is the M-Bar, and Virginia is the V-Sabre. Delaware remains pending only because the browser could not retrieve the Sidearm endpoint. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Previous provisional identity-review ledger: 88 visually inspected, 60 pending. Five successful image previews raise the visual-preview count to 93; one additional endpoint remains pending. The old provisional tally is not a reconciled 138-school count. Actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
