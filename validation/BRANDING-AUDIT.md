@@ -1718,3 +1718,19 @@ The Commons file pages confirm uploadable originals and provenance. UTSA's 2023 
 | New Mexico | [New Mexico Lobos wordmark SVG](https://commons.wikimedia.org/wiki/File:New_Mexico_Lobos_wordmark.svg) | Athletics wordmark; author/source attribution on file page is limited. |
 
 The Commons file pages expose the original uploadable files and dimensions. Nevada's 2008 wordmark and UNLV's 2006 wordmark are older assets; SJSU's 2017 wordmark is sourced to its Athletics website. Wyoming's Steamboat file is attributed to UW Athletics but its page notes screenshot-derived provenance; Air Force's 2018 logo is sourced to Air Force Athletics and notes federal-government creation; New Mexico's wordmark is identifiable but has limited visible author/source metadata. Trademark restrictions remain separate from file availability.
+
+
+## Uploadable logo asset acquisition — Batch 21 (November 5, 2026)
+
+**Result:** Added six uploadable asset references. Wordmarks, historic marks, and primary-era marks are distinguished; source confidence is documented. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app rendering test remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| New Mexico State | [Aggies wordmark SVG](https://commons.wikimedia.org/wiki/File:New_Mexico_State_Aggies_wordmark.svg) | Vector wordmark, 250 × 93; Commons links it as vector version of the Athletics PNG. |
+| UTEP | [Miners wordmark SVG](https://commons.wikimedia.org/wiki/File:UTEP_Miners_wordmark.svg) | 2017 SVG sourced to UTEP Graphic Identity Guide. |
+| Oregon | [Ducks 2024 logo SVG](https://commons.wikimedia.org/wiki/File:Oregon_Ducks_2024_Logo.svg) | Described as used since 2024; fan-contributed CC0 file, not official-hosted. |
+| Washington | [Huskies / Block W SVG](https://commons.wikimedia.org/wiki/File:Washington_Huskies_logo.svg) | Block W, dated to 1902 and sourced to UW standards PDF. |
+| USC | [Trojans logo SVG](https://commons.wikimedia.org/wiki/File:USC_Trojans_logo.svg) | 1993-era Trojans logo, distinct from the SC interlock and text logo. |
+| UCLA | [Bruins primary logo SVG](https://commons.wikimedia.org/wiki/File:UCLA_Bruins_primary_logo.svg) | 2021 primary-era mark, superseding older script-logo file. |
+
+The Commons pages identify original SVG files and sizes. New Mexico State's file is the vector version of a PNG attributed to NM State Athletics; UTEP's wordmark cites its official 2017 Graphic Identity Guide; Washington's Block W cites UW standards and dates to 1902; USC's 1993 logo is separate from its interlock/text assets; UCLA's 2021 primary logo is listed as superseding the older script-logo file. Oregon's 2024 logo file is a fan-contributed CC0 upload, so its provenance is explicitly rated lower than official-source assets. Trademark rights remain separate from file availability.
