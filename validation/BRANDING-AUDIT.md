@@ -1754,3 +1754,16 @@ Commons file pages confirm original uploadable SVG/PNG files and dimensions. Cal
 ## 138-school logo URL and rendering audit baseline — November 5, 2026
 
 Created [LOGO-RENDER-AUDIT.md](LOGO-RENDER-AUDIT.md) as the complete per-school tracker. Baseline checks found 138/138 populated absolute HTTPS logo URLs, 138/138 source-page URLs, and no duplicate logo URLs. URL host classes: 94 Commons Special:Redirect/file endpoints and 44 direct-hosted image URLs. Filename extensions: 100 SVG, 26 PNG, 11 JPG, 1 WebP. This is not a MIME or HTTP status check. Navy and San Diego State images were visibly previewed; the remaining 136 require actual app/browser rendering confirmation. The tracker distinguishes pending from failed: browser-tool retrieval failures are not treated as confirmed broken files. Full visual school-to-logo matching remains pending for all records until the consuming app's images are rendered and reviewed.
+
+
+## Automated logo URL integrity checker
+
+Added `scripts/check-logo-urls.mjs`, a dependency-free Node.js 20+ checker that reads all entries in `data/school-branding.json`, makes real GET requests with byte-range headers, follows redirects, and records HTTP status, final URL, content type, response length, and detected image signature for SVG, PNG, JPEG, and WebP. It flags non-2xx responses, HTML error pages, extension/signature mismatches, and declared MIME mismatches. A JSON report is written to `validation/logo-url-check-results.json`; the command exits nonzero when any asset fails.
+
+Run locally from the repository root:
+
+```bash
+node scripts/check-logo-urls.mjs
+```
+
+Optional flags: `--input`, `--output`, `--concurrency` (1–20), and `--timeout-ms`. A manual GitHub Actions workflow is available at **Actions → Logo URL and image integrity check → Run workflow**. It uploads the JSON report as a 30-day workflow artifact. This is an HTTP/MIME/signature check, not visual confirmation that each logo depicts the correct school; visual review remains a separate step.
