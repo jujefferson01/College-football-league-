@@ -1638,3 +1638,19 @@ Reviewed the next six schools in the missing-asset queue: Arkansas, Oklahoma, Tu
 **QA and usage:** All six Commons file pages expose original image-file links and rendered previews. Direct dataset URLs use Commons Special:Redirect/file endpoints. The consuming app still needs a final in-app rendering test. The Arkansas file has weaker author/source attribution and is explicitly documented as a legacy wordmark; Kansas and Kansas State are explicitly labeled as wordmarks/identifiers rather than mascot/primary symbols. Trademark and licensing restrictions remain separate from file availability.
 
 **Batch 15 result:** 6 uploadable asset references added; no records left pending within this six-school batch. School verification statuses remain unchanged.
+
+
+## Uploadable logo asset acquisition — Batch 16 (November 5, 2026)
+
+**Result:** Added six uploadable asset references to the dataset. These are not all current primary marks; the asset type and hierarchy distinctions are retained in each school record. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app render testing remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| Iowa | [Iowa Hawkeyes wordmark SVG](https://commons.wikimedia.org/wiki/File:Iowa_Hawkeyes_wordmark.svg) | Historical/alternate wordmark; not the Tigerhawk primary athletics mark. |
+| Iowa State | [Iowa State Cyclones logo SVG](https://commons.wikimedia.org/wiki/File:Iowa_State_Cyclones_logo.svg) | Cyclones athletics logo; attributed to Iowa State and sourced to an official athletics PDF. |
+| Nebraska | [Nebraska Cornhuskers 1992–2003 logo SVG](https://commons.wikimedia.org/wiki/File:Nebraska_Cornhuskers_logo,_1992%E2%80%932003.svg) | Retired-era athletics logo; not represented as the current Block N. |
+| Missouri | [Missouri Tigers old logo SVG](https://commons.wikimedia.org/wiki/File:Missouri_Tigers_old_logo.svg) | Historical Tigers mark; not the current official Athletic Tiger Head. |
+| North Dakota State | [NDSU Bison wordmark SVG](https://commons.wikimedia.org/wiki/File:North_Dakota_State_Bison_wordmark.svg) | 2013 Athletics wordmark; not a mascot-head mark. |
+| Northern Illinois | [Northern Illinois Huskies wordmark SVG](https://commons.wikimedia.org/wiki/File:Northern_Illinois_Huskies_wordmark.svg) | 2016 wordmark; not the 2024 guide's composite primary mark. |
+
+All six file pages expose an original uploadable SVG asset and provide identifying/source information. Iowa's official brand guidance identifies Tigerhawk as the primary athletics mark; Missouri's current guide identifies the Athletic Tiger Head as its official logo; NDSU and NIU retain their respective Athletics-use restrictions. Historical and wordmark assets are deliberately labeled as such rather than upgraded to current-primary status.
