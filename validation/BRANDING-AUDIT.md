@@ -1494,3 +1494,19 @@ Added six direct image assets for the next six schools in the missing-asset queu
 **QA and interpretation:** Source pages provide rendered previews and original-file information for all six marks. The direct asset links use Wikimedia's original-file URLs where resolved and Commons' Special:Redirect/file endpoint for the remaining confirmed file pages. The redirect endpoint is a file-serving URL, but the consuming application should still perform its own render test. CMU's primary action C, WMU's newer Spirit Mark, and each wordmark/mascot distinction are documented so the dataset does not imply every file is the current primary mark. Trademark and licensing restrictions remain separate from file availability.
 
 Batch 6 added: 6. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 7 (November 5, 2026)
+
+Added six direct file-serving URLs for the next six schools in the missing-asset queue:
+
+- **Louisville** — 2023 Cardinals wordmark SVG, attributed to the University of Louisville and sourced to gocards.com; Commons preview and original dimensions 512 × 125. This is a wordmark, not the Birdhead primary mark; the official Athletics guide identifies the Birdhead as primary.
+- **Kentucky** — 2016 Wildcats logo SVG sourced to the University of Kentucky Athletics Brand Identity Guide; Commons preview and original dimensions 198 × 162.
+- **Ohio** — 2017 Bobcats wordmark SVG; Commons preview and original dimensions 252 × 171. It is a historical Athletics wordmark. Ohio University's 2026 transition adopts arched OHIO as the one-logo system and retains an Athletics lockup with Attack Cat.
+- **Miami (OH)** — 2014 RedHawks logo SVG attributed to Miami University; Commons preview and original dimensions 301 × 228. Historical/alternate Athletics identity.
+- **Akron** — 2022 Zips A Athletics icon SVG attributed to the University of Akron and sourced to its official 2022 Athletics Style Guide; Commons preview and original dimensions nominally 102 × 73. This is the unified Athletics identity introduced in 2022.
+- **Kent State** — 2017 Athletics wordmark SVG attributed to Kent State University's Division of University Communications and Marketing and sourced to the official Kent State logos page; Commons preview and original dimensions 843 × 98. This is a wordmark, not the separate Golden Eagle mascot graphic.
+
+**QA and usage notes:** Each Commons file page identifies the mark, provides a rendered preview and original-file information, and the data uses its Special:Redirect/file endpoint. The redirect is a file-serving URL; the consuming application should still run its own image-render test. Louisville and Ohio assets are deliberately labeled wordmarks/historical Athletics assets rather than misrepresented as the primary mascot/monogram marks. Trademark and licensing restrictions remain separate from file availability.
+
+Batch 7 added: 6. Overall school verification remains 138/138 verified.
