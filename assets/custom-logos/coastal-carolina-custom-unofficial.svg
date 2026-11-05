@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">Coastal Carolina CHANTICLEERS — custom unofficial mascot mark</title><desc id="desc">Original custom collegiate mascot emblem, unofficial and not an official university mark.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#008B95"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient></defs>
+<path d="M512 54 882 190 842 655 512 930 182 655 142 190Z" fill="#101820" stroke="#FFFFFF" stroke-width="24"/>
+<path d="M512 88 844 210 808 628 512 875 216 628 180 210Z" fill="url(#g)" stroke="#F2B632" stroke-width="14"/>
+<circle cx="512" cy="390" r="218" fill="#101820" stroke="#FFFFFF" stroke-width="18"/>
+<path d="M355 405 420 270 512 326 604 270 669 405 610 538 512 590 414 538Z" fill="#008B95" stroke="#F2B632" stroke-width="18" stroke-linejoin="round"/>
+<path d="M405 405 466 430 512 404 558 430 619 405 590 492 512 535 434 492Z" fill="#FFFFFF" stroke="#101820" stroke-width="12"/>
+<path d="M455 475 485 485 512 478 539 485 569 475 546 520 512 534 478 520Z" fill="#F2B632"/>
+<text x="512" y="690" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="100" font-weight="900" fill="#F2B632" stroke="#101820" stroke-width="7" paint-order="stroke">COASTAL CAROLINA</text>
+<text x="512" y="790" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="72" font-weight="900" letter-spacing="3" fill="#FFFFFF" stroke="#101820" stroke-width="5" paint-order="stroke">CHANTICLEERS</text>
+<text x="512" y="855" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#F2B632">CUSTOM • UNOFFICIAL</text></svg>
