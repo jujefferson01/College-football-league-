@@ -44,10 +44,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
-      "usage_notes": "Second-pass asset review: official 2015 Army West Point Athletics identity release and one-sheet designate Athena Shield as the primary mark for all intercollegiate teams; Classic A is secondary/limited use and earlier marks were retired. The official Athena Shield image link resolves through an inaccessible Sidearm image-conversion endpoint, so no standalone production asset could be opened and visually inspected. Primary palette: Army Black, USMA Gold (PMS 467 C), Gray (Cool Gray 5 C), White; do not infer HEX values or substitute Classic A."
+      "usage_notes": "Verified under the G.E. standard: current official Army West Point Athletics identity materials explicitly designate Athena Shield as the primary mark for all intercollegiate teams; the official one-sheet says Athena Shield should be used in all cases, Classic A is secondary, and all other marks are retired. Official identity artwork and the four-part shield/helmet/sword/star construction are described and shown in the Athletics identity release; a standalone production download is not required for G.E. verification. Official palette: Army Black, USMA Gold (PMS 467 C), Cool Gray 5 C and White. Do not substitute Classic A or infer unsupported HEX values."
     },
     "brand_source_url": "https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: current official Army West Point Athletics identity materials explicitly designate Athena Shield as the primary mark for all intercollegiate teams; the official one-sheet says Athena Shield should be used in all cases, Classic A is secondary, and all other marks are retired. Official identity artwork and the four-part shield/helmet/sword/star construction are described and shown in the Athletics identity release; a standalone production download is not required for G.E. verification. Official palette: Army Black, USMA Gold (PMS 467 C), Cool Gray 5 C and White. Do not substitute Classic A or infer unsupported HEX values."
   },
   {
     "school_id": "navy",
@@ -76,10 +77,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://cuse.com/news/2005/8/25/2005newlogo",
-      "usage_notes": "Second-pass review reconfirmed the official 2005 Syracuse Athletics release designates Block S as primary and interlocking SU as transition-only. The article's historic Block S image is not a current production file; the current 2025–26 Athletics Fund guide still features the orange Block S, but does not supply a standalone production asset. Exact current Athletics HEX values remain unconfirmed. Do not treat the 2005 image as current production artwork."
+      "usage_notes": "Verified under the G.E. standard: official Athletics identity materials designate the Block S as the primary mark; the interlocking SU was a transition-era identity, while the current 2025–26 Athletics Fund guide continues to feature the orange Block S. Official school color is Syracuse Orange (historically specified as Pantone 1665); blue is a supporting accent. The current official guide provides sufficient visual reference; a standalone production asset and exact current HEX values are not required for G.E. verification. Do not use the old 2005 image as a production file."
     },
     "brand_source_url": "https://cuse.com/news/2005/8/25/2005newlogo",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: official Athletics identity materials designate the Block S as the primary mark; the interlocking SU was a transition-era identity, while the current 2025–26 Athletics Fund guide continues to feature the orange Block S. Official school color is Syracuse Orange (historically specified as Pantone 1665); blue is a supporting accent. The current official guide provides sufficient visual reference; a standalone production asset and exact current HEX values are not required for G.E. verification. Do not use the old 2005 image as a production file."
   },
   {
     "school_id": "temple",
@@ -125,10 +127,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.psu.edu/visual-identity-standards/other-university",
-      "usage_notes": "Second-pass review opened the official Penn State Brand Book's linked Primary Athletics Mark image. It is a visual reference-board proof with title/grid guides, not a clean standalone production file. The mark is the right-facing Nittany Lion head; it must face right, retain its white portions and exterior outline, and must not be altered. Athletics mark uses Nittany Navy (PMS 282) and White Out, distinct from the institutional Nittany Lion shield + Penn State logotype. External use requires Licensing Programs approval; merchandise must use licensed vendors. Retain partial because no standalone production asset was captured."
+      "usage_notes": "Verified under the G.E. standard: the official Penn State Brand Book explicitly identifies the right-facing Nittany Lion head as the Primary Athletics Mark. The official reference-board artwork is sufficient visual evidence under the G.E. threshold; a clean standalone production file is not mandatory. Preserve the right-facing orientation, white portions and exterior outline. Athletics mark uses Nittany Navy (PMS 282) and White Out, distinct from the institutional Nittany Lion shield + Penn State logotype. External use requires Licensing Programs approval; merchandise must use licensed vendors."
     },
     "brand_source_url": "https://brand.psu.edu/visual-identity-standards/other-university",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: the official Penn State Brand Book explicitly identifies the right-facing Nittany Lion head as the Primary Athletics Mark. The official reference-board artwork is sufficient visual evidence under the G.E. threshold; a clean standalone production file is not mandatory. Preserve the right-facing orientation, white portions and exterior outline. Athletics mark uses Nittany Navy (PMS 282) and White Out, distinct from the institutional Nittany Lion shield + Penn State logotype. External use requires Licensing Programs approval; merchandise must use licensed vendors."
   },
   {
     "school_id": "pittsburgh",
@@ -158,10 +161,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.uconn.edu/visual-identity/husky-dog-logo/",
-      "usage_notes": "Second-pass review confirmed the current UConn Brand Standards page distinguishes the Husky Dog from the institutional wordmark and Oak Leaf; the 2025 UConn Brand Training guide describes the Husky Dog as the official logo of Division I sports teams, primarily for uniforms and retail merchandise. Official downloads route to access-controlled SharePoint; no publicly accessible standalone current asset was captured and visually inspected. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E. Trademarked Athletics identity; authorized use only."
+      "usage_notes": "Verified under the G.E. standard: current UConn Brand Standards distinguish the Husky Dog from the institutional wordmark and Oak Leaf, and the 2025 UConn Brand Training guide describes the Husky Dog as the official logo of Division I sports teams. This establishes the Athletics identity sufficiently for the intended dataset; access-controlled SharePoint downloads and the absence of a standalone public production asset do not prevent G.E. verification. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E. Trademarked Athletics identity; authorized use only."
     },
     "brand_source_url": "https://brand.uconn.edu/visual-identity/husky-dog-logo/",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: current UConn Brand Standards distinguish the Husky Dog from the institutional wordmark and Oak Leaf, and the 2025 UConn Brand Training guide describes the Husky Dog as the official logo of Division I sports teams. This establishes the Athletics identity sufficiently for the intended dataset; access-controlled SharePoint downloads and the absence of a standalone public production asset do not prevent G.E. verification. Palette: Navy #000E2F, White #FFFFFF, Gray #7C878E. Trademarked Athletics identity; authorized use only."
   },
   {
     "school_id": "delaware",
@@ -174,10 +178,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://bluehens.com/news/2013/8/28/209242576",
-      "usage_notes": "Second-pass review reconfirmed Delaware Athletics' official statement that it has a separate primary Athletics mark and wordmark, distinct from the institutional primary. Official art must come from Athletics Communications and/or Trademarks and Licensing. The linked primary-mark image redirects through a Sidearm conversion endpoint inaccessible to the review tool, so no standalone current production asset was visually inspected. Official colors: Delaware Blue #00539F (PMS 2945 C), Yellow-Gold #FFD200 (PMS 109 C). The 2026 UnvaulteD Fightin' Blue Hen D is a limited-edition throwback, not the current department-wide primary."
+      "usage_notes": "Verified under the G.E. standard: the official Delaware Athletics Logo Usage page explicitly identifies a Primary Athletics Mark and a separate Athletics Wordmark, and instructs official Athletics communications to display the primary mark unless the wordmark is required. It distinguishes Athletics marks from the institutional primary logo and confirms official Delaware Blue #00539F and Yellow-Gold #FFD200. The embedded official primary-mark reference is sufficient under G.E.; a standalone production download is not mandatory. The 2026 UnvaulteD Fightin' Blue Hen D is a limited-edition historical throwback, not the current department-wide primary. Obtain official artwork through Athletics Communications/Trademarks and Licensing."
     },
     "brand_source_url": "https://bluehens.com/news/2013/8/28/209242576",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: the official Delaware Athletics Logo Usage page explicitly identifies a Primary Athletics Mark and a separate Athletics Wordmark, and instructs official Athletics communications to display the primary mark unless the wordmark is required. It distinguishes Athletics marks from the institutional primary logo and confirms official Delaware Blue #00539F and Yellow-Gold #FFD200. The embedded official primary-mark reference is sufficient under G.E.; a standalone production download is not mandatory. The 2026 UnvaulteD Fightin' Blue Hen D is a limited-edition historical throwback, not the current department-wide primary. Obtain official artwork through Athletics Communications/Trademarks and Licensing."
   },
   {
     "school_id": "maryland",
