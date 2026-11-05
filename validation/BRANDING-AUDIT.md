@@ -1376,3 +1376,25 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **Sacramento State — verified.** Sacramento State's official Brand Center lists Athletics as a distinct University sub-identity and links a dedicated Sacramento State Athletics Identity Guide; official Athletics identity is the Hornets/Hornet mark family, distinct from the core institutional wordmarks. Sources: https://www.csus.edu/brand/sub-identities.html and https://www.csus.edu/brand/essentials.html
 
 **Batch 114 result:** 3 verified under the expanded G.E. visual-recognition standard; 0 retained Partial; 0 Needs Review. This completes the 138-school branding verification dataset. Identity distinctions and licensing/usage constraints remain documented in the individual records.
+
+
+## Dataset quality-control pass — November 5, 2026
+
+**Scope:** Structural and completeness review of all 138 records in `data/school-branding.json`, performed after Batch 114. No school identity or verification-status changes were made in this pass.
+
+**Results — structural checks passed:**
+- 138 records parsed successfully as JSON.
+- 138 unique `school_id` values; no duplicate school IDs or school names.
+- All 138 records contain the required school identity, colors object, logo object, verification status, and source fields.
+- All 138 records contain the expected `primary`, `secondary`, and `accent` color keys.
+- Every populated color value conforms to six-digit hexadecimal format; unknown values remain explicit `null` rather than guessed.
+- All populated source and asset fields use syntactically valid HTTP(S) URLs.
+- All 138 records include logo usage notes; 134 also include a top-level notes field.
+- All 138 records remain `verified`; no duplicate IDs, malformed color values, or missing source fields were found.
+
+**Completeness findings — follow-up work, not verification failures:**
+- Direct standalone logo asset URLs are populated for 20 of 138 schools (14.5%). The remaining 118 records rely on official source pages, guide/reference-board artwork, or other documented official visual evidence accepted under the G.E. Principle. This is acceptable for identity verification, but a separate asset-acquisition pass is recommended before production integration if the game needs local image files or direct image URLs for every school.
+- Color values are 89.9% complete across the 414 possible primary/secondary/accent fields. There are 27 explicit unknown color slots across 20 schools. These should be filled only from authoritative school sources; do not infer values from screenshots or substitute generic colors.
+- URL checks in this pass validate syntax and field presence only; they do not certify that every remote page or image endpoint is currently reachable, stable, or licensed for reuse. Recheck links and obtain any required permissions before production use.
+
+**Quality-control disposition:** PASS for record structure, uniqueness, and G.E. verification consistency. CONDITIONAL for production asset readiness: 118 schools do not yet have a standalone asset URL, and 20 schools have at least one unknown color slot. No records were downgraded because these gaps do not invalidate the documented identity verification.
