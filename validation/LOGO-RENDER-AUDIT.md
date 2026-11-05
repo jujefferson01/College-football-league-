@@ -536,3 +536,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 20 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly decoded. Rice's Old English R remains an identifiable Athletics mark; UTSA, Sam Houston and Boise State files are wordmarks rather than mascot marks; Texas Tech's Double T is distinct from Masked Rider; North Texas' file is a historical wordmark rather than the current Diving Eagle primary. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 52 rendered/inspected, 60 pending. Adding six successful previews yields 58 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 21 (November 5, 2026)
+
+**Scope:** Utah State, Nevada, UNLV, San José State, Colorado State, and Wyoming. Exact Commons file pages were opened and thumbnail previews visually inspected; Colorado State's official brand PNG was opened directly.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Utah State | Navy-and-silver interlocking U/STATE athletics mark rendered | PASS — image decoded/rendered; recognizable Athletics identity; official guide designates paired U-State as primary |
+| Nevada | Blue-and-silver NEVADA WOLF PACK wordmark rendered | PASS — image decoded/rendered; older wordmark, not a claim of current primary status following the October 2026 identity refresh |
+| UNLV | Scarlet-and-gray UNLV REBELS wordmark rendered | PASS — image decoded/rendered; wordmark, not Hey Reb! mascot/spirit illustration |
+| San José State | Blue-and-gold SAN JOSÉ STATE wordmark rendered | PASS — image decoded/rendered; wordmark, not the Spartan Head Athletics primary mark |
+| Colorado State | Official white Ram's Head symbol visibly rendered on transparent PNG | PASS — image decoded/rendered; official CSU primary symbol, preferably paired with CSU Signature |
+| Wyoming | Brown-and-gold Bucking Horse & Rider/Steamboat mark rendered | PASS — image decoded/rendered; recognizable historical Athletics identity; retain provenance caveat that Commons source is screenshot-derived |
+
+**Batch 21 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six image previews visibly decoded. Utah State's paired U-State is documented primary; Nevada's file is an older wordmark amid the October 2026 refresh; UNLV and San José State are wordmarks rather than mascot-head marks; Colorado State's official Ram's Head PNG is confirmed; Wyoming's upload is recognizable but its screenshot-derived provenance remains noted. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 58 rendered/inspected, 60 pending. Adding six successful previews yields 64 rendered/inspected and 60 pending on that provisional ledger. Full 138-school reconciliation remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
