@@ -1734,3 +1734,18 @@ The Commons file pages expose the original uploadable files and dimensions. Neva
 | UCLA | [Bruins primary logo SVG](https://commons.wikimedia.org/wiki/File:UCLA_Bruins_primary_logo.svg) | 2021 primary-era mark, superseding older script-logo file. |
 
 The Commons pages identify original SVG files and sizes. New Mexico State's file is the vector version of a PNG attributed to NM State Athletics; UTEP's wordmark cites its official 2017 Graphic Identity Guide; Washington's Block W cites UW standards and dates to 1902; USC's 1993 logo is separate from its interlock/text assets; UCLA's 2021 primary logo is listed as superseding the older script-logo file. Oregon's 2024 logo file is a fan-contributed CC0 upload, so its provenance is explicitly rated lower than official-source assets. Trademark rights remain separate from file availability.
+
+
+## Uploadable logo asset acquisition — Batch 22 (November 5, 2026)
+
+**Result:** Added five uploadable asset references, exhausting the currently populated missing-logo queue. Asset type, date, and provenance caveats are preserved. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app rendering test remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| California | [Golden Bears Athletics logo SVG](https://commons.wikimedia.org/wiki/File:California_Golden_Bears_logo.svg) | 2009 Cal Athletics logo, attributed to UC Berkeley. |
+| Stanford | [Stanford Cardinal logo SVG](https://commons.wikimedia.org/wiki/File:Stanford_Cardinal_logo.svg) | Circa-1980 Athletics mark; Stanford University attribution and 2016 game-notes source. |
+| Washington State | [Cougars wordmark SVG](https://commons.wikimedia.org/wiki/File:Washington_State_Cougars_wordmark.svg) | 2016 wordmark sourced to WSU Brand Identity Guide; not Cougar head. |
+| Sacramento State | [Hornets logo SVG](https://commons.wikimedia.org/wiki/File:Sacramento_State_Hornets_logo.svg) | 2011 Athletics logo sourced to Hornet Sports flyer. |
+| Fresno State | [Bulldog Athletics wordmark PNG](https://commons.wikimedia.org/wiki/File:Fresno_State_Bulldog_Athletics_Wordmark.png) | New Athletics wordmark introduced in 2019; 2020 file with unknown author/limited source attribution. |
+
+Commons file pages confirm original uploadable SVG/PNG files and dimensions. California's file identifies UC Berkeley Athletics and cites Cal's website; Stanford's circa-1980 logo is sourced to Stanford basketball game notes and attributed to Stanford University; Washington State's 2016 wordmark cites the WSU Brand Identity Guide; Sacramento State's logo is attributed to the Hornets and sourced to a 2011 Athletics flyer; Fresno State's 2019-introduced wordmark has an unknown author and limited source detail, explicitly noted. The missing primary_mark_url queue is now empty. Trademark restrictions remain separate from file availability.
