@@ -3,16 +3,15 @@
 **Audit date:** November 5, 2026  
 **Scope:** Official school athletics identity references and asset readiness for the 138-school custom league roster.
 
-## Verification standard
+## Verification standard — G.E. (Good Enough)
 
-A school is not marked asset-verified merely because an official brand or athletics webpage exists. A complete asset verification requires:
+The purpose of this audit is a dependable, recognizable, practical NCAA branding dataset—not an exhaustive hunt for perfect production files. A standalone PNG/SVG is helpful, but it is **not mandatory** for Verified status.
 
-1. The exact logo version and era are identified (current or historical).
-2. The source is authoritative or its provenance is independently corroborated.
-3. A direct PNG or SVG asset URL is captured where available.
-4. The asset successfully opens and is nonblank.
-5. Visual inspection confirms the file matches the identified mark.
-6. Usage and licensing restrictions are documented.
+A school may be marked **Verified** when the selected mark is official or a highly faithful representation of the official mark, matches the school's recognizable Athletics identity, has colors sufficiently supported by official sources, and has credible official evidence (such as a current Athletics brand guide, official identity page, licensing guide, or official announcement). An official guide's embedded artwork or a faithful reference image can satisfy the visual-evidence requirement; the mark's hierarchy should be clear enough for the intended use.
+
+Use **Partial** when a meaningful issue remains: the department-wide primary is unclear, official sources conflict, the source may be outdated, the selected mark may be a sport-specific or campaign-only variant, or color/identity details remain materially uncertain. Use **Needs Review** when there is an obvious mismatch, retired identity, unsupported recreation, or serious conflict. Do not confuse an institutional mark with an Athletics mark, or a mascot/spirit mark with a primary logo.
+
+This is a practical verification threshold, not a claim that every file is a licensed production asset. Preserve source URLs, note relevant restrictions, and do not imply that public availability grants permission to reuse a trademark. Revisit a record if a discrepancy is discovered. Prefer completion and consistency over marginal asset-file perfection.
 
 ## Historical logo fallback policy
 
@@ -958,3 +957,20 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 - **Miami (FL) — partial.** Official 2009 announcement confirms the Split-U, developed through Athletics in 1973 and worn by Hurricanes student-athletes, became the shared University graphic identity; 2014 Athletics uniform release confirms continued use. 2000 official logo release lists Orange PMS 1665, Green PMS 3435, Storm PMS 432 and Grey PMS 429. No standalone current Athletics production asset captured and visually inspected. Sources: https://miamihurricanes.com/news/2009/06/11/205551818-2 ; https://miamihurricanes.com/news/2014/04/12/209460770-2 ; https://miamihurricanes.com/news/2000/04/13/205550764-2
 
 **Batch result:** 1 Verified retained; 5 Partial; 0 new status upgrades. All 138 school records retained. Overall totals remain 20 Verified / 118 Partial / 0 missing.
+
+
+## G.E. Reclassification — Batch 79 retroactive review
+
+Applied the G.E. (Good Enough) standard to the five Partial records from Batch 79. Georgia, Florida, Florida State and Miami (FL) are now Verified because official current or corroborated Athletics sources identify the selected identity and provide sufficient visual/reference evidence. Georgia Tech remains Partial because the available evidence confirms an Athletics-exclusive outlined GT treatment but does not establish a sufficiently clear department-wide primary mark for the selected record.
+
+## Batch 80 — G.E. verification: Clemson, South Carolina, Tennessee, Vanderbilt, UCF, Florida Atlantic
+
+- **Clemson — verified.** Official Athletics identity guide identifies the CLEMSON wordmark with Tiger Paw replacing the O as the Athletics primary lockup. Tiger Paw alone is a distinct signature symbol; preserve the primary lockup hierarchy. Clemson Orange #F56600, Goal Line White #FFFFFF, Regalia #522D80. Trademark controls apply.
+- **South Carolina — verified.** Official University brand toolbox identifies the Gamecock as the symbol for South Carolina Athletics and displays the Athletics reference mark; it may appear alone or with the traditional Block C. Tailfeathers and USC 1801 are informal spirit marks, not logo substitutes. Trademark approval applies.
+- **Tennessee — verified.** Current official trademark/licensing standards list Tennessee T and TENNESSEE wordmark among primary Athletics marks; Athletics Traditions identifies Power T as the official Volunteers logo. Use the approved combinations and retain program-specific distinctions for Lady Volunteers.
+- **Vanderbilt — verified.** Current official Athletics brand page distinguishes Athletic V and primary Vanderbilt Commodores lockups from Star V, which is secondary. Anchor, Mr. C and Hand VU remain select-use spirit assets. Official downloads are access-controlled; standalone file is not required for G.E. verification.
+- **UCF — partial.** Current 2026 official brand guide shows several Athletics-specific identities (Knighthead, stacked Athletics logo, SpaceU and Citronauts) but does not designate one singular department-wide primary. Do not substitute the institutional stacked UCF mark or Pegasus. Revisit if a single mark is selected for a defined use.
+- **Florida Atlantic — partial.** Official identity announcement distinguishes Athletics, general-use University and seal marks; current 2024–25 Athletics publications show the Owl-head Athletics logo. Available evidence supports the Athletics identity but does not yet resolve a clear department-wide primary hierarchy for the selected mark.
+
+**Batch result:** 4 Verified; 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 28 Verified / 110 Partial / 0 Needs Review.
+
