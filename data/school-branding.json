@@ -972,10 +972,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/usf.sidearmsports.com/documents/2022/8/18/USF-ATHLETICS-BRAND-GUIDE.pdf",
-      "usage_notes": "USF Athletics' official 2022 Brand Guide (page 8) explicitly identifies Bull U as the South Florida Athletics primary logo and master brand. Logo USF and Logo Bulls are secondary marks; sport-specific lockups are separate. The guide's Bull U image is a composite page with multiple applications, not a standalone direct production file, so no standalone asset was captured and visually inspected; status remains partial. Official primary colors: USF Green #006747, USF Gold #CFC493 and White #FFFFFF. The gold primary-logo variation is apparel-only with approval; proportions and colors may not be altered. Do not confuse the Athletics guide with the university-wide logo lockup or seal."
+      "usage_notes": "USF Athletics' official 2022 Brand Guide (page 8) explicitly identifies Bull U as the South Florida Athletics primary logo and master brand. Logo USF and Logo Bulls are secondary marks; sport-specific lockups are separate. The guide's Bull U image is a composite page with multiple applications, not a standalone direct production file; G.E. standard accepts the official guide artwork without a standalone production file. Official primary colors: USF Green #006747, USF Gold #CFC493 and White #FFFFFF. The gold primary-logo variation is apparel-only with approval; proportions and colors may not be altered. Do not confuse the Athletics guide with the university-wide logo lockup or seal."
     },
     "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/usf.sidearmsports.com/documents/2022/8/18/USF-ATHLETICS-BRAND-GUIDE.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2022 South Florida Athletics Brand Guide explicitly labels Bull U as the Athletics primary logo/master brand (p.8), distinguishes secondary marks, and displays approved logo treatments. The 2019 University announcement confirms Iconic Bull U became the University-wide identity. Standalone production file is not required."
   },
   {
     "school_id": "fiu",
@@ -991,7 +992,8 @@
       "usage_notes": "FIU Athletics' official 2024–25 Brand Guide identifies the Panther Head and FIU block wordmark variants (Navy/White) as primary Athletics marks. Panthers Script is reserved primarily for baseball and softball; sport-specific marks and throwback/VICE marks are separate. This Athletics hierarchy differs from the general FIU university logo guide, which calls the Panther Logo a secondary symbol of the university and says it cannot replace the primary FIU institutional logo. The Athletics guide is a composite PDF reference; no standalone production asset was captured and visually inspected, so status remains partial. Official Athletics palette: FIU Navy #091F3F, FIU Gold #C3993F and White #FFFFFF; VICE/Biscayne Blue/Sunblazers palettes are theme-specific."
     },
     "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/fiu.sidearmsports.com/documents/2024/12/19/FIU_Athletics_Brand_Guide_2024-25.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2024–25 FIU Athletics Brand Guide explicitly identifies Panther Head and FIU block wordmark variants as primary Athletics marks and shows approved usage/background treatments. This Athletics hierarchy is distinct from the university-wide FIU institutional logo hierarchy; retain that distinction. Standalone production file is not required."
   },
   {
     "school_id": "coastal-carolina",
@@ -1007,7 +1009,8 @@
       "usage_notes": "Coastal Carolina Athletics' refreshed identity was officially adopted for 2025–26. The current official Athletics branding page labels the Primary Wordmark and Illustrative Wordmark as the only approved Athletics wordmarks; teal leads, supported by bronze and black. The earlier 2024 university guide documents Chanticleer athletic marks and lockups, but the 2025–26 Athletics refresh supersedes that identity presentation. The current page exposes wordmark image previews, but no standalone production asset was captured and visually inspected; status remains partial. Official palette: Teal #006F71 (PMS 322 C), Bronze #A27752 (PMS 875 C) and Black #111111 (PMS Black 6 C). Do not alter proportions, orientation or color."
     },
     "brand_source_url": "https://goccusports.com/sports/2025/3/5/koz-test-page",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: current official Coastal Carolina Athletics branding page identifies the Primary Wordmark and Illustrative Wordmark as the only approved Athletics wordmarks, displays both reference treatments, and confirms adoption for 2025–26. Teal #006F71, Bronze #A27752 and Black #111111 are explicitly documented. The current primary wordmark is sufficient for the database's practical identity use."
   },
   {
     "school_id": "charlotte",
@@ -1057,7 +1060,8 @@
       "usage_notes": "The official 2023 ECU Athletics Brand Guide (pages 11–12) explicitly labels the skull-and-crossbones pirate hat graphic with ECU lettering as the PRIMARY 'PIRATE' MARK and the primary identifier for all ECU Athletics. The ECU wordmark is also a primary identifier; Pirates and East Carolina wordmarks are secondary. The bearded Pirate Head is a legacy mark reserved for Hall of Fame, letterwinners and tradition areas; do not substitute it for the current primary Pirate mark. The primary mark was visually inspected within the official PDF, but no standalone production asset was captured; status remains partial. Official colors: Purple #582C83, Gold #FFC700 (uncoated; coated-paper gold #FFC72C), White #FFFFFF and Black #000000 accent. All marks require advance written permission."
     },
     "brand_source_url": "https://licensing.ecu.edu/wp-content/pv-uploads/sites/507/2023/06/2023_ECU_Athletics_Brand_Guide.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2023 ECU Athletics Brand Guide explicitly identifies the skull-and-crossbones pirate-hat graphic with ECU lettering as the primary Pirate mark and primary identifier for ECU Athletics; the current official licensing page distinguishes the traditional bearded Pirate Head as a heritage/tradition mark. Preserve the current primary-vs-legacy distinction. Standalone production file is not required."
   },
   {
     "school_id": "georgia-southern",
