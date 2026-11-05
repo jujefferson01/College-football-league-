@@ -338,3 +338,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 9 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Auburn's standalone interlocking AU rendered. Ohio's historical wordmark and Kent State's Athletics wordmark remain correctly classified. Georgia remains partial as a standalone asset despite official primary-mark identity evidence. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 48 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 10 (November 5, 2026)
+
+**Scope:** Georgia Tech, Florida, Florida State, Miami (FL), Clemson, and South Carolina. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Georgia Tech | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Florida | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored asset is a script wordmark, not Gator Head primary |
+| Florida State | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored asset is explicitly historical, while current primary is Seminole Head |
+| Miami (FL) | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; current Split-U hierarchy/production asset remains a separate open issue |
+| Clemson | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored tiger-head artwork is historical/alternate, not the primary Tiger Paw |
+| South Carolina | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored art is historical/alternate Athletics identity |
+
+**Batch 10 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The mark hierarchy caveats for Florida, Florida State, Miami (FL), Clemson and South Carolina remain explicit; a recognizable historical mark is not silently promoted to current primary. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 54 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
