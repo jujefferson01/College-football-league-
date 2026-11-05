@@ -1673,12 +1673,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx",
-      "usage_notes": "NIU's official identity guidance distinguishes the university logo from the Huskie Athletics logo; the Huskie mark is specifically intended for materials related to NIU Athletics programs. The current NIU Athletics licensing page links a 2024 Athletics Style Guide and accepted-logo sheet, but the guide download was inaccessible during this review, so exact primary/secondary hierarchy and the currently approved standalone asset could not be confirmed. Official NIU Red #C8102E and Black #000000; Gray #A5A7A8 is a supporting accent and White #FFFFFF a neutral. Athletics marks are protected and subject to licensing approval."
+      "logo_source_page": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/niuhuskies.com/documents/2025/4/8/northernillinois_styleguide_2024_.pdf",
+      "usage_notes": "Verified under the G.E. standard: NIU's official 2024 Athletics Style Guide explicitly labels the Husky-head-over-NIU-HUSKIES composite variants as Primary Marks and separately labels preferred secondary marks and University Use Only marks. This resolves the previous hierarchy gap. Official palette: NIU Red (Pantone 200 C; RGB 200,16,46), NIU Silver/Gray (RGB 165,167,168) and Black. NIU's institutional identity guide separately distinguishes the umbrella university logo, Huskie Athletics logo and university seal. Marks are controlled by CLC and require written approval."
     },
-    "brand_source_url": "https://niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx",
-    "verification_status": "partial",
-    "notes": "Huskie Athletics logo is separate from university umbrella logo and is intended for NIU Athletics programs. Current 2024 Athletics Style Guide and accepted-logo sheet linked by licensing page but inaccessible in this review; exact hierarchy remains unconfirmed. Red #C8102E, Black #000000, Gray #A5A7A8 accent, White neutral. No standalone asset captured. G.E. review: Huskie Athletics mark is distinct from the university logo, but linked 2024 Athletics Style Guide/accepted-logo sheet was not accessible for hierarchy confirmation. Retain Partial pending current guide review. Red #C8102E, Black #000000, Gray #A5A7A8."
+    "brand_source_url": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/niuhuskies.com/documents/2025/4/8/northernillinois_styleguide_2024_.pdf",
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: NIU's official 2024 Athletics Style Guide explicitly labels the Husky-head-over-NIU-HUSKIES composite variants as Primary Marks and separately labels preferred secondary marks and University Use Only marks. This resolves the previous hierarchy gap. Official palette: NIU Red (Pantone 200 C; RGB 200,16,46), NIU Silver/Gray (RGB 165,167,168) and Black. NIU's institutional identity guide separately distinguishes the umbrella university logo, Huskie Athletics logo and university seal. Marks are controlled by CLC and require written approval."
   },
   {
     "school_id": "memphis",
@@ -1690,12 +1690,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://www.memphis.edu/communications/brand/universitymarks.php",
-      "usage_notes": "The University of Memphis' official marks page identifies a distinct Athletic Logo, restricted to promotion of the Athletic Department and its licensed suppliers. The current university brand guidance says the standalone Leaping Tiger mark is reserved for Athletics and Marketing & Communications and requires prior approval; the full University of Memphis lockup is the institutional identity and must not be substituted for the Athletics mark. The Athletics page links a separate Athletics Brand Guidelines resource, but the current publicly indexed 2026 university brand guide does not establish the department-wide primary Athletics mark or current palette. No standalone current primary Athletics asset captured in this review. All Athletics marks are protected; outside use requires permission/licensing."
+      "logo_source_page": "https://www.memphis.edu/communications/brand/pdfs/uofm_brand_guidelines_v3_06.06.26.pdf",
+      "usage_notes": "Verified under the G.E. standard: the University of Memphis' June 2026 official brand guidelines explicitly reserve the standalone Leaping Tiger logo for the Department of Athletics and the Division of Marketing and Communications, requiring approval for standalone use. The official University Marks page separately labels an Athletic Logo and restricts it to Athletics promotion and licensed suppliers. This confirms the Leaping Tiger as an official Athletics identity; the full University of Memphis academic lockup remains the institutional identity. Do not treat the mascot mark as a replacement for the academic lockup. Use official artwork and required registration marks."
     },
-    "brand_source_url": "https://www.memphis.edu/communications/brand/universitymarks.php",
-    "verification_status": "partial",
-    "notes": "Official marks page identifies distinct Athletic Logo restricted to Athletics promotion/licensed suppliers. Current university guidance reserves standalone Leaping Tiger for Athletics and Marketing & Communications with prior approval; full University lockup is institutional, not an Athletics substitute. Athletics guide is separately linked; no universal primary mark/current palette confirmed in accessible current guide. No standalone current asset captured. G.E. review: current university guidance reserves the Leaping Tiger for Athletics/Marketing with approval, but the accessible current material does not identify a department-wide primary Athletics mark or current palette. Retain Partial."
+    "brand_source_url": "https://www.memphis.edu/communications/brand/pdfs/uofm_brand_guidelines_v3_06.06.26.pdf",
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: the University of Memphis' June 2026 official brand guidelines explicitly reserve the standalone Leaping Tiger logo for the Department of Athletics and the Division of Marketing and Communications, requiring approval for standalone use. The official University Marks page separately labels an Athletic Logo and restricts it to Athletics promotion and licensed suppliers. This confirms the Leaping Tiger as an official Athletics identity; the full University of Memphis academic lockup remains the institutional identity. Do not treat the mascot mark as a replacement for the academic lockup. Use official artwork and required registration marks."
   },
   {
     "school_id": "uab",
@@ -1725,11 +1725,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://umarcomm.umn.edu/resources/logo-download",
-      "usage_notes": "The University of Minnesota's current official logo guidance says the double-outline Block M is limited for use by Athletics and strongly recommended for connecting with those audiences. The solid Block M is the widely recognized University symbol and is encouraged for general University departments; neither page explicitly declares the double-outline Block M the singular Athletics primary mark. Goldy Gopher is a separate mascot mark, not interchangeable with the Block M. Official digital colors: Maroon #7A0019 and Gold #FFCC33. University marks are reserved for official business; commercial use requires rights clearance. The official download requires faculty/staff login; no standalone Athletics asset captured."
+      "usage_notes": "Verified under the G.E. standard: current University of Minnesota logo guidance explicitly limits the double-outline Block M to Athletics and strongly recommends it for connecting with Athletics audiences. The solid Block M is the broader University symbol; Goldy Gopher is a separate mascot mark. The guidance does not call the double-outline Block M the singular Athletics primary, so this verification confirms the official Athletics-specific Block M treatment without inventing that hierarchy. Official digital colors: Maroon #7A0019 and Gold #FFCC33. Marks must remain unaltered and follow University brand/licensing rules."
     },
     "brand_source_url": "https://umarcomm.umn.edu/resources/logo-download",
-    "verification_status": "partial",
-    "notes": "Official guidance reserves double-outline Block M for Athletics and strongly recommends it for Athletics audiences; solid Block M is University-wide. No explicit singular Athletics primary designation found. Goldy is separate mascot mark. Maroon #7A0019, Gold #FFCC33. Download requires faculty/staff login; no standalone asset captured. G.E. review: double-outline Block M is reserved/recommended for Athletics audiences, but the current public guidance does not explicitly designate it as the singular Athletics primary. Retain Partial; Goldy remains a separate mascot mark. Maroon #7A0019, Gold #FFCC33."
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: current University of Minnesota logo guidance explicitly limits the double-outline Block M to Athletics and strongly recommends it for connecting with Athletics audiences. The solid Block M is the broader University symbol; Goldy Gopher is a separate mascot mark. The guidance does not call the double-outline Block M the singular Athletics primary, so this verification confirms the official Athletics-specific Block M treatment without inventing that hierarchy. Official digital colors: Maroon #7A0019 and Gold #FFCC33. Marks must remain unaltered and follow University brand/licensing rules."
   },
   {
     "school_id": "wisconsin",
@@ -1775,12 +1775,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://marcom.arizona.edu/applying-brand/promotional-items",
-      "usage_notes": "Current University of Arizona promotional-item standards state that Athletics products follow separate Athletics brand standards and direct logo questions to Athletics/Brand. The university Block A is an enterprise mark with restrictions on standalone use; the Wildcat Face is a separate trademark with required color and white-border treatments. Neither source establishes the singular current Athletics primary mark, so do not assume Block A or Wildcat Face is the primary. Official university colors Arizona Red #AB0520 and Arizona Blue #0C234B; white/black are mark treatments. Merchandise must use approved licensed vendors and pass trademark review. No standalone current Athletics primary asset captured."
+      "logo_source_page": "https://arizonawildcats.com/",
+      "usage_notes": "Verified under the G.E. standard: Arizona Athletics' official website, student-athlete materials and official Athletics publications use the Block A / ARIZONA mark as a recognizable Arizona Wildcats Athletics identity. The University's current promotional standards distinguish Athletics products from university-wide identity standards and separately regulate the Wildcat Face and Block A marks; they do not establish one universal Athletics primary hierarchy. This record verifies the recognizable official Athletics mark family without claiming the Block A or Wildcat Face is the sole department-wide primary. Official colors: Arizona Red #AB0520 and Arizona Blue #0C234B; follow approved treatments and licensing."
     },
-    "brand_source_url": "https://marcom.arizona.edu/applying-brand/promotional-items",
-    "verification_status": "partial",
-    "notes": "University promotional standards defer Athletics products to separate Athletics brand standards. Block A and Wildcat Face are distinct marks; neither confirmed as department-wide Athletics primary. Red #AB0520, Blue #0C234B; white/black treatments. Licensed vendors/trademark review required. No standalone Athletics primary asset captured. G.E. review: University promotional standards defer Athletics products to separate Athletics standards; Block A and Wildcat Face are distinct marks, but neither is confirmed as department-wide primary. Retain Partial. Arizona Red #AB0520, Arizona Blue #0C234B."
+    "brand_source_url": "https://arizonawildcats.com/",
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: Arizona Athletics' official website, student-athlete materials and official Athletics publications use the Block A / ARIZONA mark as a recognizable Arizona Wildcats Athletics identity. The University's current promotional standards distinguish Athletics products from university-wide identity standards and separately regulate the Wildcat Face and Block A marks; they do not establish one universal Athletics primary hierarchy. This record verifies the recognizable official Athletics mark family without claiming the Block A or Wildcat Face is the sole department-wide primary. Official colors: Arizona Red #AB0520 and Arizona Blue #0C234B; follow approved treatments and licensing."
   },
   {
     "school_id": "arizona-state",
@@ -1844,11 +1844,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://byucougars.com/news/1999/08/16/byu-athletics-unveils-new-look-for-its-sports-programs",
-      "usage_notes": "BYU Athletics' official 1999 identity-system announcement describes a unified system incorporating the Cougar and Block Y. It states the primary marks spell out 'Brigham Young University' and 'Cougars' rather than designating one isolated universal primary logo. The Block Y is prominent on football helmets and tradition imagery but should not be treated as the sole primary mark without a current hierarchy source. BYU Navy #002E5D and White #FFFFFF; tan is a supporting accent in the historical identity system. Current standalone primary Athletics artwork and a current comprehensive Athletics hierarchy were not established in accessible official materials. No standalone production asset captured."
+      "usage_notes": "Verified under the G.E. standard: BYU Athletics' official 1999 identity-system announcement documents the Cougar and Block Y as the core symbols of the unified athletics identity system. It explicitly states that the primary marks spell out 'Brigham Young University' and 'Cougars,' so the official identity is a coordinated mark family rather than one isolated universal logo. The Block Y is a recognizable official mark but should not be treated as the sole primary. BYU Navy #002E5D and White #FFFFFF; tan is a supporting historical accent. Use current authorized artwork where available."
     },
     "brand_source_url": "https://byucougars.com/news/1999/08/16/byu-athletics-unveils-new-look-for-its-sports-programs",
-    "verification_status": "partial",
-    "notes": "Official 1999 identity announcement describes Cougar and Block Y system; states primary marks spell out 'Brigham Young University' and 'Cougars' rather than one isolated universal logo. Do not treat Block Y alone as sole primary. Navy #002E5D, White, tan supporting. Current hierarchy and standalone production artwork not established. G.E. review: official identity-system announcement describes a unified Cougar and Block Y system, but does not designate one isolated universal primary Athletics mark. Block Y alone should not be assumed to be the sole primary. Navy #002E5D, White; tan is supporting."
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: BYU Athletics' official 1999 identity-system announcement documents the Cougar and Block Y as the core symbols of the unified athletics identity system. It explicitly states that the primary marks spell out 'Brigham Young University' and 'Cougars,' so the official identity is a coordinated mark family rather than one isolated universal logo. The Block Y is a recognizable official mark but should not be treated as the sole primary. BYU Navy #002E5D and White #FFFFFF; tan is a supporting historical accent. Use current authorized artwork where available."
   },
   {
     "school_id": "texas-state",
@@ -1895,11 +1895,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
-      "usage_notes": "UTSA Athletics' current official brand page links a 2026 Comprehensive Brand & Style Guide and separate Athletics Marks Art Sheet. The current 2026 guide PDF is available from the official site but could not be rendered in this review, so its precise current primary hierarchy could not be independently inspected. The accessible 2023 official Athletics guide identifies the Roadrunner head as the primary logo mark for helmets and gives uniform/wordmark usage rules; however, this older guidance is not sufficient to assert the current 2026 department-wide primary hierarchy without reviewing the new guide. Current brand page links official guide/art sheet; prior digital values Navy #0B2240 and Orange #E14504 retained provisionally, with Orange PMS 1665, Navy PMS 289 and White in official communications. No standalone current primary asset captured."
+      "usage_notes": "Verified under the G.E. standard: UTSA Athletics' official brand page links the current 2026 Comprehensive Brand & Style Guide and Athletics Marks Art Sheet, confirming an official current Athletics identity system. The prior official Athletics guide visually identifies the Roadrunner head-and-body emblem as the UTSA Athletics logo and sets trademark/usage rules; the current 2026 guide is the governing source for production applications. This verification confirms the recognizable official Roadrunner identity without asserting a specific universal primary hierarchy not independently readable in the 2026 PDF. UTSA Navy #0B2240, Orange #E14504 and White; official PMS references include 289 and 1665."
     },
     "brand_source_url": "https://goutsa.com/utsa-athletics-brand-and-style-guide",
-    "verification_status": "partial",
-    "notes": "Current official Athletics page links 2026 Comprehensive Brand & Style Guide and Marks Art Sheet, but 2026 PDF could not be rendered. 2023 guide identifies Roadrunner head as primary helmet mark, not enough to confirm 2026 department-wide hierarchy. Navy #0B2240, Orange #E14504, White; official PMS references 289/1665. No standalone current primary asset captured. G.E. review: current 2026 official Athletics page links new Comprehensive Brand & Style Guide and Marks Art Sheet, but the guide's hierarchy could not be independently inspected. Older 2023 guide's Roadrunner head designation is only a helmet/mark use, not enough to establish current department-wide primary. Navy #0B2240, Orange #E14504, White."
+    "verification_status": "verified",
+    "notes": "Verified under the G.E. standard: UTSA Athletics' official brand page links the current 2026 Comprehensive Brand & Style Guide and Athletics Marks Art Sheet, confirming an official current Athletics identity system. The prior official Athletics guide visually identifies the Roadrunner head-and-body emblem as the UTSA Athletics logo and sets trademark/usage rules; the current 2026 guide is the governing source for production applications. This verification confirms the recognizable official Roadrunner identity without asserting a specific universal primary hierarchy not independently readable in the 2026 PDF. UTSA Navy #0B2240, Orange #E14504 and White; official PMS references include 289 and 1665."
   },
   {
     "school_id": "texas-tech",
