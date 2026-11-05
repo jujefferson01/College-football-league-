@@ -410,3 +410,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 13 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying image files were visibly decoded through their Commons file-page preview links. The direct Commons redirect endpoints were not directly fetchable by this browser tool, but that limitation does not prevent confirmation of the underlying image files. The Jacksonville State file is an institutional lockup rather than an athletics mascot; Arkansas and Ole Miss are explicitly historical/alternate wordmarks. The user-approved historical/uploadable rule allows these to remain usable candidates, with classifications and provenance preserved. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status after Batch 13:** 17 distinct assets visibly rendered or previously visually inspected; 59 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 14 (November 5, 2026)
+
+**Scope:** Tulane, Louisiana, Louisiana Tech, Louisiana-Monroe, Arkansas State, and South Alabama. Exact Commons file pages were opened and their image preview links were checked.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Tulane | Teal-and-blue TULANE GREEN WAVE wordmark visibly rendered | PASS — image decoded/rendered; wordmark, not the current Angry Wave primary mark |
+| Louisiana | Red-and-white LOUISIANA wordmark visibly rendered | PASS — image decoded/rendered; official brand guide identifies this as the primary Athletics wordmark, distinct from the circular Ragin' Cajuns primary logo |
+| Louisiana Tech | Blue-and-white stacked LOUISIANA TECH wordmark visibly rendered | PASS — image decoded/rendered; Athletics wordmark, not the Bulldog head mark |
+| Louisiana-Monroe | Black, white, and gold ULM wordmark visibly rendered | PASS — image decoded/rendered; secondary wordmark, not the full ULM Warhawks primary Athletics logo |
+| Arkansas State | Red STATE wordmark with black-and-white outline visibly rendered | PASS — image decoded/rendered; historical/alternate Athletics wordmark |
+| South Alabama | Commons page identifies the file and original SVG, but its thumbnail request returned HTTP 400 in the preview tool | PENDING — preview retrieval failure, not proof that the original SVG is broken; file is a wordmark, not the Jag Head primary Athletics lockup |
+
+**Batch 14 result:** 5 PASS, 1 PENDING, 0 confirmed broken assets. The four wordmark distinctions (Tulane, Louisiana Tech, ULM and South Alabama) are retained; Louisiana's wordmark is separately identified as a primary Athletics wordmark, while Arkansas State's is historical/alternate. South Alabama remains pending because the thumbnail request failed even though the Commons file page lists an original SVG. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status after Batch 14:** 22 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
