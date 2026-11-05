@@ -1058,3 +1058,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **UAB — verified.** Current official Athletics Brand Guide explicitly identifies gold-outlined UAB monogram as primary Athletics logo for all official sports, departments and units. Full-color green/gold is preferred; Blaze is secondary. Green #1A5632, Gold #FDB913. Source: https://www.uab.edu/brandguide/athletics
 
 **Batch result:** 3 Verified; 3 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 53 Verified / 85 Partial / 0 Needs Review.
+
+
+## Batch 88 — G.E. verification: Minnesota, Wisconsin, Northwestern, Arizona, Arizona State, Colorado
+
+- **Minnesota — partial.** Current University guidance reserves the double-outline Block M for Athletics and recommends it for Athletics audiences, but does not explicitly designate it the singular Athletics primary. Goldy Gopher remains a separate mascot mark. Maroon #7A0019, Gold #FFCC33. Source: https://umarcomm.umn.edu/resources/logo-download
+- **Wisconsin — verified.** Current Athletics branding guidelines explicitly identify Motion W as PRIMARY LOGO and specify preferred full-color treatment. Bucky is a mascot/spirit mark; W Crest is academic identity. Badger Red #C5050C, White #FFFFFF, Dark Red #9B0000 supporting. Source: https://branding.uwbadgers.com/logos
+- **Northwestern — verified.** 2026-03-02 Registered Trademarks Guide classifies purple Block N as PRIMARY ATHLETICS MARK and defines approved white-outline/default treatments. NU, overlays, wordmarks and sport-specific Ns are secondary/restricted. Purple #4E2A84, White, Black, Gray #C8C9C7. Source: https://www.northwestern.edu/procurement/source-purchase/compliance/trademark-licensing/northwestern_03-02-26_.pdf
+- **Arizona — partial.** University promotional standards defer Athletics products to separate Athletics standards; Block A and Wildcat Face are distinct marks, but neither is confirmed as department-wide primary. Red #AB0520, Blue #0C234B. Source: https://marcom.arizona.edu/applying-brand/promotional-items
+- **Arizona State — verified.** Current ASU Brand Guide explicitly states Athletics pitchfork is the Sun Devil Athletics PRIMARY LOGO. Distinguish from Sparky's pitchfork, mascot and hand-pitchfork spirit mark. Gold pitchfork with maroon outline is primary treatment. Maroon #8C1D40, Gold #FFC627, Black, White. Source: https://brandguide.asu.edu/elements-guidelines/logos/spirit
+- **Colorado — verified.** Current Athletics art sheet explicitly groups Buffalo/OU and CU marks under Primary Marks; COLORADO/BUFFS/Ralphie are separate wordmarks/mascot identity. Primary family includes approved variants. Athletics spot colors: Gold PMS 4525 C, Process Black C, White, Gray PMS 422 C; do not substitute institutional digital gold. Source: https://cubuffs.com/documents/download/2022/1/28/colorado_boulder_art_sheet.pdf
+
+**Batch result:** 4 Verified; 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 57 Verified / 81 Partial / 0 Needs Review.
