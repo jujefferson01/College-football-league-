@@ -1094,3 +1094,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **UNLV — partial.** 2017 refreshed Hey Reb!/Las Vegas composition is officially Athletics spirit mark, but source does not designate it universal primary Athletics logo. Academic UNLV monogram is not Athletics substitute. Scarlet #E31837, Gray #9FA1A4, Rich Black #000000. Source: https://unlvrebels.com/news/2017/6/28/UNLV_Introduces_Spirit_Mark_Refresh.aspx
 
 **Batch result:** 3 Verified; 3 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 64 Verified / 74 Partial / 0 Needs Review.
+
+
+## Batch 91 — G.E. verification: San Jose State, Colorado State, Wyoming, Air Force, New Mexico, New Mexico State
+
+- **San Jose State — verified.** Official Athletics Branding & Style Guide explicitly labels Spartan Head as Athletics primary mark and distinguishes interlocking SJ apparel/merchandise alternate. Icon+wordmark is an approved primary treatment. Blue #0038A8, Gold #FFB81A, Cool Gray #AAAAAA supporting. Source: https://sjsuspartans.com/sjsu-style-guide
+- **Colorado State — verified (retained).** Current official CSU brand page and inspected master PNG support Ram's Head Symbol as primary symbol when paired with CSU Signature; standalone use is limited. Green #1E4D2B, Gold #C8C372, White. Source: https://brand.colostate.edu/symbol/
+- **Wyoming — partial.** Current 2024 Athletics Brand Guide is governing source but could not be rendered in this review. Bucking Horse & Rider remains prominent and older guide calls it primary, but current hierarchy/approved lockup need confirmation against 2024 guide. Brown #492F24, Gold #FFC425, White. Source: https://gowyo.com/documents/2024/5/2/Wyoming_Athletics_Brand_Guide.pdf
+- **Air Force — verified.** Current 2026 Academy brand page explicitly identifies collegiate-outline Academy logomark as Athletics PRIMARY MARK. Unbordered logomark is formal Academy use; AIR FORCE wordmark and Bolt are secondary. Academy Blue #003594, White primary; Silver #B2B4B2 secondary. Source: https://www.usafa.edu/brand/logo/
+- **New Mexico — verified.** March 2024 official Athletics art sheet explicitly classifies forward-facing Lobos wolf-head with LOBOS wordmark as PRIMARY ATHLETIC MARK (UNM-015); black/white and white reverse variants approved. Script Lobos and NM monogram secondary; sideways Lobo restricted. Cherry #BA0C2F, Silver #A7A8AA, Lobo Gray #63666A. Source: https://storage.googleapis.com/golobos-com/2024/06/64036f4f-unm_art_sheet_2024_v2.pdf
+- **New Mexico State — verified.** Official Athletics brand page explicitly identifies NM State Pete (two versions) as PRIMARY ATHLETICS LOGO; Pete Head and Stacked NM State secondary. Athletics Crimson HEX is not published, so left unset. Zia mark is culturally restricted and not for commercial use. Source: https://brand.nmsu.edu/logos-marks/athletics.html
+
+**Batch result:** 5 Verified (including 1 retained); 1 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 68 Verified / 70 Partial / 0 Needs Review.
