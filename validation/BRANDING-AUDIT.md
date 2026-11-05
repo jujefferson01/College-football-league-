@@ -875,3 +875,15 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 - **Fresno State — partial.** Current official page explicitly designates the four-paw Bulldog as Athletics primary; it must face left except on football helmets. Bulldog Face and wordmarks secondary; Bulldogs Script restricted; FS monogram primarily baseball/softball; Green V must accompany another Athletics mark. Athletics identity is separate from institutional university logo. The page's accessible image is institutional paw-wordmark, not the primary Athletics Bulldog. No standalone production asset captured.
 
 **Batch result:** 0 newly verified standalone primary assets; 4 partial. All 138 school records retained; no remaining unprocessed schools after this batch.
+
+
+## Batch 73 — Second-pass standalone asset verification: Army, Syracuse, Rutgers, Penn State, UConn, Delaware
+
+- **Army — partial.** Official 2015 release and one-sheet continue to designate Athena Shield primary for all intercollegiate teams; Classic A secondary/limited use. Direct official Athena Shield image link redirects through an inaccessible image-conversion endpoint; no standalone production asset visually inspected. Palette remains Army Black, USMA Gold (PMS 467 C), Gray (Cool Gray 5 C), White.
+- **Syracuse — partial.** Official release designates Block S primary; interlocking SU transition-only. 2025–26 Athletics Fund guide continues to feature orange Block S, but the 2005 image is historical and not current production artwork; no current standalone asset captured.
+- **Rutgers — partial.** Current 2025 Visual Identity Manual located (posted September 2026); 2020 official guide explicitly identifies Block R primary, Knight head secondary, New Jersey silhouette tertiary. Current PDF hierarchy could not be inspected and no clean standalone current Block R production asset captured.
+- **Penn State — partial.** Official Brand Book explicitly identifies a separate Primary Athletics Mark. Its linked image was opened and visually inspected but is a reference-board proof with title/grid guides, not a standalone production asset. Mark is the right-facing Nittany Lion head; Nittany Navy (PMS 282) and White Out. Licensing approval required for outside use.
+- **UConn — partial.** Current Brand Standards and 2025 training guide identify Husky Dog as official logo for Division I sports teams, distinct from institutional wordmark/Oak Leaf. Official download routes to access-controlled SharePoint; no standalone current asset captured.
+- **Delaware — partial.** Official Athletics page confirms separate primary Athletics mark and wordmark; official art must be supplied through Athletics Communications/Licensing. Linked image redirects through inaccessible Sidearm conversion; no standalone current asset visually inspected. Blue #00539F (PMS 2945 C), Yellow-Gold #FFD200 (PMS 109 C). 2026 throwback mark is not the current department-wide primary.
+
+**Batch result:** 0 newly verified standalone production assets; 6 remain partial. Existing 138 records retained.
