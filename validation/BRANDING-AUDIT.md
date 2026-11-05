@@ -1367,3 +1367,12 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **Oregon — verified.** Oregon Athletics' official brand-guideline resource and University trademark guidance establish the Oregon O, Duck mascot, Winged O and Fighting Duck as official protected identity marks. Sources: https://goducks.com/sports/2018/7/23/oregon-athletics-brand-guidelines and https://communications.uoregon.edu/primary-logo
 
 **Batch 113 result:** 6 verified under the expanded G.E. visual-recognition standard; 0 retained Partial; 0 Needs Review. Current vs. refreshed artwork and institutional vs. Athletics identity distinctions are retained in the individual records.
+
+
+## Batch 114 — final three G.E. visual-recognition review
+
+- **Stanford — verified.** Stanford's official Identity Guide says the Block S with Tree is one of the University's most recognized logos and is used on University-life and Athletics communications. It distinguishes this emblem from the primary wordmark and formal seal. Source: https://identity.stanford.edu/visual-identity/stanford-logos/block-s/
+- **Washington State — verified.** Current WSU Brand Center explicitly identifies the Cougar head as the primary representation and most recognizable visual symbol of WSU; the official Athletics identity program also documents the Cougar head as the core Cougar Athletics symbol. Sources: https://brand.wsu.edu/logos/ and https://wsucougars.com/brand-identity
+- **Sacramento State — verified.** Sacramento State's official Brand Center lists Athletics as a distinct University sub-identity and links a dedicated Sacramento State Athletics Identity Guide; official Athletics identity is the Hornets/Hornet mark family, distinct from the core institutional wordmarks. Sources: https://www.csus.edu/brand/sub-identities.html and https://www.csus.edu/brand/essentials.html
+
+**Batch 114 result:** 3 verified under the expanded G.E. visual-recognition standard; 0 retained Partial; 0 Needs Review. This completes the 138-school branding verification dataset. Identity distinctions and licensing/usage constraints remain documented in the individual records.
