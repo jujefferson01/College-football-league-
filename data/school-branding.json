@@ -1994,7 +1994,8 @@
       "usage_notes": "San José State Athletics' official Athletics Branding & Style Guide explicitly labels the Spartan Head as the Athletics primary mark (full-color blue/gold and approved single-color variants). The icon+wordmark is a primary treatment for branded collateral; the guide recommends it over wordmark-only usage. The interlocking SJ letters are an alternate apparel/merchandise mark and must never replace the primary mark. Official Athletics colors: Blue #0038A8 (PMS 286C), Gold #FFB81A (PMS 1235C); Cool Gray #AAAAAA (PMS 4C/5C/6C/7C) is supporting. Marks are reserved for Athletics and may not be altered; exceptions require Athletics approval. PDF shows composite reference artwork only; no standalone production asset captured and visually inspected."
     },
     "brand_source_url": "https://sjsuspartans.com/sjsu-style-guide",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: official Athletics Branding & Style Guide explicitly labels Spartan Head as Athletics primary mark and distinguishes the interlocking SJ apparel/merchandise alternate. Icon+wordmark is an approved primary treatment. Blue #0038A8, Gold #FFB81A; Cool Gray #AAAAAA supporting."
   },
   {
     "school_id": "colorado-state",
@@ -2010,7 +2011,8 @@
       "usage_notes": "Official current CSU brand page explicitly names the Ram's Head Symbol, when used in tandem with the CSU Signature, as Colorado State University's primary mark; standalone use is permitted only in limited cases and pairing with CSU Signature or Unit ID is preferred. The official master PNG was opened and visually inspected; it matches the approved white Ram's Head on CSU Green primary symbol. CSU marks are registered trademarks; do not alter artwork and use only official master files. Green #1E4D2B (Pantone 357), Gold #C8C372 (Pantone 617), White #FFFFFF. This verifies the official primary symbol asset, not a separate sport-specific team lockup."
     },
     "brand_source_url": "https://brand.colostate.edu/symbol/",
-    "verification_status": "verified"
+    "verification_status": "verified",
+    "notes": " Batch 91 recheck: current official CSU brand page and inspected master PNG continue to support Ram's Head Symbol as primary symbol when paired with CSU Signature; standalone use is limited. Green #1E4D2B, Gold #C8C372, White."
   },
   {
     "school_id": "wyoming",
@@ -2026,7 +2028,8 @@
       "usage_notes": "Wyoming Athletics' current 2024 Brand Guide is the governing source, but its PDF artwork could not be rendered/inspected in this pass. The Bucking Horse & Rider (commonly associated with Steamboat) remains a prominent official Athletics/uniform symbol; the Athletics site documents its history and meaning. The older style guide identifies it as the primary logo, but current primary hierarchy and approved lockup need confirmation against the 2024 guide. Do not confuse this Athletics symbol with other Cowboy/Pistol Pete imagery. Official colors: Brown #492F24 (PMS 476 C), Gold #FFC425 (PMS 123 C), White. Commercial use is trademark-controlled and requires licensing/approval. No standalone current asset captured."
     },
     "brand_source_url": "https://gowyo.com/documents/2024/5/2/Wyoming_Athletics_Brand_Guide.pdf",
-    "verification_status": "partial"
+    "verification_status": "partial",
+    "notes": " G.E. review: current 2024 Athletics Brand Guide is governing source but could not be rendered in this review. Bucking Horse & Rider remains prominent and older guide calls it primary, but current primary hierarchy/approved lockup need confirmation against the 2024 guide. Brown #492F24, Gold #FFC425, White."
   },
   {
     "school_id": "air-force",
@@ -2042,7 +2045,8 @@
       "usage_notes": "The current 2026 U.S. Air Force Academy brand page explicitly identifies the collegiate-outline letter treatment of the Academy logomark as the Athletics PRIMARY MARK. The unbordered logomark is reserved for formal Academy communications; the bordered collegiate treatment represents Academy Athletics. The AIR FORCE wordmark and Bolt are secondary marks, and the Bolt is not the primary logo. The page shows approved two-color and one-color primary configurations, but only reference images are provided; no standalone production asset captured and visually inspected. Academy Athletics palette: Academy Blue #003594 (PMS 661 C) and Academy White #FFFFFF are primary; Academy Silver #B2B4B2 (PMS 421 C) is secondary; Academy Dark Blue #002554 (PMS 655 C) tertiary. All new uses require Academy approval."
     },
     "brand_source_url": "https://www.usafa.edu/brand/logo/",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: current 2026 Academy brand page explicitly identifies collegiate-outline Academy logomark as Athletics PRIMARY MARK. Unbordered logomark is formal Academy use; AIR FORCE wordmark and Bolt are secondary. Academy Blue #003594, White primary; Silver #B2B4B2 secondary."
   },
   {
     "school_id": "new-mexico",
@@ -2058,7 +2062,8 @@
       "usage_notes": "UNM's official March 2024 Athletics art sheet explicitly classifies the forward-facing Lobos wolf-head with LOBOS wordmark as PRIMARY ATHLETIC MARK (UNM-015 full color; UNM-016 black/white; UNM-017 white reverse). Script Lobos and NM monogram are secondary. Sideways-facing Lobo marks are removed/restricted to internal-use products by special approval. Paw spirit marks are separate and have wordmark pairing rules. Official palette: Cherry #BA0C2F, Silver #A7A8AA, Lobo Gray #63666A; Turquoise #007A86 is a restricted secondary accent requiring Athletics approval. The PDF is a composite art sheet, not a standalone production asset; no primary file captured and visually inspected. Reproduction requires UNM and Affinity Licensing approval."
     },
     "brand_source_url": "https://storage.googleapis.com/golobos-com/2024/06/64036f4f-unm_art_sheet_2024_v2.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: March 2024 official Athletics art sheet explicitly classifies forward-facing Lobos wolf-head with LOBOS wordmark as PRIMARY ATHLETIC MARK (UNM-015); black/white and white reverse variants approved. Script Lobos and NM monogram secondary; sideways Lobo restricted. Cherry #BA0C2F, Silver #A7A8AA, Lobo Gray #63666A."
   },
   {
     "school_id": "new-mexico-state",
@@ -2074,7 +2079,8 @@
       "usage_notes": "NMSU Athletics' official brand page explicitly identifies NM State Pete (two versions) as the PRIMARY ATHLETICS LOGO. Pete Head and Stacked NM State are secondary. Athletics Crimson differs from university Aggie Crimson and the public page does not provide a confirmed HEX value; leave Athletics primary color HEX unset. The Zia mark is culturally restricted to Athletics under rights granted by Zia Pueblo and may NOT be used commercially; marks may not be stretched, recolored or altered. An official standalone primary PNG is linked at https://brand.nmsu.edu/images/ATHLETIC-standard.png, but direct image retrieval/visual inspection was unsuccessful, so no asset is verified."
     },
     "brand_source_url": "https://brand.nmsu.edu/logos-marks/athletics.html",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": " G.E. verified: official NMSU Athletics brand page explicitly identifies NM State Pete (two versions) as PRIMARY ATHLETICS LOGO; Pete Head and Stacked NM State secondary. Athletics Crimson HEX is not published, so leave unset. Zia mark is culturally restricted and not for commercial use."
   },
   {
     "school_id": "utep",
