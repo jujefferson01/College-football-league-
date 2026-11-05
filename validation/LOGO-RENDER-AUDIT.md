@@ -464,3 +464,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 16 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. Oklahoma State's current official primary PNG visibly rendered. The historical/older Houston and Tulsa marks and the Kansas/Kansas State wordmark distinctions are retained. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status after Batch 16:** 34 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 17 (November 5, 2026)
+
+**Scope:** Missouri State, Iowa, Iowa State, Nebraska, Missouri, and North Dakota State. Exact Commons file pages and their thumbnail previews were opened; all six thumbnails visibly decoded.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Missouri State | Dark maroon MISSOURI STATE wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not a mascot graphic |
+| Iowa | Gold IOWA wordmark rendered | PASS — image decoded/rendered; historical/alternate wordmark, not the Tigerhawk primary |
+| Iowa State | Cardinal-and-gold I-STATE/Cyclones mark rendered | PASS — image decoded/rendered; Athletics identity asset; official current guidance recognizes I-State and Cyclone marks as primary Athletics marks |
+| Nebraska | Red block N with black-and-white script Huskers overlay rendered | PASS — image decoded/rendered; 1992–2003 historical logo, not current Block N |
+| Missouri | Black block M with gold outline rendered | PASS — image decoded/rendered; historical/alternate mark, not current Athletic Tiger Head |
+| North Dakota State | Green-and-gold NORTH DAKOTA STATE BISON wordmark rendered | PASS — image decoded/rendered; wordmark, not a bison-head mascot mark |
+
+**Batch 17 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly rendered. The Iowa, Nebraska and Missouri historical/alternate classifications and the Missouri State/North Dakota State wordmark distinctions are retained. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** The previously reported running tally was 34 rendered/inspected and 60 pending; adding this batch yields 40 rendered/inspected and 60 pending on that same ledger. A later reconciliation should align this cumulative ledger with the full 138-school tracker and account for all previously inspected entries. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
