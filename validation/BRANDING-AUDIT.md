@@ -1590,3 +1590,19 @@ Added six source-confirmed image assets for Mississippi State, Southern Miss, Tu
 **QA and usage:** These six Commons file pages expose rendered previews, source/author information and original image files. Data URLs use the corresponding Commons Special:Redirect/file endpoint. As always, a final consuming-app render test remains required. Current primary/secondary distinctions are recorded above; commercial or other trademark use still requires the institution's applicable permission. Mississippi State Athletics guide identifies M-State as primary; Tulane's official guide identifies Angry Wave as primary and T-Wave as secondary; Louisiana Tech distinguishes its wordmark from Bulldog head; ULM's 2025–26 guide specifies its current primary Athletics logo and authorized artwork.
 
 Batch 12 added: 6. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 13 (November 5, 2026)
+
+The next six schools in queue were Arkansas, Ole Miss, Arkansas State, South Alabama, Troy and Texas. Five source-confirmed assets were added; Arkansas remains pending.
+
+- **Ole Miss** — Rebels wordmark SVG; Commons page preview 250 × 82, original 153 × 50, categorized as a University of Mississippi Athletics logo. Historical Athletics wordmark; not represented as a current primary mark. The file page's author field is unknown, so attribution is limited to the Athletics category and file description.
+- **Arkansas State** — Red Wolves wordmark SVG dated July 1, 2008, sourced to the Arkansas State University website and authored by the university; preview 330 × 177, original 317 × 170. Historical/alternate Athletics wordmark.
+- **South Alabama** — Jaguars wordmark SVG dated February 17, 2017, sourced to South Alabama Brand Guidelines and authored by South Alabama Jaguars; preview 330 × 73, original 252 × 56. Wordmark, not the Jaguar-head primary Athletics lockup.
+- **Troy** — Trojans logo SVG sourced to the official Troy Trojans website; preview 250 × 282, original 217 × 245. Alternate/historical Athletics mark.
+- **Texas** — Longhorns logo SVG; preview 500 × 255, original 332 × 169. Commons file history identifies the Longhorn as the University of Texas Athletics primary logo and traces the source to the Office of Trademark Licensing; accepted under G.E.
+- **Arkansas** — no direct asset added. The surfaced Arkansas Razorbacks baseball logo is sport-specific and was not substituted for a general Athletics mark. Retained null pending a reliably attributable general Athletics asset.
+
+**QA:** Exact Commons file pages expose previews, original file dimensions and source/attribution details for the five added assets. Dataset URLs use Commons Special:Redirect/file endpoints built from the exact file-page titles, avoiding guessed upload hashes. The consuming application still needs its own final render test. Historical/alternate/wordmark distinctions are preserved; trademark permissions remain separate from download availability.
+
+Batch 13 added: 5. Pending: Arkansas. Overall school verification remains 138/138 verified.
