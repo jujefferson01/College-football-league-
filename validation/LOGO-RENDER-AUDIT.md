@@ -446,3 +446,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 15 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying files visibly decoded from their Commons preview links. The Troy variant, Baylor 2005 mark, and Texas A&M third-party-sourced PNG retain their specific provenance/currentness caveats. TCU is a wordmark-style athletics logo; SMU is Peruna, an Athletics spirit mark. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status after Batch 15:** 28 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 16 (November 5, 2026)
+
+**Scope:** Houston, Oklahoma, Oklahoma State, Tulsa, Kansas, and Kansas State. Exact Commons file pages were opened and their image preview links were checked; Oklahoma State's direct official PNG was opened directly.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Houston | Red, white, and blue interlocking UH/Cougar mark rendered | PASS — image decoded/rendered; older primary Athletics mark, acceptable under historical/older asset rule |
+| Oklahoma | Crimson-and-white interlocking OU mark rendered | PASS — image decoded/rendered; preserve distinction from other official OU marks and current brand guidance |
+| Oklahoma State | Official orange/black/white OSU cattle-brand logo visibly rendered from the university's standalone PNG | PASS — image decoded/rendered; official trademark page designates it the primary logo |
+| Tulsa | Blue-and-gold Golden Hurricane circular/crest mark rendered | PASS — image decoded/rendered; historical Athletics identity dated 1982 |
+| Kansas | Blue-and-red KU Athletics compact wordmark/identifier rendered | PASS — image decoded/rendered; not the Jayhawk mascot mark |
+| Kansas State | Purple K-STATE wordmark rendered | PASS — image decoded/rendered; wordmark, not the Powercat primary Athletics symbol |
+
+**Batch 16 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. Oklahoma State's current official primary PNG visibly rendered. The historical/older Houston and Tulsa marks and the Kansas/Kansas State wordmark distinctions are retained. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status after Batch 16:** 34 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
