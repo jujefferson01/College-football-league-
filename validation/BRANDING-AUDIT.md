@@ -1319,3 +1319,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **TCU — verified.** TCU Brand Central distinguishes University Frog and Athletic Frog and reserves Athletic Frog for Athletics. Source: https://brand.tcu.edu/horned-frogs/
 
 **Batch 109 result:** 6 upgraded to Verified; 0 retained Partial; 0 Needs Review.
+
+
+## Batch 110 — G.E. visual-recognition review
+
+- **West Virginia — verified.** WVU's official protected-indicia guide identifies the Flying WV and separately depicts Athletics wordmarks, mascot marks and helmet marks. Flying WV is accepted as the recognizable official symbol without claiming it is the sole Athletics mark. Sources: https://trademarklicensing.wvu.edu/protected-indicia/brand-guide and https://wvusports.com/news/2019/4/13/football-nikes-global-identity-group
+- **Michigan — verified.** The official 2023 University style guide identifies the Block M as an official mark; it is widely recognizable in Athletics identity and communications. The note preserves its formal designation as a university secondary mark, distinct from the institutional primary wordmark. Source: https://brand.umich.edu/wp-content/uploads/2023/07/220021-U-M-Style-Guide-July2023.pdf
+- **Purdue — verified.** Purdue's June 2025 official Brand Guidelines describe Motion P as an iconic symbol rooted in the university's athletic tradition and state the unified identity principle. The complete university signature remains Motion P plus wordmark. Sources: https://marcom.purdue.edu/app/uploads/2025/07/508_MM-25-1248800-BrandGuidelines-June2025-V06-1.pdf and https://www.purdue.edu/brand-studio/brand/logos-usage/
+- **Ohio — verified.** The official 2026–27 Athletics Branding Guide explicitly labels Arch Ohio Primary, Attack Cat Secondary and Solo Attack Cat Tertiary. Source: https://ohiobobcats.com/documents/download/2026/4/30/2026-27_Ohio_Athletics_Branding_Guide_5.1.pdf
+- **Kent State — verified.** Official University Communications identifies and displays the Intercollegiate Athletics Logo and confirms its restricted Athletics use; the official Brand Center provides Athletics logo and wordmark assets. Sources: https://www.kent.edu/ucm/kent-state-university-intercollegiate-athletics-logo and https://www.kent.edu/brand/logos
+- **UCF — verified.** The current official guide presents four Athletics marks (Knighthead, stacked Athletics logo, SpaceU and Citronauts), identifies Athletics as their primary user, and distinguishes them from the university stacked UCF mark and Pegasus. Source: https://www.ucf.edu/brand/logo-and-identity/
+
+**Batch 110 result:** 6 verified under the expanded G.E. visual-recognition standard; 0 retained Partial; 0 Needs Review. Verification does not imply that every school has one singular Athletics primary mark; identity-family distinctions are preserved in each record.
