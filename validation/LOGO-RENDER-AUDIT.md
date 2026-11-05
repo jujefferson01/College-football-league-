@@ -213,3 +213,19 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 | Virginia Tech | Wikimedia SVG endpoint could not be retrieved by the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
 
 **Batch 2 result:** 4 PASS, 2 PENDING, 0 confirmed broken assets. Pittsburgh's black preview field is flagged for a later alpha/transparency check; the image is nevertheless confirmed to decode and display. The two pending results remain unresolved rather than failed. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+
+## Visual rendering spot-check — Batch 3 (November 5, 2026)
+
+**Scope:** West Virginia, James Madison, Old Dominion, Liberty, Marshall, and Duke. The exact stored image endpoints were opened in the available browser preview surface. An endpoint that the text/browser tool cannot retrieve is recorded as PENDING, not as a broken file.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| West Virginia | Wikimedia SVG returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+| James Madison | Sidearm-hosted PNG was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Old Dominion | ODU-hosted JPG was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Liberty | PNG visibly rendered; red, navy, and white LU/Flames monogram is clearly displayed | PASS — image decoded/rendered; asset is a monogram-style mark, not a full wordmark |
+| Marshall | Wikimedia SVG returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+| Duke | Duke-hosted PNG was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+
+**Batch 3 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Liberty's asset classification is preserved as a monogram-style Athletics mark. This is browser-preview validation only; the consuming game UI is not present in this repository and has not been tested.
