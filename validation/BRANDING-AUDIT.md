@@ -1778,3 +1778,19 @@ Optional flags: `--input`, `--output`, `--concurrency` (1–4), and `--timeout-m
 Run #1 checked all 138 entries and produced an artifact successfully. The workflow's nonzero exit was caused by the original overly strict checker classification, not by artifact-upload failure. Initial results: 30 PASS and 108 flagged. Of those 108, 98 were HTTP 429 rate limits, two were HTTP 403 anti-bot/access restrictions, six were HTTP 404 responses, and two were recognized WebP images served under a different filename extension. Therefore, the 98 rate limits and two access restrictions are not evidence that the underlying image files are broken; the two WebP responses need render/format review.
 
 The six initial 404 results were Rutgers, Florida Atlantic, South Florida, FIU, Coastal Carolina, and East Carolina. The two initial 403 results were Georgia State and Oklahoma State. These are candidates for direct URL/source-page review; do not automatically replace assets solely from this first run. The checker and workflow were updated after this run to retry transient throttling, lower concurrency, separate REVIEW from confirmed FAIL, and use Node.js 24. A second run is required to establish the revised baseline.
+
+
+## Custom original logo fallback policy — adopted November 5, 2026
+
+When a school's logo is persistently unavailable, broken, access-restricted, or otherwise difficult to obtain in a usable form, the project may use an **original custom-created school-themed logo** instead of spending disproportionate time chasing a source asset. Apply this fallback only after reasonable source/URL verification, and preserve a working authentic historical or alternate logo when one is readily available.
+
+Requirements:
+- Create original artwork inspired by the school's broad identity, mascot concept, and school colors; do not trace, copy, or closely imitate protected official artwork, wordmarks, or distinctive trade dress.
+- Label every such asset clearly as **custom / unofficial / not an official university mark** in the dataset and audit.
+- Do not imply university approval, endorsement, or licensing. Technical uploadability does not grant trademark permission.
+- Produce one separate, transparent-background, upload-ready PNG per school; add SVG only when a clean, reliable vector export is available.
+- Verify the school name, mascot concept, color palette, legibility at small sizes, dimensions, file signature, and successful rendering in the consuming app.
+- Keep the original concept art separate from production assets. Never use a multi-school concept sheet as an individual school's logo file.
+- Record the reason for fallback, creation date, asset path, format, dimensions, and any remaining usage caveat.
+
+Initial custom-logo fallback candidates from automated URL audit: Rutgers, Florida Atlantic, South Florida, FIU, Coastal Carolina, and East Carolina. These six are confirmed HTTP 404 candidates in Test #3; create replacements only after checking whether a simple source-URL correction can recover the intended existing artwork. The approved visual direction is bold, distinctive collegiate mascot artwork with each school's own colors and identity.
