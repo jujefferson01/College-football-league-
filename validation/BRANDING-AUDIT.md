@@ -1606,3 +1606,19 @@ The next six schools in queue were Arkansas, Ole Miss, Arkansas State, South Ala
 **QA:** Exact Commons file pages expose previews, original file dimensions and source/attribution details for the five added assets. Dataset URLs use Commons Special:Redirect/file endpoints built from the exact file-page titles, avoiding guessed upload hashes. The consuming application still needs its own final render test. Historical/alternate/wordmark distinctions are preserved; trademark permissions remain separate from download availability.
 
 Batch 13 added: 5. Pending: Arkansas. Overall school verification remains 138/138 verified.
+
+
+## Uploadable logo asset acquisition — Batch 14 (November 5, 2026)
+
+Reviewed the next six records in the no-direct-asset queue: Arkansas, Texas A&M, Baylor, TCU, SMU and Houston. Five uploadable image-file references were added; Arkansas remains pending.
+
+- **Texas A&M** — Added a 900 × 879 PNG identified on Wikimedia Commons as the Aggies primary logo (2021–present). The file page attributes the artwork to Chris Creamer and sources it to SportsLogos.net; this is a usable historical/alternate asset candidate, but its provenance is secondary rather than an official Texas A&M download. Compare against current Athletics artwork before production use.
+- **Baylor** — Added the Baylor Athletics logo SVG (2005), sourced on Commons to a Baylor-hosted document. It is retained as a historical Athletics wordmark/logo, not asserted to be Baylor's current primary mark.
+- **TCU** — Added the TCU Horned Frogs Athletics logo SVG (2016), attributed to Texas Christian University and sourced to its official website. TCU's current logo download portal is access-controlled for university users; external use requires permission.
+- **SMU** — Added the Peruna/Mustang Athletics SVG (2011), sourced on Commons to SMU Brand Guidelines, page 11. This is an Athletics spirit mark, not the institutional Dallas Hall/SMU wordmark logo; current SMU guidelines distinguish these uses.
+- **Houston** — Added the Houston Cougars primary logo SVG (2017), sourced to Houston Athletics' official licensing/logos page. It is an older primary Athletics mark accepted under the uploadable historical-logo rule.
+- **Arkansas** — No asset added. The surfaced 1980 wordmark and other third-party candidates did not provide sufficiently reliable direct attribution for this batch. Arkansas' official 2025 brand guide confirms the Running Razorback as the primary Athletics mark and Forward Facing Hog as secondary; retain null rather than substitute the baseball-specific logo or an unattributed candidate.
+
+**QA and usage:** The five Commons file pages expose rendered previews and original image-file links; direct URLs use Commons Special:Redirect/file endpoints. Arkansas remains unresolved. A final in-app render check is still required. Historical/alternate identity distinctions are documented, and file availability does not grant trademark or licensing rights.
+
+**Batch 14 result:** 5 uploadable asset references added; 1 pending (Arkansas). School verification statuses remain unchanged at 138/138 verified.
