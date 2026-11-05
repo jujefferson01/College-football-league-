@@ -1558,3 +1558,19 @@ Added candidate asset references for UCF, Florida Atlantic, South Florida, FIU, 
 The UCF candidate is source-confirmed at the file-page level. The other five URLs are retained as research candidates only and must not be treated as usable assets until their exact file pages, attribution, original files, and rendered previews are checked. A final consuming-app render test is required for all six. UCF's official current brand page distinguishes its stacked primary external mark from its Athletics logo family and says Athletics marks are restricted to sports marketing/teams. Trademark/licensing restrictions remain separate from file availability.
 
 Batch 10 candidate URLs added: 6 (1 source-confirmed; 5 provisional). Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 11 (November 5, 2026)
+
+Batch review covered Georgia Southern, Kennesaw State, Jacksonville State, LSU, Arkansas and Ole Miss. **Four source-confirmed file references were retained; Arkansas and Ole Miss were left without direct assets because an exact file page and rendered preview were not confirmed.**
+
+- **Georgia Southern** — Georgia Southern Eagles wordmark SVG, author Georgia Southern University; Commons rendered preview 250 × 70, original SVG 200 × 56, sourced from university standards. The 2025 Athletics Brand Guide identifies the Eagle Head as primary Athletics mark and the Georgia Southern wordmark as a primary wordmark. This file is labeled as a wordmark, not the Eagle Head.
+- **Kennesaw State** — Owls logo SVG dated April 9, 2017, author Kennesaw State University, sourced to its Athletics Style Guide; Commons preview 120 × 113, original SVG 89 × 84. KSU states its Owl and KS marks are restricted to Athletics use.
+- **Jacksonville State** — institutional University logo SVG, attributed to Jacksonville State University and sourced to its official style guide; Commons preview/original 250 × 131. This is an institutional logo/lockup, not a Gamecocks Athletics mascot mark; the 2026 Jax State Athletics standards govern athletics artwork.
+- **LSU** — Block LSU Athletics logo SVG, identified as a primary trademark of Louisiana State University; Commons preview 250 × 82, original SVG 249 × 82.
+- **Arkansas** — no direct asset added; the candidate exact file page and rendered preview were not independently confirmed.
+- **Ole Miss** — no direct asset added; the candidate exact file page and rendered preview were not independently confirmed.
+
+**QA disposition:** Four direct URLs were added/retained after exact Commons file-page evidence for attribution, preview, and original-file information. Arkansas and Ole Miss remain null rather than carrying unverified candidates. The consuming application still needs its own final render test. Trademark and licensing restrictions remain separate from file availability.
+
+Batch 11 source-confirmed additions: 4. Unresolved: 2. Overall school verification remains 138/138 verified.
