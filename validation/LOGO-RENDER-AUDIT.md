@@ -356,3 +356,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 10 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The mark hierarchy caveats for Florida, Florida State, Miami (FL), Clemson and South Carolina remain explicit; a recognizable historical mark is not silently promoted to current primary. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 54 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 11 (November 5, 2026)
+
+**Scope:** Tennessee, Vanderbilt, UCF, Florida Atlantic, South Florida, and FIU. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Tennessee | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored mark is not the official Power T |
+| Vanderbilt | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; current guide distinguishes primary Athletics V from secondary Star V |
+| UCF | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; current official guide identifies a family of Athletics marks |
+| Florida Atlantic | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| South Florida | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; current primary is Bull U |
+| FIU | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; current Athletics primary marks are Panther Head and FIU block wordmark variants |
+
+**Batch 11 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The current mark hierarchy distinctions remain explicit, especially Tennessee's Power T, Vanderbilt's Athletics V, South Florida's Bull U, and FIU's Athletics-specific primary marks. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
