@@ -1462,3 +1462,19 @@ The Commons file pages expose original-file links and rendered previews with dim
 **Wake Forest remains pending** for a direct production asset in this batch. Its official Athletics branding page confirms the WF monogram as the primary mark and the Deacon Head/Silhouette Deacon as secondary marks, but no direct downloadable file was added here.
 
 Batch 4 added: 5. Schools remaining without a direct logo URL: 103 (assuming all previously populated URLs remain present). Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 5 (November 5, 2026)
+
+Added six direct image assets after checking source-page attribution, file format/dimensions, and visible previews where available:
+
+- **Wake Forest** — Official Athletics branding-page JPG showing the WF monogram with WAKE FOREST wordmark. The visible image is a wide lockup/banner, not an isolated monogram.
+- **Ohio State** — Buckeyes SVG, attributed to Ohio State University on Commons; original 241 × 227. Alternate/historical Athletics mark.
+- **Notre Dame** — 2015 Fighting Irish/ND monogram SVG; original 200 × 180. The university's Athletics guide identifies the ND monogram as the primary Athletics identifier. Applicable Athletics/trademark restrictions remain.
+- **Indiana** — Hoosiers SVG; original 270 × 341, attributed to the IU Bloomington Athletics-logo category and sourced to an IU visual identity manual. Historical/alternate mark; IU's current university-wide identity separately identifies the trident as its singular logo.
+- **Purdue** — Boilermakers wordmark SVG; original 296 × 158, sourced on Commons to Purdue's standards manual. This is a team wordmark, not the current Motion P university logo.
+- **Illinois** — Official Block I SVG from the university brand CDN. Illinois identifies Block I as its official logo and the Athletics site identifies the I mark as the primary Athletics representation.
+
+**QA notes:** Commons file pages for Ohio State, Notre Dame, Indiana and Purdue expose rendered previews, original-file links, and file dimensions. Wake Forest's official page image was visually opened and shows the WF + WAKE FOREST lockup. Illinois' official brand page explicitly identifies the Block I and publishes the SVG asset path. A final in-app rendering check in the consuming project is still required; a URL being populated is not by itself proof that the app successfully renders it. Trademark/licensing restrictions are separate from file availability.
+
+Batch 5 added: 6. Wake Forest, Ohio State, Notre Dame, Indiana, Purdue and Illinois now have direct image URLs. Overall school verification remains 138/138 verified.
