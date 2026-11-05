@@ -1197,11 +1197,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://commons.wikimedia.org/wiki/File:Arkansas_Razorbacks_logo.svg",
-      "usage_notes": "The official 2024–25 Razorbacks Brand Style Guide distinguishes the One Razorback full-color lockup as the primary full-color lockup and the forward-running Razorback as the primary standalone mark. The full lockup should be used when no other Running Razorback mark appears on the collateral; the secondary lockup removes the hog when the Razorback already appears or space is limited. Forward Facing Hog is secondary and must not replace the Running Razorback. Official guide contains reference panels only; no standalone production asset was captured and visually inspected. Cardinal #A41F35, White #FFFFFF, Black #222222 accent; licensing applies. Asset note: Arkansas Razorbacks logo SVG; Commons file page identifies the University of Arkansas Athletics identity and provides rendered preview/original SVG. Historical/alternate mark; the 2024–25 Razorbacks Brand Style Guide governs current approved artwork. Batch 11 candidate was not independently verified against an exact source file page and rendered preview; kept null pending reliable asset confirmation."
+      "usage_notes": "The official 2024–25 Razorbacks Brand Style Guide distinguishes the One Razorback full-color lockup as the primary full-color lockup and the forward-running Razorback as the primary standalone mark. The full lockup should be used when no other Running Razorback mark appears on the collateral; the secondary lockup removes the hog when the Razorback already appears or space is limited. Forward Facing Hog is secondary and must not replace the Running Razorback. Official guide contains reference panels only; no standalone production asset was captured and visually inspected. Cardinal #A41F35, White #FFFFFF, Black #222222 accent; licensing applies. Asset note: Arkansas Razorbacks logo SVG; Commons file page identifies the University of Arkansas Athletics identity and provides rendered preview/original SVG. Historical/alternate mark; the 2024–25 Razorbacks Brand Style Guide governs current approved artwork. Batch 11 candidate was not independently verified against an exact source file page and rendered preview; kept null pending reliable asset confirmation. Batch 13: Arkansas candidate baseball logo is sport-specific and not accepted as a general Athletics asset; retained null pending a general Athletics mark."
     },
     "brand_source_url": "https://arkansasrazorbacks.com/licensing/",
     "verification_status": "verified",
-    "notes": "G.E. verified: official 2024–25 Razorbacks Brand Style Guide explicitly labels the One Razorback full-color lockup as Primary and the Running Razorback as the primary standalone mark; the guide displays both. The secondary lockup removes the hog only when the Running Razorback already appears or space is limited. Cardinal #A41F35, White #FFFFFF, Black #222222. Asset acquisition: Arkansas Razorbacks logo SVG; Commons file page identifies the University of Arkansas Athletics identity and provides rendered preview/original SVG. Historical/alternate mark; the 2024–25 Razorbacks Brand Style Guide governs current approved artwork. Batch 11: no direct asset added; candidate not independently verified."
+    "notes": "G.E. verified: official 2024–25 Razorbacks Brand Style Guide explicitly labels the One Razorback full-color lockup as Primary and the Running Razorback as the primary standalone mark; the guide displays both. The secondary lockup removes the hog only when the Running Razorback already appears or space is limited. Cardinal #A41F35, White #FFFFFF, Black #222222. Asset acquisition: Arkansas Razorbacks logo SVG; Commons file page identifies the University of Arkansas Athletics identity and provides rendered preview/original SVG. Historical/alternate mark; the 2024–25 Razorbacks Brand Style Guide governs current approved artwork. Batch 11: no direct asset added; candidate not independently verified. Batch 13: Arkansas remains pending; baseball-only mark not substituted for general Athletics logo."
   },
   {
     "school_id": "ole-miss",
@@ -1212,13 +1212,13 @@
       "accent": "#747679"
     },
     "logo": {
-      "primary_mark_url": null,
+      "primary_mark_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ole_Miss_Rebels_logo.svg",
       "logo_source_page": "https://commons.wikimedia.org/wiki/File:Ole_Miss_Rebels_logo.svg",
-      "usage_notes": "Official Ole Miss Athletics game notes show the script Ole Miss logo treatments in the Athletics style guide. This recognizable school wordmark qualifies under the expanded G.E. rule; no separate production image or current-version proof is required. Asset note: Ole Miss Rebels logo SVG; Commons file page identifies University of Mississippi Athletics and provides rendered preview/original SVG. Historical/alternate identity; Ole Miss current Athletics brand rules and licensing control use. Batch 11 candidate was not independently verified against an exact source file page and rendered preview; kept null pending reliable asset confirmation."
+      "usage_notes": "Official Ole Miss Athletics game notes show the script Ole Miss logo treatments in the Athletics style guide. This recognizable school wordmark qualifies under the expanded G.E. rule; no separate production image or current-version proof is required. Asset note: Ole Miss Rebels logo SVG; Commons file page identifies University of Mississippi Athletics and provides rendered preview/original SVG. Historical/alternate identity; Ole Miss current Athletics brand rules and licensing control use. Batch 11 candidate was not independently verified against an exact source file page and rendered preview; kept null pending reliable asset confirmation. Asset note: Ole Miss Rebels wordmark SVG; Commons page preview 250 × 82, original 153 × 50, categorized as University of Mississippi Athletics logo. Historical Athletics wordmark, not a statement of the current official primary logo."
     },
     "brand_source_url": "https://olemisssports.com/sports/2024/7/1/athletics-brand-guidelines",
     "verification_status": "verified",
-    "notes": "Batch 109 G.E. visual-recognition verification: Official Ole Miss Athletics game notes show the script Ole Miss logo treatments in the Athletics style guide. This recognizable school wordmark qualifies under the expanded G.E. rule; no separate production image or current-version proof is required. Asset acquisition: Ole Miss Rebels logo SVG; Commons file page identifies University of Mississippi Athletics and provides rendered preview/original SVG. Historical/alternate identity; Ole Miss current Athletics brand rules and licensing control use. Batch 11: no direct asset added; candidate not independently verified."
+    "notes": "Batch 109 G.E. visual-recognition verification: Official Ole Miss Athletics game notes show the script Ole Miss logo treatments in the Athletics style guide. This recognizable school wordmark qualifies under the expanded G.E. rule; no separate production image or current-version proof is required. Asset acquisition: Ole Miss Rebels logo SVG; Commons file page identifies University of Mississippi Athletics and provides rendered preview/original SVG. Historical/alternate identity; Ole Miss current Athletics brand rules and licensing control use. Batch 11: no direct asset added; candidate not independently verified. Asset acquisition: Ole Miss Rebels wordmark SVG; Commons page preview 250 × 82, original 153 × 50, categorized as University of Mississippi Athletics logo. Historical Athletics wordmark, not a statement of the current official primary logo."
   },
   {
     "school_id": "mississippi-state",
@@ -1332,13 +1332,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://www.astate.edu/dotAsset/ecc24354-62a1-426b-8022-e247dd63bc45.pdf",
-      "usage_notes": "Official Arkansas State standards identify the Red Wolf Athletics mark and STATE Red Wolf composite. The 1991 source is acceptable under the expanded G.E. rule."
+      "primary_mark_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Arkansas_State_Red_Wolves_wordmark.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:Arkansas_State_Red_Wolves_wordmark.svg",
+      "usage_notes": "Official Arkansas State standards identify the Red Wolf Athletics mark and STATE Red Wolf composite. The 1991 source is acceptable under the expanded G.E. rule. Asset note: Arkansas State Red Wolves wordmark SVG dated July 1, 2008, sourced to Arkansas State University website and authored by Arkansas State University; Commons preview 330 × 177, original 317 × 170. Historical/alternate Athletics wordmark."
     },
     "brand_source_url": "https://www.astate.edu/dotAsset/ecc24354-62a1-426b-8022-e247dd63bc45.pdf",
     "verification_status": "verified",
-    "notes": "Batch 109 G.E. visual-recognition verification: Official Arkansas State standards identify the Red Wolf Athletics mark and STATE Red Wolf composite. The 1991 source is acceptable under the expanded G.E. rule."
+    "notes": "Batch 109 G.E. visual-recognition verification: Official Arkansas State standards identify the Red Wolf Athletics mark and STATE Red Wolf composite. The 1991 source is acceptable under the expanded G.E. rule. Asset acquisition: Arkansas State Red Wolves wordmark SVG dated July 1, 2008, sourced to Arkansas State University website and authored by Arkansas State University; Commons preview 330 × 177, original 317 × 170. Historical/alternate Athletics wordmark."
   },
   {
     "school_id": "south-alabama",
@@ -1349,13 +1349,13 @@
       "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://southalabama.edu/departments/publicrelations/brand/resources/usa_brand_guidelines.pdf",
-      "usage_notes": "The official University of South Alabama brand guidelines identify the Jag Head as primarily an Athletics mark and prohibit using it as a substitute for the academic/business USA logo. The dedicated Athletics Logo section shows Jag Head + SOUTH ALABAMA JAGUARS lockups; the Athletics mark is reserved for Athletics and use is subject to Department of Athletics supervision/approval. Current university brand page confirms USA Red #BF0D3E, USA Blue #00205B and White #FFFFFF. Guide artwork is a composite reference board, not a standalone production file; no standalone current asset captured."
+      "primary_mark_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/South_Alabama_Jaguars_wordmark.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:South_Alabama_Jaguars_wordmark.svg",
+      "usage_notes": "The official University of South Alabama brand guidelines identify the Jag Head as primarily an Athletics mark and prohibit using it as a substitute for the academic/business USA logo. The dedicated Athletics Logo section shows Jag Head + SOUTH ALABAMA JAGUARS lockups; the Athletics mark is reserved for Athletics and use is subject to Department of Athletics supervision/approval. Current university brand page confirms USA Red #BF0D3E, USA Blue #00205B and White #FFFFFF. Guide artwork is a composite reference board, not a standalone production file; no standalone current asset captured. Asset note: South Alabama Jaguars wordmark SVG dated February 17, 2017, sourced to South Alabama Brand Guidelines and authored by South Alabama Jaguars; Commons preview 330 × 73, original 252 × 56. This is a wordmark, not the Jaguar-head primary Athletics lockup."
     },
     "brand_source_url": "https://southalabama.edu/departments/publicrelations/brand/",
     "verification_status": "verified",
-    "notes": "Official 2024 guidelines identify Jag Head as primarily an Athletics mark and prohibit substituting it for academic/business USA logo. Athletics lockups shown in guide; current brand page confirms Red #BF0D3E, Blue #00205B, White #FFFFFF. Athletics use subject to department supervision/approval. No standalone production asset captured. G.E. verified: official University brand guidelines identify Jag Head as primarily an Athletics mark and show Jag Head + SOUTH ALABAMA JAGUARS Athletics lockups; current brand guidance confirms the official palette. Preserve distinction from the academic/business USA logo. Red #BF0D3E, Blue #00205B, White #FFFFFF."
+    "notes": "Official 2024 guidelines identify Jag Head as primarily an Athletics mark and prohibit substituting it for academic/business USA logo. Athletics lockups shown in guide; current brand page confirms Red #BF0D3E, Blue #00205B, White #FFFFFF. Athletics use subject to department supervision/approval. No standalone production asset captured. G.E. verified: official University brand guidelines identify Jag Head as primarily an Athletics mark and show Jag Head + SOUTH ALABAMA JAGUARS Athletics lockups; current brand guidance confirms the official palette. Preserve distinction from the academic/business USA logo. Red #BF0D3E, Blue #00205B, White #FFFFFF. Asset acquisition: South Alabama Jaguars wordmark SVG dated February 17, 2017, sourced to South Alabama Brand Guidelines and authored by South Alabama Jaguars; Commons preview 330 × 73, original 252 × 56. This is a wordmark, not the Jaguar-head primary Athletics lockup."
   },
   {
     "school_id": "troy",
@@ -1366,13 +1366,13 @@
       "accent": "#000000"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
-      "usage_notes": "Official Troy Athletics Brand Guidelines (Fall 2023, hosted 2024) explicitly label POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY. The guide also provides black/white, one-color, OneTROY, sport-specific Power T and TROY/TROJANS wordmark treatments; do not elevate specialty or sport-specific versions above the primary. The PDF is a composite reference guide, not a standalone production asset; no direct primary logo file captured. Official school colors are Cardinal, Silver and Black; Troy University lists Cardinal #862633, Silver #B1B1B1 and Black #000000 in its current brand asset catalog. Preserve proportions and approved background variants."
+      "primary_mark_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Troy_Trojans_logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:Troy_Trojans_logo.svg",
+      "usage_notes": "Official Troy Athletics Brand Guidelines (Fall 2023, hosted 2024) explicitly label POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY. The guide also provides black/white, one-color, OneTROY, sport-specific Power T and TROY/TROJANS wordmark treatments; do not elevate specialty or sport-specific versions above the primary. The PDF is a composite reference guide, not a standalone production asset; no direct primary logo file captured. Official school colors are Cardinal, Silver and Black; Troy University lists Cardinal #862633, Silver #B1B1B1 and Black #000000 in its current brand asset catalog. Preserve proportions and approved background variants. Asset note: Troy Trojans logo SVG sourced to the official Troy Trojans website; Commons preview 250 × 282, original 217 × 245. Alternate/historical athletics mark."
     },
     "brand_source_url": "https://troytrojans.com/documents/download/2024/8/15/TROYBrandGuidelines-Fall23.pdf",
     "verification_status": "verified",
-    "notes": "Fall 2023 Troy Athletics guide explicitly names POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY; other wordmarks, OneTROY, and sport-specific marks are supporting/specialty variants. PDF guide only; no standalone production asset captured. Colors: Cardinal #862633, Silver #B1B1B1, Black #000000. Preserve approved variants/proportions. G.E. verified: official Fall 2023 Troy Athletics Brand Guidelines explicitly label POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY, with specialty/sport-specific marks as supporting variants. Cardinal #862633, Silver #B1B1B1, Black #000000."
+    "notes": "Fall 2023 Troy Athletics guide explicitly names POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY; other wordmarks, OneTROY, and sport-specific marks are supporting/specialty variants. PDF guide only; no standalone production asset captured. Colors: Cardinal #862633, Silver #B1B1B1, Black #000000. Preserve approved variants/proportions. G.E. verified: official Fall 2023 Troy Athletics Brand Guidelines explicitly label POWER T CARDINAL as PRIMARY and POWER T BLACK as SECONDARY, with specialty/sport-specific marks as supporting variants. Cardinal #862633, Silver #B1B1B1, Black #000000. Asset acquisition: Troy Trojans logo SVG sourced to the official Troy Trojans website; Commons preview 250 × 282, original 217 × 245. Alternate/historical athletics mark."
   },
   {
     "school_id": "texas",
@@ -1383,13 +1383,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://texaslonghorns.com/news/2013/8/8/GEN_0808130738",
-      "usage_notes": "Official Texas Athletics confirms the steerhead/Longhorn silhouette has represented UT since 1961 and identifies it as its storied logo. Historical use is acceptable under G.E."
+      "primary_mark_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Texas_Longhorns_logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:Texas_Longhorns_logo.svg",
+      "usage_notes": "Official Texas Athletics confirms the steerhead/Longhorn silhouette has represented UT since 1961 and identifies it as its storied logo. Historical use is acceptable under G.E. Asset note: Texas Longhorns logo SVG; Commons preview 500 × 255, original 332 × 169. The file history identifies the Longhorn as the University of Texas Athletics primary logo and traces the source to the Office of Trademark Licensing; historical mark accepted under G.E."
     },
     "brand_source_url": "https://umac.utexas.edu/brand-center/visual-identity/",
     "verification_status": "verified",
-    "notes": "Batch 109 G.E. visual-recognition verification: Official Texas Athletics confirms the steerhead/Longhorn silhouette has represented UT since 1961 and identifies it as its storied logo. Historical use is acceptable under G.E."
+    "notes": "Batch 109 G.E. visual-recognition verification: Official Texas Athletics confirms the steerhead/Longhorn silhouette has represented UT since 1961 and identifies it as its storied logo. Historical use is acceptable under G.E. Asset acquisition: Texas Longhorns logo SVG; Commons preview 500 × 255, original 332 × 169. The file history identifies the Longhorn as the University of Texas Athletics primary logo and traces the source to the Office of Trademark Licensing; historical mark accepted under G.E."
   },
   {
     "school_id": "texas-aandm",
