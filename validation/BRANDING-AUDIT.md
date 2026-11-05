@@ -1478,3 +1478,19 @@ Added six direct image assets after checking source-page attribution, file forma
 **QA notes:** Commons file pages for Ohio State, Notre Dame, Indiana and Purdue expose rendered previews, original-file links, and file dimensions. Wake Forest's official page image was visually opened and shows the WF + WAKE FOREST lockup. Illinois' official brand page explicitly identifies the Block I and publishes the SVG asset path. A final in-app rendering check in the consuming project is still required; a URL being populated is not by itself proof that the app successfully renders it. Trademark/licensing restrictions are separate from file availability.
 
 Batch 5 added: 6. Wake Forest, Ohio State, Notre Dame, Indiana, Purdue and Illinois now have direct image URLs. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 6 (November 5, 2026)
+
+Added six direct image assets for the next six schools in the missing-asset queue:
+
+- **Central Michigan** — Chippewas logo SVG attributed to Central Michigan University Brand Identity; Commons preview and original dimensions 202 × 143. CMU's official tradition page states the action C became the primary Athletics logo in 1996; the linked image is the recognizable Chippewas mark.
+- **Eastern Michigan** — Eagles SVG attributed to Eastern Michigan University Athletics/official website; Commons preview and original dimensions 220 × 250. Historical 1995 mark, accepted under G.E.
+- **Western Michigan** — Broncos 2021 SVG; Commons attributes it to Western Michigan University and provides a preview (200 × 200). The 2025 university identity guide says the Bronco-head Spirit Mark is now Athletics' primary mark, so this is explicitly an alternate/historical asset.
+- **Toledo** — Rockets wordmark SVG attributed to the University of Toledo Style Guide; preview and original dimensions 233 × 91. This is a wordmark, not a mascot illustration.
+- **Ball State** — Athletics wordmark PNG described as the Cardinals' current wordmark (2011-present), attributed to Ball State University Athletics; preview and original dimensions 575 × 283.
+- **Cincinnati** — Bearcats logo SVG attributed to Cincinnati Bearcats; preview and original dimensions 89 × 139. Historical Bearcat mark accepted under G.E.
+
+**QA and interpretation:** Source pages provide rendered previews and original-file information for all six marks. The direct asset links use Wikimedia's original-file URLs where resolved and Commons' Special:Redirect/file endpoint for the remaining confirmed file pages. The redirect endpoint is a file-serving URL, but the consuming application should still perform its own render test. CMU's primary action C, WMU's newer Spirit Mark, and each wordmark/mascot distinction are documented so the dataset does not imply every file is the current primary mark. Trademark and licensing restrictions remain separate from file availability.
+
+Batch 6 added: 6. Overall school verification remains 138/138 verified.
