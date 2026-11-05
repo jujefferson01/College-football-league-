@@ -608,3 +608,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 24 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six thumbnails visibly decoded. Important identity distinctions: Arizona State's file is a wordmark rather than the current primary pitchfork; Colorado's is an alternate interlocking CU mark; Texas State's is a wordmark rather than SuperCat. Utah and Utah State files match their documented primary Athletics marks. BYU's file is a historical-era primary mark, not independently verified as the newest production artwork. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 76 rendered/inspected, 60 pending. Adding six successful previews yields 82 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 25 (November 5, 2026)
+
+**Scope:** Boston College, Buffalo, Army, Syracuse, Temple, and Rutgers. The stored direct image endpoints were attempted; those six direct requests were not retrievable in this browser surface. Separate visible image previews from official athletics pages or corroborating logo references were then inspected. The preview evidence validates recognizable artwork, but does not prove the exact stored endpoint can be consumed by the game.
+
+| School | Visible preview finding | Result |
+|---|---|---|
+| Boston College | Maroon/gold interlocking BC with eagle | PASS — recognizable current primary athletics mark; BC official communications page identifies the primary logo as eagle + interlocking BC |
+| Buffalo | Blue bull-head spirit mark | PASS — recognizable UB Athletics bull mark; official Primary Marks guidance requires a spirit mark to be paired with an approved Buffalo/Bulls wordmark |
+| Army | Black-and-gold Athena Shield with helmet, sword and star | PASS — matches the officially designated Athena Shield primary mark |
+| Syracuse | Orange Block S with navy outline | PASS — matches Syracuse Athletics' Block S primary identity; do not confuse with the 2005 transition-era SU mark in older asset records |
+| Temple | White owl/T within crimson shield | PASS — recognizable 2023 Owl athletics secondary mark; Temple T remains the institutional primary mark |
+| Rutgers | Scarlet Block R with black outline | PASS — matches Rutgers Athletics' primary Block R identity |
+
+**Batch 25 result:** 6 visual identity PASS, 0 school/logo mismatches observed. **Endpoint status caveat:** all six original direct URL requests failed in this browser surface; this is not a confirmed remote 404 or file corruption. Treat exact endpoint accessibility and target-app loading as still unverified until the app-side or HTTP checker confirms them. Temple's inspected preview is a secondary Owl mark, not a replacement for the Temple T. Buffalo's bull spirit mark requires approved wordmark pairing under UB guidance. This is not an in-game rendering test.
+
+**Cumulative status:** Previous provisional ledger: 82 rendered/inspected, 60 pending. Adding six visibly inspected identity previews yields 88 visually inspected and 60 still pending on that provisional ledger; however, this batch's exact stored endpoints remain pending technical retrieval, so do not treat these six as endpoint-render PASS. Full tracker reconciliation is still required.
