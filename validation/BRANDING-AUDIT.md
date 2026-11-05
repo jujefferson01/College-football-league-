@@ -1046,3 +1046,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **Iowa State — verified.** Current official University Marketing page explicitly names both I-State and Cyclone marks as primary for Athletics. Punching Cy is secondary; academic wordmark is separate. Cardinal #A61932, Gold #FFC836, Accent Cardinal #872837. Source: https://marcom.iastate.edu/wordmarks-and-logos
 
 **Batch result:** 4 Verified; 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 50 Verified / 88 Partial / 0 Needs Review.
+
+
+## Batch 87 — G.E. verification: Nebraska, Missouri, North Dakota State, Northern Illinois, Memphis, UAB
+
+- **Nebraska — verified.** Official Nebraska Athletics identity announcement identifies Block N as its strongest overarching logo and Script Huskers as secondary. Herbie Husker is a registered mascot mark, not a replacement for the Block N. Scarlet #D00000, Cream #F5F1E7; Black/White supporting. Source: https://huskers.com/news/2016/02/18/traditional-script-secondary-logo-for-nebraskas-iconic-n
+- **Missouri — verified.** Current Mizzou Athletics guidelines identify Athletic Tiger Head as the official Athletics logo; Mizzou wordmark is the primary wordmark required on uniforms, while Missouri/Tigers wordmarks are secondary. Bold M is not a replacement. Gold #FDB719, Black #000000, Anthracite #373A36, White #FFFFFF. Source: https://brand.missouri.edu/athletics-branding-toolkit/
+- **North Dakota State — partial.** Official NDSU Brand Center confirms Bison marks are Athletics-owned and distinct from institutional NDSU wordmark, but presents three Athletics variants without naming a universal primary. Green #00583D, Yellow #FFC425. Source: https://www.ndsu.edu/marketing-communications/brand-center/logos
+- **Northern Illinois — partial.** Huskie Athletics mark is distinct from university logo; linked 2024 Athletics Style Guide/accepted-logo sheet was not accessible for hierarchy confirmation. Red #C8102E, Black #000000, Gray #A5A7A8. Source: https://niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx
+- **Memphis — partial.** Current university guidance reserves Leaping Tiger for Athletics/Marketing with approval, but accessible current material does not establish a department-wide primary Athletics mark or current palette. Source: https://www.memphis.edu/communications/brand/universitymarks.php
+- **UAB — verified.** Current official Athletics Brand Guide explicitly identifies gold-outlined UAB monogram as primary Athletics logo for all official sports, departments and units. Full-color green/gold is preferred; Blaze is secondary. Green #1A5632, Gold #FDB913. Source: https://www.uab.edu/brandguide/athletics
+
+**Batch result:** 3 Verified; 3 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 53 Verified / 85 Partial / 0 Needs Review.
