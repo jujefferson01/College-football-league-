@@ -554,3 +554,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 21 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six image previews visibly decoded. Utah State's paired U-State is documented primary; Nevada's file is an older wordmark amid the October 2026 refresh; UNLV and San José State are wordmarks rather than mascot-head marks; Colorado State's official Ram's Head PNG is confirmed; Wyoming's upload is recognizable but its screenshot-derived provenance remains noted. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 58 rendered/inspected, 60 pending. Adding six successful previews yields 64 rendered/inspected and 60 pending on that provisional ledger. Full 138-school reconciliation remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 22 (November 5, 2026)
+
+**Scope:** Air Force, New Mexico, New Mexico State, UTEP, Oregon, and Washington. Exact Commons file pages were opened and thumbnail previews visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Air Force | Blue-and-silver collegiate A/Academy logomark rendered | PASS — image decoded/rendered; recognizable Athletics mark; current guide identifies the bordered collegiate treatment as primary |
+| New Mexico | Red-and-silver LOBOS wordmark rendered | PASS — image decoded/rendered; wordmark, not the current forward-facing Lobo-head primary lockup |
+| New Mexico State | Crimson NM STATE AGGIES wordmark rendered | PASS — image decoded/rendered; wordmark, not the current NM State Pete primary mascot mark |
+| UTEP | Blue-and-orange UTEP MINERS wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not the Paydirt Pete mascot artwork refreshed in 2026 |
+| Oregon | Green-and-yellow Oregon Duck/O mark rendered | PASS — image decoded/rendered; recent-era Ducks identity asset; source provenance is community-uploaded rather than official-hosted |
+| Washington | Purple Block W with gold/white outline rendered | PASS — image decoded/rendered; current UW Athletics 2025–26 guide identifies stroked Block W as primary identity |
+
+**Batch 22 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons previews visibly decoded. Air Force's bordered collegiate mark and Washington's stroked Block W align with current primary identity guidance. New Mexico, New Mexico State and UTEP are wordmarks rather than current mascot-head artwork. Oregon's mark is recognizable and recent-era, but the file's uploader/source provenance is weaker than official-hosted assets. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 64 rendered/inspected, 60 pending. Adding six successful previews yields 70 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
