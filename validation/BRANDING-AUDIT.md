@@ -829,3 +829,15 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 - **UTSA — partial.** Current official Athletics page links 2026 Comprehensive Brand & Style Guide and Marks Art Sheet, but 2026 PDF could not be rendered. 2023 guide identifies Roadrunner head as primary helmet mark, not enough to confirm 2026 department-wide hierarchy. Navy #0B2240, Orange #E14504, White; official PMS references 289/1665. No standalone current primary asset captured.
 
 **Batch result:** 0 newly verified standalone primary assets; 6 partial. No existing school records were removed.
+
+
+## Batch 69 — Texas Tech, North Texas, Sam Houston, Boise State, Utah State, Nevada
+
+- **Texas Tech — partial.** 2026 Athletics identity system anchored by modernized Double T, representing Athletics and planned for all team uniforms from 2026–27. Distinct from beveled institutional Double T. Masked Rider secondary; Raiderland tertiary. Raider Red #C30020, Rider Black #000000, Ghost White #FFFFFF; Classic White #F1F0D8 supporting. Preview images expressly not production artwork; approved channels required. No standalone asset captured.
+- **North Texas — partial.** 2025 Third Edition Athletics guide explicitly designates UNT Diving Eagle PRIMARY IDENTITY; one-color version preferred and used for all purposes. Do not redraw/scan/construct. Green #00853E (PMS 356 C), Black, White. Athletics mark reserved for Athletics; permission required for other departments. Composite PDF reference only; no standalone asset captured.
+- **Sam Houston — partial.** Official Athletics Brand Guide p.10 labels SH-Paw PRIMARY MARK; Bearkat Paw secondary. 2020 official rebrand FAQ confirms SH-Paw primary identity; 2025 institutional refresh does not replace Athletics hierarchy. Orange #F56423, White #FFFFFF, Jade #004853. Marks restricted to Athletics; non-athletics use requires written approval. No standalone production asset captured.
+- **Boise State — partial.** 2026 Athletics Brand Standards and current university brand page identify Bronco head as Athletics mark; University B is academic-only. Approved colors blue, white, black, orange; white outline required on dark backgrounds. No vintage marks or wordmark attachment. External use requires permission; commercial use licensed. PDF guide only; no standalone asset captured.
+- **Utah State — partial.** Official Visual Identity Guide explicitly names paired U-State logo PRIMARY ATHLETICS LOGO and requires it on all communications. Secondary marks must accompany primary; Bull/Big Blue tertiary. Aggie Blue #00263A, Silver #8A8D8F, White/Black. Composite PDF only; no standalone primary asset captured.
+- **Nevada — partial.** October 20, 2026 University rebrand supersedes 2023 identity. Introduces Interlocked institutional logo and new Nevada Wolf spirit logo, evolved from Sport Wolf; Athletics will incorporate both over time. No Athletics-specific primary hierarchy established yet. Do not use legacy Sport Wolf or assume Nevada Wolf sole Athletics primary. No standalone current asset captured.
+
+**Batch result:** 0 newly verified standalone primary assets; 6 partial. No existing school records were removed.
