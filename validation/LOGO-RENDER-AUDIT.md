@@ -572,3 +572,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 22 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons previews visibly decoded. Air Force's bordered collegiate mark and Washington's stroked Block W align with current primary identity guidance. New Mexico, New Mexico State and UTEP are wordmarks rather than current mascot-head artwork. Oregon's mark is recognizable and recent-era, but the file's uploader/source provenance is weaker than official-hosted assets. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 64 rendered/inspected, 60 pending. Adding six successful previews yields 70 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 23 (November 5, 2026)
+
+**Scope:** USC, UCLA, California, Stanford, Oregon State, and Washington State. Commons thumbnail previews were opened directly; Oregon State's official PNG was also opened directly.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| USC | Cardinal-and-gold interlocking SC | PASS — visible; this is the Athletics interlock, not a Trojan mascot illustration. Correct the record's asset-type note if it currently distinguishes the file from the SC interlock. |
+| UCLA | Blue script UCLA | PASS — visible; primary-logo treatment, not a bear mascot illustration |
+| California | Blue Cal script | PASS — visible; matches Cal Script, which current Cal Athletics guidance identifies as its primary mark |
+| Stanford | Cardinal Block S with white Tree | PASS — visible; recognized Stanford identity emblem; file is historical-era artwork, not a claim of a current Athletics-only primary hierarchy |
+| Oregon State | Orange/black/white Beaverhead | PASS — visible official hosted PNG; current Athletics guidance identifies Beaver logo as its primary Athletics mark |
+| Washington State | Crimson COUGARS wordmark with white outline | PASS — visible; wordmark, not the Cougar-head primary graphic |
+
+**Batch 23 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six images visibly decoded. Note the asset-type distinctions: USC is the SC interlock; UCLA and California are script wordmarks/marks; Washington State is a wordmark. Oregon State's Beaverhead is the current Athletics primary mark. Stanford's Block S with Tree is a recognized identity mark, but this historical-era file should not be represented as proof of a current Athletics-only primary designation. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 70 rendered/inspected, 60 pending. Adding six successful previews yields 76 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker remains required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
