@@ -374,3 +374,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 11 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The current mark hierarchy distinctions remain explicit, especially Tennessee's Power T, Vanderbilt's Athletics V, South Florida's Bull U, and FIU's Athletics-specific primary marks. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 60 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 12 (November 5, 2026)
+
+**Scope:** Coastal Carolina, Charlotte, Appalachian State, East Carolina, Georgia Southern, and Georgia State. Exact stored `primary_mark_url` endpoints were opened in the available browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Coastal Carolina | Wikimedia Commons redirect endpoint inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored asset is an alternate/historical Chanticleer mark, while the 2025–26 Athletics refresh governs current branding |
+| Charlotte | Official university PNG visibly rendered as the green All-in-C symbol with the UNIVERSITY OF NORTH CAROLINA CHARLOTTE wordmark | PASS — image decoded/rendered; confirms a university primary lockup, not a mascot illustration |
+| Appalachian State | Official licensing-hosted PNG could not be retrieved by the preview tool | PENDING — retrieval limitation, not proof of a broken asset; source record identifies the Primary athletic mark |
+| East Carolina | Wikimedia Commons redirect endpoint inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset; official guide identifies the Pirate mark as current primary, while the stored asset is an alternate/historical identity |
+| Georgia Southern | Wikimedia Commons redirect endpoint inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored artwork is a wordmark, correctly distinct from the current Eagle Head primary mark |
+| Georgia State | Official Communications Toolkit PNG returned HTTP 403 to the preview tool | PENDING — access restriction is not proof of a broken asset; official source record identifies Pantherhead as a primary Athletics logo |
+
+**Batch 12 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Charlotte's All-in-C university lockup visibly rendered. The Coastal Carolina, East Carolina, and Georgia Southern hierarchy distinctions are retained; a recognizable historical or wordmark asset is not silently promoted to the current mascot/primary mark. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status after Batch 12:** 11 distinct assets visibly rendered or previously visually inspected; 65 remain pending; 0 confirmed broken. This running count follows the previous batch's cumulative tally plus this batch's one new visible render and five pending checks. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
