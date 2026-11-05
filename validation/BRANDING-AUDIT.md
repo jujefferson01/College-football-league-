@@ -1305,3 +1305,17 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **LSU — partial (retained).** LSU Athletics' 2019 brand-identity reference confirms the current color system and shows sport-specific marks, while explicitly discontinuing older logos not included in the document. The current public reference reviewed does not unambiguously designate one department-wide primary mark; the older 2002 primary-mark announcement is insufficient by itself to resolve current hierarchy. Keep partial rather than infer from the familiar Eye of the Tiger, Tiger Head or university wordmark. Sources: https://lsusports.net/news/2019/12/9/lsu-athletics-brand-identity-guidelines and https://lsusports.net/thebrand
 
 **Batch result:** 3 upgraded to Verified; 3 retained Partial; 0 Needs Review. Current dataset totals: 105 Verified / 33 Partial / 0 Needs Review.
+
+
+## Batch 109 — expanded G.E. visual recognition rule
+
+**Policy clarification:** Historical/current status is no longer a blocker. An outdated or retired logo may be Verified when clearly attributable to the correct school's Athletics identity. Official brand-guide composite artwork, historical official athletics announcements, and recognizable official mascot/wordmark marks are sufficient visual evidence; a separate downloadable PNG/SVG is not mandatory. Reject a mark only when it cannot be reliably tied to the school or is visibly another institution's identity.
+
+- **Ole Miss — verified.** Official Athletics game notes (2024) reproduce the Ole Miss script logo treatments and style guide. Source: https://olemisssports.com/documents/download/2024/4/24/Week_11_Alabama.pdf
+- **Louisiana — verified.** Official UL Lafayette Brand Guide p.9 labels the circular Ragin’ Cajuns crest and RAGIN’ CAJUNS wordmark as primary Athletics marks. Source: https://ocm.louisiana.edu/sites/communicationsandmarketing/files/University-of-Louisiana-Lafayette-Brand-Guide.pdf
+- **Louisiana Tech — verified.** Official Athletics announcement documents the Bulldog design and State-T signature mark in the 2008 athletics identity refresh. Source: https://latechsports.com/news/2008/6/18/Tech_Reveals_New_Athletics_Logos
+- **Arkansas State — verified.** Official standards identify and depict the Red Wolf Athletics mark and STATE Red Wolf composite. Historical 1991 standard accepted under G.E. Source: https://www.astate.edu/dotAsset/ecc24354-62a1-426b-8022-e247dd63bc45.pdf
+- **Texas — verified.** Official Texas Athletics confirms the steerhead/Longhorn silhouette has represented UT since 1961. Source: https://texaslonghorns.com/news/2013/8/8/GEN_0808130738
+- **TCU — verified.** TCU Brand Central distinguishes University Frog and Athletic Frog and reserves Athletic Frog for Athletics. Source: https://brand.tcu.edu/horned-frogs/
+
+**Batch 109 result:** 6 upgraded to Verified; 0 retained Partial; 0 Needs Review.
