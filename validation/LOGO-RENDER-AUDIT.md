@@ -229,3 +229,22 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 | Duke | Duke-hosted PNG was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
 
 **Batch 3 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Liberty's asset classification is preserved as a monogram-style Athletics mark. This is browser-preview validation only; the consuming game UI is not present in this repository and has not been tested.
+
+
+
+## Visual rendering spot-check — Batch 4 (November 5, 2026)
+
+**Scope:** North Carolina, NC State, Wake Forest, Michigan, Michigan State, and Ohio State. Each exact stored `primary_mark_url` was opened in the available browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| North Carolina | Wikimedia SVG endpoint returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+| NC State | Official Sidearm-hosted PNG visibly rendered as the red, black, and white Tuffy wolf head | PASS — image decoded/rendered |
+| Wake Forest | Official Sidearm-hosted JPG could not be retrieved by the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Michigan | Wikimedia SVG endpoint returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+| Michigan State | Wikimedia SVG endpoint returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+| Ohio State | Wikimedia SVG endpoint returned an unsupported SVG content-type in the preview tool | PENDING — endpoint not visually decoded by this tool |
+
+**Batch 4 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. NC State's rendered file is the Tuffy Head asset identified in the record as the athletics primary mark. The other five remain pending because of preview-tool retrieval/content-type limitations; none is classified as broken. This remains browser-preview validation, not an in-game rendering test.
+
+**Cumulative browser-preview status:** 7 distinct assets visibly rendered (including the San Diego State and Navy baseline previews); 22 remain pending; 0 confirmed broken. This corrects the prior running total, which omitted the San Diego State baseline preview. The actual consuming game UI/runtime is still not present in this repository, so in-game rendering remains untested.
