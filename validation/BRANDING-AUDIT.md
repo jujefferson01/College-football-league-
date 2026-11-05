@@ -1445,3 +1445,20 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 ## Asset correction — Liberty (November 5, 2026)
 
 The first Liberty PNG endpoint rendered blank during visual review. Replaced it with a direct PNG hosted on Wikimedia Commons for the Liberty Flames wordmark. The Commons file page attributes the mark to Liberty University Athletics and dates it to March 31, 2016. This historical official Athletics wordmark is accepted under the uploadable historical-logo rule; it is not mislabeled as Liberty's full current primary Athletics mark, which the official brand guide defines as the LU monogram combined with the Athletics eagle head. New asset: https://upload.wikimedia.org/wikipedia/commons/8/89/LU_Flames_wordmark.png. File attribution: https://commons.wikimedia.org/wiki/File:LU_Flames_wordmark.png. Official primary-logo definition: https://www.liberty.edu/marketing/wp-content/uploads/sites/114/LUBrandGuide_2024_DigitalVersion.pdf.
+
+
+## Asset acquisition — Batch 4 (November 5, 2026)
+
+Added five direct logo assets after checking the corresponding Wikimedia Commons file pages for school attribution, original-file links, file formats, and rendered preview dimensions:
+
+- **UConn** — Athletics wordmark PNG (1,040 × 229). This is an Athletics wordmark, not the Husky Dog mark.
+- **West Virginia** — Flying WV SVG (247 × 232), attributed to West Virginia University.
+- **North Carolina** — Interlocking NC SVG (512 × 404), identified as the Tar Heels logo and sourced to the Carolina Athletics brand guide.
+- **Michigan** — Wolverines logo SVG (294 × 212), sourced from the official athletics website; alternate/historical identity mark, not the university-wide primary wordmark.
+- **Michigan State** — Block S alternate SVG (219 × 300), identified as an MSU mark and sourced to university graphic standards; not the Spartan helmet primary mark.
+
+The Commons file pages expose original-file links and rendered previews with dimensions. These are attributable, uploadable image-file candidates and are accepted under the G.E. Principle; the dataset preserves their alternate/historical distinctions. This source-page check is not a substitute for a final in-app rendering test in the consuming project. Trademark and licensing restrictions remain separate from file availability.
+
+**Wake Forest remains pending** for a direct production asset in this batch. Its official Athletics branding page confirms the WF monogram as the primary mark and the Deacon Head/Silhouette Deacon as secondary marks, but no direct downloadable file was added here.
+
+Batch 4 added: 5. Schools remaining without a direct logo URL: 103 (assuming all previously populated URLs remain present). Overall school verification remains 138/138 verified.
