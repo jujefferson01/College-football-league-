@@ -644,3 +644,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 26 result:** 5 PASS, 1 PENDING. Penn State's logo is identifiable but the hosted image contains guide-board background/crop marks; crop or replace with a clean production asset before final game presentation. Pittsburgh is Pitt Script, UConn is a wordmark, Maryland is the M-Bar, and Virginia is the V-Sabre. Delaware remains pending only because the browser could not retrieve the Sidearm endpoint. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Previous provisional identity-review ledger: 88 visually inspected, 60 pending. Five successful image previews raise the visual-preview count to 93; one additional endpoint remains pending. The old provisional tally is not a reconciled 138-school count. Actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 27 (November 5, 2026)
+
+**Scope:** Virginia Tech, West Virginia, James Madison, Old Dominion, Liberty, and Marshall. Four marks were visibly rendered through Commons thumbnails or the official JMU logo page. Old Dominion's archived direct JPG and JMU's stored direct PNG endpoint could not be fetched directly; JMU's official page supplied a visible current primary-logo preview.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Virginia Tech | Maroon VT monogram with orange/white outline | PASS — Commons thumbnail visibly rendered; identifiable Hokies athletics logo. Official guide distinguishes primary mark from wordmarks, sport lockups and HokieBird spirit mark |
+| West Virginia | Navy Flying WV interlock | PASS — Commons thumbnail visibly rendered; official WVU identity mark; do not imply it is the only mark in the Athletics identity family |
+| James Madison | Purple-and-gold JMU block logo | PASS — official JMU Athletics page's Primary Logo preview visibly rendered. Stored 2017 Sidearm PNG endpoint remains technically unverified; page identifies the displayed asset as JMU Primary Logo and lists approved artwork |
+| Old Dominion | No image preview; archived ODU JPG endpoint inaccessible | PENDING — not a confirmed 404 or corrupt file. Official 2025 guide's Crown primary-mark hierarchy remains documented; stored image is an archived Big Blue mark |
+| Liberty | Red/navy/white LU Flames wordmark | PASS — Commons PNG visibly rendered; historical official Athletics wordmark, not the full current primary Liberty monogram-plus-eagle combination |
+| Marshall | Green Block M with THE HERD bar, black/white outlines | PASS — Commons thumbnail visibly rendered; recognizable historical Athletics mark. Current 2026 brand guide distinguishes Athletics primary Block M/THE HERD from institutional Block M/MARSHALL |
+
+**Batch 27 result:** 5 visual identity PASS, 1 PENDING. Four exact stored image URLs visibly rendered (Virginia Tech, West Virginia, Liberty, Marshall); JMU's current official primary mark preview rendered on its official page, while the exact stored 2017 Sidearm URL remains technically unverified. Old Dominion remains pending because its archived JPG could not be retrieved. Do not treat tool retrieval errors as confirmed broken files. Liberty's asset is a wordmark, not the full current primary logo. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional identity-review ledger: 93 visibly inspected; adding five successful identity previews yields 98 visually inspected, with Old Dominion pending. This running tally is not a reconciled 138-school endpoint count. Actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
