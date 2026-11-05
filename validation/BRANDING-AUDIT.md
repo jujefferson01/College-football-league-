@@ -1574,3 +1574,19 @@ Batch review covered Georgia Southern, Kennesaw State, Jacksonville State, LSU, 
 **QA disposition:** Four direct URLs were added/retained after exact Commons file-page evidence for attribution, preview, and original-file information. Arkansas and Ole Miss remain null rather than carrying unverified candidates. The consuming application still needs its own final render test. Trademark and licensing restrictions remain separate from file availability.
 
 Batch 11 source-confirmed additions: 4. Unresolved: 2. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 12 (November 5, 2026)
+
+Added six source-confirmed image assets for Mississippi State, Southern Miss, Tulane, Louisiana, Louisiana Tech and Louisiana-Monroe. Each cited Commons file page provides the named asset, rendered preview and original-file information:
+
+- **Mississippi State** — Bulldogs logo SVG dated 2015, authored by Mississippi State University; preview 250 × 152, original SVG 248 × 151. Historical Athletics mark. The 2023 Athletics Identity Standards designate M-State as the current primary mark; this file is not mislabeled as current primary.
+- **Southern Miss** — Athletics logo PNG dated 2015; preview/original 253 × 52, categorized under University of Southern Mississippi Athletics. Historical/alternate wordmark; the 2024 Athletics Branding Guide governs current primary wordmark and usage.
+- **Tulane** — Green Wave wordmark SVG dated August 25, 2017, authored by Tulane University Department of Athletics; preview 250 × 85, original SVG 159 × 54. Wordmark, not the Angry Wave primary mark. Tulane Athletics identifies Angry Wave as primary and T-Wave as secondary.
+- **Louisiana** — Ragin' Cajuns wordmark SVG dated July 1, 2013; original SVG 253 × 45. Historical/alternate wordmark; current brand and licensing rules govern use.
+- **Louisiana Tech** — Athletics wordmark SVG dated April 28, 2017; preview 120 × 39, original SVG 111 × 36. This is the Athletics wordmark, not the separate Bulldog head. Louisiana Tech directs users to its official SmugMug portal for production-quality logo files.
+- **Louisiana-Monroe** — ULM Warhawks wordmark SVG dated June 17, 2016, sourced to ULM Office of Public Information; preview 250 × 71, original SVG 202 × 57. Wordmark, not necessarily the current full-color primary Athletics logo in ULM's 2025–26 guide.
+
+**QA and usage:** These six Commons file pages expose rendered previews, source/author information and original image files. Data URLs use the corresponding Commons Special:Redirect/file endpoint. As always, a final consuming-app render test remains required. Current primary/secondary distinctions are recorded above; commercial or other trademark use still requires the institution's applicable permission. Mississippi State Athletics guide identifies M-State as primary; Tulane's official guide identifies Angry Wave as primary and T-Wave as secondary; Louisiana Tech distinguishes its wordmark from Bulldog head; ULM's 2025–26 guide specifies its current primary Athletics logo and authorized artwork.
+
+Batch 12 added: 6. Overall school verification remains 138/138 verified.
