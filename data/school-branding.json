@@ -117,13 +117,13 @@
     "verification_status": "verified",
     "notes": "Verified under the G.E. standard: Rutgers Athletics' official 2016 identity announcement explicitly states that the Block R will continue to serve as the primary logo for Rutgers University Athletics across its teams. Current 2026 Athletics communications continue to feature the Block R as the department's identifying mark. The 2025 Visual Identity Manual is officially posted but could not be independently inspected in this pass; this does not outweigh the explicit Athletics primary designation and current use. Official older guide palette: Scarlet #CF102D, White #FFFFFF, Black #2C2A29, Medium Gray #A3AAAE. Do not confuse the Knight head or New Jersey silhouette secondary/tertiary marks with the primary Block R. Follow current manual and licensing restrictions when using production artwork. Sources: https://scarletknights.com/news/2016/5/3/Rutgers_Athletics_Unveils_Consistent_Look_Across_All_Sports and https://scarletknights.com/news/2026/7/30/general-year-one-at-rutgers Asset acquisition update: Historical Rutgers Athletics logo PNG hosted on Wikimedia Commons. The file page attributes the image to Rutgers Athletics and identifies its source as scarletknights.com, dated June 3, 2018. Accepted as a recognizable, uploadable historical mark. Trademark restrictions may still apply.",
     "custom_logo_fallback": {
-      "file": "rutgers_custom_unofficial.png",
+      "file": "assets/custom-logos/rutgers-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
@@ -1008,13 +1008,13 @@
     "verification_status": "verified",
     "notes": "Verified under the G.E. standard: FAU Athletics' official 2005 identity announcement explicitly distinguishes three marks—a university logo, an athletic mark and an official seal—and confirms the Owl mascot and blue/red identity. Current university visual standards continue to show the Owl Head as an official FAU mark alongside the wordmark and specialty mark. The Owl is accepted as a clearly attributable official athletics identity; do not collapse the institutional wordmark and athletics mark into one hierarchy. Official colors: FAU Blue #003366 and FAU Red #CC0000; silver and gray are supporting colors. Asset acquisition: Florida Atlantic Owls Athletics logo SVG; Commons page identifies FAU and provides a rendered preview/original vector. Historical/alternate owl mark; FAU's current official identity guide governs the Owls wordmark and owl head.",
     "custom_logo_fallback": {
-      "file": "florida_atlantic_custom_unofficial.png",
+      "file": "assets/custom-logos/florida-atlantic-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
@@ -1034,13 +1034,13 @@
     "verification_status": "verified",
     "notes": "G.E. verified: official 2022 South Florida Athletics Brand Guide explicitly labels Bull U as the Athletics primary logo/master brand (p.8), distinguishes secondary marks, and displays approved logo treatments. The 2019 University announcement confirms Iconic Bull U became the University-wide identity. Standalone production file is not required. Asset acquisition: South Florida Bulls logo SVG; Commons page attributes the mark to USF Athletics and provides preview/original vector. Historical/alternate mark; the 2022 USF Athletics Brand Guide governs the current Bull U/wordmark identity.",
     "custom_logo_fallback": {
-      "file": "south_florida_custom_unofficial.png",
+      "file": "assets/custom-logos/south-florida-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
@@ -1060,13 +1060,13 @@
     "verification_status": "verified",
     "notes": "G.E. verified: official 2024–25 FIU Athletics Brand Guide explicitly identifies Panther Head and FIU block wordmark variants as primary Athletics marks and shows approved usage/background treatments. This Athletics hierarchy is distinct from the university-wide FIU institutional logo hierarchy; retain that distinction. Standalone production file is not required. Asset acquisition: FIU Panthers Athletics logo SVG; Commons page identifies the Florida International University Panthers mark and provides preview/original vector. Historical/alternate athletics identity; FIU's 2024–25 Athletics Brand Guide governs current marks.",
     "custom_logo_fallback": {
-      "file": "fiu_custom_unofficial.png",
+      "file": "assets/custom-logos/fiu-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
@@ -1086,13 +1086,13 @@
     "verification_status": "verified",
     "notes": "G.E. verified: current official Coastal Carolina Athletics branding page identifies the Primary Wordmark and Illustrative Wordmark as the only approved Athletics wordmarks, displays both reference treatments, and confirms adoption for 2025–26. Teal #006F71, Bronze #A27752 and Black #111111 are explicitly documented. The current primary wordmark is sufficient for the database's practical identity use. Asset acquisition: Coastal Carolina Chanticleers logo SVG; Commons page identifies Coastal Carolina University and provides preview/original vector. Historical/alternate Chanticleer mark; official Coastal Athletics branding page remains controlling for current usage.",
     "custom_logo_fallback": {
-      "file": "coastal_carolina_custom_unofficial.png",
+      "file": "assets/custom-logos/coastal-carolina-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
@@ -1146,13 +1146,13 @@
     "verification_status": "verified",
     "notes": "G.E. verified: official 2023 ECU Athletics Brand Guide explicitly identifies the skull-and-crossbones pirate-hat graphic with ECU lettering as the primary Pirate mark and primary identifier for ECU Athletics; the current official licensing page distinguishes the traditional bearded Pirate Head as a heritage/tradition mark. Preserve the current primary-vs-legacy distinction. Standalone production file is not required. Asset acquisition: East Carolina Pirates Athletics logo SVG; Commons page identifies East Carolina University and provides preview/original vector. Alternate/historical Pirate identity; ECU's 2023 Athletics Brand Guide governs current marks and licensing.",
     "custom_logo_fallback": {
-      "file": "east_carolina_custom_unofficial.png",
+      "file": "assets/custom-logos/east-carolina-custom-unofficial.svg",
       "classification": "custom_unofficial",
-      "format": "PNG",
-      "dimensions": "1024x1024",
+      "format": "SVG",
+      "dimensions": "1024x1024 viewBox",
       "background": "transparent",
-      "production_status": "prepared_local_export_not_yet_committed_to_repository",
-      "note": "Original custom mascot artwork; not an official university mark. Existing primary_mark_url and official-source provenance are preserved."
+      "production_status": "svg_committed_png_package_prepared_separately",
+      "note": "Original custom SVG mascot-style emblem; unofficial and not an official university mark. Existing official/historical primary_mark_url and source provenance are preserved."
     }
   },
   {
