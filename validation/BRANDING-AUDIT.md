@@ -1,6 +1,6 @@
 # Athletics Branding Verification Audit
 
-**Audit date:** November 4, 2026  
+**Audit date:** November 5, 2026  
 **Scope:** Official school athletics identity references and asset readiness for the 138-school custom league roster.
 
 ## Verification standard
@@ -30,8 +30,8 @@ Public availability, historical status, or archive preservation does not itself 
 
 - Schools in roster: 138
 - Branding records: 138
-- Fully asset-verified: 14
-- Partial: 124
+- Fully asset-verified: 20
+- Partial: 118
 - Missing branding records: 0
 
 The verified Navy record has an official N-Star PNG that was opened and visually inspected. Boston College was added to the verified set during the first asset-audit batch: its official primary Eagles WebP was captured and visually inspected. Pittsburgh and Maryland were added in asset-audit batch 2 after their official primary athletics mark files were opened and visually inspected. Temple and Buffalo were added in asset-audit batch 3 after their official contemporary athletics mark/primary lockup files were opened and visually inspected. Virginia was added in asset-audit batch 4 after its official V-Sabre primary athletics logo file was opened and visually inspected. Georgia State, Appalachian State and Charlotte were added in asset-audit batch 5 after their official primary athletics/identity PNGs were opened and visually inspected. The remaining records are not verified until the full checks above are complete.
@@ -711,3 +711,7 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 ## Batch 51 — UTEP, Oregon, Washington, USC, UCLA, California
 
 **Outcome:** Zero verified; six partial. UTEP's July 2026 announcement confirms a refreshed Paydirt Pete, superseding old artwork; the 2024 guide's old primary/alternate hierarchy must not be applied to the new design until Athletics confirms it. Oregon's current institutional primary is the O + rule + University of Oregon wordmark; the O alone is allowed only in specified contexts, and the public sources do not establish a complete Athletics-wide mark hierarchy. Washington's 2025–26 Athletics guide explicitly names the stroked Block W as primary and says there is no current secondary logo; native files are linked but were not extracted. USC's 2016 identity announcement confirms SC interlock as primary across Athletics, with program-specific baseball/track exceptions; current download endpoint failed. UCLA's Athletics download page labels four treatments UCLA PRIMARY LOGO, distinct from the campus logo; Script Logo is separately restricted for Athletics and select campus groups. Cal's 2024–25 guide explicitly labels Cal Script primary and California Script Wordmark secondary; composite guide only. Detailed findings, colors and restrictions are recorded in `data/school-branding.json`.
+
+## Batch 52 — Stanford, Oregon State, Washington State, Sacramento State, Hawaiʻi, Fresno State
+
+**Outcome:** Two verified (Oregon State, Hawaiʻi); four partial (Stanford, Washington State, Sacramento State, Fresno State). Oregon State's current official guidelines explicitly identify the Beaver logo as the primary Intercollegiate Athletics mark, and its standalone Beaverhead asset was opened and visually inspected. Hawaiʻi's current UH Mānoa brand page identifies the H logo and corresponding Athletics marks as the identifier for all 21 intercollegiate teams; the official standalone H PNG was opened and visually inspected. Stanford's Block S with Tree is a less-formal university emblem used for Athletics-related communications, but the public guide does not establish a department-wide Athletics primary and the standalone image request failed. Washington State's Athletics guide explicitly identifies the Cougar head as primary, reaffirmed by current WSU brand guidance, but current standalone artwork is login-restricted. Sacramento State's official Brand Center links a separate access-controlled Athletics Identity Guide; the public Big West toolkit confirms the school's palette but its displayed large logo is the conference mark, not a school Athletics logo. Fresno State's current page confirms the four-paw Bulldog as Athletics primary and documents its facing direction and secondary marks, but no standalone primary Athletics asset was captured. Detailed identity hierarchy, colors and usage restrictions are recorded in `data/school-branding.json`.
