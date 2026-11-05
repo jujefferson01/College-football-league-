@@ -1398,3 +1398,17 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - URL checks in this pass validate syntax and field presence only; they do not certify that every remote page or image endpoint is currently reachable, stable, or licensed for reuse. Recheck links and obtain any required permissions before production use.
 
 **Quality-control disposition:** PASS for record structure, uniqueness, and G.E. verification consistency. CONDITIONAL for production asset readiness: 118 schools do not yet have a standalone asset URL, and 20 schools have at least one unknown color slot. No records were downgraded because these gaps do not invalidate the documented identity verification.
+
+
+## Uploadable logo asset acquisition — Batch 1 (November 5, 2026)
+
+**Scope:** First six records with no direct asset URL at the start of the asset-acquisition pass: Army, Syracuse, Rutgers, Penn State, UConn, and Delaware. Historical/retired official logos are acceptable when they are identifiable and can be uploaded as image files.
+
+- **Army — asset found.** Added direct official Athena Shield JPG from the 2015 Army West Point Athletics identity announcement. The article identifies Athena Shield as the primary mark for all intercollegiate teams. Asset: https://goarmywestpoint.com/images/2015/5/26/athenashield_32465.jpg. Source: https://goarmywestpoint.com/news/2015/4/13/Army_West_Point_Athletics_Unveils_Brand_Identity
+- **Syracuse — asset found.** Added direct official orange Block S JPG from the 2005 Syracuse Athletics announcement. The mark is historical and remains acceptable under the uploadable-asset rule. Asset: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/suathletics.com/images/2005/8/25/SUblocks2005web1.jpg. Source: https://cuse.com/news/2005/8/25/2005newlogo
+- **Rutgers — not yet added.** The official 2020 Athletics identity PDF confirms the Block R primary identity and shows it in a visual guide, but a clean, directly uploadable logo asset was not isolated in this pass. Keep the asset field null until an actual image file is identified. Source: https://scarletknights.com/documents/download/2020/10/13/RUA_Visual_Identity_v2_0_1.pdf
+- **Penn State — reference JPG found.** Added the official Brand Book's direct JPG for the Primary Athletics Mark. The image is a reference-board graphic with background/grid elements, not a clean transparent production logo; it is uploadable as a visual asset but may need cropping before game use. Asset: https://brand.psu.edu/images/backgrounds/Athletics_no_%C2%AE.jpg. Source: https://brand.psu.edu/visual-identity-standards/other-university
+- **UConn — not yet added.** Official Athletics and Brand Standards pages confirm the Husky Dog mark, but no directly downloadable image asset was isolated in this pass. Keep the asset field null until a usable image file is found. Sources: https://uconnhuskies.com/news/2013/4/11/UConn_Athletics_Unveils_New_Visual_Identity and https://brand.uconn.edu/visual-identity/husky-dog-logo/
+- **Delaware — asset found.** Added the direct official Primary Athletics Mark JPG linked from the Delaware Athletics Logo Usage page. Asset: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/bluehens.com/images/2018/7/18/8_AthleticsPrimary.jpg. Source: https://bluehens.com/news/2013/8/28/209242576
+
+**Batch result:** 4 direct image URLs added; 2 records remain pending asset isolation. All six school verification statuses remain unchanged. Asset URL presence is not a claim of unrestricted licensing or permission for commercial use.
