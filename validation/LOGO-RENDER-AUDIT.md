@@ -500,3 +500,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 18 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying Commons previews visibly decoded. Northern Illinois and Memphis are wordmarks rather than mascot marks; UAB's monogram is distinct from Blaze; Wisconsin's Motion W and Northwestern's Block N match their documented primary Athletics marks. Minnesota remains identified as an Athletics mark without overstating its precise hierarchy. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** The prior running ledger reported 40 rendered/inspected and 60 pending. Adding six successful previews yields 46 rendered/inspected and 60 pending on that same ledger. This is a provisional cumulative figure pending the full 138-school reconciliation. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 19 (November 5, 2026)
+
+**Scope:** Arizona, Arizona State, Colorado, Utah, BYU, and Texas State. Exact Commons file pages were opened and their thumbnail previews visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Arizona | Red ARIZONA wordmark with blue/white outline rendered | PASS — image decoded/rendered; historical Athletics wordmark, not the current Block A primary symbol |
+| Arizona State | Maroon-and-gold ARIZONA STATE wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not the current Sun Devil Pitchfork primary logo |
+| Colorado | Black-and-gold buffalo/CU alternate mark rendered | PASS — image decoded/rendered; explicitly alternate mark, not the sole/current primary |
+| Utah | Red interlocking UU mark rendered | PASS — image decoded/rendered; official Utah Athletics guide identifies Interlocking UU as primary |
+| BYU | Blue-and-white interlocking Y/athletics mark rendered | PASS — image decoded/rendered; recognizable member of BYU's coordinated official Athletics mark family |
+| Texas State | Maroon-and-gold TEXAS STATE wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not the SuperCat primary mark |
+
+**Batch 19 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly decoded. Arizona and Arizona State are historical/alternate wordmarks rather than current primary symbols; Colorado's is explicitly alternate; Utah's Interlocking UU is confirmed primary; BYU is treated as part of its coordinated Athletics mark family; Texas State's wordmark remains distinct from SuperCat. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 46 rendered/inspected, 60 pending. Adding six successful previews yields 52 rendered/inspected and 60 pending on that same provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
