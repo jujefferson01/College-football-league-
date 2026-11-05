@@ -1542,3 +1542,19 @@ Six source-confirmed logo files were added for Florida State, Miami (FL), Clemso
 **QA and identity distinctions:** All six Commons pages explicitly identify the school/mark and expose rendered previews plus original SVG file information. Direct asset URLs are Commons Special:Redirect/file endpoints. This source-level check does not replace the consuming application's final image-render test. Do not mistake historic/alternate marks for current primary identities. FSU athletic marks are restricted-use trademarks; Clemson Paw, Tennessee Power T, and Vanderbilt's Athletics V/Star V have separate current brand rules. Trademark/licensing restrictions remain separate from file availability.
 
 Batch 9 added: 6. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 10 (November 5, 2026)
+
+Added candidate asset references for UCF, Florida Atlantic, South Florida, FIU, Coastal Carolina and East Carolina. **QA disposition: provisional, not six fully cleared assets.**
+
+- **UCF** — UCF Knights logo SVG. Commons file page explicitly identifies the University of Central Florida Athletics logo, credits UCF as author, and provides a rendered preview (250 × 201) plus original SVG. UCF's current brand site separately shows Athletics logos (Knighthead, stacked logo, SpaceU and Citronauts) and says they are restricted to UCF sports marketing/teams; this older Knights logo is an attributable historical Athletics mark, not the university's primary external mark.
+- **Florida Atlantic** — candidate Owls logo SVG. Search evidence located the FAU Athletics category and several FAU-specific logo assets, but did not independently confirm this exact filename. Provisional pending exact file-page validation.
+- **South Florida** — candidate Bulls logo SVG. Exact Commons file page and rendered asset were not independently confirmed in this pass. Provisional.
+- **FIU** — candidate Panthers logo SVG. Exact Commons file page and rendered asset were not independently confirmed in this pass. Provisional.
+- **Coastal Carolina** — candidate Chanticleers logo SVG. Exact Commons file page and rendered asset were not independently confirmed in this pass. Provisional.
+- **East Carolina** — candidate Pirates logo SVG. Exact Commons file page and rendered asset were not independently confirmed in this pass. Provisional.
+
+The UCF candidate is source-confirmed at the file-page level. The other five URLs are retained as research candidates only and must not be treated as usable assets until their exact file pages, attribution, original files, and rendered previews are checked. A final consuming-app render test is required for all six. UCF's official current brand page distinguishes its stacked primary external mark from its Athletics logo family and says Athletics marks are restricted to sports marketing/teams. Trademark/licensing restrictions remain separate from file availability.
+
+Batch 10 candidate URLs added: 6 (1 source-confirmed; 5 provisional). Overall school verification remains 138/138 verified.
