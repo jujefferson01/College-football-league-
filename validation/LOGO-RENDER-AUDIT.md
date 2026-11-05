@@ -302,3 +302,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 7 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. The Iowa, Nebraska, and Wisconsin asset classifications and caveats are preserved; identity verification does not imply that the specific file is the current primary artwork. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 37 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 8 (November 5, 2026)
+
+**Scope:** Notre Dame, Indiana, Purdue, Cincinnati, Louisville, and Kentucky. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Notre Dame | Wikimedia SVG returned unsupported SVG content-type | PENDING — endpoint not visually decoded by this preview tool |
+| Indiana | Wikimedia SVG returned unsupported SVG content-type | PENDING — endpoint not visually decoded by this preview tool; stored art is documented as historical/alternate |
+| Purdue | Wikimedia SVG returned unsupported SVG content-type | PENDING — endpoint not visually decoded by this preview tool; stored art is documented as a wordmark, not the Motion P logo |
+| Cincinnati | Wikimedia-hosted SVG endpoint inaccessible | PENDING — retrieval limitation, not proof of a broken asset |
+| Louisville | Wikimedia redirect endpoint inaccessible | PENDING — retrieval limitation, not proof of a broken asset; stored art is a wordmark, not the Birdhead primary |
+| Kentucky | Wikimedia redirect endpoint inaccessible | PENDING — retrieval limitation, not proof of a broken asset |
+
+**Batch 8 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. All six are still pending browser-preview confirmation; no endpoint failure is treated as proof of a broken image. Existing wordmark/historical classifications remain explicit. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 43 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
