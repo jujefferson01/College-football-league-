@@ -248,3 +248,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 4 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. NC State's rendered file is the Tuffy Head asset identified in the record as the athletics primary mark. The other five remain pending because of preview-tool retrieval/content-type limitations; none is classified as broken. This remains browser-preview validation, not an in-game rendering test.
 
 **Cumulative browser-preview status:** 7 distinct assets visibly rendered (including the San Diego State and Navy baseline previews); 22 remain pending; 0 confirmed broken. This corrects the prior running total, which omitted the San Diego State baseline preview. The actual consuming game UI/runtime is still not present in this repository, so in-game rendering remains untested.
+
+
+## Visual rendering spot-check — Batch 5 (November 5, 2026)
+
+**Scope:** Central Michigan, Eastern Michigan, Western Michigan, Toledo, Bowling Green, and Miami (OH). Exact stored `primary_mark_url` endpoints were checked in the browser preview surface, with prior visual evidence in the branding records retained where available.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Central Michigan | Wikimedia SVG endpoint returned unsupported SVG content-type | PENDING — endpoint not visually decoded by this preview tool |
+| Eastern Michigan | Wikimedia SVG endpoint returned unsupported SVG content-type | PENDING — endpoint not visually decoded by this preview tool |
+| Western Michigan | Wikimedia redirect endpoint was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Toledo | Wikimedia redirect endpoint was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset; record correctly classifies this as a wordmark |
+| Bowling Green | Official BGSU PNG endpoint was inaccessible in this spot-check; branding record documents prior visual inspection of the official athletics-logo.png | PASS — prior visible asset inspection recorded; current fetch limitation noted |
+| Miami (OH) | Wikimedia redirect endpoint was inaccessible to the preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+
+**Batch 5 result:** 1 PASS based on documented prior visual inspection, 5 PENDING in this browser-preview run, 0 confirmed broken assets. No HTTP/browser retrieval failure is treated as proof that an image is broken. This is still browser-preview/asset evidence, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 8 distinct assets visibly rendered or previously visually inspected; 26 remain pending; 0 confirmed broken. This count includes the San Diego State and Navy baseline previews and the documented prior Bowling Green inspection. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
