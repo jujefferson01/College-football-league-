@@ -518,3 +518,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 19 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly decoded. Arizona and Arizona State are historical/alternate wordmarks rather than current primary symbols; Colorado's is explicitly alternate; Utah's Interlocking UU is confirmed primary; BYU is treated as part of its coordinated Athletics mark family; Texas State's wordmark remains distinct from SuperCat. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** Prior provisional ledger: 46 rendered/inspected, 60 pending. Adding six successful previews yields 52 rendered/inspected and 60 pending on that same provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 20 (November 5, 2026)
+
+**Scope:** Rice, UTSA, Texas Tech, North Texas, Sam Houston, and Boise State. Exact Commons file pages were opened and their thumbnail previews visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Rice | Blue Old English R rendered | PASS — image decoded/rendered; identifiable historical/alternate Athletics mark, not the current primary mascot logo; current Rice Athletics identity continues to center the Old English R |
+| UTSA | Navy-and-orange UTSA Athletics wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not Roadrunner mascot-head mark |
+| Texas Tech | Red Double T with black border rendered | PASS — image decoded/rendered; Athletics Double T mark, distinct from Masked Rider secondary mark |
+| North Texas | Green-and-white stacked NORTH TEXAS wordmark rendered | PASS — image decoded/rendered; historical wordmark, not current Diving Eagle primary identity |
+| Sam Houston | Orange-and-black SAM HOUSTON STATE wordmark rendered | PASS — image decoded/rendered; current Athletics wordmark, not SH-Paw primary mark |
+| Boise State | Blue-and-orange BRONCOS wordmark rendered | PASS — image decoded/rendered; Athletics wordmark, not Bronco-head mark |
+
+**Batch 20 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly decoded. Rice's Old English R remains an identifiable Athletics mark; UTSA, Sam Houston and Boise State files are wordmarks rather than mascot marks; Texas Tech's Double T is distinct from Masked Rider; North Texas' file is a historical wordmark rather than the current Diving Eagle primary. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** Prior provisional ledger: 52 rendered/inspected, 60 pending. Adding six successful previews yields 58 rendered/inspected and 60 pending on that provisional ledger. Reconciliation against the full 138-school tracker is still required. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
