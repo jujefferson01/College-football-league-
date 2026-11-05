@@ -974,3 +974,15 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 
 **Batch result:** 4 Verified; 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 28 Verified / 110 Partial / 0 Needs Review.
 
+
+
+## Batch 81 — G.E. verification: South Florida, FIU, Coastal Carolina, Charlotte, Appalachian State, East Carolina
+
+- **South Florida — verified.** Official 2022 Athletics Brand Guide explicitly identifies Bull U as the primary logo and master brand (p.8), with approved variants and restrictions. The 2019 University announcement confirms Iconic Bull U became the university-wide identity. USF Green #006747, Gold #CFC493, White #FFFFFF. Source: https://gousfbulls.com/documents/download/2022/8/18/USF-ATHLETICS-BRAND-GUIDE.pdf ; https://www.usf.edu/news/2019/usf-brand-announcement.aspx
+- **FIU — verified.** Official 2024–25 Athletics Brand Guide identifies Panther Head and FIU block wordmark variants as primary Athletics marks and specifies approved background treatments. This Athletics hierarchy differs from the university-wide FIU institutional logo hierarchy; preserve the distinction. FIU Navy #091F3F, Gold #C3993F, White #FFFFFF. Source: https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/fiu.sidearmsports.com/documents/2024/12/19/FIU_Athletics_Brand_Guide_2024-25.pdf
+- **Coastal Carolina — verified.** Current official Athletics branding page identifies Primary Wordmark and Illustrative Wordmark as the only approved Athletics wordmarks, displays both reference treatments and confirms adoption for 2025–26. Teal #006F71, Bronze #A27752, Black #111111. Source: https://goccusports.com/sports/2025/3/5/koz-test-page
+- **Charlotte — verified (retained).** Official Logo System identifies All-in Charlotte as the primary mark and provides a direct master PNG; All-in-C originated as the 2020 Athletics identity and was adopted university-wide in 2021. Charlotte Green #005035, Niner Gold #A49665, Quartz White #FFFFFF. Source: https://brand.charlotte.edu/visual-identity/logo-system
+- **Appalachian State — verified (retained).** Official Office of Trademarks and Licensing labels the block A + Mountaineers word element as the Primary athletic mark and Yosef head as Secondary; direct official PNG was previously visually inspected. Gold PMS 116, Gray PMS 423, Process Black. Source: https://licensing.appstate.edu/trademarks
+- **East Carolina — verified.** Official 2023 Athletics Brand Guide explicitly identifies the skull-and-crossbones pirate-hat graphic with ECU lettering as the primary Pirate mark and primary identifier. The current licensing page describes the traditional bearded Pirate Head as a heritage/tradition mark, not the current primary. Purple #582C83, Gold #FFC700, White #FFFFFF, Black #000000. Source: https://licensing.ecu.edu/wp-content/pv-uploads/sites/507/2023/06/2023_ECU_Athletics_Brand_Guide.pdf ; https://licensing.ecu.edu/trademarks/
+
+**Batch result:** 6 Verified; 0 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 32 Verified / 106 Partial / 0 Needs Review.
