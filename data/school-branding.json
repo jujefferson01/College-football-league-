@@ -2114,13 +2114,13 @@
       "accent": null
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://brand.nmsu.edu/logos-marks/athletics.html",
-      "usage_notes": "NMSU Athletics' official brand page explicitly identifies NM State Pete (two versions) as the PRIMARY ATHLETICS LOGO. Pete Head and Stacked NM State are secondary. Athletics Crimson differs from university Aggie Crimson and the public page does not provide a confirmed HEX value; leave Athletics primary color HEX unset. The Zia mark is culturally restricted to Athletics under rights granted by Zia Pueblo and may NOT be used commercially; marks may not be stretched, recolored or altered. An official standalone primary PNG is linked at https://brand.nmsu.edu/images/ATHLETIC-standard.png, but direct image retrieval/visual inspection was unsuccessful, so no asset is verified."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/New_Mexico_State_Aggies_wordmark.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:New_Mexico_State_Aggies_wordmark.svg",
+      "usage_notes": "NMSU Athletics' official brand page explicitly identifies NM State Pete (two versions) as the PRIMARY ATHLETICS LOGO. Pete Head and Stacked NM State are secondary. Athletics Crimson differs from university Aggie Crimson and the public page does not provide a confirmed HEX value; leave Athletics primary color HEX unset. The Zia mark is culturally restricted to Athletics under rights granted by Zia Pueblo and may NOT be used commercially; marks may not be stretched, recolored or altered. An official standalone primary PNG is linked at https://brand.nmsu.edu/images/ATHLETIC-standard.png, but direct image retrieval/visual inspection was unsuccessful, so no asset is verified. Uploadable SVG Athletics wordmark (250 × 93; 7 KB), linked by Commons as the vector version of the NM State PNG and attributed to New Mexico State University Athletics. It is a wordmark, not the Aggie mascot mark. Commons file page provides the PNG/vector relationship; current primary hierarchy is not asserted. Trademark restrictions remain separate."
     },
     "brand_source_url": "https://brand.nmsu.edu/logos-marks/athletics.html",
     "verification_status": "verified",
-    "notes": " G.E. verified: official NMSU Athletics brand page explicitly identifies NM State Pete (two versions) as PRIMARY ATHLETICS LOGO; Pete Head and Stacked NM State secondary. Athletics Crimson HEX is not published, so leave unset. Zia mark is culturally restricted and not for commercial use."
+    "notes": " G.E. verified: official NMSU Athletics brand page explicitly identifies NM State Pete (two versions) as PRIMARY ATHLETICS LOGO; Pete Head and Stacked NM State secondary. Athletics Crimson HEX is not published, so leave unset. Zia mark is culturally restricted and not for commercial use. Batch 21: Added uploadable asset reference. Uploadable SVG Athletics wordmark (250 × 93; 7 KB), linked by Commons as the vector version of the NM State PNG and attributed to New Mexico State University Athletics. It is a wordmark, not the Aggie mascot mark. Commons file page provides the PNG/vector relationship; current primary hierarchy is not asserted. Trademark restrictions remain separate."
   },
   {
     "school_id": "utep",
@@ -2131,13 +2131,13 @@
       "accent": "#B1B3B3"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx",
-      "usage_notes": "Verified under the G.E. standard: UTEP Athletics officially unveiled a refreshed Paydirt Pete on July 1, 2026, with the Director of Athletics describing the new design as a fresh look for the iconic mascot and the University's Athletics identity. The official January 2024 visual guide had designated the previous Paydirt Pete-with-UTEP MINERS lockup as the primary Athletics identifier and Pete-head-only as alternate; that hierarchy applies to the former artwork and must not be used to mislabel the new 2026 design. This record verifies the current recognizable Paydirt Pete identity while preserving the refresh distinction. Official Athletics colors: Orange #FF8200, Dark Blue #041E42 and Silver #B1B3B3."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/UTEP_Miners_wordmark.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:UTEP_Miners_wordmark.svg",
+      "usage_notes": "Verified under the G.E. standard: UTEP Athletics officially unveiled a refreshed Paydirt Pete on July 1, 2026, with the Director of Athletics describing the new design as a fresh look for the iconic mascot and the University's Athletics identity. The official January 2024 visual guide had designated the previous Paydirt Pete-with-UTEP MINERS lockup as the primary Athletics identifier and Pete-head-only as alternate; that hierarchy applies to the former artwork and must not be used to mislabel the new 2026 design. This record verifies the current recognizable Paydirt Pete identity while preserving the refresh distinction. Official Athletics colors: Orange #FF8200, Dark Blue #041E42 and Silver #B1B3B3. Uploadable SVG Athletics wordmark (340 × 112; 7 KB), dated 2017-07-01 and sourced to UTEP's official Graphic Identity Guide PDF. It is a wordmark, not a pickaxe/miner mascot illustration. Trademark restrictions remain separate."
     },
     "brand_source_url": "https://utepminers.com/news/2026/7/1/general-new-era-new-pete-utep-athletics-bringing-paydirt-into-the-21st-century.aspx",
     "verification_status": "verified",
-    "notes": "Verified under the G.E. standard: UTEP Athletics officially unveiled a refreshed Paydirt Pete on July 1, 2026, with the Director of Athletics describing the new design as a fresh look for the iconic mascot and the University's Athletics identity. The official January 2024 visual guide had designated the previous Paydirt Pete-with-UTEP MINERS lockup as the primary Athletics identifier and Pete-head-only as alternate; that hierarchy applies to the former artwork and must not be used to mislabel the new 2026 design. This record verifies the current recognizable Paydirt Pete identity while preserving the refresh distinction. Official Athletics colors: Orange #FF8200, Dark Blue #041E42 and Silver #B1B3B3."
+    "notes": "Verified under the G.E. standard: UTEP Athletics officially unveiled a refreshed Paydirt Pete on July 1, 2026, with the Director of Athletics describing the new design as a fresh look for the iconic mascot and the University's Athletics identity. The official January 2024 visual guide had designated the previous Paydirt Pete-with-UTEP MINERS lockup as the primary Athletics identifier and Pete-head-only as alternate; that hierarchy applies to the former artwork and must not be used to mislabel the new 2026 design. This record verifies the current recognizable Paydirt Pete identity while preserving the refresh distinction. Official Athletics colors: Orange #FF8200, Dark Blue #041E42 and Silver #B1B3B3. Batch 21: Added uploadable asset reference. Uploadable SVG Athletics wordmark (340 × 112; 7 KB), dated 2017-07-01 and sourced to UTEP's official Graphic Identity Guide PDF. It is a wordmark, not a pickaxe/miner mascot illustration. Trademark restrictions remain separate."
   },
   {
     "school_id": "oregon",
@@ -2148,13 +2148,13 @@
       "accent": "#000000"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://goducks.com/sports/2018/7/23/oregon-athletics-brand-guidelines",
-      "usage_notes": "Verified under the G.E. standard: Oregon Athletics' official brand-guideline resource and University trademark guidance identify the Oregon O, Oregon Duck mascot, Winged O and Fighting Duck as official protected identity marks associated with Oregon Athletics. The University primary signature remains a separate institutional lockup; no single Athletics-wide primary hierarchy is asserted here. The recognizable Duck mascot and Oregon O are accepted as official Athletics identity elements. Official core palette: UO Green #007030 and UO Yellow #FEE11A, with additional mark-specific colors governed by the official guide. Do not substitute the historic Interlocking UO or alter protected marks."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Oregon_Ducks_2024_Logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:Oregon_Ducks_2024_Logo.svg",
+      "usage_notes": "Verified under the G.E. standard: Oregon Athletics' official brand-guideline resource and University trademark guidance identify the Oregon O, Oregon Duck mascot, Winged O and Fighting Duck as official protected identity marks associated with Oregon Athletics. The University primary signature remains a separate institutional lockup; no single Athletics-wide primary hierarchy is asserted here. The recognizable Duck mascot and Oregon O are accepted as official Athletics identity elements. Official core palette: UO Green #007030 and UO Yellow #FEE11A, with additional mark-specific colors governed by the official guide. Do not substitute the historic Interlocking UO or alter protected marks. Uploadable Oregon Ducks logo SVG (284 × 235; 756 bytes), described on Commons as the Ducks logo used since 2024. The file page lists the uploader as author and CC0 dedication; it is a recent fan-contributed file rather than an official Athletics-hosted source, so provenance confidence is lower than an official asset. Accepted as an identifiable recent-era Ducks logo; trademark rights remain separate."
     },
     "brand_source_url": "https://goducks.com/sports/2018/7/23/oregon-athletics-brand-guidelines",
     "verification_status": "verified",
-    "notes": "Verified under the G.E. standard: Oregon Athletics' official brand-guideline resource and University trademark guidance identify the Oregon O, Oregon Duck mascot, Winged O and Fighting Duck as official protected identity marks associated with Oregon Athletics. The University primary signature remains a separate institutional lockup; no single Athletics-wide primary hierarchy is asserted here. The recognizable Duck mascot and Oregon O are accepted as official Athletics identity elements. Official core palette: UO Green #007030 and UO Yellow #FEE11A, with additional mark-specific colors governed by the official guide. Do not substitute the historic Interlocking UO or alter protected marks."
+    "notes": "Verified under the G.E. standard: Oregon Athletics' official brand-guideline resource and University trademark guidance identify the Oregon O, Oregon Duck mascot, Winged O and Fighting Duck as official protected identity marks associated with Oregon Athletics. The University primary signature remains a separate institutional lockup; no single Athletics-wide primary hierarchy is asserted here. The recognizable Duck mascot and Oregon O are accepted as official Athletics identity elements. Official core palette: UO Green #007030 and UO Yellow #FEE11A, with additional mark-specific colors governed by the official guide. Do not substitute the historic Interlocking UO or alter protected marks. Batch 21: Added uploadable asset reference. Uploadable Oregon Ducks logo SVG (284 × 235; 756 bytes), described on Commons as the Ducks logo used since 2024. The file page lists the uploader as author and CC0 dedication; it is a recent fan-contributed file rather than an official Athletics-hosted source, so provenance confidence is lower than an official asset. Accepted as an identifiable recent-era Ducks logo; trademark rights remain separate."
   },
   {
     "school_id": "washington",
@@ -2165,13 +2165,13 @@
       "accent": "#D8D9DA"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf",
-      "usage_notes": "UW Athletics' current 2025–26 brand guidelines explicitly identify the stroked Block W as the PRIMARY IDENTITY and main identifying symbol. It is distinct from the slender one-color upper-campus W; the guide states UW Athletics has no current secondary logo, and retailer heritage marks are not internal Athletics marks. The guide links native mark files from its primary-identity pages, but no standalone file was extracted and visually inspected in this pass. Colors: Purple #33006F (PMS 2685), Gold #E8D3A2 (PMS 7502), Metallic Gold #917B4C (PMS 871), Gray #D8D9DA (Cool Gray 3). Maintain protected clear space equal to the height of the W serif."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Washington_Huskies_logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:Washington_Huskies_logo.svg",
+      "usage_notes": "UW Athletics' current 2025–26 brand guidelines explicitly identify the stroked Block W as the PRIMARY IDENTITY and main identifying symbol. It is distinct from the slender one-color upper-campus W; the guide states UW Athletics has no current secondary logo, and retailer heritage marks are not internal Athletics marks. The guide links native mark files from its primary-identity pages, but no standalone file was extracted and visually inspected in this pass. Colors: Purple #33006F (PMS 2685), Gold #E8D3A2 (PMS 7502), Metallic Gold #917B4C (PMS 871), Gray #D8D9DA (Cool Gray 3). Maintain protected clear space equal to the height of the W serif. Uploadable Block W SVG (296 × 204; 1.3 KB), identified as the University of Washington Block W logo and sourced to the university's standards PDF; attributed to the University of Washington. The mark dates to 1902 and is a historic institutional/Athletics identifier, not a live-action mascot illustration. Trademark restrictions remain separate."
     },
     "brand_source_url": "https://gohuskies.com/documents/download/2026/3/25/25_26_UW_ICA_Brand_Guidelines.pdf",
     "verification_status": "verified",
-    "notes": " G.E. verified: current 2025–26 UW Athletics Brand Guidelines explicitly identify stroked Block W as PRIMARY IDENTITY and main identifying symbol; Athletics has no current secondary logo. Distinguish from slender upper-campus W. Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C, Gray #D8D9DA."
+    "notes": " G.E. verified: current 2025–26 UW Athletics Brand Guidelines explicitly identify stroked Block W as PRIMARY IDENTITY and main identifying symbol; Athletics has no current secondary logo. Distinguish from slender upper-campus W. Purple #33006F, Gold #E8D3A2, Metallic Gold #917B4C, Gray #D8D9DA. Batch 21: Added uploadable asset reference. Uploadable Block W SVG (296 × 204; 1.3 KB), identified as the University of Washington Block W logo and sourced to the university's standards PDF; attributed to the University of Washington. The mark dates to 1902 and is a historic institutional/Athletics identifier, not a live-action mascot illustration. Trademark restrictions remain separate."
   },
   {
     "school_id": "usc",
@@ -2182,13 +2182,13 @@
       "accent": "#000000"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos",
-      "usage_notes": "USC Athletics' official identity announcement (April 15, 2016) explicitly states the SC interlock remains the PRIMARY logo and mark for USC Athletics, with program-specific exceptions for baseball (SC monogram) and track (SC shield). The current official Athletics logo page labels the asset family INTERLOCK and lists two-color, one-color Cardinal and one-color Gold PNG/EPS variants. The linked download endpoint returned a server error during this review, so no standalone production asset was opened or visually inspected. Colors: Cardinal #990000 and Gold #FFCC00 primary; Black and White secondary; Metallic Gold tertiary/occasional. Do not substitute the academic shield/wordmark or Trojan Head for the SC interlock."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/USC_Trojans_logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:USC_Trojans_logo.svg",
+      "usage_notes": "USC Athletics' official identity announcement (April 15, 2016) explicitly states the SC interlock remains the PRIMARY logo and mark for USC Athletics, with program-specific exceptions for baseball (SC monogram) and track (SC shield). The current official Athletics logo page labels the asset family INTERLOCK and lists two-color, one-color Cardinal and one-color Gold PNG/EPS variants. The linked download endpoint returned a server error during this review, so no standalone production asset was opened or visually inspected. Colors: Cardinal #990000 and Gold #FFCC00 primary; Black and White secondary; Metallic Gold tertiary/occasional. Do not substitute the academic shield/wordmark or Trojan Head for the SC interlock. Uploadable USC Trojans logo SVG (122 × 182; 1 KB), dated 1993-07-01 and sourced to USCTrojans.com; attributed to USC Trojans. Retained as a historical athletics logo; it is distinct from the interlocking SC monogram and the separate Trojans text logo. Commons labels this simple geometric/text logo public domain, but trademark rights may still apply."
     },
     "brand_source_url": "https://usctrojans.com/sports/2021/3/31/usc-trojans-athletics-logos",
     "verification_status": "verified",
-    "notes": " G.E. verified: official USC Athletics identity announcement explicitly states SC interlock remains PRIMARY logo/mark for Athletics; current official logo page confirms approved interlock asset family and program-specific exceptions. Cardinal #990000, Gold #FFCC00; Black/White secondary."
+    "notes": " G.E. verified: official USC Athletics identity announcement explicitly states SC interlock remains PRIMARY logo/mark for Athletics; current official logo page confirms approved interlock asset family and program-specific exceptions. Cardinal #990000, Gold #FFCC00; Black/White secondary. Batch 21: Added uploadable asset reference. Uploadable USC Trojans logo SVG (122 × 182; 1 KB), dated 1993-07-01 and sourced to USCTrojans.com; attributed to USC Trojans. Retained as a historical athletics logo; it is distinct from the interlocking SC monogram and the separate Trojans text logo. Commons labels this simple geometric/text logo public domain, but trademark rights may still apply."
   },
   {
     "school_id": "ucla",
@@ -2199,13 +2199,13 @@
       "accent": "#FFFFFF"
     },
     "logo": {
-      "primary_mark_url": null,
-      "logo_source_page": "https://uclabruins.com/ucla-athletics-logos-and-wordmarks",
-      "usage_notes": "UCLA Athletics' official logo download page labels four treatments as UCLA PRIMARY LOGO: Blue for white backgrounds, Gold for blue backgrounds, Blue with white outline for gold backgrounds, and Blue with gold outline for dark backgrounds. These are official Athletics primary-logo variants, distinct from the UCLA Campus Logo. The page requires strict compliance with the UCLA Athletics Style Guide and prohibits alteration/manipulation. The linked JPG asset returned 404 in this review, so no standalone current production asset was opened or visually inspected. Official primary Blue #2774AE and Gold #FFD100."
+      "primary_mark_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/UCLA_Bruins_primary_logo.svg",
+      "logo_source_page": "https://commons.wikimedia.org/wiki/File:UCLA_Bruins_primary_logo.svg",
+      "usage_notes": "UCLA Athletics' official logo download page labels four treatments as UCLA PRIMARY LOGO: Blue for white backgrounds, Gold for blue backgrounds, Blue with white outline for gold backgrounds, and Blue with gold outline for dark backgrounds. These are official Athletics primary-logo variants, distinct from the UCLA Campus Logo. The page requires strict compliance with the UCLA Athletics Style Guide and prohibits alteration/manipulation. The linked JPG asset returned 404 in this review, so no standalone current production asset was opened or visually inspected. Official primary Blue #2774AE and Gold #FFD100. Uploadable UCLA Bruins primary logo SVG (248 × 119; 4 KB), dated 2021-07-07 and listed by Commons as superseding an older script-logo file. It is a primary-era UCLA Bruins mark, not the script wordmark. Trademark restrictions remain separate."
     },
     "brand_source_url": "https://uclabruins.com/ucla-athletics-logos-and-wordmarks",
     "verification_status": "verified",
-    "notes": " G.E. verified: current UCLA Athletics download page explicitly labels four background-specific treatments as UCLA PRIMARY LOGO. Distinct from UCLA Campus Logo; do not alter artwork. Blue #2774AE, Gold #FFD100."
+    "notes": " G.E. verified: current UCLA Athletics download page explicitly labels four background-specific treatments as UCLA PRIMARY LOGO. Distinct from UCLA Campus Logo; do not alter artwork. Blue #2774AE, Gold #FFD100. Batch 21: Added uploadable asset reference. Uploadable UCLA Bruins primary logo SVG (248 × 119; 4 KB), dated 2021-07-07 and listed by Commons as superseding an older script-logo file. It is a primary-era UCLA Bruins mark, not the script wordmark. Trademark restrictions remain separate."
   },
   {
     "school_id": "california",
