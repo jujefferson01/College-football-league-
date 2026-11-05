@@ -266,3 +266,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 5 result:** 1 PASS based on documented prior visual inspection, 5 PENDING in this browser-preview run, 0 confirmed broken assets. No HTTP/browser retrieval failure is treated as proof that an image is broken. This is still browser-preview/asset evidence, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 8 distinct assets visibly rendered or previously visually inspected; 26 remain pending; 0 confirmed broken. This count includes the San Diego State and Navy baseline previews and the documented prior Bowling Green inspection. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 6 (November 5, 2026)
+
+**Scope:** Akron, Ball State, Northern Illinois, Western Kentucky, Middle Tennessee, and Memphis. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Akron | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset |
+| Ball State | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record classifies this file as a wordmark fallback, distinct from the Cardinal Head |
+| Northern Illinois | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record classifies this file as a wordmark, not the composite primary mark |
+| Western Kentucky | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record classifies this file as a wordmark |
+| Middle Tennessee | Official Sidearm PNG visibly rendered as the blue interlocking MT with flying horse/lightning | PASS — image decoded/rendered |
+| Memphis | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record classifies this file as a primary wordmark, not the tiger-head mascot |
+
+**Batch 6 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Middle Tennessee's image visibly decoded. The four wordmark/mark distinctions noted above are preserved; an inaccessible endpoint does not justify reclassifying or replacing an asset. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 31 remain pending; 0 confirmed broken. The total includes the San Diego State and Navy baseline previews and the documented prior Bowling Green inspection. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
