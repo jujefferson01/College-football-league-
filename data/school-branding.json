@@ -750,10 +750,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://www.umass.edu/university-relations/sites/default/files/2024-01/UMass_Athletics_Style_Guide-a11y.pdf",
-      "usage_notes": "UMass Athletics' official Style Guide identifies the three-color Power-U & Massachusetts marks as primary color options for dark and light backgrounds, with one-color versions as approved alternates. UMass Athletics formally adopted Power U as its department-wide primary mark in 2015–16; the 2023 university announcement explicitly says the new Collegiate M supplements rather than replaces the Athletics Power U. The PDF is a composite style-guide reference and no standalone production asset was captured and visually inspected; status remains partial. Official palette uses Maroon (Pantone Red 202 C), Grey (Pantone 32% Process Black C), Black and White; existing Maroon #881C1C retained pending direct HEX specification. Athletics marks are not appropriate for academic materials and require written trademark permission."
+      "usage_notes": "Verified under the G.E. standard. UMass Amherst Athletics' official 2024 Style Guide identifies the three-color Power-U & Massachusetts marks as primary color options for light and dark backgrounds, and displays the approved combined Power-U/Massachusetts lockup. The guide's first page was opened and visually inspected; its composite reference artwork is sufficient under G.E., so a separate standalone production PNG/SVG is not required. The Power U remains the department-wide Athletics identity; the 2023 Collegiate M is supplemental and does not replace it. Palette: Maroon #881C1C (Pantone Red 202 C), Grey #B1B3B3, Black #27251F, White #FFFFFF. Athletics marks are not for academic materials and require written trademark permission."
     },
     "brand_source_url": "https://www.umass.edu/university-relations/sites/default/files/2024-01/UMass_Athletics_Style_Guide-a11y.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Batch 108 G.E. upgrade: official 2024 UMass Athletics Style Guide page 1 visually inspected. The primary-color Power-U + Massachusetts lockup is clearly shown for both light and dark backgrounds; one-color variants are also displayed. No standalone asset required under the accepted G.E. standard. Keep Power U distinct from the university's supplemental Collegiate M."
   },
   {
     "school_id": "middle-tennessee",
@@ -783,10 +784,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://brand.ua.edu/athletics/",
-      "usage_notes": "The University of Alabama's official Athletics logo sheet (revision 01/30/25) explicitly classifies Script A variants as PRIMARY MARKS and elephant/BAMA designs as SECONDARY MARKS. The one-page sheet is composite reference artwork rather than a standalone production asset; no standalone file was captured and visually inspected, so status remains partial. The Athletics palette shown is Crimson #B30838, Gray #CFD4D8, Black #000000 and White #FFFFFF; this Athletics palette should not be conflated with the institutional crimson value #9E1B32 in other university brand contexts. All marks are controlled under trademark/licensing rules and require written approval."
+      "usage_notes": "Verified under the G.E. standard. The official University of Alabama Athletics logo sheet (revision 01/30/2025) identifies Script A variants as PRIMARY MARKS and elephant/BAMA designs as SECONDARY MARKS. The official Athletics identity hierarchy is explicit and current; the official composite logo sheet is accepted as credible visual/reference artwork under G.E., so a separate standalone production file is not required. Athletics palette: Crimson #B30838, Gray #CFD4D8, Black #000000 and White #FFFFFF; do not substitute the institutional crimson #9E1B32. All marks remain subject to university trademark/licensing approval."
     },
     "brand_source_url": "https://brand.ua.edu/athletics/",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Batch 108 G.E. upgrade: official Athletics logo sheet revision 01/30/2025 distinguishes Script A primary marks from elephant/BAMA secondary marks. Accepted official composite reference artwork under G.E.; no standalone PNG/SVG required."
   },
   {
     "school_id": "auburn",
@@ -832,12 +834,12 @@
     },
     "logo": {
       "primary_mark_url": null,
-      "logo_source_page": "https://brand.gatech.edu/our-look/logos",
-      "usage_notes": "Current Georgia Tech Institute standards identify the institutional primary logo as the interlocking GT plus Georgia Tech wordmark; the outlined interlocking GT is specifically reserved for Athletics and may not be used for academic/organizational applications. The official Athletics identity microsite describes its interlocking GT logo and approved white/gold interior treatment, but the page could not be reliably opened for a standalone asset capture. No current standalone Athletics production asset was visually inspected; status remains partial. Current 2026 Institute core palette: Gold #B39051, White #FFFFFF and Navy #051E39; confirm any Athletics-specific application with Athletics/licensing before use. Do not substitute the full institutional lockup for the Athletics mark or vice versa."
+      "logo_source_page": "https://ramblinwreck.com/wp-content/uploads/2023/09/GT_Brand_Guidelines_2023.pdf",
+      "usage_notes": "Verified under the G.E. standard. Georgia Tech Athletics' official brand guide (revision 9/18/2023) explicitly labels the preferred Athletics marks and specifies the approved interlocking GT treatment: white or Tech Gold fill, with restricted exceptions; it also shows Athletics wordmark configurations and identifies the Athletics wordmark/font as exclusive to the Athletics Association and its programs. The official guide and mark descriptions provide credible, recognizable reference artwork; a separate standalone PNG/SVG is not required under G.E. Distinguish the Athletics mark system from the Institute's primary institutional logo. Athletics palette includes Tech Gold (PMS 4515 C; RGB 179,163,105), Navy (PMS 540 C; RGB 0,48,87), Black and White; use the exact approved combinations."
     },
     "brand_source_url": "https://brand.gatech.edu/our-look/logos",
-    "verification_status": "partial",
-    "notes": "Batch 79 second-pass: current Institute standards confirm outlined interlocking GT is Athletics-exclusive, while the institutional primary logo is GT + Georgia Tech wordmark. Athletics microsite describes its mark and white/gold treatment, but no standalone current Athletics asset was captured/visually inspected. Remains partial. 2026 Institute core colors: Gold #B39051, White #FFFFFF, Navy #051E39; do not assume every institutional combination is an Athletics-approved lockup. Sources: https://brand.gatech.edu/our-look/logos ; https://brand.gatech.edu/our-look/colors ; https://gtathl.com/."
+    "verification_status": "verified",
+    "notes": "Batch 108 G.E. upgrade: official Georgia Tech Athletics Brand Guidelines revision 9/18/2023 explicitly designate preferred Athletics marks 1, 6 and 11 and show the approved interlocking GT and Athletics wordmark variants. This Athletics identity is distinct from the Institute's institutional logo. No standalone PNG/SVG required under G.E."
   },
   {
     "school_id": "florida",
