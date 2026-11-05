@@ -1794,3 +1794,12 @@ Requirements:
 - Record the reason for fallback, creation date, asset path, format, dimensions, and any remaining usage caveat.
 
 Initial custom-logo fallback candidates from automated URL audit: Rutgers, Florida Atlantic, South Florida, FIU, Coastal Carolina, and East Carolina. These six are confirmed HTTP 404 candidates in Test #3; create replacements only after checking whether a simple source-URL correction can recover the intended existing artwork. The approved visual direction is bold, distinctive collegiate mascot artwork with each school's own colors and identity.
+
+
+## Six-school custom logo production export — November 5, 2026
+
+Created six separate 1024×1024 transparent PNG exports for Rutgers, Florida Atlantic, South Florida, FIU, Coastal Carolina, and East Carolina. Each is original custom mascot artwork and must be labeled **custom / unofficial / not an official university mark**. The six individual PNGs and a JSON manifest are packaged in the companion archive `six_school_custom_logo_assets.zip` supplied in the project conversation.
+
+The dataset now records a `custom_logo_fallback` object for each of the six schools, including filename, format, dimensions, transparency, classification, and production status. Existing `primary_mark_url`, official source provenance, and school verification status were preserved.
+
+**Important production state:** the PNG bundle is prepared locally but has not yet been committed as binary files to this repository. The FAU image was processed to remove its edge-connected dark backdrop; the other five were exported from generated RGBA artwork. These files still require visual alpha-edge QA, app rendering confirmation, and repository binary upload before they can be marked upload-ready/complete. The generated artwork is unofficial and is not a substitute for university licensing or permission.
