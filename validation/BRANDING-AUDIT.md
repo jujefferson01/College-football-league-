@@ -1686,3 +1686,19 @@ File pages confirm original SVG/PNG uploads and provenance. Memphis's file page 
 | Rice | [Rice Owls logo SVG](https://commons.wikimedia.org/wiki/File:Rice_Owls_logo.svg) | Rice 'R' Athletics alternate mark; unknown author and older source guide noted. |
 
 All six Commons pages identify original SVG files and expose their dimensions. Utah's file page identifies the 2022 asset as the primary logo; BYU's file page identifies its mark as the primary Athletics mark and cites BYU Identity Guidelines; Colorado's alternate mark is sourced to the official CU NIL Brand Guidelines; Arizona State and Texas State are explicitly wordmarks; Rice is an alternate R mark with unknown author. Trademark restrictions remain separate from file availability.
+
+
+## Uploadable logo asset acquisition — Batch 19 (November 5, 2026)
+
+**Result:** Added six uploadable logo asset references. Asset types, source dates, and hierarchy distinctions are preserved; wordmarks are not mislabeled as mascot marks. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app rendering test remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| UTSA | [UTSA Athletics wordmark SVG](https://commons.wikimedia.org/wiki/File:UTSA_Athletics_wordmark.svg) | 2023 Athletics wordmark, sourced to UTSA Branding Guide. |
+| Texas Tech | [Texas Tech Athletics logo SVG](https://commons.wikimedia.org/wiki/File:Texas_Tech_Athletics_logo.svg) | 2025 primary-variation Double T athletics mark, sourced to texastech.com. |
+| North Texas | [North Texas stacked wordmark PNG](https://commons.wikimedia.org/wiki/File:North_Texas_Stacked_Wordmark.png) | 2005 historical Athletics wordmark, not mascot artwork. |
+| Sam Houston | [Sam Houston State word mark PNG](https://commons.wikimedia.org/wiki/File:Sam_Houston_State_word_mark.png) | 2020 updated Athletics wordmark, sourced to official Bearkat Athletics announcement. |
+| Boise State | [Boise State Broncos wordmark SVG](https://commons.wikimedia.org/wiki/File:Boise_State_Broncos_wordmark.svg) | 2019 Athletics wordmark, sourced to official Athletic Branding Standard Guidelines. |
+| Utah State | [Utah State Aggies logo SVG](https://commons.wikimedia.org/wiki/File:Utah_State_Aggies_logo.svg) | Athletics logo sourced to University Style Guide; 2020 file color update. |
+
+The Commons file pages confirm uploadable originals and provenance. UTSA's 2023 wordmark is used by Athletics; Texas Tech's 2025 file page identifies its primary variation; North Texas and Sam Houston are clearly marked as wordmarks (2005 and 2020 respectively); Boise State's wordmark cites its 2019 official Athletics standards; Utah State's file cites its University Style Guide and Athletics Department. Trademark restrictions remain separate from file availability.
