@@ -1526,3 +1526,19 @@ Added six logo-file references for the next six schools in the missing-asset que
 **QA status:** Commons search results supplied rendered preview dimensions and attribution for WKU, UMass, Alabama and Georgia; official Georgia Athletics guidance confirms the oval G primary mark. The Florida script file is identified as an alternate in the Commons SVG category listing. Georgia Tech's official source confirms the interlocking GT identity, but the specific file candidate has not been independently matched to that mark; it is flagged provisional and should not be counted as fully QA-passed until visually checked. URLs are normalized to Commons Special:Redirect/file endpoints to avoid relying on guessed upload hash paths. A final consuming-app render test remains required for every asset. Trademark/licensing restrictions remain separate from file availability.
 
 Batch 8 URLs added: 6. Of these, Georgia Tech is provisional pending exact image confirmation. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 9 (November 5, 2026)
+
+Six source-confirmed logo files were added for Florida State, Miami (FL), Clemson, South Carolina, Tennessee and Vanderbilt. The Commons file pages provide named school attribution, rendered previews, and original SVG information:
+
+- **Florida State** — 1976–2013 Seminoles Athletics logo, sourced to Florida State University; preview 250 × 230. FSU's vintage marks guide documents the historical identity. Current FSU institutional primary identifier is the FSU wordmark; athletic marks are restricted-use trademarks.
+- **Miami (FL)** — 2009 Hurricanes Athletics logo, sourced to the university identity guide; preview 500 × 308, original SVG 442 × 272. Historical/alternate mark; current brand guide governs interlocking U identity.
+- **Clemson** — Tigers Athletics logo, first used in 1973 and sourced to Clemson's official brand guide; preview 250 × 239. Historical tiger-head mark; Clemson identifies the Tiger Paw as the official Athletics mark.
+- **South Carolina** — Gamecocks logo dated 1975 and sourced to the university website; preview 250 × 274, original SVG 184 × 202. Historical/alternate Athletics identity.
+- **Tennessee** — Volunteers logo sourced to University of Tennessee football game notes; preview and original SVG 202 × 202. This is a Volunteers logo, not the official Power T.
+- **Vanderbilt** — 2022 Commodores Athletics logo sourced to Vanderbilt University Athletics; preview/original SVG 250 × 176. Vanderbilt's current official guide designates the Athletics V as primary and Star V as secondary.
+
+**QA and identity distinctions:** All six Commons pages explicitly identify the school/mark and expose rendered previews plus original SVG file information. Direct asset URLs are Commons Special:Redirect/file endpoints. This source-level check does not replace the consuming application's final image-render test. Do not mistake historic/alternate marks for current primary identities. FSU athletic marks are restricted-use trademarks; Clemson Paw, Tennessee Power T, and Vanderbilt's Athletics V/Star V have separate current brand rules. Trademark/licensing restrictions remain separate from file availability.
+
+Batch 9 added: 6. Overall school verification remains 138/138 verified.
