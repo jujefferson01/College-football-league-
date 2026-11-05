@@ -1803,3 +1803,16 @@ Created six separate 1024×1024 transparent PNG exports for Rutgers, Florida Atl
 The dataset now records a `custom_logo_fallback` object for each of the six schools, including filename, format, dimensions, transparency, classification, and production status. Existing `primary_mark_url`, official source provenance, and school verification status were preserved.
 
 **Important production state:** the PNG bundle is prepared locally but has not yet been committed as binary files to this repository. The FAU image was processed to remove its edge-connected dark backdrop; the other five were exported from generated RGBA artwork. These files still require visual alpha-edge QA, app rendering confirmation, and repository binary upload before they can be marked upload-ready/complete. The generated artwork is unofficial and is not a substitute for university licensing or permission.
+
+
+## Six custom logo fallbacks — production export update (November 5, 2026)
+
+Six original, unofficial SVG mascot-style fallback assets have been committed under `assets/custom-logos/`:
+- `rutgers-custom-unofficial.svg`
+- `florida-atlantic-custom-unofficial.svg`
+- `south-florida-custom-unofficial.svg`
+- `fiu-custom-unofficial.svg`
+- `coastal-carolina-custom-unofficial.svg`
+- `east-carolina-custom-unofficial.svg`
+
+The six records in `data/school-branding.json` now point to these repository SVGs through `custom_logo_fallback.file`. Existing official/historical source URLs and provenance remain intact; custom artwork is explicitly marked unofficial. Separate 1024×1024 transparent PNG exports were prepared in a companion package, but those PNG binaries have not been committed to the repository. The SVG files are original, simple mascot-style emblems and are not official university artwork. Final consuming-app rendering and visual review remain required before marking these fallbacks fully verified.
