@@ -482,3 +482,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 17 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six Commons thumbnails visibly rendered. The Iowa, Nebraska and Missouri historical/alternate classifications and the Missouri State/North Dakota State wordmark distinctions are retained. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** The previously reported running tally was 34 rendered/inspected and 60 pending; adding this batch yields 40 rendered/inspected and 60 pending on that same ledger. A later reconciliation should align this cumulative ledger with the full 138-school tracker and account for all previously inspected entries. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 18 (November 5, 2026)
+
+**Scope:** Northern Illinois, Memphis, UAB, Minnesota, Wisconsin, and Northwestern. Exact Commons file pages and their image preview links were opened and visually inspected.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Northern Illinois | Red NIU HUSKIES wordmark rendered | PASS — image decoded/rendered; wordmark, not the Husky-head-over-wordmark composite primary |
+| Memphis | Blue MEMPHIS wordmark rendered | PASS — image decoded/rendered; primary wordmark, not the Leaping Tiger mascot mark |
+| UAB | Green-and-gold UAB monogram on transparent/square canvas rendered | PASS — image decoded/rendered; aligns with current primary UAB monogram identity, not Blaze |
+| Minnesota | Maroon-and-gold interlocking M/Golden Gophers mark rendered | PASS — image decoded/rendered; identifiable Athletics mark; current exact primary hierarchy is not asserted |
+| Wisconsin | Red Motion W with black shadow rendered | PASS — image decoded/rendered; matches the official Athletics primary logo |
+| Northwestern | Purple Block N with white outline rendered | PASS — image decoded/rendered; current registered-trademark guide identifies this as a primary Athletics mark |
+
+**Batch 18 result:** 6 PASS, 0 PENDING, 0 confirmed broken assets. All six underlying Commons previews visibly decoded. Northern Illinois and Memphis are wordmarks rather than mascot marks; UAB's monogram is distinct from Blaze; Wisconsin's Motion W and Northwestern's Block N match their documented primary Athletics marks. Minnesota remains identified as an Athletics mark without overstating its precise hierarchy. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** The prior running ledger reported 40 rendered/inspected and 60 pending. Adding six successful previews yields 46 rendered/inspected and 60 pending on that same ledger. This is a provisional cumulative figure pending the full 138-school reconciliation. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
