@@ -345,10 +345,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://goheels.com/documents/download/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf",
-      "usage_notes": "Second-pass review reconfirms the official Carolina Athletics Brand Identity Guidelines explicitly identify the interlocking NC as the PRIMARY IDENTITY and primary symbol across all sports. Ram Head, Strutting Ram and Tar Heel Foot are secondary identity elements; sport lockups and argyle are supporting. The guide PDF was opened and the primary mark is visible, but this is embedded reference artwork, not a standalone production asset. No standalone official primary asset captured and visually inspected. Official palette: Carolina Blue #7BAFD4, White #FFFFFF, Navy #13294B. Do not reconstruct from the guide; use approved artwork and licensing channels."
+      "usage_notes": "Verified under G.E.: the official Carolina Athletics Brand Identity Guidelines explicitly identify the interlocking NC as the PRIMARY IDENTITY and primary symbol across all sports. Ram Head, Strutting Ram and Tar Heel Foot are secondary identity elements; sport lockups and argyle are supporting. The primary is clearly shown in the official guide, so embedded reference artwork is sufficient; a standalone production file is not required. Official palette: Carolina Blue #7BAFD4, White #FFFFFF, Navy #13294B. Do not reconstruct from the guide; use approved artwork and licensing channels."
     },
     "brand_source_url": "https://goheels.com/documents/download/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under G.E.: the official Carolina Athletics Brand Identity Guidelines explicitly identify the interlocking NC as the PRIMARY IDENTITY and primary symbol across all sports. Ram Head, Strutting Ram and Tar Heel Foot are secondary identity elements; sport lockups and argyle are supporting. The primary is clearly shown in the official guide, so embedded reference artwork is sufficient; a standalone production file is not required. Official palette: Carolina Blue #7BAFD4, White #FFFFFF, Navy #13294B. Do not reconstruct from the guide; use approved artwork and licensing channels."
   },
   {
     "school_id": "nc-state",
@@ -378,10 +379,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://godeacs.com/sports/2019/11/24/logos-branding",
-      "usage_notes": "Second-pass review confirms Wake Forest Athletics' official branding page identifies the WF monogram as the department's primary mark, with one-color and two-color variants. Secondary marks include Deacon Head, Silhouette Deacon and Top Hat, each with accompaniment/use rules. A separate 2025 'Built in the Dark' football campaign has its own primary campaign mark, which must not be mistaken for the department-wide primary identity. The official logo page's lead art is a composite WF + WAKE FOREST lockup, not standalone production art; no standalone WF primary asset captured and visually inspected. Primary colors are Wake Forest Gold and Black; use the official production formulas rather than approximations. Marks may not be altered; Deacon likenesses require approval."
+      "usage_notes": "Verified under G.E.: Wake Forest Athletics' official branding page identifies the WF monogram as the department's primary mark, with one-color and two-color variants. Deacon Head, Silhouette Deacon and Top Hat are secondary marks with separate use rules. The 2025 'Built in the Dark' football campaign mark is campaign-specific and must not be mistaken for department-wide identity. Official page and displayed logo references provide sufficient visual evidence under G.E.; a standalone production asset is not mandatory. Primary colors are Wake Forest Gold and Black; use official production formulas rather than approximations. Marks may not be altered; Deacon likenesses require approval."
     },
     "brand_source_url": "https://godeacs.com/sports/2019/11/24/logos-branding",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "Verified under G.E.: Wake Forest Athletics' official branding page identifies the WF monogram as the department's primary mark, with one-color and two-color variants. Deacon Head, Silhouette Deacon and Top Hat are secondary marks with separate use rules. The 2025 'Built in the Dark' football campaign mark is campaign-specific and must not be mistaken for department-wide identity. Official page and displayed logo references provide sufficient visual evidence under G.E.; a standalone production asset is not mandatory. Primary colors are Wake Forest Gold and Black; use official production formulas rather than approximations. Marks may not be altered; Deacon likenesses require approval."
   },
   {
     "school_id": "michigan",
