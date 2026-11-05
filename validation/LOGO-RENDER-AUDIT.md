@@ -181,3 +181,19 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 3. Compare each rendered mark with its source page and the school's documented mark hierarchy; preserve historical and wordmark classifications.
 4. Replace only confirmed broken or mismatched URLs. Do not replace a URL merely because this browser research surface cannot fetch it.
 5. Re-run the app's image rendering smoke test after any corrections.
+
+
+## Visual rendering spot-check — Batch 1 (November 5, 2026)
+
+**Scope:** First six roster entries: Boston College, Buffalo, Army, Navy, Syracuse, and Temple. Each stored `primary_mark_url` was opened directly in the available browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Boston College | Direct WebP endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+| Buffalo | Direct PNG endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+| Army | Direct JPG endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+| Navy | PNG visibly rendered; N-Star / NAVY mark is legible | PASS — preview confirmed |
+| Syracuse | Direct JPG endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+| Temple | Direct JPG endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+
+**Batch 1 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. This is a browser-preview check, not a test inside the actual game/consuming application. The repository currently contains branding data and validation tooling, but no game UI/runtime to launch for end-to-end rendering. The five preview-tool failures remain unclassified pending an actual app or reliable image-decoding test.
