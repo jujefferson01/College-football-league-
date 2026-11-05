@@ -1440,3 +1440,8 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **North Carolina — pending.** The official 2015 Carolina Athletics identity guide confirms the interlocking NC as the primary Athletics symbol and includes visual references, but a standalone image file was not isolated in this pass. Source: https://goheels.com/documents/download/2015/4/20/CarolinaAthletics_BrandingGuidelines-Final.pdf
 
 **Batch result:** 3 direct image URLs added; 3 records remain pending direct asset isolation. All six verification statuses remain unchanged. Uploadable asset availability does not itself grant permission for commercial or public use of protected trademarks.
+
+
+## Asset correction — Liberty (November 5, 2026)
+
+The first Liberty PNG endpoint rendered blank during visual review. Replaced it with a direct PNG hosted on Wikimedia Commons for the Liberty Flames wordmark. The Commons file page attributes the mark to Liberty University Athletics and dates it to March 31, 2016. This historical official Athletics wordmark is accepted under the uploadable historical-logo rule; it is not mislabeled as Liberty's full current primary Athletics mark, which the official brand guide defines as the LU monogram combined with the Athletics eagle head. New asset: https://upload.wikimedia.org/wikipedia/commons/8/89/LU_Flames_wordmark.png. File attribution: https://commons.wikimedia.org/wiki/File:LU_Flames_wordmark.png. Official primary-logo definition: https://www.liberty.edu/marketing/wp-content/uploads/sites/114/LUBrandGuide_2024_DigitalVersion.pdf.
