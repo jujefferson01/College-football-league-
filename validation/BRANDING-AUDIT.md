@@ -1654,3 +1654,19 @@ Reviewed the next six schools in the missing-asset queue: Arkansas, Oklahoma, Tu
 | Northern Illinois | [Northern Illinois Huskies wordmark SVG](https://commons.wikimedia.org/wiki/File:Northern_Illinois_Huskies_wordmark.svg) | 2016 wordmark; not the 2024 guide's composite primary mark. |
 
 All six file pages expose an original uploadable SVG asset and provide identifying/source information. Iowa's official brand guidance identifies Tigerhawk as the primary athletics mark; Missouri's current guide identifies the Athletic Tiger Head as its official logo; NDSU and NIU retain their respective Athletics-use restrictions. Historical and wordmark assets are deliberately labeled as such rather than upgraded to current-primary status.
+
+
+## Uploadable logo asset acquisition — Batch 17 (November 5, 2026)
+
+**Result:** Added six uploadable logo asset references. Asset types and hierarchy distinctions are retained; the six files are not all asserted to be current mascot/primary marks. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app render testing remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| Memphis | [Memphis Tigers primary wordmark SVG](https://commons.wikimedia.org/wiki/File:Memphis_Tigers_primary_wordmark.svg) | 2021–present primary wordmark; not the tiger-head mascot. |
+| UAB | [UAB logo transparent square PNG](https://commons.wikimedia.org/wiki/File:UAB_Logo_transparent_square.png) | 2025 UAB logo asset; UAB's refreshed shared identity applies across University, Medicine, and Athletics. |
+| Minnesota | [Minnesota Golden Gophers logo SVG](https://commons.wikimedia.org/wiki/File:Minnesota_Golden_Gophers_logo.svg) | 2016 Athletics logo attributed to the University of Minnesota. |
+| Wisconsin | [Wisconsin Badgers logo SVG](https://commons.wikimedia.org/wiki/File:Wisconsin_Badgers_logo.svg) | Waving W/Motion W athletics identifier; Athletics-only restriction noted on file page. |
+| Northwestern | [Northwestern Wildcats logo SVG](https://commons.wikimedia.org/wiki/File:Northwestern_Wildcats_logo.svg) | 2016 Athletics logo attributed to Northwestern University Athletics. |
+| Arizona | [Arizona Wildcats athletics wordmark SVG](https://commons.wikimedia.org/wiki/File:Arizona_Wildcats_athletics_wordmark_color_darkbg.svg) | 2003 historical wordmark sourced to official Arizona Athletics artwork. Selected over a separate Commons logo file carrying an unresolved review warning. |
+
+File pages confirm original SVG/PNG uploads and provenance. Memphis's file page identifies its wordmark as 2021–present; UAB's current guide distinguishes the primary Athletics logo from secondary Blaze; Wisconsin's file page states Motion W is the official Badger Athletics logo and Athletics-restricted. Arizona's chosen wordmark is historical and explicitly labeled as such. Trademark restrictions remain separate from file availability.
