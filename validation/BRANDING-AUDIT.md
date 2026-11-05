@@ -633,3 +633,8 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 ## Batch 33 — UMass, Middle Tennessee, Alabama, Auburn, Georgia, Georgia Tech
 
 **Outcome:** Two verified (Middle Tennessee, Auburn); four partial (UMass, Alabama, Georgia, Georgia Tech). Official current logo guides and licensing sources were reviewed. Georgia's oval G is primary and the Bulldog is secondary; Alabama's 2025 sheet classifies Script A as primary and elephant/BAMA marks as secondary; UMass Power-U remains distinct from its newer institutional Collegiate M. The four partial records lack a captured standalone current production asset. Detailed findings, palettes, and source links are recorded in `data/school-branding.json`.
+
+
+## Batch 34 — Florida, Florida State, Miami (FL), Clemson, South Carolina, Tennessee
+
+**Outcome:** Six partial; no new verified assets. Official current/historical athletics sources establish the relevant primary identities: Florida Gator Head, FSU Seminole Head, Miami Split-U, Clemson CLEMSON/Tiger Paw primary lockup, South Carolina Gamecock, and Tennessee Power T (with the Lady Vols women's basketball exception). Official guides and pages reviewed, but no standalone current production asset was captured and inspected to the required standard. Detailed findings, color references, and official sources are recorded in `data/school-branding.json`.
