@@ -1130,3 +1130,10 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **Fresno State — verified (upgraded).** Current official guidance, updated April 8, 2026, explicitly identifies the four-paw Bulldog as the primary Athletics logo for all identification uses; it faces left except on football helmets. Bulldog Face and wordmarks are secondary; Bulldogs Script is restricted; FS is primarily baseball/softball-specific; Green V must accompany another Athletics mark. The accessible page image is the institutional paw-wordmark, not the primary Athletics Bulldog, and no standalone primary asset was captured; under G.E., the explicit current hierarchy is sufficient. Athletics-logo use requires advance University Marketing and Communications approval. Red #C41230, Navy #13284C, White. Source: https://marcomm.fresnostate.edu/official-logo.html
 
 **Batch result:** 4 Verified (including 2 retained and 1 upgraded); 2 Partial; 0 Needs Review. Dataset total: 138 schools. Current status totals: 73 Verified / 65 Partial / 0 Needs Review.
+
+
+## Batch 94 — G.E. verification: San Diego State (final roster record)
+
+- **San Diego State — verified (retained).** Current SDSU Brand Portal provides a dedicated Athletics logo distinct from the university primary logo and Presidential Seal. The official standalone Athletics logo was visually inspected, and the 2022 Athletics Style Guide explicitly labels the interlocking SDSU mark as ATHLETICS | PRIMARY LOGO, with a separate Athletics logotype. Athletics marks are reserved for the Athletics Department and intercollegiate teams; outside use requires permission/licensing approval. Bright Red #D41736, Black #000000, White #FFFFFF. Source: https://brand.sdsu.edu/identity/logos/athletics
+
+**Batch result:** 1 Verified (retained); 0 Partial; 0 Needs Review. This is the final record in the current 138-school roster. Final status totals: 73 Verified / 65 Partial / 0 Needs Review.
