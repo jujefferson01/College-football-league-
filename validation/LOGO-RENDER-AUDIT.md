@@ -320,3 +320,21 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 **Batch 8 result:** 0 PASS, 6 PENDING, 0 confirmed broken assets. All six are still pending browser-preview confirmation; no endpoint failure is treated as proof of a broken image. Existing wordmark/historical classifications remain explicit. This is browser-preview validation, not a test inside the actual game/consuming application.
 
 **Cumulative status:** 9 distinct assets visibly rendered or previously visually inspected; 43 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
+
+
+## Visual rendering spot-check — Batch 9 (November 5, 2026)
+
+**Scope:** Ohio, Kent State, UMass, Alabama, Auburn, and Georgia. Exact stored `primary_mark_url` endpoints were opened in the browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Ohio | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; record classifies this as a historical wordmark |
+| Kent State | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; stored file is an Athletics wordmark |
+| UMass | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; official guide provides approved primary mark references |
+| Alabama | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; official guide distinguishes Script A primary marks from elephant/BAMA secondary marks |
+| Auburn | Official Auburn licensing JPG visibly rendered as the navy/orange interlocking AU | PASS — image decoded/rendered |
+| Georgia | Wikimedia redirect endpoint inaccessible to preview tool | PENDING — retrieval limitation, not proof of a broken asset; official 2026 guide identifies oval G as primary, and the record remains partial pending standalone asset confirmation |
+
+**Batch 9 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. Auburn's standalone interlocking AU rendered. Ohio's historical wordmark and Kent State's Athletics wordmark remain correctly classified. Georgia remains partial as a standalone asset despite official primary-mark identity evidence. This is browser-preview validation, not a test inside the actual game/consuming application.
+
+**Cumulative status:** 10 distinct assets visibly rendered or previously visually inspected; 48 remain pending; 0 confirmed broken. The actual consuming game UI/runtime remains absent from this repository, so in-game rendering is untested.
