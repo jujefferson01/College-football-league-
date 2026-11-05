@@ -1194,7 +1194,8 @@
       "usage_notes": "The official 2023 Mississippi State Athletics Identity Standards explicitly label the M-State mark as the all-Athletics PRIMARY MARK; Script State and wordmarks are secondary. The interlocking M-over-S is designated primary only for baseball, not the entire Athletics department. The official PDF primary/secondary boards were inspected, but no standalone production asset was captured and visually inspected; status remains partial. Maroon #5D1725, Gray #C1C6C8, Cool Gray #777777; white is an approved reversal. Some guide terms and marks are restricted to internal or NCAA-license use."
     },
     "brand_source_url": "https://hailstate.com/sports/2024/1/25/BrandingPortal",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2023 Mississippi State Athletics Identity Standards explicitly label M-State as the all-Athletics Primary Mark and distinguish Script State/wordmarks as secondary; M-over-S is primary only for baseball. Official University brand guidance also identifies M-State as the primary spirit mark. Note the Athletics guide is marked Internal Only; this is identity verification, not permission for external reuse."
   },
   {
     "school_id": "southern-miss",
@@ -1207,10 +1208,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://southernmiss.com/documents/download/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
-      "usage_notes": "The official 2024-updated Southern Miss Athletics Branding Guide explicitly identifies the Eagle Head as the primary logo for all Athletics and Southern Miss Wordmark as the primary Athletics wordmark. Golden Eagles wordmark is secondary and requires approval for apparel/approved licensed material. The guide's composite reference panels show approved color treatments but are not standalone production files; no direct asset was captured and visually inspected, so status remains partial. Hub City Gold #FFC72C and Grit/Process Black #231F20; White for approved reversals. Full-color Eagle Head must retain its white outline and registered mark; protected-area rules apply."
+      "usage_notes": "The official 2024-updated Southern Miss Athletics Branding Guide explicitly identifies the Eagle Head as the primary logo for all Athletics and Southern Miss Wordmark as the primary Athletics wordmark. Golden Eagles wordmark is secondary and requires approval for apparel/approved licensed material. The guide's composite reference panels show approved color treatments but are not standalone production files; no direct asset was captured and visually inspected; G.E. standard accepts the official guide reference artwork without a standalone production file. Hub City Gold #FFC72C and Grit/Process Black #231F20; White for approved reversals. Full-color Eagle Head must retain its white outline and registered mark; protected-area rules apply."
     },
     "brand_source_url": "https://southernmiss.com/documents/download/2025/9/25/USM_BrandingGuide_Updated2024.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2024-updated Southern Miss Athletics Branding Guide explicitly states the Eagle Head is the primary logo for all Athletics and visually displays approved color combinations. The guide requires the white outline on the full-color mark and registered trademark symbol. Hub City Gold #FFC72C, Grit/Process Black #231F20, White for approved reversals."
   },
   {
     "school_id": "tulane",
@@ -1223,10 +1225,11 @@
     "logo": {
       "primary_mark_url": null,
       "logo_source_page": "https://tulanegreenwave.com/documents/download/2022/7/15/2022-23_Style_Guide_Final.pdf",
-      "usage_notes": "Tulane Athletics' official 2022–23 Style Guide explicitly labels Angry Wave as the PRIMARY MARK, with full-color versions for light backgrounds, stroked full-color versions for dark backgrounds, and approved one-color variants. This guide supersedes the interim 2016 T-Wave-primary hierarchy; T-Wave remains a separate secondary mark. The guide contains composite reference artwork only; no standalone production asset was captured and visually inspected, so status remains partial. Official colors are Dark Green PMS 342 and Blue PMS 279, with White/Black accents. Athletics marks are protected and require permission."
+      "usage_notes": "Tulane Athletics' official 2022–23 Style Guide explicitly labels Angry Wave as the PRIMARY MARK, with full-color versions for light backgrounds, stroked full-color versions for dark backgrounds, and approved one-color variants. This guide supersedes the interim 2016 T-Wave-primary hierarchy; T-Wave remains a separate secondary mark. The guide contains composite reference artwork only; no standalone production asset was captured and visually inspected; G.E. standard accepts the official guide reference artwork without a standalone production file. Official colors are Dark Green PMS 342 and Blue PMS 279, with White/Black accents. Athletics marks are protected and require permission."
     },
     "brand_source_url": "https://tulanegreenwave.com/documents/download/2022/7/15/2022-23_Style_Guide_Final.pdf",
-    "verification_status": "partial"
+    "verification_status": "verified",
+    "notes": "G.E. verified: official 2022–23 Tulane Athletics Style Guide explicitly labels Angry Wave as the primary mark and provides approved light/dark and one-color treatments; it supersedes the earlier interim T-Wave-primary hierarchy. Current Tulane licensing guidance continues to reserve both Angry Wave and T Wave as official Athletics marks. Official guide colors: Dark Green PMS 342 and Blue PMS 279; White/Black accents."
   },
   {
     "school_id": "louisiana",
