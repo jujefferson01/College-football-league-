@@ -1702,3 +1702,19 @@ All six Commons pages identify original SVG files and expose their dimensions. U
 | Utah State | [Utah State Aggies logo SVG](https://commons.wikimedia.org/wiki/File:Utah_State_Aggies_logo.svg) | Athletics logo sourced to University Style Guide; 2020 file color update. |
 
 The Commons file pages confirm uploadable originals and provenance. UTSA's 2023 wordmark is used by Athletics; Texas Tech's 2025 file page identifies its primary variation; North Texas and Sam Houston are clearly marked as wordmarks (2005 and 2020 respectively); Boise State's wordmark cites its 2019 official Athletics standards; Utah State's file cites its University Style Guide and Athletics Department. Trademark restrictions remain separate from file availability.
+
+
+## Uploadable logo asset acquisition — Batch 20 (November 5, 2026)
+
+**Result:** Added six uploadable logo asset references. Asset type, era, and provenance caveats are retained; wordmarks are not mislabeled as mascot marks. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app rendering test remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| Nevada | [Nevada Wolf Pack wordmark SVG](https://commons.wikimedia.org/wiki/File:Nevada_Wolf_Pack_wordmark.svg) | 2008 wordmark, University of Nevada, Reno attribution; older artwork. |
+| UNLV | [UNLV Rebels wordmark SVG](https://commons.wikimedia.org/wiki/File:UNLV_Rebels_wordmark.svg) | 2006 wordmark sourced to UNLV Identity website. |
+| San José State | [San José State Spartans wordmark SVG](https://commons.wikimedia.org/wiki/File:San_Jos%C3%A9_State_Spartans_wordmark.svg) | 2017 Athletics wordmark sourced to SJSU Athletics. |
+| Wyoming | [Wyoming Athletics logo SVG](https://commons.wikimedia.org/wiki/File:Wyoming_Athletics_logo.svg) | Steamboat/Bucking Horse and Rider; historic SVG with screenshot-source caveat. |
+| Air Force | [Air Force Falcons logo SVG](https://commons.wikimedia.org/wiki/File:Air_Force_Falcons_logo.svg) | 2018 Athletics logo sourced to Air Force Athletics; federal-work status noted, trademark rights separate. |
+| New Mexico | [New Mexico Lobos wordmark SVG](https://commons.wikimedia.org/wiki/File:New_Mexico_Lobos_wordmark.svg) | Athletics wordmark; author/source attribution on file page is limited. |
+
+The Commons file pages expose the original uploadable files and dimensions. Nevada's 2008 wordmark and UNLV's 2006 wordmark are older assets; SJSU's 2017 wordmark is sourced to its Athletics website. Wyoming's Steamboat file is attributed to UW Athletics but its page notes screenshot-derived provenance; Air Force's 2018 logo is sourced to Air Force Athletics and notes federal-government creation; New Mexico's wordmark is identifiable but has limited visible author/source metadata. Trademark restrictions remain separate from file availability.
