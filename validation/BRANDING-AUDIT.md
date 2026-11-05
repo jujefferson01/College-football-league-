@@ -638,3 +638,8 @@ Reviewed Pittsburgh, UConn, Delaware, Maryland, Virginia and Virginia Tech. Thre
 ## Batch 34 — Florida, Florida State, Miami (FL), Clemson, South Carolina, Tennessee
 
 **Outcome:** Six partial; no new verified assets. Official current/historical athletics sources establish the relevant primary identities: Florida Gator Head, FSU Seminole Head, Miami Split-U, Clemson CLEMSON/Tiger Paw primary lockup, South Carolina Gamecock, and Tennessee Power T (with the Lady Vols women's basketball exception). Official guides and pages reviewed, but no standalone current production asset was captured and inspected to the required standard. Detailed findings, color references, and official sources are recorded in `data/school-branding.json`.
+
+
+## Batch 35 — Vanderbilt, UCF, Florida Atlantic, South Florida, FIU, Coastal Carolina
+
+**Outcome:** Six partial; no new verified assets. Current official standards distinguish Vanderbilt's Star V secondary mark from its primary Athletic V/Commodores lockups; UCF's four Athletics marks from its institutional stacked UCF/Pegasus identity; USF's Bull U master mark; FIU's Athletics Panther Head/FIU block primary marks from its institutional Panther symbol; and Coastal Carolina's refreshed 2025–26 primary/illustrative wordmarks from its historic Chanticleer mascot mark. FAU's athletics Owl is distinct from its general university mark and seal. Standalone current production assets were not captured for the applicable primary marks; detailed findings and official sources are recorded in `data/school-branding.json`.
