@@ -1670,3 +1670,19 @@ All six file pages expose an original uploadable SVG asset and provide identifyi
 | Arizona | [Arizona Wildcats athletics wordmark SVG](https://commons.wikimedia.org/wiki/File:Arizona_Wildcats_athletics_wordmark_color_darkbg.svg) | 2003 historical wordmark sourced to official Arizona Athletics artwork. Selected over a separate Commons logo file carrying an unresolved review warning. |
 
 File pages confirm original SVG/PNG uploads and provenance. Memphis's file page identifies its wordmark as 2021–present; UAB's current guide distinguishes the primary Athletics logo from secondary Blaze; Wisconsin's file page states Motion W is the official Badger Athletics logo and Athletics-restricted. Arizona's chosen wordmark is historical and explicitly labeled as such. Trademark restrictions remain separate from file availability.
+
+
+## Uploadable logo asset acquisition — Batch 18 (November 5, 2026)
+
+**Result:** Added six uploadable asset references. Each asset is labeled by type and era; no unsupported current-primary claims are made. School verification statuses remain unchanged. Trademark/licensing permission is separate from technical uploadability. Final in-app rendering test remains outstanding.
+
+| School | Asset | Classification / caveat |
+|---|---|---|
+| Arizona State | [Arizona State Athletics wordmark SVG](https://commons.wikimedia.org/wiki/File:Arizona_State_Athletics_wordmark.svg) | 2012 Athletics wordmark; not Sparky mascot artwork. |
+| Colorado | [Colorado Buffaloes alternate logo SVG](https://commons.wikimedia.org/wiki/File:Colorado_Buffaloes_alternate_logo.svg) | 2005 alternate mark; Commons cites CU's 2022 NIL Brand Guidelines. |
+| Utah | [Utah Utes primary logo SVG](https://commons.wikimedia.org/wiki/File:Utah_Utes_primary_logo.svg) | 2022 file explicitly identified as the Utes primary logo. |
+| BYU | [BYU Cougars logo SVG](https://commons.wikimedia.org/wiki/File:BYU_Cougars_logo.svg) | 2012 primary athletics mark sourced to BYU Identity Guidelines; historical-era artwork. |
+| Texas State | [Texas State Athletics wordmark SVG](https://commons.wikimedia.org/wiki/File:Texas_State_Athletics_wordmark.svg) | 2017 Athletics wordmark sourced to Texas State's Identity Branding Guide. |
+| Rice | [Rice Owls logo SVG](https://commons.wikimedia.org/wiki/File:Rice_Owls_logo.svg) | Rice 'R' Athletics alternate mark; unknown author and older source guide noted. |
+
+All six Commons pages identify original SVG files and expose their dimensions. Utah's file page identifies the 2022 asset as the primary logo; BYU's file page identifies its mark as the primary Athletics mark and cites BYU Identity Guidelines; Colorado's alternate mark is sourced to the official CU NIL Brand Guidelines; Arizona State and Texas State are explicitly wordmarks; Rice is an alternate R mark with unknown author. Trademark restrictions remain separate from file availability.
