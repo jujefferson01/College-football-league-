@@ -1412,3 +1412,17 @@ Applied the G.E. (Good Enough) standard to the five Partial records from Batch 7
 - **Delaware — asset found.** Added the direct official Primary Athletics Mark JPG linked from the Delaware Athletics Logo Usage page. Asset: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/bluehens.com/images/2018/7/18/8_AthleticsPrimary.jpg. Source: https://bluehens.com/news/2013/8/28/209242576
 
 **Batch result:** 4 direct image URLs added; 2 records remain pending asset isolation. All six school verification statuses remain unchanged. Asset URL presence is not a claim of unrestricted licensing or permission for commercial use.
+
+
+## Uploadable logo asset acquisition — Batch 2 (November 5, 2026)
+
+**Scope:** Next six records in the no-direct-asset queue: Rutgers, UConn, Virginia Tech, West Virginia, James Madison, and Old Dominion. Current and historical official marks are both acceptable if a directly uploadable image file can be identified.
+
+- **Rutgers — historical asset found.** Added a PNG of the Rutgers Athletics logo attributed to Rutgers Athletics and sourced to scarletknights.com, dated June 3, 2018. The Commons file page identifies it as a Rutgers Athletics logo. Asset: https://upload.wikimedia.org/wikipedia/commons/3/3b/Rutgers_Athletics_Logo.png. Source/attribution: https://commons.wikimedia.org/wiki/File:Rutgers_Athletics_Logo.png. This historical athletics logo is acceptable under the user's upload rule; trademark use restrictions remain separate.
+- **UConn — pending.** Official sources confirm the Husky Dog is the official logo of Division I sports teams, but the current public brand page routes downloads through an access-controlled SharePoint library. A directly downloadable image file was not isolated in this pass. Sources: https://uconnhuskies.com/news/2013/4/11/UConn_Athletics_Unveils_New_Visual_Identity and https://brand.uconn.edu/visual-identity/husky-dog-logo/
+- **Virginia Tech — pending.** Official trademark materials show and identify the protected Athletics logo family (including the VT monogram and Hokies/wordmark variants), but no direct image file suitable for this dataset was isolated in this pass. Source: https://brand.vt.edu/licensing/university-trademarks.html
+- **West Virginia — pending.** Official WVU trademark and brand sources identify the Flying WV and provide visual references, but a direct image URL was not isolated in this pass. Sources: https://trademarklicensing.wvu.edu/protected-indicia and https://scm.wvu.edu/brand/logo-and-identity-usage/
+- **James Madison — asset found.** Added the direct PNG linked as the JMU Primary Logo on the official Athletics Logos and Marks page. The page explicitly identifies its displayed/downloadable marks as the only approved Athletics marks. Asset: https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/jmusports.com/images/2017/1/3/JMU_FulClr_WhtBG.png. Source: https://jmusports.com/sports/2020/7/2/jmu-logos-and-marks
+- **Old Dominion — historical asset found.** Added the direct JPG for the archived Big Blue Athletics mark from ODU's official University Logo Archive. Asset: https://www.odu.edu/sites/default/files/styles/wysiwyg_col_12/public/logos/univ/archived/archived-logo-5_2.jpg. Source: https://www.odu.edu/about/historyandarchives/logo-archive
+
+**Batch result:** 3 direct image URLs added; 3 records remain pending direct asset isolation. All six school verification statuses remain unchanged. An uploadable URL does not itself grant permission for commercial or public use of a protected trademark.
