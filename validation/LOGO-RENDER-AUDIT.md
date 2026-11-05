@@ -197,3 +197,19 @@ For Commons assets, `Special:Redirect/file/` is a supported external linking pat
 | Temple | Direct JPG endpoint did not render in the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
 
 **Batch 1 result:** 1 PASS, 5 PENDING, 0 confirmed broken assets. This is a browser-preview check, not a test inside the actual game/consuming application. The repository currently contains branding data and validation tooling, but no game UI/runtime to launch for end-to-end rendering. The five preview-tool failures remain unclassified pending an actual app or reliable image-decoding test.
+
+
+## Visual rendering spot-check — Batch 2 (November 5, 2026)
+
+**Scope:** Pittsburgh, UConn, Delaware, Maryland, Virginia, and Virginia Tech. Stored `primary_mark_url` endpoints were opened in the available browser preview surface.
+
+| School | Browser image preview | Result |
+|---|---|---|
+| Pittsburgh | Pitt script mark visibly rendered in blue and gold; preview shows a black surrounding field | PASS — image decoded/rendered; transparency/background treatment needs a separate asset check |
+| UConn | Navy-and-red UCONN Athletics wordmark visibly rendered | PASS — image decoded/rendered; classified as a wordmark, not a Husky mascot mark |
+| Delaware | Sidearm-hosted JPG could not be retrieved by the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+| Maryland | Red Block M with black/gold trim and Maryland banner visibly rendered | PASS — image decoded/rendered |
+| Virginia | Orange/navy V with crossed sabres visibly rendered | PASS — image decoded/rendered |
+| Virginia Tech | Wikimedia SVG endpoint could not be retrieved by the preview tool | PENDING — tool retrieval failure is not proof of a broken asset |
+
+**Batch 2 result:** 4 PASS, 2 PENDING, 0 confirmed broken assets. Pittsburgh's black preview field is flagged for a later alpha/transparency check; the image is nevertheless confirmed to decode and display. The two pending results remain unresolved rather than failed. This is browser-preview validation, not a test inside the actual game/consuming application.
