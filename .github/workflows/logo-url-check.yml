@@ -1,0 +1,32 @@
+name: Logo URL and image integrity check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-logo-assets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check all school logo URLs
+        run: node scripts/check-logo-urls.mjs --concurrency 5 --timeout-ms 25000
+
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logo-url-check-results
+          path: validation/logo-url-check-results.json
+          if-no-files-found: ignore
+          retention-days: 30
