@@ -1510,3 +1510,19 @@ Added six direct file-serving URLs for the next six schools in the missing-asset
 **QA and usage notes:** Each Commons file page identifies the mark, provides a rendered preview and original-file information, and the data uses its Special:Redirect/file endpoint. The redirect is a file-serving URL; the consuming application should still run its own image-render test. Louisville and Ohio assets are deliberately labeled wordmarks/historical Athletics assets rather than misrepresented as the primary mascot/monogram marks. Trademark and licensing restrictions remain separate from file availability.
 
 Batch 7 added: 6. Overall school verification remains 138/138 verified.
+
+
+## Asset acquisition — Batch 8 (November 5, 2026)
+
+Added six logo-file references for the next six schools in the missing-asset queue:
+
+- **Western Kentucky** — 2017 Hilltoppers wordmark SVG, attributed to Western Kentucky University; Commons reports a 250 × 106 preview and original SVG. Historical official wordmark.
+- **UMass** — UMass Amherst Athletics logo SVG, dated 2016/2017 and sourced to the UMass Athletics Style Guide; Commons reports a 250 × 205 preview and original SVG. Historical/alternate athletics logotype.
+- **Alabama** — Crimson Tide primary Athletics logo SVG, dated 2018 and sourced to the University of Alabama Athletics logo guide; Commons reports a 250 × 240 preview and original SVG.
+- **Georgia** — Georgia Athletics logo SVG; Commons reports a 378 × 245 original vector. Georgia's 2026 Athletics Brand Identity Guidelines explicitly identify the oval G as the primary Athletics representation; compare the downloaded mark to the guide before production use.
+- **Georgia Tech** — candidate Yellow Jackets logo SVG file reference. Georgia Tech's official Athletics brand page identifies the interlocking GT as the official and most recognized Athletics logo, but the exact candidate file's rendering/identity still requires visual confirmation. Treat this entry as provisional until that comparison is completed.
+- **Florida** — Gators script logo SVG, with a 300 × 119 Commons preview. This is an alternate wordmark, not the alligator-head primary mark.
+
+**QA status:** Commons search results supplied rendered preview dimensions and attribution for WKU, UMass, Alabama and Georgia; official Georgia Athletics guidance confirms the oval G primary mark. The Florida script file is identified as an alternate in the Commons SVG category listing. Georgia Tech's official source confirms the interlocking GT identity, but the specific file candidate has not been independently matched to that mark; it is flagged provisional and should not be counted as fully QA-passed until visually checked. URLs are normalized to Commons Special:Redirect/file endpoints to avoid relying on guessed upload hash paths. A final consuming-app render test remains required for every asset. Trademark/licensing restrictions remain separate from file availability.
+
+Batch 8 URLs added: 6. Of these, Georgia Tech is provisional pending exact image confirmation. Overall school verification remains 138/138 verified.
