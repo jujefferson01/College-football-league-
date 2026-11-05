@@ -1758,7 +1758,12 @@ Created [LOGO-RENDER-AUDIT.md](LOGO-RENDER-AUDIT.md) as the complete per-school 
 
 ## Automated logo URL integrity checker
 
-Added `scripts/check-logo-urls.mjs`, a dependency-free Node.js 20+ checker that reads all entries in `data/school-branding.json`, makes real GET requests with byte-range headers, follows redirects, and records HTTP status, final URL, content type, response length, and detected image signature for SVG, PNG, JPEG, and WebP. It flags non-2xx responses, HTML error pages, extension/signature mismatches, and declared MIME mismatches. A JSON report is written to `validation/logo-url-check-results.json`; the command exits nonzero when any asset fails.
+Added `scripts/check-logo-urls.mjs`, a dependency-free Node.js checker that reads all entries in `data/school-branding.json`, makes real GET requests with byte-range headers, follows redirects, and records HTTP status, final URL, content type, response length, attempt count, and detected image signature for SVG, PNG, JPEG, and WebP. The checker now classifies results as **PASS**, **REVIEW**, or **FAIL**:
+- **PASS:** successful response containing a recognized image with a matching URL extension.
+- **REVIEW:** host blocks/throttles automated access (403/429/5xx), network timeouts, or a recognized image is served in a different format than its URL extension (for example, CDN conversion to WebP).
+- **FAIL:** confirmed missing URL (404/410), invalid URL, or a successful response that is not a recognized image.
+
+The checker retries rate-limited/transient responses up to three attempts, honors `Retry-After` where available, spaces requests, and defaults to concurrency 2. A JSON report is written to `validation/logo-url-check-results.json`. REVIEW results do not fail the workflow; only confirmed FAIL results do.
 
 Run locally from the repository root:
 
@@ -1766,4 +1771,10 @@ Run locally from the repository root:
 node scripts/check-logo-urls.mjs
 ```
 
-Optional flags: `--input`, `--output`, `--concurrency` (1–20), and `--timeout-ms`. A manual GitHub Actions workflow is available at **Actions → Logo URL and image integrity check → Run workflow**. It uploads the JSON report as a 30-day workflow artifact. This is an HTTP/MIME/signature check, not visual confirmation that each logo depicts the correct school; visual review remains a separate step.
+Optional flags: `--input`, `--output`, `--concurrency` (1–4), and `--timeout-ms`. The manual GitHub Actions workflow is available at **Actions → Logo URL and image integrity check → Run workflow**. It uses Node.js 24 and concurrency 2, and uploads the JSON report as a 30-day workflow artifact. This is an HTTP/MIME/signature check, not visual confirmation that each logo depicts the correct school; visual review remains a separate step.
+
+### First execution findings — November 5, 2026
+
+Run #1 checked all 138 entries and produced an artifact successfully. The workflow's nonzero exit was caused by the original overly strict checker classification, not by artifact-upload failure. Initial results: 30 PASS and 108 flagged. Of those 108, 98 were HTTP 429 rate limits, two were HTTP 403 anti-bot/access restrictions, six were HTTP 404 responses, and two were recognized WebP images served under a different filename extension. Therefore, the 98 rate limits and two access restrictions are not evidence that the underlying image files are broken; the two WebP responses need render/format review.
+
+The six initial 404 results were Rutgers, Florida Atlantic, South Florida, FIU, Coastal Carolina, and East Carolina. The two initial 403 results were Georgia State and Oklahoma State. These are candidates for direct URL/source-page review; do not automatically replace assets solely from this first run. The checker and workflow were updated after this run to retry transient throttling, lower concurrency, separate REVIEW from confirmed FAIL, and use Node.js 24. A second run is required to establish the revised baseline.
