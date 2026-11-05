@@ -1622,3 +1622,19 @@ Reviewed the next six records in the no-direct-asset queue: Arkansas, Texas A&M,
 **QA and usage:** The five Commons file pages expose rendered previews and original image-file links; direct URLs use Commons Special:Redirect/file endpoints. Arkansas remains unresolved. A final in-app render check is still required. Historical/alternate identity distinctions are documented, and file availability does not grant trademark or licensing rights.
 
 **Batch 14 result:** 5 uploadable asset references added; 1 pending (Arkansas). School verification statuses remain unchanged at 138/138 verified.
+
+
+## Uploadable logo asset acquisition — Batch 15 (November 5, 2026)
+
+Reviewed the next six schools in the missing-asset queue: Arkansas, Oklahoma, Tulsa, Kansas, Kansas State and Missouri State. Six uploadable image-file references were added under the G.E. Principle; historical logos and wordmarks are accepted when the file is identifiable and downloadable.
+
+- **Arkansas** — Added the 1980 Arkansas Athletics logo PNG (589 × 92). Commons identifies it as a University of Arkansas Athletics logo and provides the original file and preview, although the listed author is unknown and the source field is nonspecific. Accepted as a recognizable legacy wordmark, not the current Running Razorback primary mark. The current official Razorbacks guide identifies the Running Razorback/One Razorback lockup as primary.
+- **Oklahoma** — Added the Sooners logo SVG (194 × 250), attributed to the University of Oklahoma and sourced to an official Soonersports brand-guide PDF. Historical/alternate Athletics identifier; do not confuse with current OU marks.
+- **Tulsa** — Added the Golden Hurricane Athletics logo SVG dated July 1, 1982, attributed to the University of Tulsa; original approximately 248 × 199.
+- **Kansas** — Added the University of Kansas Athletics logo SVG (138 × 90), attributed to KU and extracted from a KU logo sheet. This is a compact Athletics identifier/wordmark, not the Jayhawk mascot graphic.
+- **Kansas State** — Added the Wildcats Athletics wordmark SVG (400 × 60), dated 2016 and sourced to the K-State Athletics Brand Guide. It is a wordmark, not the Powercat primary Athletics symbol; the official K-State brand page identifies Powercat as primary.
+- **Missouri State** — Added the Athletics wordmark SVG (248 × 32), dated February 26, 2023, attributed to Missouri State University and sourced to its official Sidearm navigation asset.
+
+**QA and usage:** All six Commons file pages expose original image-file links and rendered previews. Direct dataset URLs use Commons Special:Redirect/file endpoints. The consuming app still needs a final in-app rendering test. The Arkansas file has weaker author/source attribution and is explicitly documented as a legacy wordmark; Kansas and Kansas State are explicitly labeled as wordmarks/identifiers rather than mascot/primary symbols. Trademark and licensing restrictions remain separate from file availability.
+
+**Batch 15 result:** 6 uploadable asset references added; no records left pending within this six-school batch. School verification statuses remain unchanged.
